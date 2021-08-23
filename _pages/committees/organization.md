@@ -149,7 +149,7 @@ sidebar:
    institution=""
 %}
 
-## Advisors for the Student Research Workshop
+### Advisors for the Student Research Workshop
 {% include committee-member.html
    name="Danqi Chen"
    picture="/assets/images/committee/books.jpeg"

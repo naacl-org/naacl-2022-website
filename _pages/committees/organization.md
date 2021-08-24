@@ -195,96 +195,96 @@ sidebar:
 {% include committee-member.html
    name="Niranjan Balasubramanian"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://www3.cs.stonybrook.edu/~niranjan/"
+   institution="Stony Brook University"
 %}
 {% include committee-member.html
    name="Jesse Dodge"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="http://www.cs.cmu.edu/~jessed/"
+   institution="Carnegie Mellon University"
 %}
 {% include committee-member.html
    name="Annie Louis"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Google"
 %}
 {% include committee-member.html
    name="Vivek Srikumar"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://svivek.com/"
+   institution="University of Utah"
 %}
 {% include committee-member.html
    name="Daniel Deutsch"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://danieldeutsch.github.io/"
+   institution="University of Pennsylvania"
 %}
 
 ## Sponsorship Chair
 {% include committee-member.html
    name="Byron Wallace"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://www.byronwallace.com/"
+   institution="Northeastern University"
 %}
 
 ## Volunteers Chair
 {% include committee-member.html
    name="Daniel Khashabi"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://danielkhashabi.com/"
+   institution="Allen Institute for Artificial Intelligence (AI2)"
 %}
 
 ## Diversity and Inclusion Chairs
 {% include committee-member.html
-   name="Diana Galvan"
+   name="Diana Galván"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://dianags.github.io/"
+   institution="Tohoku University"
 %}
 {% include committee-member.html
    name="Snigdha Chaturvedi"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://sites.google.com/site/snigdhac/"
+   institution="University of North Carolina, Chapel Hill"
 %}
 
 ### Advisors for Diversity and Inclusion
 {% include committee-member.html
    name="Pranav A"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://pranav-a.github.io/"
+   institution="Dayta AI"
 %}
 {% include committee-member.html
    name="Luciana Benotti"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://benotti.github.io/"
+   institution="National University of Córdoba"
 %}
 
 ## Publicity Chairs
 {% include committee-member.html
-   name="Nanyun Peng"
+   name="Nanyun (Violet) Peng"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://vnpeng.net/"
+   institution="University of California, Los Angeles"
 %}
 {% include committee-member.html
    name="Emily Sheng"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://ewsheng.github.io/"
+   institution="University of Southern California"
 %}
 {% include committee-member.html
    name="Sameer Singh"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://sameersingh.org/"
+   institution="University of California, Irvine"
 %}
 
 ## Virtual Infrastructure Chair
@@ -292,19 +292,19 @@ sidebar:
    name="Deepak Ramachandran"
    picture="/assets/images/committee/books.jpeg"
    site=""
-   institution=""
+   institution="Google"
 %}
 
 ## Website Chairs
 {% include committee-member.html
    name="Ice Pasupat"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://ppasupat.github.io/"
+   institution="Google"
 %}
 {% include committee-member.html
    name="Vered Shwartz"
    picture="/assets/images/committee/books.jpeg"
-   site=""
-   institution=""
+   site="https://www.cs.ubc.ca/~vshwartz/"
+   institution="University of British Columbia"
 %}

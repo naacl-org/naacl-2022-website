@@ -298,7 +298,7 @@ sidebar:
 ## Website Chairs
 {% include committee-member.html
    name="Ice Pasupat"
-   picture="/assets/images/committee/books.jpeg"
+   picture="/assets/images/committee/Ice_Pasupat.jpg"
    site="https://ppasupat.github.io/"
    institution="Google"
 %}

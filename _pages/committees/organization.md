@@ -202,7 +202,7 @@ sidebar:
    name="Jesse Dodge"
    picture="/assets/images/committee/books.jpeg"
    site="http://www.cs.cmu.edu/~jessed/"
-   institution="Carnegie Mellon University"
+   institution="Allen Institute for AI"
 %}
 {% include committee-member.html
    name="Annie Louis"

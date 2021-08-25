@@ -20,7 +20,7 @@ toc_sticky: true
 ## Program Chairs
 {% include committee-member.html
    name="Marine Carpuat"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/marine_carpuat.jpg"
    site="https://www.cs.umd.edu/~marine/"
    institution="University of Maryland"
 %}
@@ -52,7 +52,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Bonan Min"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/bonan_min.jpg"
    site="https://bnmin.github.io/"
    institution="Raytheon BBN Technologies"
 %}
@@ -107,7 +107,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Avi Sil"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/avi_sil.jpg"
    site="https://researcher.watson.ibm.com/researcher/view.php?person=us-avi"
    institution="IBM Research"
 %}
@@ -156,7 +156,7 @@ toc_sticky: true
 **Advisors for the Student Research Workshop**
 {% include committee-member.html
    name="Danqi Chen"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/danqi_chen.jpg"
    site="https://www.cs.princeton.edu/~danqic/"
    institution="Princeton University"
 %}
@@ -254,7 +254,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Snigdha Chaturvedi"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/snigdha_chaturvedi.jpg"
    site="https://sites.google.com/site/snigdhac/"
    institution="University of North Carolina, Chapel Hill"
 %}
@@ -263,7 +263,7 @@ toc_sticky: true
 **Advisors for Diversity and Inclusion**
 {% include committee-member.html
    name="Pranav A"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/pranav_a.jpg"
    site="https://pranav-a.github.io/"
    institution="Dayta AI"
 %}

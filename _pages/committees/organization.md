@@ -12,7 +12,7 @@ toc_sticky: true
 ## General Chair
 {% include committee-member.html
    name="Dan Roth"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/dan_roth.jpg"
    site="https://www.cis.upenn.edu/~danroth/"
    institution="University of Pennsylvania & Amazon"
 %}
@@ -32,7 +32,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Ivan Vladimir Meza Ruiz"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/ivan_meza.jpg"
    site="https://turing.iimas.unam.mx/~ivanvladimir/"
    institution="National Autonomous University of Mexico"
 %}
@@ -101,7 +101,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Qiang Ning"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/qiang_ning.jpg"
    site="https://www.qiangning.info/"
    institution="Amazon"
 %}

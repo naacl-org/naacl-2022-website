@@ -14,7 +14,7 @@ toc_sticky: true
    name="Dan Roth"
    picture="/assets/images/committee/books.jpg"
    site="https://www.cis.upenn.edu/~danroth/"
-   institution="University of Pennsylvania"
+   institution="University of Pennsylvania & Amazon"
 %}
 
 ## Program Chairs
@@ -172,7 +172,7 @@ toc_sticky: true
    name="Ryan Cotterell"
    picture="/assets/images/committee/books.jpg"
    site="https://rycolab.io/authors/ryan/"
-   institution="ETH Zürich, University of Cambridge"
+   institution="ETH Zürich & University of Cambridge"
 %}
 
 ## Ethics Chairs

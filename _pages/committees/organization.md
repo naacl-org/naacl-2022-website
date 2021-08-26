@@ -246,6 +246,8 @@ toc_sticky: true
 ## Diversity and Inclusion Chairs
 **Email:** <naacl-2022-dei-chairs@googlegroups.com>
 
+<br>
+**D&I co-chairs**
 {% include committee-member.html
    name="Diana Galván"
    picture="/assets/images/committee/books.jpg"
@@ -254,6 +256,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Snigdha Chaturvedi"
+   extrainfo="(she/her)"
    picture="/assets/images/committee/snigdha_chaturvedi.jpg"
    site="https://sites.google.com/site/snigdhac/"
    institution="University of North Carolina, Chapel Hill"
@@ -263,6 +266,7 @@ toc_sticky: true
 **Advisors for Diversity and Inclusion**
 {% include committee-member.html
    name="Pranav A"
+   extrainfo="(he/they)"
    picture="/assets/images/committee/pranav_a.jpg"
    site="https://pranav-a.github.io/"
    institution="Dayta AI"
@@ -273,6 +277,116 @@ toc_sticky: true
    site="https://benotti.github.io/"
    institution="National University of Córdoba"
 %}
+
+<br>
+**Academic Inclusion chairs**
+{% include committee-member.html
+   name="Parisa Kordjamshidi"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/parisa.png"
+   site="http://www.cse.msu.edu/~kordjams/"
+   institution="Michigan State University"
+%}
+{% include committee-member.html
+   name="Khyati Mahajan"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/books.jpg"
+   site="https://khyatimahajan.com/"
+   institution="University of North Carolina at Charlotte"
+%}
+{% include committee-member.html
+   name="Khyathi Chandu"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/books.jpg"
+   site="https://www.cs.cmu.edu/~kchandu/"
+   institution="Carnegie Mellon University"
+%}
+
+<br>
+**Financial Accessibility chairs**
+{% include committee-member.html
+   name="Sasha Luccioni"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/sasha.jpg"
+   site="https://www.sashaluccioni.com/"
+   institution="Mila and HuggingFace"
+%}
+{% include committee-member.html
+   name="Nedjma Djouhra Ousidhoum"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/nedjma.jpg"
+   site="https://nedjmaou.github.io/"
+   institution="University of Cambridge"
+%}
+
+<br>
+**Accessibility chairs**
+{% include committee-member.html
+   name="Arjun Subramonian"
+   extrainfo="(they/them)"
+   picture="/assets/images/committee/arjun.jpg"
+   site="https://arjunsubramonian.github.io/"
+   institution="University of California, Los Angeles"
+%}
+{% include committee-member.html
+   name="Divyansh Kaushik"
+   extrainfo="(he/him)"
+   picture="/assets/images/committee/divyansh_kaushik.jpg"
+   site="http://www.cs.cmu.edu/~dkaushik"
+   institution="Carnegie Mellon University"
+%}
+
+<br>
+**Socio-Cultural Inclusion Chairs**
+{% include committee-member.html
+   name="Fatemehsadat Mireshghallah"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/fatemeh.png"
+   site="https://cseweb.ucsd.edu//~fmireshg/"
+   institution="Univeristy of California, San Diego"
+%}
+{% include committee-member.html
+   name="Abhilasha Ravichander"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/abhilasha.jpeg"
+   site="https://www.cs.cmu.edu/~aravicha/"
+   institution="Carnegie Mellon University"
+%}
+{% include committee-member.html
+   name="Saadia Gabriel"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/saadia_gabriel.jpg"
+   site="https://homes.cs.washington.edu/~skgabrie/"
+   institution="University of Washington"
+%}
+
+<br>
+**Childcare Chairs**
+{% include committee-member.html
+   name="Yuntian Deng"
+   extrainfo="(he/they)"
+   picture="/assets/images/committee/yuntian.jpg"
+   site="https://scholar.google.com/citations?user=tk0e5lYAAAAJ&hl=en"
+   institution="Harvard University"
+%}
+{% include committee-member.html
+   name="Shirley A. Hayati"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/shirley.jpeg"
+   site="http://www.shirley.id/"
+   institution="Georgia Institute of Technology"
+%}
+
+<br>
+**Publication D&I Chairs**
+{% include committee-member.html
+   name="Jiacheng Xu"
+   extrainfo="(he/him)"
+   picture="/assets/images/committee/jiacheng-xu.jpeg"
+   site="https://www.cs.utexas.edu/~jcxu/"
+   institution="University of Texas"
+%}
+
 
 ## Publicity Chairs
 {% include committee-member.html

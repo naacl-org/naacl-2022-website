@@ -129,7 +129,7 @@ toc_sticky: true
    name="Ashish Sabharwal"
    picture="/assets/images/committee/books.jpg"
    site="http://ashishs.people.allenai.org/"
-   institution="Allen Institute for Artificial Intelligence (AI2)"
+   institution="Allen Institute for AI"
 %}
 
 ## Student Research Workshop Chairs
@@ -240,7 +240,7 @@ toc_sticky: true
    name="Daniel Khashabi"
    picture="/assets/images/committee/books.jpg"
    site="https://danielkhashabi.com/"
-   institution="Allen Institute for Artificial Intelligence (AI2)"
+   institution="Allen Institute for AI"
 %}
 
 ## Diversity and Inclusion Chairs
@@ -391,7 +391,7 @@ toc_sticky: true
 ## Publicity Chairs
 {% include committee-member.html
    name="Nanyun (Violet) Peng"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/nanyun_violet_peng.jpg"
    site="https://vnpeng.net/"
    institution="University of California, Los Angeles"
 %}
@@ -411,7 +411,7 @@ toc_sticky: true
 ## Virtual Infrastructure Chair
 {% include committee-member.html
    name="Deepak Ramachandran"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/deepak_ramachandran.jpg"
    site=""
    institution="Google"
 %}

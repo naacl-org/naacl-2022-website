@@ -67,7 +67,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Yunyao Li"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/yunyao_li.jpg"
    site="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli"
    institution="IBM Research"
 %}
@@ -121,7 +121,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Yunyao Li"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/yunyao_li.jpg"
    site="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli"
    institution="IBM Research"
 %}
@@ -273,7 +273,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Luciana Benotti"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/luciana_benotti.jpg"
    site="https://benotti.github.io/"
    institution="National University of Córdoba"
 %}

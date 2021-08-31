@@ -18,6 +18,8 @@ toc_sticky: true
 %}
 
 ## Program Chairs
+**Email:** <naacl-2022-program-chairs@googlegroups.com>
+
 {% include committee-member.html
    name="Marine Carpuat"
    picture="/assets/images/committee/marine_carpuat.jpg"

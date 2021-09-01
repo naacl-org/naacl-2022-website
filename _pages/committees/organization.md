@@ -252,7 +252,8 @@ toc_sticky: true
 **D&I co-chairs**
 {% include committee-member.html
    name="Diana Galván"
-   picture="/assets/images/committee/books.jpg"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/diana.jpg"
    site="https://dianags.github.io/"
    institution="Tohoku University"
 %}
@@ -275,6 +276,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Luciana Benotti"
+   extrainfo="(she/her)"
    picture="/assets/images/committee/luciana_benotti.jpg"
    site="https://benotti.github.io/"
    institution="National University of Córdoba"
@@ -290,11 +292,11 @@ toc_sticky: true
    institution="Michigan State University"
 %}
 {% include committee-member.html
-   name="Khyati Mahajan"
+   name="Aakanksha Naik"
    extrainfo="(she/her)"
-   picture="/assets/images/committee/books.jpg"
-   site="https://khyatimahajan.com/"
-   institution="University of North Carolina at Charlotte"
+   picture="/assets/images/committee/aakanksha.jpeg"
+   site="https://www.cs.cmu.edu/~anaik/"
+   institution="Carnegie Mellon University"
 %}
 {% include committee-member.html
    name="Khyathi Chandu"

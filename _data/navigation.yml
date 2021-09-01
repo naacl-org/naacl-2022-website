@@ -31,7 +31,7 @@ main:
   #  url: /faq/
 
   - title: "Committees"
-    url: /organization
+    url: /committees/organization/
 
 
 program:
@@ -114,10 +114,10 @@ committees:
   - title: Committees
     children:
       - title: "Organizing Committee"
-        url: /organization/
+        url: /committees/organization/
       #- title: "Senior Program Committee"
       #  url: /committees/program/
       #- title: "Ethics Committee"
       #  url: /ethics/committee/
-      #- title: "Diversity & Inclusion Committee"
-      #  url: /committees/diversity-inclusion/
+      - title: "Diversity & Inclusion Committee"
+        url: /committees/diversity-inclusion/

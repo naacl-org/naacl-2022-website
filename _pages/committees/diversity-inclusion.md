@@ -27,7 +27,8 @@ toc: false
 %}
 {% include committee-member.html
    name="Yonatan Bisk"
-   picture="/assets/images/committee/books.jpg"
+   extrainfo="(he/him)"
+   picture="/assets/images/committee/yonatan_bisk.jpg"
    site="https://yonatanbisk.com/"
    institution="Carnegie Mellon University"
 %}

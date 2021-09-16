@@ -28,7 +28,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Marie-Catherine de Marneffe"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/marie_demarneffe.jpg"
    site="https://www.asc.ohio-state.edu/demarneffe.1/"
    institution="Ohio State University"
 %}

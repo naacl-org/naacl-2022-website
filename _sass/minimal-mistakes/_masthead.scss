@@ -65,9 +65,15 @@
 .masthead__menu {
   float: left;
   margin-left: 0;
-  margin-right: 3%;
   width: 100%;
   clear: both;
+
+  /* Add space for the accessibility widget, if needed */
+  margin-right: 55px;
+  @include breakpoint($x-large + 55px) {
+    /* 
+    margin-right: 0;
+  }
 
   .site-nav {
     margin-left: 0;

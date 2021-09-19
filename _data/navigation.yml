@@ -18,7 +18,8 @@ main:
   #- title: "Registration"
   #  url: /registration/
 
-  #- title: "Calls"
+  - title: "Calls"
+    url: /calls/tutorials/
   #  url: /calls/papers/
 
   #- title: "Ethics"
@@ -55,28 +56,30 @@ program:
 calls:
   - title: Call for
     children:
-      - title: "Main Conference Papers"
-        url: /calls/papers/
-      - title: "Industry Track Papers"
-        url: /calls/industry/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Student Research Workshop"
-        url: https://naacl2021-srw.github.io/
-  - title: Submission Material
-    children:
-      - title: "Area Descriptions"
-        url: /calls/area-descriptions/
-      - title: "Style Files and Formatting"
-        url: /calls/style-and-formatting/
-      - title: "Reproducibility Checklist"
-        url: /calls/reproducibility-checklist/
-  - title: Archived calls
-    children:
-      - title: "First Call for Papers"
-        url: /calls/papers/first/
-      - title: "Preliminary Call for Papers"
-        url: /calls/papers/prelim/
+      #- title: "Main Conference Papers"
+      #  url: /calls/papers/
+      #- title: "Industry Track Papers"
+      #  url: /calls/industry/
+      - title: "Tutorials"
+        url: /calls/tutorials/
+      #- title: "System Demonstrations"
+      #  url: /calls/demos/
+      #- title: "Student Research Workshop"
+      #  url: https://naacl2021-srw.github.io/
+  #- title: Submission Material
+  #  children:
+  #    - title: "Area Descriptions"
+  #      url: /calls/area-descriptions/
+  #    - title: "Style Files and Formatting"
+  #      url: /calls/style-and-formatting/
+  #    - title: "Reproducibility Checklist"
+  #      url: /calls/reproducibility-checklist/
+  #- title: Archived calls
+  #  children:
+  #    - title: "First Call for Papers"
+  #      url: /calls/papers/first/
+  #    - title: "Preliminary Call for Papers"
+  #      url: /calls/papers/prelim/
 
 ethics:
   - title: Ethics

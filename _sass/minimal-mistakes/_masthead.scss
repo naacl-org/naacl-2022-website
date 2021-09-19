@@ -71,7 +71,6 @@
   /* Add space for the accessibility widget, if needed */
   margin-right: 55px;
   @include breakpoint($x-large + 55px) {
-    /* 
     margin-right: 0;
   }
 

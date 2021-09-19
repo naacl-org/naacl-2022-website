@@ -9,6 +9,7 @@ toc_sticky: true
 ---
 
 [Submit Your Proposal Here](https://openreview.net/group?id=aclweb.org/ACL/2022/Tutorials){: .btn .btn--info .btn--large}
+<br>_**Submission Deadline:** November 1, 2021_
 {: .text-center .text-pad-top}
 
 ## Overview
@@ -85,25 +86,25 @@ ACL/NAACL-HLT/EMNLP/COLING 2022 shared dates for tutorial proposals:
 
 ## Tutorial Chairs
 
-ACL (<https://www.2022.aclweb.org/>)
+**ACL (<https://www.2022.aclweb.org/>)**
 
 * Luciana Benotti, Universidad Nacional de Córdoba, Argentina
 * Naoaki Okazaki, Tokyo Institute of Technology, Japan
 * Marcos Zampieri, Rochester Institute of Technology, USA
 
-NAACL-HLT (<https://2022.naacl.org/>)
+**NAACL-HLT (<https://2022.naacl.org/>)**
 
 * Cecilia O. Alm, Rochester Institute of Technology, USA
 * Yulia Tsetkov, University of Washington, USA
 * Miguel Ballesteros, Amazon, USA
 
-COLING (<https://coling2022.org/>)
+**COLING (<https://coling2022.org/>)**
 
 * Heng Ji, University of Illinois at Urbana-Champaign, USA
 * Hsin-Hsi Chen, National Taiwan University, Taiwan
 * Lucia Donatelli, Saarland University, DE
 
-EMNLP
+**EMNLP**
 
 * To be announced.
 

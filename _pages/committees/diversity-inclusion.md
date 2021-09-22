@@ -8,9 +8,10 @@ sidebar:
 toc: false
 ---
 
-**Email:** <naacl-2022-dei-chairs@googlegroups.com>
 
 ## D&I Co-chairs
+\[[email](mailto:naacl-2022-dei-chairs@googlegroups.com)\]
+
 {% include committee-member.html
    name="Diana Galván"
    extrainfo="(she/her)"

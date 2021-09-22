@@ -18,7 +18,7 @@ toc_sticky: true
 %}
 
 ## Program Chairs
-**Email:** <naacl-2022-program-chairs@googlegroups.com>
+\[[email](mailto:naacl-2022-program-chairs@googlegroups.com)\]
 
 {% include committee-member.html
    name="Marine Carpuat"
@@ -235,6 +235,49 @@ toc_sticky: true
    picture="/assets/images/committee/books.jpg"
    site="https://www.byronwallace.com/"
    institution="Northeastern University"
+%}
+
+## Diversity & Inclusion Chairs
+\[[D&I committee](/committees/diversity-inclusion/)\]
+\[[email](mailto:naacl-2022-dei-chairs@googlegroups.com)\]
+
+{% include committee-member.html
+   name="Diana Galván"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/diana.jpg"
+   site="https://dianags.github.io/"
+   institution="Tohoku University"
+%}
+{% include committee-member.html
+   name="Snigdha Chaturvedi"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/snigdha_chaturvedi.jpg"
+   site="https://sites.google.com/site/snigdhac/"
+   institution="University of North Carolina, Chapel Hill"
+%}
+{% include committee-member.html
+   name="Yonatan Bisk"
+   extrainfo="(he/him)"
+   picture="/assets/images/committee/yonatan_bisk.jpg"
+   site="https://yonatanbisk.com/"
+   institution="Carnegie Mellon University"
+%}
+
+<br>
+**Advisors for the D&I Committees**
+{% include committee-member.html
+   name="Pranav A"
+   extrainfo="(he/they)"
+   picture="/assets/images/committee/pranav_a.jpg"
+   site="https://pranav-a.github.io/"
+   institution="Dayta AI"
+%}
+{% include committee-member.html
+   name="Luciana Benotti"
+   extrainfo="(she/her)"
+   picture="/assets/images/committee/luciana_benotti.jpg"
+   site="https://benotti.github.io/"
+   institution="National University of Córdoba"
 %}
 
 ## Volunteers Chair

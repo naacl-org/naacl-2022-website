@@ -272,6 +272,18 @@ toc_sticky: true
    site=""
    institution="Google"
 %}
+{% include committee-member.html
+   name="Martín Villalba"
+   picture="/assets/images/committee/martin_villalba.jpg"
+   site="https://7c0h.com/"
+   institution="Saarland University"
+%}
+{% include committee-member.html
+   name="Rishita Anubhai"
+   picture="/assets/images/committee/books.jpg"
+   site=""
+   institution="Amazon"
+%}
 
 ## Website Chairs
 {% include committee-member.html

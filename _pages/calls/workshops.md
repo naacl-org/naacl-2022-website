@@ -8,9 +8,12 @@ toc: true
 toc_sticky: true
 ---
 
-**Proposal Submission Deadline:** October 20, 2021
-<br>
-**Notification of Acceptance:**  November 20, 2021
+
+[Submit Your Proposal Here](mailto:workshops-all-2022@googlegroups.com){: .btn .btn--info .btn--large}
+<br>_**Proposal Submission Deadline:** October 20, 2021_
+<br>_**Notification of Acceptance:**  November 20, 2021_
+{: .text-center .text-pad-top}
+
 
 The Association for Computational Linguistics invites proposals for workshops to be held in conjunction with ACL 2022, NAACL-HLT 2022, COLING 2022 or EMNLP 2022. We solicit proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval, and multimodal processing.
 
@@ -72,7 +75,7 @@ In addition, you will need to specify the following information when you submit 
 
 The proposals should be submitted no later than **October 20, 2021**, 11:59 PM Samoa Standard Time (SST) (UTC/GMT-11).
 
-Submission is electronic, using the [Softconf START conference management system](https://www.softconf.com/l/acl-workshops2022/).
+Submission is electronic. You can send the application proposals to the Email <workshops-all2022@googlegroups.com> with title giving the preferred venue and "workshop proposals". 
 
 The workshop proposals will be evaluated according to their originality and impact, as well as the quality of the organizing team and Programme Committee. In addition, to estimate the attendance of the different workshops, a survey mechanism will be implemented, where attendees of ACL, NAACL, COLING and EMNLP events from the past 3-5 years will be able to indicate which workshops they would like to attend in 2022.
 

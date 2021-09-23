@@ -15,6 +15,7 @@ excerpt: "Seattle, Washington<br>July 10&ndash;15, 2022"
 
 ## News
 
+| Sep 23, 2021 | Added the joint [Call for Workshop Proposals](/calls/workshops/).
 | Sep 18, 2021 | Added the joint [Call for Tutorials](/calls/tutorials/).
 {: .news-table}
 

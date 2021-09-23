@@ -62,6 +62,8 @@ calls:
       #  url: /calls/industry/
       - title: "Tutorials"
         url: /calls/tutorials/
+      - title: "Workshops"
+        url: /calls/workshops/
       #- title: "System Demonstrations"
       #  url: /calls/demos/
       #- title: "Student Research Workshop"

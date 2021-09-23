@@ -323,7 +323,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Rishita Anubhai"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/rishita_anubhai.png"
    site=""
    institution="Amazon"
 %}

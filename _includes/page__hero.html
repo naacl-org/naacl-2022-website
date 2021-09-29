@@ -34,6 +34,9 @@
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% if page.header.show_overlay_excerpt != false and page.secondary_excerpt %}
+          <p class="page__lead">{{ page.secondary_excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% endif %}
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.cta_url %}
@@ -50,6 +53,6 @@
     <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
   {% endif %}
   {% if page.header.caption %}
-    <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+    <span class="page__hero-caption" aria-hidden="true">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% endif %}
 </div>

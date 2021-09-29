@@ -5,7 +5,8 @@ permalink: /
 header:
   overlay_image: "/assets/images/splash/seattle-resized.jpg"
   caption: 'Photo by <a href="https://unsplash.com/photos/QEob0Fp4rdg">Zhifei Zhou</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "Seattle, Washington<br>July 10&ndash;15, 2022"
+excerpt: "Seattle, Washington"
+secondary_excerpt: "July 10&ndash;15, 2022"
 ---
 
 <style>

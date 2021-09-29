@@ -8,9 +8,11 @@ toc: true
 toc_sticky: true
 ---
 
+{: .text-center}
 [Submit Your Proposal Here](https://openreview.net/group?id=aclweb.org/ACL/2022/Tutorials){: .btn .btn--info .btn--large}
-<br>_**Submission Deadline:** November 1, 2021_
-{: .text-center .text-pad-top}
+
+{: .text-center}
+_**Submission Deadline**: November 1, 2021_
 
 ## Overview
 

@@ -48,9 +48,9 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Anastassia Loukina"
-   picture="/assets/images/committee/books.jpg"
-   site="http://aloukina.com/"
-   institution="Educational Testing Service (ETS)"
+   picture="/assets/images/committee/aloukina.jpg"
+   site="https://www.linkedin.com/in/aloukina/"
+   institution="Grammarly"
 %}
 {% include committee-member.html
    name="Bonan Min"

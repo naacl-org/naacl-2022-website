@@ -16,6 +16,7 @@ secondary_excerpt: "July 10&ndash;15, 2022"
 
 ## News
 
+| Oct 6, 2021 | [Blogpost](/blog/diversity-intro/) by D&I chairs on upcoming D&I initiatives. Please fill out the [D&I survey](https://forms.office.com/r/XUxP8XSN5N).
 | Sep 23, 2021 | Added the joint [Call for Workshop Proposals](/calls/workshops/).
 | Sep 18, 2021 | Added the joint [Call for Tutorials](/calls/tutorials/).
 {: .news-table}

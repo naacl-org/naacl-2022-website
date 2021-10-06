@@ -4,3 +4,8 @@ website-chairs:
   name        : "Website Chairs"
   bio         : "Ice Pasupat and Vered Shwartz"
   avatar      : "assets/images/logos/acl-logo.png"
+
+diversity-chairs:
+  name        : "Diversity and Inclusion Chairs"
+  bio         : "Diversity and Inclusion Chairs"
+  avatar      : "assets/images/logos/acl-logo.png"

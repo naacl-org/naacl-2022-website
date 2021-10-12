@@ -9,3 +9,8 @@ diversity-chairs:
   name        : "Diversity and Inclusion Chairs"
   bio         : "Diversity and Inclusion Chairs"
   avatar      : "assets/images/logos/acl-logo.png"
+
+program-chairs:
+  name        : "Program Chairs"
+  bio         : "Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz"
+  avatar      : "assets/images/logos/acl-logo.png"

@@ -71,25 +71,23 @@ ARR uses [Open Review](https://openreview.net/) as its platform. The reviewing p
 
 ## Important Dates for NAACL 2022
 
-**Anonymity period begins**
+**Anonymity period begins:** 1 month before submitting to the [ACL Rolling Review, following ARR CFP guidelines](https://aclrollingreview.org/cfp#anonymity-period).
 
-1 month before submitting to the [ACL Rolling Review, following ARR CFP guidelines](https://aclrollingreview.org/cfp#anonymity-period).
-
-**Paper submission deadline to ARR: January 15, 2022**
+**Paper submission deadline to ARR:** January 15, 2022
 
 Long & short papers submitted to ARR at the latest by January 15, 2022 can be committed for consideration to NAACL 2022 (see below). At submission time to ARR, authors will be asked to select one preferred venue (e.g., ACL 2022, NAACL 2022), for the purpose of calculating acceptance rate. However selecting NAACL 2022 as a preferred venue does not require authors to commit to NAACL 2022.
 
-**Commitment deadline for NAACL 2022: March 2, 2022**
+**Commitment deadline for NAACL 2022:** March 2, 2022
 
 Deadline for authors to commit their reviewed papers, reviews, and meta-review to NAACL 2022. It is not necessary to have selected NAACL as a preferred venue during submission.
 
-**Notification of acceptance: April 7, 2022**
+**Notification of acceptance:** April 7, 2022
 
-**Deadline for authors to withdraw papers from NAACL 2022 or Findings of NAACL 2022: April 11, 2022**
+**Deadline for authors to withdraw papers from NAACL 2022 or Findings of NAACL 2022:** April 11, 2022
 
-**Camera-ready version of papers due: May 3, 2022**
+**Camera-ready version of papers due:** May 3, 2022
 
-**Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
+_**Note:** All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 
 
 ## Paper Submission Details

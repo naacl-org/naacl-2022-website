@@ -19,8 +19,7 @@ main:
   #  url: /registration/
 
   - title: "Calls"
-    url: /calls/tutorials/
-  #  url: /calls/papers/
+    url: /calls/papers/
 
   #- title: "Ethics"
   #  url: /ethics/faq/
@@ -56,8 +55,8 @@ program:
 calls:
   - title: Call for
     children:
-      #- title: "Main Conference Papers"
-      #  url: /calls/papers/
+      - title: "Main Conference Papers"
+        url: /calls/papers/
       #- title: "Industry Track Papers"
       #  url: /calls/industry/
       - title: "Tutorials"

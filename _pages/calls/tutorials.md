@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-{: .text-center}
+{: .text-center .text-pad-top}
 [Submit Your Proposal Here](https://openreview.net/group?id=aclweb.org/ACL/2022/Tutorials){: .btn .btn--info .btn--large}
 
 {: .text-center}

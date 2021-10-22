@@ -108,7 +108,8 @@ ACL/NAACL-HLT/EMNLP/COLING 2022 shared dates for tutorial proposals:
 
 **EMNLP**
 
-* To be announced.
+* Samhaa R. El-Beltagy, Newgiza University, Egypt
+* Xipeng Qiu, Fudan University, China
 
 ## Contact
 

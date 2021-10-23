@@ -42,7 +42,7 @@ toc_sticky: true
 ## Industry Track Chairs
 {% include committee-member.html
    name="Rashmi Gangadharaiah"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/rashmi_gangadharaiah.jpg"
    site="https://www.amazon.science/author/rashmi-gangadharaiah"
    institution="Amazon"
 %}

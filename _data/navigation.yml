@@ -55,10 +55,10 @@ program:
 calls:
   - title: Call for
     children:
-      #- title: "Main Conference Papers"
-      #  url: /calls/papers/
-      #- title: "Industry Track Papers"
-      #  url: /calls/industry/
+      - title: "Main Conference Papers"
+        url: /calls/papers/
+      - title: "Industry Track Papers"
+        url: /calls/industry/
       - title: "Tutorials"
         url: /calls/tutorials/
       - title: "Workshops"

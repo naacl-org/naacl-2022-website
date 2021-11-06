@@ -9,11 +9,7 @@ share: true
 comments: false
 ---
 
-<ul>
-{% for call in site.pages %}
-    {% if call.path contains 'calls/' %}
-        <li><a href="{{ call.path | replace: '_pages/calls/', ' ' | replace: '.md', ' ' }}">{{ call.title }}</a></li>
-    {% endif %}
-{% endfor %}
-</ul>
-
+* [Call for Main Conference Papers](/calls/papers/)
+* [Call for Industry Track Papers](/calls/industry/)
+* [Call for Tutorials](/calls/tutorials/)
+* [Joint Call for Workshop Proposals](/calls/workshops/)

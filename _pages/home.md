@@ -23,6 +23,27 @@ secondary_excerpt: "July 10--15, 2022"
 | Sep 18, 2021 | Added the joint [Call for Tutorials](/calls/tutorials/).
 {: .news-table}
 
+## Important Dates
+
+<style>
+.dates-table { font-size: .9em; }
+.dates-table tr td:nth-child(1) { width: 50%; }
+.dates-table del { color: #888; }
+</style>
+
+See details regarding the ACL Rolling Review process in the [Call for Main Conference Papers](/calls/papers/) and [Call for Industry Track Papers](/calls/industry/).
+
+| Anonymity period begins | | [1 month before submission](https://aclrollingreview.org/cfp#anonymity-period) |
+| Paper submission deadline | Saturday | January 15, 2022 |
+| Commitment deadline for NAACL 2022 | Wednesday | March 2, 2022 |
+| Notification of acceptance | Thursday | April 7, 2022 |
+| Withdrawal deadline | Monday | April 11, 2022 |
+| Camera-ready version due | Tuesday | May 3, 2022 |
+| Conference date | Sunday--Friday | July 10--15, 2022 |
+{: .dates-table}
+
+<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
+
 ## Welcome!
 
 The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022) will be held in Seattle, Washington from July 10 through July 15, 2022.

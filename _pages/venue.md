@@ -27,12 +27,19 @@ Below are some of our recommended queer-friendly neighborhoods, attractions, and
 
 **Neighborhoods**
 
-* [Capitol Hill](https://visitseattle.org/neighborhoods/capitol-hill/) is a vibrant queer neighborhood with tons of bars, clubs, food, and other nightlife, as well as other queer-owned and queer-friendly businesses.
+* [Capitol Hill](https://visitseattle.org/neighborhoods/capitol-hill/) is a vibrant queer neighborhood with tons of bars, clubs, food, and nightlife, as well as other queer-owned and queer-friendly businesses.
 
 **Bookstores**
 
 * [Left Bank Books](https://leftbankbooks.com/)
+  * anti-authoritarian, anarchist, independent, radical and small-press titles
+  * not queer-owned
+  * queer-friendly
+  * [accessibility information](https://leftbankbooks.com/aboutUs.php#access)
 * [The Elliot Bay Book Company](https://www.elliottbaybook.com/)
+  * full service bookstore, home to over 150,000 titles, set on cedar shelves in a multi-level, inviting unique atmosphere
+  * not queer-owned
+  * queer-friendly
 * [Third Place Books](https://www.thirdplacebooks.com/)
 * [Ada's Technical Books and Cafe](https://www.adasbooks.com/)
 * [Twice Sold Tales](https://www.twicesoldtales.com/)

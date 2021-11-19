@@ -49,3 +49,9 @@ Below are some of our recommended queer-friendly neighborhoods, attractions, and
 
 **Other Places**
 * [Outsider Comics and Geek Boutique](http://www.outsidercomics.com/)
+
+Below are some venues that highlight underrepresented members of the Seattle community and minority voices:
+
+
+* [Northwest African American Museum](https://www.naamnw.org/) A driving force in keeping the Seattle Black community visible, through events oriented around the celebration of Black leaders that have influenced the region throughout history, and programs/exhibits that highlight local Black voices.
+* [L.E.M.S. Bookstore](https://sites.google.com/keytechlabs.org/lemsbookstore/home) The longest-running Black owned bookstore in Seattle, which highlights Black stories and authors, as well as providing a community space.

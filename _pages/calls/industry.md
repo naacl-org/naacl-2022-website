@@ -26,18 +26,19 @@ but the users of the system are most likely outside the NLP research community.
 
 This track provides an opportunity to highlight the key insights and new research challenges that arise from real world implementations. Topics include, but are not limited to, the following (in alphabetical order):
 
-*   Best practices and lessons learned
-*   Continuous maintenance and improvement of deployed systems
-*   Case studies from design to deployment
-*   Design of application-relevant datasets
-*   Ethics and bias in deployed NLP systems
-*   Handling unexpected user behavior
-*   Implementation at speed, scale, and low-cost
-*   Negative results related to real-world applications
-*   Novel previously unsolved NLP problems
-*   Offline and online system evaluation methodologies
-*   Online learning for deployed systems 
-*   System combination and hybridization
+* Best practices and lessons learned
+* Continuous maintenance and improvement of deployed systems
+* Case studies from design to deployment
+* Design of application-relevant datasets
+* Ethics, bias, and fairness in deployed NLP systems
+* Green NLP
+* Handling unexpected user behavior
+* Implementation at speed, scale, and low-cost
+* Negative results related to real-world applications
+* Novel previously unsolved NLP problems
+* Offline and online system evaluation methodologies
+* Online learning for deployed systems 
+* System combination and hybridization
 
 In addition, opinion/vision papers related to real-world applications are also welcome.
 

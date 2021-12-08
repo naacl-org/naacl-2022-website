@@ -95,7 +95,7 @@ submission system in OpenReview (link coming soon).
 ## Double Submission of Papers to NAACL Conferences
 
 * It is the responsibility of the authors to ensure that they do not submit the same paper to both ARR and the Industry Track.
-* Please note that ARR policy does not allow double submissions (https://aclrollingreview.org/cfp#multiple-submission-policy). You may not submit the same paper to the Industry Track and the Main Conference. Submissions that violate this policy will be rejected.
+* Please note that ARR policy [does not allow double submissions](https://aclrollingreview.org/cfp#multiple-submission-policy). You may not submit the same paper to the Industry Track and the Main Conference. Submissions that violate this policy will be rejected.
 * For papers that do overlap with other papers in the Main Conference, the authors must ensure that there is significant new content and results before submitting their paper to the Industry Track. The authors should also include the papers that their paper overlaps or extends in the references section as follows:
   * _Anonymous Authors, “Title of the paper”, Under submission at NAACL 2022_
 

@@ -17,25 +17,29 @@ secondary_excerpt: "July 10--15, 2022"
 ## News
 
 | Dec 7, 2021 | [Blogpost](/blog/submissions/) by the program chairs on submitting papers to NAACL. 
+| Dec 7, 2021 | Added the [Call for System Demonstrations](/calls/demos/).
 | Oct 19, 2021 | Added the [Call for Industry Track Papers](/calls/industry/).
 | Oct 15, 2021 | Added the [Call for Main Conference Papers](/calls/papers/).
 | Oct 6, 2021 | [Blogpost](/blog/diversity-intro/) by D&I chairs on upcoming D&I initiatives. Please fill out the [D&I survey](https://forms.office.com/r/XUxP8XSN5N).
-| Sep 23, 2021 | Added the joint [Call for Workshop Proposals](/calls/workshops/).
-| Sep 18, 2021 | Added the joint [Call for Tutorials](/calls/tutorials/).
 {: .news-table}
+<!-- Note: When this table is too full, move some to the archive page. -->
+
+[Older News](/archive/){: .btn .btn--info}
+{: .text-center}
 
 ## Important Dates
 
 <style>
 .dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 50%; }
+.dates-table tr td:nth-child(1) { width: 58%; }
 .dates-table del { color: #888; }
 </style>
 
 See details regarding the ACL Rolling Review (ARR) process in the [Call for Main Conference Papers](/calls/papers/) and [Call for Industry Track Papers](/calls/industry/).
 
 | Anonymity period begins | | [1 month before submission](https://aclrollingreview.org/cfp#anonymity-period) |
-| Latest submission to ARR | Saturday | January 15, 2022 |
+| Latest submission to ARR (main conference + industry) | Saturday | January 15, 2022 |
+| Submission deadline for system demonstrations | Friday | February 11, 2022 |
 | Commitment deadline for NAACL 2022 | Wednesday | March 2, 2022 |
 | Notification of acceptance | Thursday | April 7, 2022 |
 | Withdrawal deadline | Monday | April 11, 2022 |

@@ -64,12 +64,12 @@ calls:
         url: /calls/industry/
       - title: "System Demonstrations"
         url: /calls/demos/
+      - title: "Student Research Workshop Papers"
+        url: /calls/srw/
       - title: "Tutorials"
         url: /calls/tutorials/
       - title: "Workshop Proposals"
         url: /calls/workshops/
-      #- title: "Student Research Workshop"
-      #  url: https://naacl2021-srw.github.io/
   #- title: Submission Material
   #  children:
   #    - title: "Area Descriptions"

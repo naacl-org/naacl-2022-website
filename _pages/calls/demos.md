@@ -97,7 +97,7 @@ Reviewing will be single-blind, so authors do not need to conceal their identity
 
 Authors are required to honor the ethical code set out in the [ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics), and comply with the ethics guidelines for ARR submissions.
 
-We are working with ARR to integrate an extensive checklist (inspired by the [NeurIPS 2021 one](https://neurips.cc/Conferences/2021/PaperInformation/PaperChecklist) and the reproducible data checklist from [Rogers, Baldwin & Leins's paper](https://arxiv.org/pdf/2109.06598.pdf)) into the scientific reviewing process: authors will be asked that their paper take this list into account; reviewers will be asked to ensure that papers comply with instructions from the checklist. We strongly suggest authors to familiarize themselves early on with these checklists (read the NeurIPS 2021 one and the paper mentioned above), as it will likely positively influence the way they approach research and write their paper, rather than treating such questions as an afterthought.
+The NAACL System Demonstrations Track submission form will include an ethics checklist similar to the one used for the [main conference](/calls/papers/#ethics-policy): authors will be asked that their paper take this list into account; reviewers will be asked to ensure that papers comply with instructions from the checklist.
 
 The NAACL ethics committee will be approached to add ethics review expertise if Senior Area Chairs request it on the basis of issues identified by the ARR reviewers.
 

@@ -16,6 +16,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+| Dec 9, 2021 | [Blogpost](/blog/responsible-nlp-research-checklist/) by the program chairs on the Responsible NLP Research checklist.
 | Dec 9, 2021 | Added the [Call for Student Research Workshop Papers](/calls/srw/).
 | Dec 7, 2021 | [Blogpost](/blog/submissions/) by the program chairs on submitting papers to NAACL. 
 | Dec 7, 2021 | Added the [Call for System Demonstrations](/calls/demos/).

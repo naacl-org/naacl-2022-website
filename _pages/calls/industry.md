@@ -89,8 +89,8 @@ are necessary for the exact replication of the work described in the paper can b
 into appendices. The reviewers are not required to consider the appendix during the 
 review process. 
 
-The papers should be submitted through the NAACL-HLT 2022 industry track online 
-submission system in OpenReview (link coming soon).  
+The papers should be submitted through the [NAACL-HLT 2022 industry track online 
+submission system in OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Track/Industry).  
 
 ## Double Submission of Papers to NAACL Conferences
 

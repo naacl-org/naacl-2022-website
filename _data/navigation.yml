@@ -122,8 +122,8 @@ committees:
     children:
       - title: "Organizing Committee"
         url: /committees/organization/
-      #- title: "Senior Program Committee"
-      #  url: /committees/program/
+      - title: "Senior Program Committee"
+        url: /committees/program/
       #- title: "Ethics Committee"
       #  url: /ethics/committee/
       - title: "Diversity & Inclusion Committee"

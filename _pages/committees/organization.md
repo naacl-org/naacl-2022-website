@@ -217,12 +217,6 @@ toc_sticky: true
    institution="Google"
 %}
 {% include committee-member.html
-   name="Vivek Srikumar"
-   picture="/assets/images/committee/books.jpg"
-   site="https://svivek.com/"
-   institution="University of Utah"
-%}
-{% include committee-member.html
    name="Daniel Deutsch"
    picture="/assets/images/committee/daniel_deutsch.jpg"
    site="https://danieldeutsch.github.io/"

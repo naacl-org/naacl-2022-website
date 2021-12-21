@@ -37,10 +37,11 @@ secondary_excerpt: "July 10--15, 2022"
 .dates-table del { color: #888; }
 </style>
 
-See details regarding the ACL Rolling Review (ARR) process in the [Call for Main Conference Papers](/calls/papers/) and [Call for Industry Track Papers](/calls/industry/).
+See details regarding the review process in the [Call for Main Conference Papers](/calls/papers/) and [Call for Industry Track Papers](/calls/industry/).
 
 | Anonymity period begins | | [1 month before submission](https://aclrollingreview.org/cfp#anonymity-period) |
-| Latest submission to ARR (main conference + industry) | Saturday | January 15, 2022 |
+| Latest submission to ARR for main conference papers | Saturday | January 15, 2022 |
+| Submission deadline for industry track papers | Saturday | January 15, 2022 |
 | Submission deadline for system demonstrations | Friday | February 11, 2022 |
 | Commitment deadline for NAACL 2022 | Wednesday | March 2, 2022 |
 | Notification of acceptance | Thursday | April 7, 2022 |

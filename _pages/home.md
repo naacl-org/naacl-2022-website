@@ -16,6 +16,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+| Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
 | Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
 | Dec 9, 2021 | [Blogpost](/blog/responsible-nlp-research-checklist/) by the program chairs on the Responsible NLP Research checklist.
 | Dec 9, 2021 | Added the [Call for Student Research Workshop Papers](/calls/srw/).
@@ -41,6 +42,7 @@ secondary_excerpt: "July 10--15, 2022"
 | Anonymity period begins | | [1 month before submission](https://aclrollingreview.org/cfp#anonymity-period) |
 | Latest submission to ARR for [Main Conference papers](/calls/papers/) | Saturday | January 15, 2022 |
 | Submission deadline for [Industry Track papers](/calls/industry/) | Saturday | January 15, 2022 |
+| Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Thursday | January 20, 2022 |
 | Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Sunday | January 30, 2022 |
 | Submission deadline for [System Demonstrations](/calls/demos/) | Friday | February 11, 2022 |
 | Commitment deadline for NAACL 2022 | Wednesday | March 2, 2022 |

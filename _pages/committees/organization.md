@@ -43,7 +43,7 @@ toc_sticky: true
 {% include committee-member.html
    name="Rashmi Gangadharaiah"
    picture="/assets/images/committee/rashmi_gangadharaiah.jpg"
-   site="https://www.amazon.science/author/rashmi-gangadharaiah"
+   site="https://sites.google.com/view/rashmi-gangadharaiah"
    institution="Amazon"
 %}
 {% include committee-member.html

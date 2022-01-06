@@ -77,7 +77,7 @@ ARR uses [Open Review](https://openreview.net/) as its platform. The reviewing p
 
 Long & short papers submitted to ARR at the latest by January 15, 2022 can be committed for consideration to NAACL 2022 (see below). At submission time to ARR, authors will be asked to select one preferred venue (e.g., ACL 2022, NAACL 2022), for the purpose of calculating acceptance rate. However selecting NAACL 2022 as a preferred venue does not require authors to commit to NAACL 2022.
 
-**Commitment deadline for NAACL 2022:** March 2, 2022
+**Commitment deadline for NAACL 2022:** ~~March 2, 2022~~ March 4, 2022
 
 Deadline for authors to commit their reviewed papers, reviews, and meta-review to NAACL 2022. It is not necessary to have selected NAACL as a preferred venue during submission.
 

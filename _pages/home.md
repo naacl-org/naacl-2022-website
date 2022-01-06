@@ -16,6 +16,8 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+| Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
+| Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
 | Dec 9, 2021 | [Blogpost](/blog/responsible-nlp-research-checklist/) by the program chairs on the Responsible NLP Research checklist.
 | Dec 9, 2021 | Added the [Call for Student Research Workshop Papers](/calls/srw/).
 | Dec 7, 2021 | [Blogpost](/blog/submissions/) by the program chairs on submitting papers to NAACL. 
@@ -33,21 +35,22 @@ secondary_excerpt: "July 10--15, 2022"
 
 <style>
 .dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 58%; }
+.dates-table tr td:nth-child(1) { width: 65%; }
 .dates-table del { color: #888; }
 </style>
 
-See details regarding the ACL Rolling Review (ARR) process in the [Call for Main Conference Papers](/calls/papers/) and [Call for Industry Track Papers](/calls/industry/).
-
 | Anonymity period begins | | [1 month before submission](https://aclrollingreview.org/cfp#anonymity-period) |
-| Latest submission to ARR (main conference + industry) | Saturday | January 15, 2022 |
-| Submission deadline for system demonstrations | Friday | February 11, 2022 |
+| Latest submission to ARR for [Main Conference papers](/calls/papers/) | Saturday | January 15, 2022 |
+| Submission deadline for [Industry Track papers](/calls/industry/) | Saturday | January 15, 2022 |
+| Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Thursday | January 20, 2022 |
+| Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Sunday | January 30, 2022 |
+| Submission deadline for [System Demonstrations](/calls/demos/) | Friday | February 11, 2022 |
 | Commitment deadline for NAACL 2022 | Friday | March 4, 2022 |
+| Submission deadline for [Student Research Workshop papers](/calls/srw/) | Friday | March 25, 2022 |
 | Notification of acceptance | Thursday | April 7, 2022 |
 | Withdrawal deadline | Monday | April 11, 2022 |
 | Camera-ready version due | Tuesday | May 3, 2022 |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
-{: .dates-table}
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
 

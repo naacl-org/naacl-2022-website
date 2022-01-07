@@ -44,7 +44,7 @@ Having an accessible publication means that your work can be reviewed by **all**
 
 You show respect to and protect the privacy and safety of the authors whom you cite by ensuring the usage of correct author names. Keep your bibliography up-to-date and cite peer-reviewed versions of papers (not just arXiv versions), when peer-reviewed versions are available. Here are specific steps:
 1. Many authors (in particular, transgender, non-binary, and/or gender-diverse folks; married and/or divorced individuals; etc.) can change their names during their academic careers. We recommend ensuring that you are using their updated names by checking their website or Semantic Scholar page. Not using their updated names produces ongoing harms, such as a [violation of privacy, denial of credit, denial of dignity, ongoing corrective epistemic labor, epistemic exploitation, and exposure to abuse and trauma, and constitutes hate speech](https://publicationethics.org/news/vision-more-trans-inclusive-publishing-world). 
-2. Do not rely on platforms such as Google Scholar that [do not properly support author name changes](https://scholar.hasfailed.us/). 
+2. Please note that author names in Google Scholar may not be up-to-date.
 3. Use tools such as [Rebiber](https://github.com/yuchenlin/rebiber) and manually check your work to spot and fix outdated bibliographic entries and in-text citations.
 4. For works that include examples from citation networks, academic graphs, etc., manually check that none of the examples contain incorrect names. Publicly-available academic graphs can contain incorrect names for authors.
 

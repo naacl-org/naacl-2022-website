@@ -16,17 +16,22 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+<div markdown="1" class="notice--warning">
+**The Jan 15 deadline for submitting papers to NAACL 2022 is approaching!** Where to submit?
+
+* Submit **main conference** submissions on the [ARR January site](https://openreview.net/group?id=aclweb.org/ACL/ARR/2022/January).
+  * If your paper is a resubmission to ARR, make sure that it is a revised version. Check [this blogpost from ARR](https://aclrollingreview.org/resubmissions/).
+* Submit **special theme** ([Human-Centered NLP](https://2022.naacl.org/blog/special-theme/)) submissions on [the dedicated OpenReview site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference).
+
+(Double submissions to the ARR January and NAACL special theme sites are not allowed and will both be desk rejected.)
+
+For all submissions, use the [ARR template](https://aclrollingreview.org/cfp#paper-submission-and-templates). Check the [Call for Papers](https://2022.naacl.org/calls/papers/) for details. 
+</div>
+
 | Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I chairs on Publication Accessibility, Quality, and Inclusivity.
 | Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).
 | Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
 | Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
-| Dec 9, 2021 | [Blogpost](/blog/responsible-nlp-research-checklist/) by the program chairs on the Responsible NLP Research checklist.
-| Dec 9, 2021 | Added the [Call for Student Research Workshop Papers](/calls/srw/).
-| Dec 7, 2021 | [Blogpost](/blog/submissions/) by the program chairs on submitting papers to NAACL. 
-| Dec 7, 2021 | Added the [Call for System Demonstrations](/calls/demos/).
-| Oct 19, 2021 | Added the [Call for Industry Track Papers](/calls/industry/).
-| Oct 15, 2021 | Added the [Call for Main Conference Papers](/calls/papers/).
-| Oct 6, 2021 | [Blogpost](/blog/diversity-intro/) by D&I chairs on upcoming D&I initiatives. Please fill out the [D&I survey](https://forms.office.com/r/XUxP8XSN5N).
 {: .news-table}
 <!-- Note: When this table is too full, move some to the archive page. -->
 
@@ -53,6 +58,7 @@ secondary_excerpt: "July 10--15, 2022"
 | Withdrawal deadline | Monday | April 11, 2022 |
 | Camera-ready version due | Tuesday | May 3, 2022 |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
+{: .dates-table}
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
 

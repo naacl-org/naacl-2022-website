@@ -10,7 +10,6 @@ secondary_excerpt: "July 10--15, 2022"
 ---
 
 <style>
-.news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
@@ -33,20 +32,17 @@ For all submissions, use the [ARR template](https://aclrollingreview.org/cfp#pap
 | Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
 | Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
 {: .news-table}
-<!-- Note: When this table is too full, move some to the archive page. -->
 
+<!-- Note: When this table is too full, move some to the archive page. -->
 [Older News](/archive/){: .btn .btn--info}
 {: .text-center}
 
 ## Important Dates
 
 <style>
-.dates-table { font-size: .9em; }
-.dates-table tr td:nth-child(1) { width: 65%; }
 .dates-table del { color: #888; }
 </style>
 
-| Anonymity period begins | | [1 month before submission](https://aclrollingreview.org/cfp#anonymity-period) |
 | Latest submission to ARR for [Main Conference papers](/calls/papers/) | Saturday | January 15, 2022 |
 | Submission deadline for [Industry Track papers](/calls/industry/) | Saturday | January 15, 2022 |
 | Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Thursday | January 20, 2022 |

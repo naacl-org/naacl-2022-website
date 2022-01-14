@@ -52,7 +52,7 @@ Submissions must clearly identify one of the following three areas they fall int
 
 **Anonymity period begins:** December 15, 2021
 
-**Paper submission deadline:** January 15, 2022
+**Paper submission deadline:** ~~January 15, 2022~~ January 17, 2022
 
 **Notification of acceptance:** April 7, 2022
 

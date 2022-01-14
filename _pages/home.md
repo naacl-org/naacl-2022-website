@@ -44,7 +44,7 @@ For all submissions, use the [ARR template](https://aclrollingreview.org/cfp#pap
 </style>
 
 | Latest submission to ARR for [Main Conference papers](/calls/papers/) | Saturday | January 15, 2022 |
-| Submission deadline for [Industry Track papers](/calls/industry/) | Saturday | January 15, 2022 |
+| Submission deadline for [Industry Track papers](/calls/industry/) | Monday | January 17, 2022 |
 | Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Thursday | January 20, 2022 |
 | Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Sunday | January 30, 2022 |
 | Submission deadline for [System Demonstrations](/calls/demos/) | Friday | February 11, 2022 |

@@ -15,6 +15,9 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+The Industry Track submission deadline has been extended to January 17, 2022.
+{: .notice--info}
+
 <div markdown="1" class="notice--warning">
 **The Jan 15 deadline for submitting papers to NAACL 2022 is approaching!** Where to submit?
 

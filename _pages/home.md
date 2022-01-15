@@ -30,7 +30,8 @@ The Industry Track submission deadline has been extended to January 17, 2022.
 For all submissions, use the [ARR template](https://aclrollingreview.org/cfp#paper-submission-and-templates). Check the [Call for Papers](https://2022.naacl.org/calls/papers/) for details. 
 </div>
 
-| Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I chairs on Publication Accessibility, Quality, and Inclusivity.
+| Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
+| Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I Chairs on Publication Accessibility, Quality, and Inclusivity.
 | Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).
 | Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
 | Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).

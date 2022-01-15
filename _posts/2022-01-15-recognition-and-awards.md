@@ -22,12 +22,10 @@ will be recognized as part of the NAACL 2022 team. In particular, we would like 
 - Graham Neubig, Dhruv Naik and Nils Dycke, as ARR Tech Team for NAACL 2022
 - Celeste Martinez Gomez, Melisa Bok, and Nadia L'Bahy, as OpenReview Tech Team for NAACL 2022.
 
-## NAACL 2022 Best Reviewer Awards
-
+**NAACL 2022 Best Reviewer Awards**<br>
 NAACL 2022 will recognize outstanding contributions by reviewers. The award will acknowledge the quality of reviews as judged by Action Editors and Senior Area Chairs. The criteria include constructive and thorough reviews submitted on time, engagement in the reviewers’ discussion if initiated by the Action Editor, and availability for emergency reviewing. All reviewers who served in ARR for the December and January cycles will be considered for the Best Reviewer Award for NAACL 2022.
 
-## NAACL 2022 Best Area Chair Awards
-
+**NAACL 2022 Best Area Chair Awards**<br>
 NAACL 2022 will also recognize outstanding contributions from Area Chairs, as judged by the Senior Area Chairs. The criteria include meta-reviews submitted on time, engagement with reviewers, and availability for emergency meta-reviews. All Action Editors in the ARR December and January cycles will be considered for the Best Area Chair Award for NAACL 2022.
 
 Thank you to everyone working with us to make NAACL 2022 a success!

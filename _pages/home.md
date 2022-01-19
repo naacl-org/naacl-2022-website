@@ -15,7 +15,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
-The Industry Track submission deadline has been extended to January 17, 2022.
+Affinity Group Workshop Proposals have been extended to January 31, 2022. The Industry Track submission deadline has been extended to January 17, 2022.
 {: .notice--info}
 
 <div markdown="1" class="notice--warning">
@@ -49,8 +49,8 @@ For all submissions, use the [ARR template](https://aclrollingreview.org/cfp#pap
 
 | Latest submission to ARR for [Main Conference papers](/calls/papers/) | Saturday | January 15, 2022 |
 | Submission deadline for [Industry Track papers](/calls/industry/) | Monday | January 17, 2022 |
-| Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Thursday | January 20, 2022 |
-| Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Sunday | January 30, 2022 |
+| Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Monday | January 31, 2022 |
+| Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Monday | January 31, 2022 |
 | Submission deadline for [System Demonstrations](/calls/demos/) | Friday | February 11, 2022 |
 | Commitment deadline for NAACL 2022 | Friday | March 4, 2022 |
 | Submission deadline for [Student Research Workshop papers](/calls/srw/) | Friday | March 25, 2022 |

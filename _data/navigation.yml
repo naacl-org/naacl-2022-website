@@ -66,6 +66,8 @@ calls:
         url: /calls/demos/
       - title: "Student Research Workshop Papers"
         url: /calls/srw/
+      - title: "Affinity Group Workshop Proposals"
+        url: /calls/affinity-workshops/
       - title: "Workshop Pre-submission Mentoring"
         url: /calls/workshop-mentoring/
       - title: "Tutorials"

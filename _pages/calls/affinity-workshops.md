@@ -79,7 +79,7 @@ The proposals can include the following (the following are recommended, but you 
 
 Depending on the budget, NAACL D&I can fund some of the organizational budget of workshops and provide travel grants and registration waivers to the authors and organizers.
 
-You can send the proposal to the NAACL D&I team ([naacl-2022-dei-chairs@googlegroups.com](mailto:naacl-2022-dei-chairs@googlegroups.com)) in the form of a PDF file by Jan 20. 
+You can send the proposal to the NAACL D&I team ([naacl-2022-dei-chairs@googlegroups.com](mailto:naacl-2022-dei-chairs@googlegroups.com)) in the form of a PDF file by Jan 31. If in case you are unable to submit by Jan 31, please inform us and express your interest, so we can make room and budget arrangments for your workshop.
 
 
 ## Notes On NAACL 2022 Arrangements

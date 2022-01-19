@@ -74,7 +74,7 @@ Multiple submission policies may be different across workshops. Some workshops m
 
 ## Important Dates
 
-* **Jan 30:** Deadline to fill out registration form (for both mentors and mentees)
+* **Jan 31:** Deadline to fill out registration form (for both mentors and mentees)
   * Mentees, please note that you **need to submit a brief abstract** to be matched
 * **Feb 8:** Introductory emails sent out to mentors and mentees
 * **Mar 8:** Midway check-in

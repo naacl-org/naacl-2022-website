@@ -22,11 +22,11 @@ sidebar:
    institution="University of Mannheim"
 %}
 
-### ARR Technical Team
+## ARR Technical Team
 
 {% include committee-member.html
    name="Graham Neubig"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/graham_neubig.jpg"
    site="http://www.phontron.com/"
    institution="Carnegie Mellon University"
 %}
@@ -43,7 +43,7 @@ sidebar:
    institution="Technische Universität Darmstadt"
 %}
 
-### Technical Staff
+## Technical Staff
 
 {% include committee-member.html
    name="Elijah Rippeth"

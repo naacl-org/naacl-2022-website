@@ -47,7 +47,7 @@ sidebar:
 
 {% include committee-member.html
    name="Elijah Rippeth"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/elijah_rippeth.jpg"
    site="https://erip.github.io/"
    institution="University of Maryland"
 %}

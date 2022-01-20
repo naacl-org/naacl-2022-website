@@ -132,3 +132,5 @@ committees:
       #  url: /ethics/committee/
       - title: "Diversity & Inclusion Committee"
         url: /committees/diversity-inclusion/
+      - title: "Technical Team"
+        url: /committees/technical-team/

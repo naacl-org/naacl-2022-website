@@ -38,7 +38,7 @@ sidebar:
 %}
 {% include committee-member.html
    name="Nils Dycke"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/nils_dycke.jpg"
    site="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/ukp_home_content_staff_1_details_109248.en.jsp"
    institution="Technische Universität Darmstadt"
 %}

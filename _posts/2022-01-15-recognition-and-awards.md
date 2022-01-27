@@ -18,7 +18,7 @@ will be recognized as NAACL 2022 Reviewers and Area Chairs. All ACL Rolling Revi
 **ARR and OpenReview team members**
 will be recognized as part of the NAACL 2022 team. In particular, we would like to thank:
 
-- Amanda Stent and Goran Glavas, as ARR Editors-in-Chief for NAACL 2022
+- Amanda Stent and Goran Glavaš, as ARR Editors-in-Chief for NAACL 2022
 - Graham Neubig, Dhruv Naik and Nils Dycke, as ARR Tech Team for NAACL 2022
 - Celeste Martinez Gomez, Melisa Bok, and Nadia L'Bahy, as OpenReview Tech Team for NAACL 2022.
 

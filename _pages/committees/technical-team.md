@@ -16,8 +16,8 @@ sidebar:
    institution="Colby College"
 %}
 {% include committee-member.html
-   name="Goran Glavas"
-   picture="/assets/images/committee/books.jpg"
+   name="Goran Glavaš"
+   picture="/assets/images/committee/goran_glavas.jpg"
    site="https://www.uni-mannheim.de/dws/people/professors/prof-dr-goran-glavas/"
    institution="University of Mannheim"
 %}

@@ -14,3 +14,8 @@ program-chairs:
   name        : "Program Chairs"
   bio         : "Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz"
   avatar      : "assets/images/logos/acl-logo.png"
+
+reproducibility-chairs:
+  name        : "Reproducibility Chairs"
+  bio         : "Daniel Deutsch, Yash Kumar Lal, Annie Louis, Pete Walsh, Jesse Dodge, Niranjan Balasubramanian"
+  avatar      : "assets/images/logos/acl-logo.png"

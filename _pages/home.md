@@ -18,6 +18,7 @@ secondary_excerpt: "July 10--15, 2022"
 **Affinity Group Workshop Proposals** have been extended to **January 31, 2022**.<br>
 {: .notice--info .text-center}
 
+| Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
 | Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
 | Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I Chairs on Publication Accessibility, Quality, and Inclusivity.
 | Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).

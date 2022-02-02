@@ -12,8 +12,8 @@ main:
   #- title: "Participants Info"
   #  url: /participants/presenters/
 
-  #- title: "Sponsors"
-  #  url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
 
   #- title: "Registration"
   #  url: /registration/

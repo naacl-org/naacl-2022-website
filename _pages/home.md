@@ -15,8 +15,8 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
-**Affinity Group Workshop Proposals** have been extended to **January 31, 2022**.<br>
-{: .notice--info .text-center}
+**NAACL 2022 commitment site and guidelines about committing your ARR paper (with reviews and meta-reviews) coming soon.**
+{: .notice--warning .text-center}
 
 | Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
 | Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
@@ -38,7 +38,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 | ~~Latest submission to ARR for [Main Conference papers](/calls/papers/)~~ | ~~Saturday~~ | ~~January 15, 2022~~ |
 | ~~Submission deadline for [Industry Track papers](/calls/industry/)~~ | ~~Monday~~ | ~~January 17, 2022~~ |
-| Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/) | Monday | January 31, 2022 |
+| ~~Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/)~~ | ~~Monday~~ | ~~January 31, 2022~~ |
 | Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Monday | February 4, 2022 |
 | Submission deadline for [System Demonstrations](/calls/demos/) | Friday | February 11, 2022 |
 | Commitment deadline for NAACL 2022 | Friday | March 4, 2022 |

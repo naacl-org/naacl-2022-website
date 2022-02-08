@@ -222,6 +222,12 @@ toc_sticky: true
    site="https://danieldeutsch.github.io/"
    institution="University of Pennsylvania"
 %}
+{% include committee-member.html
+   name="Yash Kumar Lal"
+   picture="/assets/images/committee/books.jpg"
+   site="https://www3.cs.stonybrook.edu/~ylal/"
+   institution="Stony Brook University"
+%}
 
 ## Sponsorship Chair
 {% include committee-member.html

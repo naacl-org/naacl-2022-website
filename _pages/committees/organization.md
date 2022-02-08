@@ -224,7 +224,7 @@ toc_sticky: true
 %}
 {% include committee-member.html
    name="Yash Kumar Lal"
-   picture="/assets/images/committee/books.jpg"
+   picture="/assets/images/committee/yash_lai.jpg"
    site="https://www3.cs.stonybrook.edu/~ylal/"
    institution="Stony Brook University"
 %}

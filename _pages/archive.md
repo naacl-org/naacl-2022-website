@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; }
 </style>
 
+| Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
+| Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
 | Dec 9, 2021 | [Blogpost](/blog/responsible-nlp-research-checklist/) by the program chairs on the Responsible NLP Research checklist.
 | Dec 9, 2021 | Added the [Call for Student Research Workshop Papers](/calls/srw/).
 | Dec 7, 2021 | [Blogpost](/blog/submissions/) by the program chairs on submitting papers to NAACL. 

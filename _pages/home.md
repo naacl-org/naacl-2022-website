@@ -15,15 +15,16 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
-**NAACL 2022 commitment site and guidelines about committing your ARR paper (with reviews and meta-reviews) coming soon.**
+**The [NAACL 2022 Commitment site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference)
+is open and accepting commitments for main conference papers until <span style="color:darkred">Friday March 4 2022</span> 11:59PM UTC-12 (Anywhere on Earth).
+See [Commitment FAQ](/blog/commitment-faq/) for details.**
 {: .notice--warning .text-center}
 
+| Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: [NAACL 2022 paper commitment site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference) is open
 | Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
 | Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
 | Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I Chairs on Publication Accessibility, Quality, and Inclusivity.
 | Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).
-| Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
-| Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->
@@ -39,8 +40,8 @@ secondary_excerpt: "July 10--15, 2022"
 | ~~Latest submission to ARR for [Main Conference papers](/calls/papers/)~~ | ~~Saturday~~ | ~~January 15, 2022~~ |
 | ~~Submission deadline for [Industry Track papers](/calls/industry/)~~ | ~~Monday~~ | ~~January 17, 2022~~ |
 | ~~Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/)~~ | ~~Monday~~ | ~~January 31, 2022~~ |
-| Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees) | Monday | February 4, 2022 |
-| Submission deadline for [System Demonstrations](/calls/demos/) | Friday | February 11, 2022 |
+| ~~Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees)~~ | ~~Monday~~ | ~~February 4, 2022~~ |
+| ~~Submission deadline for [System Demonstrations](/calls/demos/)~~ | ~~Friday~~ | ~~February 11, 2022~~ |
 | Commitment deadline for NAACL 2022 | Friday | March 4, 2022 |
 | Submission deadline for [Student Research Workshop papers](/calls/srw/) | Friday | March 25, 2022 |
 | Notification of acceptance | Thursday | April 7, 2022 |

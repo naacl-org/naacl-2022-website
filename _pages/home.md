@@ -17,7 +17,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 **The [NAACL 2022 Commitment site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference)
 is open and accepting commitments for main conference papers until <span style="color:darkred">Friday March 4 2022</span> 11:59PM UTC-12 (Anywhere on Earth).
-See [Commitment FAQ](/blog/commitment-faq/) for details.**
+See [Commitment FAQ](/blog/commitment-faq/) and the [ARR January cycle timeline](https://aclrollingreview.org/Modified-timeline-January/) for details. **
 {: .notice--warning .text-center}
 
 | Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: NAACL 2022 paper commitment site is open

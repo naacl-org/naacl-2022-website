@@ -20,6 +20,6 @@ We would like to draw your attention to the following policies regarding commitm
 
 * **Submissions should respect the anonymity period.** Following [policies of the Association for Computational Linguistics](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation), NAACL requires submissions to be anonymized. A submission will not be considered anonymized if the authors post (or update) a non-anonymized preprint within an anonymity period lasting from 1 month before the submission deadline until the time of notification. Submissions will be rejected if not properly anonymized.
 
-* **Do not commit special theme papers.** Submissions to the NAACL special theme that are currently under review on the NAACL 2022 Open Review site are already under consideration by NAACL. Double submissions to the special theme and to the commitment site will both be rejected.
+* **Do not commit special theme papers.** Submissions to the NAACL special theme that are currently under review on the NAACL 2022 Open Review site are already under consideration by NAACL. The reviews for these papers will be released with the acceptance notification. Double submissions to the special theme and to the commitment site will both be rejected."
 
 

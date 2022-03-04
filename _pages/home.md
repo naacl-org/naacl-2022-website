@@ -15,9 +15,10 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
-**The [NAACL 2022 Commitment site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference)
-is open and accepting commitments for main conference papers until <span style="color:darkred">Friday March 4 2022</span> 11:59PM UTC-12 (Anywhere on Earth).
-See [Commitment FAQ](/blog/commitment-faq/) and the [ARR January cycle timeline](https://aclrollingreview.org/Modified-timeline-January/) for details.**
+**The [NAACL 2022 Commitment site](https://openreview.net/group?id=aclweb.org/NAACL/2022/Conference) is open and accepting commitments for main conference papers until**
+**<span style="color:darkred">Sunday March 6 2022</span> 11:59PM UTC-12 (Anywhere on Earth)**
+(extended from the original Friday March 4 2022 deadline).<br>
+See [Commitment FAQ](/blog/commitment-faq/) and the [ARR January cycle timeline](https://aclrollingreview.org/Modified-timeline-January/) for details.
 {: .notice--warning .text-center}
 
 | Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: NAACL 2022 paper commitment site is open
@@ -42,7 +43,7 @@ See [Commitment FAQ](/blog/commitment-faq/) and the [ARR January cycle timeline]
 | ~~Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/)~~ | ~~Monday~~ | ~~January 31, 2022~~ |
 | ~~Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees)~~ | ~~Monday~~ | ~~February 4, 2022~~ |
 | ~~Submission deadline for [System Demonstrations](/calls/demos/)~~ | ~~Friday~~ | ~~February 11, 2022~~ |
-| [Commitment](/blog/commitment-faq/) deadline for NAACL 2022 | Friday | March 4, 2022 |
+| [Commitment](/blog/commitment-faq/) deadline for NAACL 2022 | Sunday | March 6, 2022 |
 | Submission deadline for [Student Research Workshop papers](/calls/srw/) | Friday | March 25, 2022 |
 | Notification of acceptance | Thursday | April 7, 2022 |
 | Withdrawal deadline | Monday | April 11, 2022 |

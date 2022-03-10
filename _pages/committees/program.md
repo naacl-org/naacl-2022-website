@@ -11,7 +11,7 @@ sidebar:
 **SACs:** David Bamman, Svitlana Volkova
 
 ### Dialogue and Interactive systems
-**SACs:** Nina Dethlefs, Michel Galley, Kallirroi Georgila
+**SACs:** Nina Dethlefs, Michel Galley, Kallirroi Georgila, Heriberto Cuayáhuitl
 
 ### Discourse and Pragmatics
 **SACs:** Viviane  Moreira, Nafise  Sadat Moosavi
@@ -35,13 +35,13 @@ sidebar:
 **SACs:** Snigdha Chaturvedi, Shashi Narayan, Michael White
 
 ### Language Grounding to Vision, Robotics and Beyond
-**SACs:** Peter Anderson, Heriberto Cuayáhuitl, Parisa Kordjamshidi
+**SACs:** Peter Anderson, Parisa Kordjamshidi
 
 ### Language Resources and Evaluation
-**SACs:** Pradeep Dasigi, Annemarie Friedrich
+**SACs:** Pradeep Dasigi, Annemarie Friedrich, Sebastian  Schuster
 
 ### Linguistic Theories, Cognitive Modeling and Psycholinguistics
-**SACs:** Allyson Ettinger, Raquel Fernandez, Sebastian  Schuster
+**SACs:** Allyson Ettinger, Raquel Fernandez
 
 ### Machine Learning for NLP: Classification and Structured Prediction Models
 **SACs:** He He, Wei Xu

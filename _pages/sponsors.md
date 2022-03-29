@@ -19,11 +19,19 @@ diamond:
     image_path: /assets/images/logos/Meta.jpg
     alt: Meta
     title: Meta
+  - url: https://www.bloomberg.com/
+    image_path: /assets/images/logos/Bloomberg.png
+    alt: Bloomberg
+    title: Bloomberg
 platinum:
   - url: https://machinelearning.apple.com
     image_path: /assets/images/logos/Apple.png
     alt: Apple
     title: Apple
+  - url: https://www.microsoft.com/en-ca/
+    image_path: /assets/images/logos/Microsoft.png
+    alt: Microsoft
+    title: Microsoft
   - url: https://megagon.ai
     image_path: /assets/images/logos/Megagon.png
     alt: Megagon
@@ -41,11 +49,19 @@ gold:
     image_path: /assets/images/logos/ServiceNow.jpeg
     alt: ServiceNow
     title: ServiceNow
-  - url: https://www.nuveen.com/en-us/
-    image_path: /assets/images/logos/Nuveen.png
-    alt: Nuveen
-    title: Nuveen
+  - url: https://www.nuveen.com/en-us/about-us/profiles/j/tiaa-jemd
+    image_path: /assets/images/logos/TIAA.png
+    alt: TIAA
+    title: TIAA
 silver:
+  - url: https://www.asapp.com/
+    image_path: /assets/images/logos/ASAPP.png
+    alt: ASAPP
+    title: ASAPP
+  - url: https://www.duolingo.com/learn/
+    image_path: /assets/images/logos/Duolingo.png
+    alt: Duolingo
+    title: Duolingo
 bronze:
   - url: https://research.adobe.com/
     image_path: /assets/images/logos/Adobe.png

@@ -4,7 +4,7 @@ main:
   #  url: "https://underline.io/events/122/reception"
 
   - title: "Program"
-    url: /program/
+    subnav: program
 
   - title: "Blog"
     url: /blog/
@@ -19,7 +19,7 @@ main:
   #  url: /registration/
 
   - title: "Calls"
-    url: /calls/
+    subnav: calls
 
   #- title: "Ethics"
   #  url: /ethics/faq/
@@ -34,7 +34,7 @@ main:
   #  url: /faq/
 
   - title: "Committees"
-    url: /committees/organization/
+    subnav: committees
 
 
 program:

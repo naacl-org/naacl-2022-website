@@ -14,6 +14,8 @@ $(function() {
   var $logoImg = $('nav.greedy-nav .site-logo img');
   var $title = $("nav.greedy-nav .site-title");
   var $search = $('nav.greedy-nav button.search__toggle');
+  var $droppable = $('nav.greedy-nav .greedy-nav__droppable');
+  var $subnav = $('nav.greedy-nav .greedy-nav__subnav');
 
   var numOfItems, totalSpace, closingTime, breakWidths;
 
@@ -103,15 +105,28 @@ $(function() {
     clearTimeout(timer);
   });
 
-  $hlinks.on('mouseleave', function() {
-    // Mouse has left, start the timer
-    timer = setTimeout(function() {
-      $hlinks.addClass('hidden');
-    }, closingTime);
-  }).on('mouseenter', function() {
-    // Mouse is back, cancel the timer
-    clearTimeout(timer);
-  })
+  // Ice: Not sure why we need a timer here.
+  // $hlinks.on('mouseleave', function() {
+  //   // Mouse has left, start the timer
+  //   timer = setTimeout(function() {
+  //     $hlinks.addClass('hidden');
+  //   }, closingTime);
+  // }).on('mouseenter', function() {
+  //   // Mouse is back, cancel the timer
+  //   clearTimeout(timer);
+  // })
+
+  $droppable.on('click', function () {
+    console.log($(this).next('.greedy-nav__subnav'));
+    let isClosed = $(this).next('.greedy-nav__subnav').hasClass('hidden');
+    $subnav.addClass('hidden');
+    if (isClosed) $(this).next('.greedy-nav__subnav').removeClass('hidden');
+    return false;
+  });
+
+  $('body').on('click', function () {
+    $subnav.addClass('hidden');
+  });
 
   // check if page has a logo
   if($logoImg.length !== 0){

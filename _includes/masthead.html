@@ -17,7 +17,20 @@
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              {% if site.data.navigation contains link.subnav %}
+                <a class="greedy-nav__droppable" href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }} <i class="fa fa-caret-down"></i></a>
+                <ul class="greedy-nav__subnav hidden">
+                  {%- for subgroup in site.data.navigation[link.subnav] -%}
+                  {%- for subitem in subgroup.children -%}
+                  <li class="masthead__menu-subitem">
+                    <a href="{{ subitem.url | relative_url }}"{% if subitem.description %} title="{{ subitem.description }}"{% endif %}>{{ subitem.title }}</a>
+                  </li>
+                  {%- endfor -%}
+                  {%- endfor -%}
+                </ul>
+              {% else %}
+                <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              {% endif %}
             </li>
           {%- endfor -%}
         </ul>

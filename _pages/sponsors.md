@@ -75,6 +75,11 @@ bronze:
     image_path: /assets/images/logos/HLTCOE.png
     alt: Human Language Technology Center of Excellence
     title: Human Language Technology Center of Excellence
+di_champion:
+  - url: https://www.microsoft.com/en-ca/
+    image_path: /assets/images/logos/Microsoft.png
+    alt: Microsoft
+    title: Microsoft
 ---
 
 NAACL 2022 is extremely grateful to all sponsors, who are listed below. We simply couldn't run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.

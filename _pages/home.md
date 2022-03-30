@@ -15,15 +15,10 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
-**Some authors submitted both to the ARR February cycle and committed to NAACL 2022 when this was not allowed.**<br>
-If you did so, to avoid being desk-rejected from both venues, you need to react by **<span style="color:darkred">Friday March 11</span>**, by emailing both ARR (<editors@aclrollingreview.org>) and the NAACL 2022 PCs (<naacl-2022-program-chairs@googlegroups.com>) with your choice: either stay submitted to ARR or stay committed to NAACL 2022. Note that papers committed to NAACL 2022 cannot be submitted to ARR in March! 
-{: .notice--warning .text-center}
-
+| Mar 29, 2022 | [The list of accepted workshops at NAACL 2022](/program/workshops/) is announced.
 | Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: NAACL 2022 paper commitment site is open
 | Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
 | Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
-| Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I Chairs on Publication Accessibility, Quality, and Inclusivity.
-| Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->
@@ -42,7 +37,7 @@ If you did so, to avoid being desk-rejected from both venues, you need to react 
 | ~~Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees)~~ | ~~Monday~~ | ~~February 4, 2022~~ |
 | ~~Submission deadline for [System Demonstrations](/calls/demos/)~~ | ~~Friday~~ | ~~February 11, 2022~~ |
 | ~~[Commitment](/blog/commitment-faq/) deadline for NAACL 2022~~ | ~~Sunday~~ | ~~March 6, 2022~~ |
-| Submission deadline for [Student Research Workshop papers](/calls/srw/) | Friday | March 25, 2022 |
+| ~~Submission deadline for [Student Research Workshop papers](/calls/srw/)~~ | ~~Friday~~ | ~~March 25, 2022~~ |
 | Notification of acceptance | Thursday | April 7, 2022 |
 | Withdrawal deadline | Monday | April 11, 2022 |
 | Camera-ready version due | Tuesday | May 3, 2022 |

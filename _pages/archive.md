@@ -8,9 +8,11 @@ toc: false
 
 <style>
 .news-table { font-size: .9em; }
-.news-table tr td:nth-child(1) { font-weight: bold; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I Chairs on Publication Accessibility, Quality, and Inclusivity.
+| Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).
 | Dec 23, 2021 | Added the [Calls for Affinity Group Workshops](/calls/affinity-workshops/).
 | Dec 21, 2021 | Added the Call for mentors and mentees for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/).
 | Dec 9, 2021 | [Blogpost](/blog/responsible-nlp-research-checklist/) by the program chairs on the Responsible NLP Research checklist.

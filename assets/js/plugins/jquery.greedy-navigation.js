@@ -116,16 +116,25 @@ $(function() {
   //   clearTimeout(timer);
   // })
 
-  $droppable.on('click', function () {
-    console.log($(this).next('.greedy-nav__subnav'));
-    let isClosed = $(this).next('.greedy-nav__subnav').hasClass('hidden');
+  function closeAllSubnavs() {
+    $droppable.removeClass('greedy-nav__subnav-opened');
     $subnav.addClass('hidden');
-    if (isClosed) $(this).next('.greedy-nav__subnav').removeClass('hidden');
-    return false;
-  });
+  }
+  $('body').on('click', closeAllSubnavs);
 
-  $('body').on('click', function () {
-    $subnav.addClass('hidden');
+  $droppable.on('click', function () {
+    let isClosed = $(this).next('.greedy-nav__subnav').hasClass('hidden');
+    closeAllSubnavs();
+    if (isClosed) {
+      // if the subnav was closed, open it
+      $(this).addClass('greedy-nav__subnav-opened');
+      let subnav = $(this).next('.greedy-nav__subnav');
+      subnav.removeClass('hidden');
+      // reposition to avoid clipping
+      let isOverflowing = ($(this).offset().left + subnav.outerWidth() > $(window).width());
+      subnav.css('right', isOverflowing ? 0 : '');
+    }
+    return false;
   });
 
   // check if page has a logo

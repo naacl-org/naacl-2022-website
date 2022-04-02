@@ -236,6 +236,7 @@
 
     > li > a {
       position: relative;
+      outline: none;
 
       &:before {
         content: "";
@@ -251,7 +252,7 @@
         transform: scaleX(0) translate3d(0, 0, 0); // hide
       }
 
-      &:hover:before {
+      &:hover:before, &.greedy-nav__subnav-opened:before {
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
@@ -303,8 +304,9 @@
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      outline: none;
 
-      &:hover {
+      &:hover, &.greedy-nav__subnav-opened {
         color: $masthead-link-color-hover;
         background: $navicon-link-color-hover;
       }
@@ -346,8 +348,11 @@
     }
 
     ul {
-      margin-left: 20px;
-      border-left: 2px solid $border-color;
+      padding: 0;
+      margin: 0 2px;
+      background-color: #fff;
+      border: 1px solid $border-color;
+      border-radius: $border-radius;
     }
   }
 }

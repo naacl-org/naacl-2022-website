@@ -18,7 +18,7 @@
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               {% if site.data.navigation contains link.subnav %}
-                <a class="greedy-nav__droppable" href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }} <i class="fa fa-caret-down"></i></a>
+                <div class="greedy-nav__droppable fake-a"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }} <i class="fa fa-caret-down"></i></div>
                 <ul class="greedy-nav__subnav hidden">
                   {%- for subgroup in site.data.navigation[link.subnav] -%}
                   {%- for subitem in subgroup.children -%}

@@ -120,7 +120,11 @@ $(function() {
     $droppable.removeClass('greedy-nav__subnav-opened');
     $subnav.addClass('hidden');
   }
-  $('body').on('click', closeAllSubnavs);
+
+  $('body').on('click', function (e) {
+    if ($(e.target).hasClass('greedy-nav__droppable')) return;
+    closeAllSubnavs();
+  });
 
   $droppable.on('click', function () {
     let isClosed = $(this).next('.greedy-nav__subnav').hasClass('hidden');
@@ -134,7 +138,6 @@ $(function() {
       let isOverflowing = ($(this).offset().left + subnav.outerWidth() > $(window).width());
       subnav.css('right', isOverflowing ? 0 : '');
     }
-    return false;
   });
 
   // check if page has a logo

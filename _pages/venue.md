@@ -2,10 +2,12 @@
 title: Venue
 layout: single
 permalink: /venue/
-toc: false
+toc: true
 ---
 
-The NAACL-HLT 2022 conference will be held in Seattle, Washington.
+## Conference Venue
+
+The NAACL-HLT 2022 conference will be held at [**Hyatt Regency Seattle**](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) (808 Howell Street, Seattle, Washington, United States, 98101).
 
 ## Recommended Attractions and Activities
 

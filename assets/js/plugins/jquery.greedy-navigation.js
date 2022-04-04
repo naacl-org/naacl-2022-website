@@ -122,11 +122,11 @@ $(function() {
   }
 
   $('body').on('click', function (e) {
-    if ($(e.target).hasClass('greedy-nav__droppable')) return;
+    if ($(e.target).closest('.greedy-nav__droppable').length) return;
     closeAllSubnavs();
   });
 
-  $droppable.on('click', function () {
+  $droppable.on('click', function (e) {
     let isClosed = $(this).next('.greedy-nav__subnav').hasClass('hidden');
     closeAllSubnavs();
     if (isClosed) {
@@ -138,6 +138,7 @@ $(function() {
       let isOverflowing = ($(this).offset().left + subnav.outerWidth() > $(window).width());
       subnav.css('right', isOverflowing ? 0 : '');
     }
+    e.preventDefault();   // don't go to the URL in href
   });
 
   // check if page has a logo

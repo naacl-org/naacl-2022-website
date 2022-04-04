@@ -179,14 +179,13 @@
   min-height: $nav-height;
   background: $background-color;
 
-  a, div.fake-a {
+  a {
     display: block;
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
-    cursor: pointer;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -235,7 +234,7 @@
       flex: none;
     }
 
-    > li > a, > li > div.fake-a {
+    > li > a {
       position: relative;
       outline: none;
 
@@ -271,7 +270,7 @@
         0 2px 10px 0 rgba(#000, 0.12);
       box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
 
-      a, div.fake-a {
+      a {
         margin: 0;
         padding: 10px 20px;
         font-size: $type-size-5;
@@ -301,7 +300,7 @@
       display: none;
     }
 
-    a, div.fake-a {
+    a {
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;

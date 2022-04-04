@@ -7,6 +7,10 @@ toc: true
 toc_sticky: true
 toc_label: "&nbsp;Sponsorship Tier"
 diamond:
+  - url: https://research.google
+    image_path: /assets/images/logos/Google.png
+    alt: Google
+    title: Google
   - url: https://www.amazon.science
     image_path: /assets/images/logos/Amazon.png
     alt: Amazon

@@ -14,6 +14,8 @@ $(function() {
   var $logoImg = $('nav.greedy-nav .site-logo img');
   var $title = $("nav.greedy-nav .site-title");
   var $search = $('nav.greedy-nav button.search__toggle');
+  var $droppable = $('nav.greedy-nav .greedy-nav__droppable');
+  var $subnav = $('nav.greedy-nav .greedy-nav__subnav');
 
   var numOfItems, totalSpace, closingTime, breakWidths;
 
@@ -103,15 +105,41 @@ $(function() {
     clearTimeout(timer);
   });
 
-  $hlinks.on('mouseleave', function() {
-    // Mouse has left, start the timer
-    timer = setTimeout(function() {
-      $hlinks.addClass('hidden');
-    }, closingTime);
-  }).on('mouseenter', function() {
-    // Mouse is back, cancel the timer
-    clearTimeout(timer);
-  })
+  // Ice: Not sure why we need a timer here.
+  // $hlinks.on('mouseleave', function() {
+  //   // Mouse has left, start the timer
+  //   timer = setTimeout(function() {
+  //     $hlinks.addClass('hidden');
+  //   }, closingTime);
+  // }).on('mouseenter', function() {
+  //   // Mouse is back, cancel the timer
+  //   clearTimeout(timer);
+  // })
+
+  function closeAllSubnavs() {
+    $droppable.removeClass('greedy-nav__subnav-opened');
+    $subnav.addClass('hidden');
+  }
+
+  $('body').on('click', function (e) {
+    if ($(e.target).closest('.greedy-nav__droppable').length) return;
+    closeAllSubnavs();
+  });
+
+  $droppable.on('click', function (e) {
+    let isClosed = $(this).next('.greedy-nav__subnav').hasClass('hidden');
+    closeAllSubnavs();
+    if (isClosed) {
+      // if the subnav was closed, open it
+      $(this).addClass('greedy-nav__subnav-opened');
+      let subnav = $(this).next('.greedy-nav__subnav');
+      subnav.removeClass('hidden');
+      // reposition to avoid clipping
+      let isOverflowing = ($(this).offset().left + subnav.outerWidth() > $(window).width());
+      subnav.css('right', isOverflowing ? 0 : '');
+    }
+    e.preventDefault();   // don't go to the URL in href
+  });
 
   // check if page has a logo
   if($logoImg.length !== 0){

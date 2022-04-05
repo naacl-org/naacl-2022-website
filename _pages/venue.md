@@ -9,7 +9,7 @@ toc: true
 
 The NAACL-HLT 2022 conference will be held at [**Hyatt Regency Seattle**](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) (808 Howell Street, Seattle, Washington, United States, 98101).
 
-## Recommended Attractions and Activities
+## Native Businesses in Seattle
 
 Below are some of our recommended Native businesses in Seattle:
 
@@ -24,6 +24,8 @@ Below are some of our recommended Native businesses in Seattle:
 
 * [Salish Sea Tours](https://www.salishseatours.com/) as featured in [this news article](https://www.thenewstribune.com/news/state/washington/article252380503.html)
 * [Indigenous Walking Tour of the University of Washington campus](https://www.washington.edu/news/2021/09/22/get-to-know-the-uw-campus-with-indigenous-walking-tour/)
+
+## Queer-friendly Neighborhoods, Attractions & Businesses
 
 Below are some of our recommended queer-friendly neighborhoods, attractions, and businesses in and near Seattle, Washington.
 

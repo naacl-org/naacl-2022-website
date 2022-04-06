@@ -31,13 +31,6 @@ secondary_excerpt: "July 10--15, 2022"
 .dates-table del { color: #888; }
 </style>
 
-| ~~Latest submission to ARR for [Main Conference papers](/calls/papers/)~~ | ~~Saturday~~ | ~~January 15, 2022~~ |
-| ~~Submission deadline for [Industry Track papers](/calls/industry/)~~ | ~~Monday~~ | ~~January 17, 2022~~ |
-| ~~Submission deadline for [Affinity Group Workshops](/calls/affinity-workshops/)~~ | ~~Monday~~ | ~~January 31, 2022~~ |
-| ~~Sign-up deadline for the [Workshop Pre-submission Mentoring Program](/calls/workshop-mentoring/)<br>(for both mentors and mentees)~~ | ~~Monday~~ | ~~February 4, 2022~~ |
-| ~~Submission deadline for [System Demonstrations](/calls/demos/)~~ | ~~Friday~~ | ~~February 11, 2022~~ |
-| ~~[Commitment](/blog/commitment-faq/) deadline for NAACL 2022~~ | ~~Sunday~~ | ~~March 6, 2022~~ |
-| ~~Submission deadline for [Student Research Workshop papers](/calls/srw/)~~ | ~~Friday~~ | ~~March 25, 2022~~ |
 | Notification of acceptance | Thursday | April 7, 2022 |
 | Withdrawal deadline | ~~Monday~~ Tuesday | ~~April 11, 2022~~ April 12, 2022 |
 | Camera-ready version due | Tuesday | May 3, 2022 |

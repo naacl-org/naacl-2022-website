@@ -122,7 +122,10 @@ $(function() {
   }
 
   $('body').on('click', function (e) {
+    // Ignore the click if it's clicking in a menu.
     if ($(e.target).closest('.greedy-nav__droppable').length) return;
+    if ($(e.target).closest('.greedy-nav__subnav').length) return;
+    if ($(e.target).closest('.hidden-links').length) return;
     closeAllSubnavs();
   });
 

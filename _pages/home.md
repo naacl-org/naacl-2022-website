@@ -39,7 +39,7 @@ secondary_excerpt: "July 10--15, 2022"
 | ~~[Commitment](/blog/commitment-faq/) deadline for NAACL 2022~~ | ~~Sunday~~ | ~~March 6, 2022~~ |
 | ~~Submission deadline for [Student Research Workshop papers](/calls/srw/)~~ | ~~Friday~~ | ~~March 25, 2022~~ |
 | Notification of acceptance | Thursday | April 7, 2022 |
-| Withdrawal deadline | Monday | April 11, 2022 |
+| Withdrawal deadline | ~~Monday~~ Tuesday | ~~April 11, 2022~~ April 12, 2022 |
 | Camera-ready version due | Tuesday | May 3, 2022 |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}

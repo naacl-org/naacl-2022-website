@@ -9,6 +9,12 @@ toc: true
 
 The NAACL-HLT 2022 conference will be held at [**Hyatt Regency Seattle**](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) (808 Howell Street, Seattle, Washington, United States, 98101).
 
+## Accommodation
+
+In addition to the conference hotel (Hyatt Regency Seattle), there will be another student accommodation (**information TBA**).
+
+Attendees can also search for alternative lodging. With the lightrail running to North Seattle, areas such as Roosevelt, University District, and Capitol Hill are safe and commute-friendly neighborhoods to stay in.
+
 ## Native Businesses in Seattle
 
 Below are some of our recommended Native businesses in Seattle:

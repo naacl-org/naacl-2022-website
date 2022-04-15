@@ -47,8 +47,8 @@ program:
         url: /program/
       # - title: "Keynote Speakers"
       #   url: /program/keynotes/
-      # - title: "Tutorials"
-      #   url: /program/tutorials/
+      - title: "Tutorials"
+        url: /program/tutorials/
       - title: "Workshops"
         url: /program/workshops/
       # - title: "Accepted Papers"

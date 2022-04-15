@@ -10,4 +10,5 @@ sidebar:
 
 The conference program will be available once the schedule is finalized.
 
+* [List of accepted tutorials](/program/tutorials/)
 * [List of accepted workshops](/program/workshops/)

@@ -15,6 +15,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+| Apr 15, 2022 | The list of [accepted NAACL 2022 tutorials](/program/tutorials/) is announced.
 | Apr 12, 2022 | [Blogpost](/blog/authors-faq) by Program Chairs: FAQ for NAACL authors
 | Apr 12, 2022 | [Call for structured socials](/blog/structured-social/) is announced.
 | Mar 29, 2022 | [The list of accepted workshops at NAACL 2022](/program/workshops/) is announced.

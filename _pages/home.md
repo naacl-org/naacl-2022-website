@@ -15,13 +15,12 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
-| Apr 15, 2022 | The list of [accepted NAACL 2022 tutorials](/program/tutorials/) is announced.
+| Apr 15, 2022 | The list of [accepted tutorials](/program/tutorials/) is announced.
 | Apr 12, 2022 | [Blogpost](/blog/authors-faq) by Program Chairs: FAQ for NAACL authors
 | Apr 12, 2022 | [Call for structured socials](/blog/structured-social/) is announced.
-| Mar 29, 2022 | [The list of accepted workshops at NAACL 2022](/program/workshops/) is announced.
+| Mar 29, 2022 | The list of [accepted workshops](/program/workshops/) is announced.
 | Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: NAACL 2022 paper commitment site is open
 | Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
-| Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->

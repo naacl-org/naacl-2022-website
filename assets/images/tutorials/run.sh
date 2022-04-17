@@ -6,5 +6,11 @@ for x in raw/*; do
   y=$(basename $x)
   z=${y%.*}.jpg
   echo $x '-->' $z
-  convert $x -resize x100 -fill white -opaque none $z
+  w=$(identify -format "%w" $x)
+  h=$(identify -format "%h" $x)
+  if (( $w < $h )); then
+    convert $x -resize 100 -crop 100x100+0+0 -fill white -opaque none $z
+  else
+    convert $x -resize x100 -crop 100x100+0+0 -fill white -opaque none $z
+  fi
 done

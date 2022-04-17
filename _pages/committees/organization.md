@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 
 ## General Chair
-{% include committee-member.html
+{% include bio-box
    name="Dan Roth"
    picture="/assets/images/committee/dan_roth.jpg"
    site="https://www.cis.upenn.edu/~danroth/"
@@ -20,19 +20,19 @@ toc_sticky: true
 ## Program Chairs
 \[[email](mailto:naacl-2022-program-chairs@googlegroups.com)\]
 
-{% include committee-member.html
+{% include bio-box
    name="Marine Carpuat"
    picture="/assets/images/committee/marine_carpuat.jpg"
    site="https://www.cs.umd.edu/~marine/"
    institution="University of Maryland"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Marie-Catherine de Marneffe"
    picture="/assets/images/committee/marie_demarneffe.jpg"
    site="https://www.asc.ohio-state.edu/demarneffe.1/"
    institution="Ohio State University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Ivan Vladimir Meza Ruiz"
    picture="/assets/images/committee/ivan_meza.jpg"
    site="https://turing.iimas.unam.mx/~ivanvladimir/"
@@ -40,19 +40,19 @@ toc_sticky: true
 %}
 
 ## Industry Track Chairs
-{% include committee-member.html
+{% include bio-box
    name="Rashmi Gangadharaiah"
    picture="/assets/images/committee/rashmi_gangadharaiah.jpg"
    site="https://sites.google.com/view/rashmi-gangadharaiah"
    institution="Amazon"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Anastassia Loukina"
    picture="/assets/images/committee/aloukina.jpg"
    site="https://www.linkedin.com/in/aloukina/"
    institution="Grammarly"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Bonan Min"
    picture="/assets/images/committee/bonan_min.jpg"
    site="https://bnmin.github.io/"
@@ -61,13 +61,13 @@ toc_sticky: true
 
 <br>
 **Advisors for the Industry Track**
-{% include committee-member.html
+{% include bio-box
    name="Owen Rambow"
    picture="/assets/images/committee/books.jpg"
    site="https://owenrambow.com/"
    institution="Stony Brook University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Yunyao Li"
    picture="/assets/images/committee/yunyao_li.jpg"
    site="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli"
@@ -75,19 +75,19 @@ toc_sticky: true
 %}
 
 ## Tutorial Chairs
-{% include committee-member.html
+{% include bio-box
    name="Cecilia Alm"
    picture="/assets/images/committee/cecilia_alm.jpg"
    site="https://pht180.rit.edu/ceciliaovesdotteralm/"
    institution="Rochester Institute of Technology"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Miguel Ballesteros"
    picture="/assets/images/committee/miguel_ballesteros.jpg"
    site="http://miguelballesteros.com/"
    institution="Amazon"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Yulia Tsvetkov"
    picture="/assets/images/committee/yulia_tsvetkov.jpg"
    site="https://homes.cs.washington.edu/~yuliats/"
@@ -95,19 +95,19 @@ toc_sticky: true
 %}
 
 ## Demonstration Chairs
-{% include committee-member.html
+{% include bio-box
    name="Hannaneh Hajishirzi"
    picture="/assets/images/committee/books.jpg"
    site="https://homes.cs.washington.edu/~hannaneh/"
    institution="University of Washington"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Qiang Ning"
    picture="/assets/images/committee/qiang_ning.jpg"
    site="https://www.qiangning.info/"
    institution="Amazon"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Avi Sil"
    picture="/assets/images/committee/avi_sil.jpg"
    site="https://researcher.watson.ibm.com/researcher/view.php?person=us-avi"
@@ -115,19 +115,19 @@ toc_sticky: true
 %}
 
 ## Workshops Chairs
-{% include committee-member.html
+{% include bio-box
    name="Dan Goldwasser"
    picture="/assets/images/committee/books.jpg"
    site="https://www.cs.purdue.edu/homes/dgoldwas/"
    institution="Purdue University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Yunyao Li"
    picture="/assets/images/committee/yunyao_li.jpg"
    site="https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli"
    institution="IBM Research"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Ashish Sabharwal"
    picture="/assets/images/committee/books.jpg"
    site="http://ashishs.people.allenai.org/"
@@ -135,19 +135,19 @@ toc_sticky: true
 %}
 
 ## Student Research Workshop Chairs
-{% include committee-member.html
+{% include bio-box
    name="Daphne Ippolito"
    picture="/assets/images/committee/books.jpg"
    site="https://www.seas.upenn.edu/~daphnei/"
    institution="University of Pennsylvania"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Liunian Harold Li"
    picture="/assets/images/committee/books.jpg"
    site="https://liunian-harold-li.github.io/"
    institution="University of California, Los Angeles"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Maria Leonor Pacheco"
    picture="/assets/images/committee/books.jpg"
    site="https://mlpacheco.github.io/"
@@ -156,13 +156,13 @@ toc_sticky: true
 
 <br>
 **Advisors for the Student Research Workshop**
-{% include committee-member.html
+{% include bio-box
    name="Danqi Chen"
    picture="/assets/images/committee/danqi_chen.jpg"
    site="https://www.cs.princeton.edu/~danqic/"
    institution="Princeton University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Nianwen Xue"
    picture="/assets/images/committee/books.jpg"
    site="https://www.cs.brandeis.edu/~xuen/"
@@ -170,7 +170,7 @@ toc_sticky: true
 %}
 
 ## Publication Chairs
-{% include committee-member.html
+{% include bio-box
    name="Ryan Cotterell"
    picture="/assets/images/committee/books.jpg"
    site="https://rycolab.io/authors/ryan/"
@@ -178,19 +178,19 @@ toc_sticky: true
 %}
 
 ## Ethics Chairs
-{% include committee-member.html
+{% include bio-box
    name="Kai-Wei Chang"
    picture="/assets/images/committee/books.jpg"
    site="http://web.cs.ucla.edu/~kwchang/"
    institution="University of California, Los Angeles"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Diyi Yang"
    picture="/assets/images/committee/diyi_yang.jpg"
    site="https://www.cc.gatech.edu/~dyang888/"
    institution="Georgia Institute of Technology"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Dirk Hovy"
    picture="/assets/images/committee/books.jpg"
    site="http://www.dirkhovy.com/"
@@ -198,31 +198,31 @@ toc_sticky: true
 %}
 
 ## Reproducibility Chairs
-{% include committee-member.html
+{% include bio-box
    name="Niranjan Balasubramanian"
    picture="/assets/images/committee/niranjan_balasubramanian.jpg"
    site="https://www3.cs.stonybrook.edu/~niranjan/"
    institution="Stony Brook University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Jesse Dodge"
    picture="/assets/images/committee/jesse_dodge.jpg"
    site="http://www.cs.cmu.edu/~jessed/"
    institution="Allen Institute for AI"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Annie Louis"
    picture="/assets/images/committee/books.jpg"
    site=""
    institution="Google"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Daniel Deutsch"
    picture="/assets/images/committee/daniel_deutsch.jpg"
    site="https://danieldeutsch.github.io/"
    institution="University of Pennsylvania"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Yash Kumar Lal"
    picture="/assets/images/committee/yash_lai.jpg"
    site="https://www3.cs.stonybrook.edu/~ylal/"
@@ -230,7 +230,7 @@ toc_sticky: true
 %}
 
 ## Sponsorship Chair
-{% include committee-member.html
+{% include bio-box
    name="Byron Wallace"
    picture="/assets/images/committee/books.jpg"
    site="https://www.byronwallace.com/"
@@ -241,21 +241,21 @@ toc_sticky: true
 \[[D&I committee](/committees/diversity-inclusion/)\]
 \[[email](mailto:naacl-2022-dei-chairs@googlegroups.com)\]
 
-{% include committee-member.html
+{% include bio-box
    name="Diana Galván"
    extrainfo="(she/her)"
    picture="/assets/images/committee/diana.jpg"
    site="https://dianags.github.io/"
    institution="Tohoku University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Snigdha Chaturvedi"
    extrainfo="(she/her)"
    picture="/assets/images/committee/snigdha_chaturvedi.jpg"
    site="https://sites.google.com/site/snigdhac/"
    institution="University of North Carolina, Chapel Hill"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Yonatan Bisk"
    extrainfo="(he/him)"
    picture="/assets/images/committee/yonatan_bisk.jpg"
@@ -265,14 +265,14 @@ toc_sticky: true
 
 <br>
 **Advisors for the D&I Committees**
-{% include committee-member.html
+{% include bio-box
    name="Pranav A"
    extrainfo="(he/they)"
    picture="/assets/images/committee/pranav_a.jpg"
    site="https://pranav-a.github.io/"
    institution="Dayta AI"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Luciana Benotti"
    extrainfo="(she/her)"
    picture="/assets/images/committee/luciana_benotti.jpg"
@@ -281,7 +281,7 @@ toc_sticky: true
 %}
 
 ## Volunteers Chair
-{% include committee-member.html
+{% include bio-box
    name="Daniel Khashabi"
    picture="/assets/images/committee/books.jpg"
    site="https://danielkhashabi.com/"
@@ -289,19 +289,19 @@ toc_sticky: true
 %}
 
 ## Publicity Chairs
-{% include committee-member.html
+{% include bio-box
    name="Nanyun (Violet) Peng"
    picture="/assets/images/committee/nanyun_violet_peng.jpg"
    site="https://vnpeng.net/"
    institution="University of California, Los Angeles"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Emily Sheng"
    picture="/assets/images/committee/emily_sheng.jpg"
    site="https://ewsheng.github.io/"
    institution="Twitter"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Sameer Singh"
    picture="/assets/images/committee/sameer_singh.jpg"
    site="https://sameersingh.org/"
@@ -309,19 +309,19 @@ toc_sticky: true
 %}
 
 ## Virtual Infrastructure Chair
-{% include committee-member.html
+{% include bio-box
    name="Deepak Ramachandran"
    picture="/assets/images/committee/deepak_ramachandran.jpg"
    site=""
    institution="Google"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Martín Villalba"
    picture="/assets/images/committee/martin_villalba.jpg"
    site="https://7c0h.com/"
    institution="Saarland University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Rishita Anubhai"
    picture="/assets/images/committee/rishita_anubhai.png"
    site=""
@@ -329,13 +329,13 @@ toc_sticky: true
 %}
 
 ## Website Chairs
-{% include committee-member.html
+{% include bio-box
    name="Ice Pasupat"
    picture="/assets/images/committee/ice_pasupat.jpg"
    site="https://ppasupat.github.io/"
    institution="Google"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Vered Shwartz"
    picture="/assets/images/committee/vered_shwartz.jpg"
    site="https://www.cs.ubc.ca/~vshwartz/"

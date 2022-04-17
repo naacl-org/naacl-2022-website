@@ -12,21 +12,21 @@ toc: false
 ## D&I Co-chairs
 \[[email](mailto:naacl-2022-dei-chairs@googlegroups.com)\]
 
-{% include committee-member.html
+{% include bio-box
    name="Diana Galván"
    extrainfo="(she/her)"
    picture="/assets/images/committee/diana.jpg"
    site="https://dianags.github.io/"
    institution="Tohoku University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Snigdha Chaturvedi"
    extrainfo="(she/her)"
    picture="/assets/images/committee/snigdha_chaturvedi.jpg"
    site="https://sites.google.com/site/snigdhac/"
    institution="University of North Carolina, Chapel Hill"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Yonatan Bisk"
    extrainfo="(he/him)"
    picture="/assets/images/committee/yonatan_bisk.jpg"
@@ -35,14 +35,14 @@ toc: false
 %}
 
 ## Advisors for the D&I Committees
-{% include committee-member.html
+{% include bio-box
    name="Pranav A"
    extrainfo="(he/they)"
    picture="/assets/images/committee/pranav_a.jpg"
    site="https://pranav-a.github.io/"
    institution="Dayta AI"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Luciana Benotti"
    extrainfo="(she/her)"
    picture="/assets/images/committee/luciana_benotti.jpg"
@@ -51,21 +51,21 @@ toc: false
 %}
 
 ## Academic Inclusion Chairs
-{% include committee-member.html
+{% include bio-box
    name="Parisa Kordjamshidi"
    extrainfo="(she/her)"
    picture="/assets/images/committee/parisa.jpg"
    site="http://www.cse.msu.edu/~kordjams/"
    institution="Michigan State University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Aakanksha Naik"
    extrainfo="(she/her)"
    picture="/assets/images/committee/aakanksha.jpeg"
    site="https://www.cs.cmu.edu/~anaik/"
    institution="Carnegie Mellon University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Khyathi Chandu"
    extrainfo="(she/her)"
    picture="/assets/images/committee/books.jpg"
@@ -74,14 +74,14 @@ toc: false
 %}
 
 ## Financial Accessibility Chairs
-{% include committee-member.html
+{% include bio-box
    name="Sasha Luccioni"
    extrainfo="(she/her)"
    picture="/assets/images/committee/sasha.jpg"
    site="https://www.sashaluccioni.com/"
    institution="Mila and HuggingFace"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Nedjma Djouhra Ousidhoum"
    extrainfo="(she/her)"
    picture="/assets/images/committee/nedjma.jpg"
@@ -90,14 +90,14 @@ toc: false
 %}
 
 ## Accessibility Chairs
-{% include committee-member.html
+{% include bio-box
    name="Arjun Subramonian"
    extrainfo="(they/them)"
    picture="/assets/images/committee/arjun.jpg"
    site="https://arjunsubramonian.github.io/"
    institution="University of California, Los Angeles"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Divyansh Kaushik"
    extrainfo="(he/him)"
    picture="/assets/images/committee/divyansh_kaushik.jpg"
@@ -106,21 +106,21 @@ toc: false
 %}
 
 ## Socio-Cultural Inclusion Chairs
-{% include committee-member.html
+{% include bio-box
    name="Fatemehsadat Mireshghallah"
    extrainfo="(she/her)"
    picture="/assets/images/committee/fatemeh.jpg"
    site="https://cseweb.ucsd.edu//~fmireshg/"
    institution="Univeristy of California, San Diego"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Abhilasha Ravichander"
    extrainfo="(she/her)"
    picture="/assets/images/committee/abhilasha.jpg"
    site="https://www.cs.cmu.edu/~aravicha/"
    institution="Carnegie Mellon University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Saadia Gabriel"
    extrainfo="(she/her)"
    picture="/assets/images/committee/saadia_gabriel.jpg"
@@ -129,14 +129,14 @@ toc: false
 %}
 
 ## Childcare Chairs
-{% include committee-member.html
+{% include bio-box
    name="Yuntian Deng"
    extrainfo="(he/they)"
    picture="/assets/images/committee/yuntian.jpg"
    site="https://scholar.google.com/citations?user=tk0e5lYAAAAJ&hl=en"
    institution="Harvard University"
 %}
-{% include committee-member.html
+{% include bio-box
    name="Shirley A. Hayati"
    extrainfo="(she/her)"
    picture="/assets/images/committee/shirley.jpg"
@@ -145,7 +145,7 @@ toc: false
 %}
 
 ## Publication D&I Chairs
-{% include committee-member.html
+{% include bio-box
    name="Jiacheng Xu"
    extrainfo="(he/him)"
    picture="/assets/images/committee/jiacheng-xu.jpg"

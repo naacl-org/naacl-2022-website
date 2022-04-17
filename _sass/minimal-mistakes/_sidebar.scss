@@ -149,7 +149,7 @@
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
-  line-height: 1;
+  line-height: 1.2;
 
   @include breakpoint($large) {
     display: block;
@@ -159,8 +159,10 @@
   }
 
   a {
+    /* ICE: I'm going to comment this out to make links look like links.
     color: inherit;
     text-decoration: none;
+    */
   }
 }
 

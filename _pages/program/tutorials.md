@@ -9,6 +9,12 @@ toc: true
 toc_sticky: true
 ---
 
+<style>
+.speaker-images img {
+  border-radius: 50%;
+}
+</style>
+
 ## Schedule
 
 | [T1](#t1) | Text Generation and Text-Editing Models
@@ -45,6 +51,9 @@ Shankar Kumar,
 ![Sebastian Krause](/assets/images/tutorials/Sebastian_Krause.jpg)
 ![Shankar Kumar](/assets/images/tutorials/Shankar_Kumar.jpg)
 ![Aliaksei Severyn](/assets/images/tutorials/Aliaksei_Severyn.jpg)
+{: .speaker-images}
+
+[Speaker bios](/program/tutorials/bios-t1/){: .btn .btn--info}
 
 **Category:** Cutting-edge
 
@@ -81,6 +90,9 @@ pressing challenges in the field of text generation.
 ![Shang-Wen Li](/assets/images/tutorials/Shang-Wen_Li.jpg)
 ![Shu-wen Yang](/assets/images/tutorials/Shu-wen_Yang.jpg)
 ![Katrin Kirchhoff](/assets/images/tutorials/Kirchhoff_Katrin.jpg)
+{: .speaker-images}
+
+[Speaker bios](/program/tutorials/bios-t2/){: .btn .btn--info}
 
 **Category:** Cutting-edge
 
@@ -103,6 +115,9 @@ Self-supervised representation learning methods promise a single universal model
 ![Ben Zhou](/assets/images/tutorials/Ben_Zhou.jpg)
 ![Heng Ji](/assets/images/tutorials/Heng_Ji.jpg)
 ![Dan Roth](/assets/images/tutorials/Dan_Roth.jpg)
+{: .speaker-images}
+
+[Speaker bios](/program/tutorials/bios-t3/){: .btn .btn--info}
 
 **Category:** Cutting-edge
 
@@ -128,6 +143,9 @@ In this tutorial, we will systematically review several lines of frontier resear
 ![Tania Lombrozo](/assets/images/tutorials/Tania_Lombrozo.jpg)
 ![Alison Smith-Renner](/assets/images/tutorials/Alison_Smith-Renner.jpg)
 ![Chenhao Tan](/assets/images/tutorials/Chenhao_Tan.jpg)
+{: .speaker-images}
+
+[Speaker bios](/program/tutorials/bios-t4/){: .btn .btn--info}
 
 **Category:** Introductory
 
@@ -143,6 +161,9 @@ The NLP community are increasingly interested in providing explanations for NLP 
 ![Louis-Philippe Morency](/assets/images/tutorials/Louis-Philippe_Morency.jpg)
 ![Paul Pu Liang](/assets/images/tutorials/Paul_Pu_Liang.jpg)
 ![Amir Zadeh](/assets/images/tutorials/Amir_Zadeh.jpg)
+{: .speaker-images}
+
+[Speaker bios](/program/tutorials/bios-t5/){: .btn .btn--info}
 
 **Category:** Cutting-edge
 
@@ -162,6 +183,9 @@ This tutorial builds upon the annual course on multimodal machine learning taugh
 ![Yangfeng Ji](/assets/images/tutorials/Yangfeng_Ji.jpg)
 ![Yue Zhang](/assets/images/tutorials/Yue_Zhang.jpg)
 ![Rebecca J. Passonneau](/assets/images/tutorials/Rebecca_Passonneau.jpg)
+{: .speaker-images}
+
+[Speaker bios](/program/tutorials/bios-t6/){: .btn .btn--info}
 
 **Category:** Cutting-edge
 

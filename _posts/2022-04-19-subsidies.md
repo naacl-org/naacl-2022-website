@@ -8,7 +8,7 @@ categories:
   blog
 ---
 
-Applicants should fill out the application form at [Microsoft Office Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UAd5zRUMk5UN0hGREVZS1ZBWEpNSTY0WkNORDBQRy4u)<span style="text-decoration:underline;">. </span>
+Applicants should fill out the application form at [Microsoft Office Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UAd5zRUMk5UN0hGREVZS1ZBWEpNSTY0WkNORDBQRy4u).
 
 
 ## Information
@@ -18,7 +18,8 @@ NAACL 2022 is providing D&I funds for registration, caregiving, bandwidth, trave
 
 ## Registration subsidies
 
-This is for getting a waiver for ACL registration. You can also request ACL membership if applicable. You will be asked to justify your application. For instance, you can say: \
+This is for getting a waiver for ACL registration. You can also request ACL membership if applicable. You will be asked to justify your application. For instance, you can say:
+
 1) _“I have an accepted paper at the main conference. I would like to apply for a registration fee waiver because my fees are not funded by my organization/institution.”_
 
 2) _“I have an accepted paper at a NAACL Workshop, I live in a developing country and I/my institution cannot afford the registration fees. ”_

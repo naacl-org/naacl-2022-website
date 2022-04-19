@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: NAACL 2022 paper commitment site is open
+| Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
 | Jan 15, 2022 | [Blogpost](/blog/recognition-and-awards/) by Program Chairs: Recognition of People Working Behind the Scenes and Best Reviewer and Area Chair Awards.
 | Jan 6, 2022 | [Blogpost](/blog/publication-accessibility-quality-inclusivity/) by D&I Chairs on Publication Accessibility, Quality, and Inclusivity.
 | Jan 6, 2022 | The ARR January site is open for submissions, see [blogpost](/blog/ARR-open-for-submissions/).

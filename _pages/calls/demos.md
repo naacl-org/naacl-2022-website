@@ -44,8 +44,8 @@ Please note: Commercial sales and marketing activities are not appropriate in th
   </tr>
   <tr>
     <td>Notification of acceptance</td>
-    <td>Monday</td>
-    <td>April 18, 2022</td>
+    <td><s style="color:gray">Monday</s> <span style="color:darkred">Thursday</span></td>
+    <td>April <s style="color:gray">18</s> <span style="color:darkred">21</span>, 2022</td>
   </tr>
   <tr>
     <td>Camera ready submission</td>

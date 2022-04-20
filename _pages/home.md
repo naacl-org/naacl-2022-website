@@ -33,9 +33,11 @@ secondary_excerpt: "July 10--15, 2022"
 .dates-table del { color: #888; }
 </style>
 
-| Notification of acceptance | Thursday | April 7, 2022 |
-| Withdrawal deadline | ~~Monday~~ Tuesday | ~~April 11, 2022~~ April 12, 2022 |
-| Camera-ready version due | Tuesday | May 3, 2022 |
+| Notification of acceptance ([system demonstration](/calls/demos/)) | Thursday | Apr 21, 2022 |
+| Camera-ready due ([main conference](/calls/papers/) and [industry track](/calls/industry/)) | Tuesday | May 3, 2022 |
+| Notification of acceptance ([SRW](/calls/srw/)) | Sunday | May 8, 2022 |
+| Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
+| Camera-ready due ([SRW](/calls/srw/)) | Friday | May 20, 2022 |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}
 

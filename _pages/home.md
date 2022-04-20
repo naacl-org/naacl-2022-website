@@ -16,12 +16,11 @@ secondary_excerpt: "July 10--15, 2022"
 ## News
 
 | Apr 19, 2022 | Call for [D&I subsidies and volunteer awards](/blog/subsidies/) have been announced. 
+| Apr 19, 2022 | The notification of acceptance for the [demonstration track](/calls/demos/#important-dates) has been postponed to **April 21**.
 | Apr 15, 2022 | The list of [accepted tutorials](/program/tutorials/) is announced.
 | Apr 12, 2022 | [Blogpost](/blog/authors-faq) by Program Chairs: FAQ for NAACL authors
 | Apr 12, 2022 | [Call for structured socials](/blog/structured-social/) is announced.
 | Mar 29, 2022 | The list of [accepted workshops](/program/workshops/) is announced.
-| Feb 21, 2022 | [Blogpost](/blog/commitment-faq/) by Program Chairs: NAACL 2022 paper commitment site is open
-| Jan 30, 2022 | [Blogpost](/blog/reproducibility-track/) by Reproducibility Chairs: NAACL 2022 Reproducibility Track
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->
@@ -34,9 +33,11 @@ secondary_excerpt: "July 10--15, 2022"
 .dates-table del { color: #888; }
 </style>
 
-| Notification of acceptance | Thursday | April 7, 2022 |
-| Withdrawal deadline | ~~Monday~~ Tuesday | ~~April 11, 2022~~ April 12, 2022 |
-| Camera-ready version due | Tuesday | May 3, 2022 |
+| Notification of acceptance ([system demonstration](/calls/demos/)) | Thursday | Apr 21, 2022 |
+| Camera-ready due ([main conference](/calls/papers/) and [industry track](/calls/industry/)) | Tuesday | May 3, 2022 |
+| Notification of acceptance ([SRW](/calls/srw/)) | Sunday | May 8, 2022 |
+| Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
+| Camera-ready due ([SRW](/calls/srw/)) | Friday | May 20, 2022 |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}
 

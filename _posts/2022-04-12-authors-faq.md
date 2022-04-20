@@ -77,7 +77,7 @@ If you have questions, please contact the reproducibility committee at
 
 My paper has been accepted. What do I need to do for the camera-ready version?
 {: .question #q-camera-ready}
-Detailed procedure will be available here soon. Camera-ready versions need to be submitted by May 3, 2022. You will have the opportunity to change authors on the camera-ready version form. Do not forget about accessibility: please check [this blog post](/blog/publication-accessibility-quality-inclusivity/) to ensure your PDF is broadly accessible.
+Detailed instructions are available [here](/blog/camera-ready). Camera-ready versions need to be submitted by May 3, 2022. You will have the opportunity to change authors on the camera-ready version form. Do not forget about accessibility: please check [this blog post](/blog/publication-accessibility-quality-inclusivity/) to ensure your PDF is broadly accessible.
 {: .answer}
 
 I have not received any decision notification for my ARR paper.

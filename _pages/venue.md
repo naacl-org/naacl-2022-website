@@ -15,7 +15,53 @@ In addition to the conference hotel (Hyatt Regency Seattle), there will be anoth
 
 Attendees can also search for alternative lodging. With the lightrail running to North Seattle, areas such as Roosevelt, University District, and Capitol Hill are safe and commute-friendly neighborhoods to stay in.
 
-## Native Businesses in Seattle
+## Visa Information
+
+The following questions will help you in determining whether and how to apply for a U.S. visa to attend the conference. 
+
+**Can I travel to the U.S. without a visa?**
+
+Please see [this page](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) to determine whether you are eligible to apply for an [Electronic System Travel Authorization (ESTA)](https://esta.cbp.dhs.gov/) instead, which might be cheaper and easier.  This is usually allowed if you hold a passport from a country that participates in the Visa Waiver Program, but there are some exceptions.  Be sure to apply for the ESTA at least 72 hours in advance.  [_Do not_](https://visaguide.world/tips/how-to-avoid-esta-fraud/) purchase your ESTA from any website other than the one linked above.
+
+**What kind of visa do I need?**
+
+To attend the conference, you should apply for a nonimmigrant B-1 visa.  (This also [permits](https://www.cbp.gov/sites/default/files/documents/B-1%20permissible%20activities.pdf) you to engage in tourism during your trip.)
+
+**How do I apply for a visa?**
+
+Please apply well in advance.  Visa applications can take from 1&ndash;4 months to be approved and normally require an interview at a U.S. Embassy or Consulate.  For details, begin [here](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) and navigate to the website for the embassy or consulate nearest you for further visa instructions.
+
+**How much will it cost?**
+
+The non-refundable visa application fee is [approximately $160](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html#temp) in local currency.  Depending on your nationality, you may also have to pay a [visa issuance fee](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html).
+
+**Why should I request a visa invitation letter?**
+
+A letter is not specifically required.  However, you are supposed to [bring documentation](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to your visa interview.  Bringing a letter from the conference organizers can help to establish the purpose of your trip: for example, we can document that you are coming to present a paper.  You can request such a letter [here](http://www.yesevents.com/NAACL-Visa).
+
+In addition, if you have already paid for your registration, bringing your receipt can help to establish your ability to pay.  In some countries, it may also be wise to bring a letter from your own institution that authorizes you to attend the conference.
+
+**What other documents may be needed in the visa interview?**
+
+The answer to this question varies by the country where the interview is conducted, and perhaps also by your nationality.  Typically you will be asked to bring:
+- your visa interview appointment letter
+- [suitable](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos.html) photos or digital images
+- your passport, valid for at least 6 months beyond the period of stay in the U.S.
+- DS-160 application confirmation page
+- application fee payment receipt
+
+You may also bring other documentation that will help you answer the interviewer’s questions.  The interviewer is particularly interested to establish:
+- The purpose of your trip.  See the previous question.  You may also be asked to bring your CV.
+- Your intent to depart the United States after your trip.  You may wish to show your return ticket, and evidence of your work and family responsibilities outside the U.S.
+- Your ability to pay all costs of the trip.  You may wish to show your bank statement, or evidence of travel grants or sponsorships, etc.
+- Your U.S. stay address.  You may wish to bring your hotel booking information.
+
+**Is it safe to go ahead and register for the conference before I have a visa?**
+
+Yes. If your visa application is denied, you are entitled to [request](mailto:office@aclweb.org) a full refund of your conference registration fees.  
+
+
+## Attractions in Seattle
 
 Below are some of our recommended Native businesses in Seattle:
 
@@ -31,7 +77,6 @@ Below are some of our recommended Native businesses in Seattle:
 * [Salish Sea Tours](https://www.salishseatours.com/) as featured in [this news article](https://www.thenewstribune.com/news/state/washington/article252380503.html)
 * [Indigenous Walking Tour of the University of Washington campus](https://www.washington.edu/news/2021/09/22/get-to-know-the-uw-campus-with-indigenous-walking-tour/)
 
-## Queer-friendly Neighborhoods, Attractions & Businesses
 
 Below are some of our recommended queer-friendly neighborhoods, attractions, and businesses in and near Seattle, Washington.
 
@@ -53,24 +98,6 @@ Below are some of our recommended queer-friendly neighborhoods, attractions, and
   * queer-friendly
   * accessibility: wheelchair-accessible elevator to get to entrance, wheelchair-accessible elevator to access 2nd floor
   * [directions](https://www.google.com/maps?saddr=My+Location&daddr=The+Elliott+Bay+Book+Company)
-* [Third Place Books](https://www.thirdplacebooks.com/)
-  * "general interest bookstore with over 200,000 new, used, and bargain books in Lake Forest Park and over 40,000 books in Ravenna […] fun, comfortable, and safe place to browse, linger, lounge, relax, read, eat, laugh, play, talk, listen, and just watch the world go by"
-  * not queer-owned
-  * queer-friendly
-  * accessibility: parking lot in front of store with handicap parking, no stairs to enter store, store is wheelchair-accessible
-  * [directions](https://www.google.com/maps?saddr=My+Location&daddr=Third+Place+Books+Ravenna)
-* [Ada's Technical Books and Cafe](https://www.adasbooks.com/)
-  * "Seattle's technical bookstore […] build community through science minded literature, a vegetarian cafe, specialty coffee, coworking, and an intimate event venue"
-  * not queer-owned
-  * queer-friendly
-  * accessibility: ramp from courtyard into back of store, outside dining is not wheelchair-accessible but inside dining is, only street parking
-  * [directions](https://www.google.com/maps?saddr=My+Location&daddr=Ada's+Technical+Books+and+Cafe)
-* [Twice Sold Tales](https://www.twicesoldtales.com/)
-  * "4 live-in bookstore cats and a sprawling inventory of used, collectible and rare titles"
-  * not queer-owned
-  * queer-friendly
-  * accessibility: nobody available over phone to provide accessibility information
-  * [directions](https://www.google.com/maps?saddr=My+Location&daddr=Twice+Sold+Tales)
 
 **Museums**
 

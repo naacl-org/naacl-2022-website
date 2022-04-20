@@ -13,7 +13,11 @@ Applicants should fill out the application form at [Microsoft Office Form Link](
 
 ## Information
 
-NAACL 2022 is providing D&I funds for registration, caregiving, bandwidth, travel, VPN subsidies and volunteer opportunites. We strongly encourage researchers from developing countries and marginalized communities to apply for subsidies to maximize their chances of getting their registration fees waived. We are also seeking student and non-student volunteers for the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022). In exchange for one full day equivalent of work, student volunteers receive free registration to the main conference (including workshops and tutorials) and ACL membership for one year. Non-student volunteers receive free registration to the main conference (including workshops and tutorials). We encourage undergraduate students as volunteers, as well as PhD and MSc students. Please apply by 2 weeks before the early registration deadline [at this link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UAd5zRUMk5UN0hGREVZS1ZBWEpNSTY0WkNORDBQRy4u). 
+NAACL 2022 is providing D&I funds for registration, caregiving, bandwidth, travel, VPN subsidies and volunteer opportunities. We strongly encourage researchers from developing countries and marginalized communities to apply for subsidies to maximize their chances of getting their registration fees waived. We are also seeking student and non-student volunteers for the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022). 
+
+In exchange for one full day equivalent of work, student volunteers receive free registration to the main conference (including workshops and tutorials) and ACL membership for one year. Non-student volunteers receive free registration to the main conference (including workshops and tutorials). We encourage undergraduate students as volunteers, as well as PhD and MSc students. 
+
+The last date is not decided yet and applications will be considered on a rolling basis. Please apply as soon as possible so we can allocate you promptly before the funding runs out. Applications will close by 2 weeks before the early registration deadline [at this link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UAd5zRUMk5UN0hGREVZS1ZBWEpNSTY0WkNORDBQRy4u). 
 
 
 ## Registration subsidies
@@ -79,14 +83,16 @@ Applicants will be evaluated based on the material they submit in their applicat
 
 ## Application deadline 
 
-2 weeks before the early registration deadline.
+The last date is not decided yet and applications will be considered on a rolling basis. **Please apply as soon as possible so we can allocate you promptly before the funding runs out.** 
+
+Applications will close by 2 weeks before the early registration deadline.
 
 
 ## Notification of acceptance 
 
 1 week before the early registration deadline. (Please visit [https://2022.naacl.org/](https://2022.naacl.org/) for more details.)
 
-We aim to send all notifications by the deadline above. However, we will start processing the applications as they come and you may be contacted earlier.
+We aim to send all notifications by the deadline above. **However, we will start processing the applications as they come and you may be contacted earlier.**
 
 
 ## Contact details

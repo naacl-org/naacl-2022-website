@@ -15,6 +15,7 @@ secondary_excerpt: "July 10--15, 2022"
 
 ## News
 
+| Apr 20, 2022 | [Blogpost](/blog/poster-talk-accessibility-quality-inclusivity/) by D&I chairs on Poster and Talk Accessibility, Quality, and Inclusivity.
 | Apr 20, 2022 | [Camera-ready instructions](/blog/camera-ready) are available. 
 | Apr 19, 2022 | Call for [D&I subsidies and volunteer awards](/blog/subsidies/) have been announced. 
 | Apr 19, 2022 | The notification of acceptance for the [demonstration track](/calls/demos/#important-dates) has been postponed to **April 21**.

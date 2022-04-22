@@ -8,6 +8,8 @@ categories:
   blog
 ---
 
+**Update, Apr 22: Detailed instructions for the camera-ready version are available [here](/blog/camera-ready).**
+
 The NAACL 2022 notifications have been emailed to all authors of each submission on April 7. Here are our answers to common  questions from authors.
 
 <style>

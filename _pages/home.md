@@ -13,6 +13,9 @@ secondary_excerpt: "July 10--15, 2022"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline on a rolling basis.
+{: .text-center .notice--info}
+
 ## News
 
 | Apr 20, 2022 | [Blogpost](/blog/poster-talk-accessibility-quality-inclusivity/) by D&I chairs on Poster and Talk Accessibility, Quality, and Inclusivity.

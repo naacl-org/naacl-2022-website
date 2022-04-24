@@ -1,19 +1,75 @@
 ---
-title: Venue
+title: Information for Participants
 layout: single
 permalink: /venue/
 toc: true
 ---
 
-## Conference Venue
+## About Seattle
 
-The NAACL-HLT 2022 conference will be held at [**Hyatt Regency Seattle**](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) (808 Howell Street, Seattle, Washington, United States, 98101).
+Seattle welcomes millions of visitors from around the world so many of you may already be familiar
+with all that Seattle has to offer. Sightseeing, Arts &amp; Culture, Cultural Heritage, Outdoor hiking and
+enjoying nature, cruising the bay or departing for longer cruises, LGBTQ activities, spectator and other
+sports, etc. are just some of the things to keep you busy when not at the conference. Check out Visit
+Seattle [Visit Seattle Washington | Travel &amp; Tourism | Official Site](https://visitseattle.org/) and read below 
+for ideas and help in planning your Seattle adventures.
+
+Realizing the COVID pandemic is of concern to everyone, here is the latest update about Seattle: As of
+March 1, 2022, there is no longer a vaccine verification health order. And as of March 12, 2022,
+Washington and King County will discontinue current mask mandates. Seattle was the first major
+American city to fully vaccinate 70% of residents 12 and older. King County is now at a vaccination rate
+of 88% and is safely welcoming back visitors. Many large corporations and businesses are beginning to
+bring their workforce back to downtown, which will continue to enhance the visitor’s experience.
+
+Both as the conference headquarters hotel and the conference venue, the [**Hyatt Regency Seattle**](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) will be
+your home-away-from-home at:
+
+808 Howell Street, Seattle, Washington, United States, 98101 +1 206 973 1234
+
+Our downtown hotel is walking distance to Seattle’s most iconic attractions &amp; experiences. Venture
+farther &amp; immerse yourself in the Pacific Northwest’s incredible landscapes. You can find more about
+the area attractions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears/area-attractions).
+
+## Welcome Reception
+
+A Welcome Reception will be held on Sunday, July 10 th from 6:00pm to 8:00pm. Join us at the
+conference venue where you can meet and make new friends and catch up with your colleagues. Light
+food and refreshments will be served.
+
+## Social Event
+
+The NAACL 2022 Social Event will be held on Tuesday, July 12th, from 7:00 pm to 10:00 pm at the
+Museum of Pop Culture (MoPOP). Housed in a building designed by architect Frank Gehry, this
+museum features rotating exhibits dedicated to all things pop culture, including film, music, comic
+books, and more. MoPOP’s permanent collection features more than 80,000 objects. While we add
+objects to this online catalog over the coming years until the entire collection is accessible digitally,
+
+MoPOP curators have selected iconic objects from across genres and time periods, in order to highlight
+the breadth of MoPOP’s permanent collection. Visit [here](https://www.mopop.org/collection/highlights/) to learn more about MoPOP.
+
+The Museum of Pop Culture (formerly EMP Museum) is located at 325 5th Avenue N at Seattle Center.
+
+One entrance ticket will be included with your in-person registration. Please note that we need to plan
+ahead so it is important to let us know on the registration form whether or not you plan to attend the
+social event.
+
+<img src="../../assets/images/mopop1.jpeg" alt="MoPop1" width="30%">
+<img src="../../assets/images/mopop2.jpeg" alt="MoPop2" width="30%">
+<img src="../../assets/images/mopop3.jpeg" alt="MoPop3" width="30%">
 
 ## Accommodation
 
-In addition to the conference hotel (Hyatt Regency Seattle), there will be another student accommodation (**information TBA**).
+We have secured accommodation for participants at NAACL-HLT 2022 discounted rates at the Hyatt Regency Seattle 
+which is also the conference venue. You can make your discounted reservation [here](https://www.hyatt.com/en-US/group-booking/SEARS/G-ACLL).
 
-Attendees can also search for alternative lodging. With the lightrail running to North Seattle, areas such as Roosevelt, University District, and Capitol Hill are safe and commute-friendly neighborhoods to stay in.
+- Walk two blocks southwest to the Westlake Station, where you can board the Link Light Rail and ride it to the airport, University of Washington, and more. Seattle-Tacoma International Airport is just 15 miles away. 
+- Overnight self-parking for hotel guests; In & Out privileges included. $40/day 
+- Complimentary Wi-fi in all guest rooms. 
+- Single/Double Room: **$275**, Triple Room: **$300**, Quad Room: **$325**.
+- 
+Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability. ACL discounted rates are available through Sunday, June 19, 2022. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
+
+And, the hotel is committed to providing equal access and opportunity for individuals with disabilities, making the hotel more accessible.  You may find a list of accessibility provisions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears).
 
 ## Visa Information
 

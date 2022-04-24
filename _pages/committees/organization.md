@@ -39,6 +39,17 @@ toc_sticky: true
    institution="National Autonomous University of Mexico"
 %}
 
+## Local Arrangements
+{% include bio-box
+   name="Priscilla Rasmussen"
+   picture="/assets/images/committee/priscilla_rasmussen.jpg"
+   institution="ACL"
+%}
+{% include bio-box
+   name="Jennifer Rachford"
+   picture="/assets/images/committee/books.jpg"
+%}
+
 ## Industry Track Chairs
 {% include bio-box
    name="Rashmi Gangadharaiah"

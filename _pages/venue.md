@@ -69,7 +69,13 @@ which is also the conference venue. You can make your discounted reservation [he
 - 
 Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability. ACL discounted rates are available through Sunday, June 19, 2022. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
 
-And, the hotel is committed to providing equal access and opportunity for individuals with disabilities, making the hotel more accessible.  You may find a list of accessibility provisions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears).
+## Accessibility
+
+The conference and the hotel are committed to providing equal access and opportunity for individuals with disabilities. You may find a list of accessibility provisions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears#all-accessibilities-panel) (please search for "HOTEL ACCESSIBILITY FEATURES" and click on the "VIEW FEATURES" button).
+
+In addition, the hotel does not operate a shuttle from the airport, but the Light Rail connects to the Westlake station near the hotel; you can read more about Light Rail accessibility [here](https://www.soundtransit.org/ride-with-us/know-before-you-go/transit-accessibility/ada-complementary-paratransit-service). The hotel has accessible parking in the building itself. The hotel is wheelchair-accessible through the main entrance, the elevators are accessible (auditory/visual feedback/wheelchair height controls, etc.), and bathrooms have accessible stalls that accommodate large electric wheelchairs. There is consistent braille labeling throughout the building. The hotel has gender-inclusive restrooms, lactation rooms, and quiet rooms. The hotel staff has had disability awareness training. Furthermore, all conference events will have automatic or live captioning. The area where the conference will take place is obstacle-free.
+
+If you would like to request any accommodations (e.g. sign language interpreter, mobility assistance, pregnancy needs, etc.), please complete [this form](https://forms.office.com/r/Cqd0NgHzDM) as soon as possible.
 
 ## Visa Information
 

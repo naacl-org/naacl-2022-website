@@ -3,19 +3,19 @@
 website-chairs:
   name        : "Website Chairs"
   bio         : "Ice Pasupat and Vered Shwartz"
-  avatar      : "assets/images/logos/acl-logo.png"
+  avatar      : "assets/images/logos/acl-logo-square.png"
 
 diversity-chairs:
   name        : "Diversity and Inclusion Chairs"
   bio         : "Diversity and Inclusion Chairs"
-  avatar      : "assets/images/logos/acl-logo.png"
+  avatar      : "assets/images/logos/acl-logo-square.png"
 
 program-chairs:
   name        : "Program Chairs"
   bio         : "Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz"
-  avatar      : "assets/images/logos/acl-logo.png"
+  avatar      : "assets/images/logos/acl-logo-square.png"
 
 reproducibility-chairs:
   name        : "Reproducibility Chairs"
   bio         : "Daniel Deutsch, Yash Kumar Lal, Annie Louis, Pete Walsh, Jesse Dodge, Niranjan Balasubramanian"
-  avatar      : "assets/images/logos/acl-logo.png"
+  avatar      : "assets/images/logos/acl-logo-square.png"

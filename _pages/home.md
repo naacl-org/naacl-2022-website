@@ -14,7 +14,7 @@ secondary_excerpt: "July 10--15, 2022"
 </style>
 
 NAACL 2022 will be a **hybrid** event with both on-site ([venue information](/venue/)) and virtual participation (via Underline).
-{: .text-center .notice--info}
+{: .text-center .notice--warning}
 
 Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline on a rolling basis.
 {: .text-center .notice--info}

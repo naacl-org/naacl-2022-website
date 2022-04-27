@@ -71,7 +71,7 @@ in particular, [TeX live](http://www.tug.org/texlive/). Moreover, using the `geo
 
 ### How do I check the format of the camera-ready version before submitting?
 You should check the paper format according to this instruction page and use the style template files with the links above. 
-The ACL 2022  and NAACL 2022 publication chairs have developed a package called [`aclpub_check`](https://github.com/acl-org/aclpubcheck) to automate much of the format checking ([usage notes](#s9-notes-on-aclpub-check)). 
+The ACL 2022  and NAACL 2022 publication chairs have developed a package called <code><a href="https://github.com/acl-org/aclpubcheck">aclpubcheck</a></code> to automate much of the format checking ([usage notes](#s9-notes-on-aclpub-check)). 
 Please run this package before submitting your paper to OpenReview in order not to miss some subtle formatting details. 
 We also strongly advise authors to use [rebiber](https://github.com/yuchenlin/rebiber) to update their bib files with updated citations automatically.
 
@@ -90,7 +90,7 @@ As a central venue of publication for our community, please prioritize the acces
 <https://2022.naacl.org/blog/publication-accessibility-quality-inclusivity/>
 
 ### How do I ensure that my file is correctly formatted?
-You need to run the [`aclpub_check`](https://github.com/acl-org/aclpubcheck) package ([usage notes](#s9-notes-on-aclpub-check)), and pay special attention to the following:
+You need to run the <code><a href="https://github.com/acl-org/aclpubcheck">aclpubcheck</a></code> package ([usage notes](#s9-notes-on-aclpub-check)), and pay special attention to the following:
 
 * **The paper size:** Your paper needs to be in A4 size. Here are a couple of ways to check this:
   * Using `pdfinfo`. The `pdfinfo` command should include "Page size: 595.276 x 841.89 pts" in its output. 
@@ -190,10 +190,10 @@ If you have any questions about
 
 For any other questions, please contact the NAACL 2022 Program Chairs.
 
-## Notes on `aclpub_check`
+## Notes on `aclpubcheck`
 {: #s9-notes-on-aclpub-check}
 
-Following NAACL 2021, we are using a package called `aclpub_check`, which has been updated by the ACL 2022 and the NAACL 2022 Publication Chairs. The package automatically detects author formatting errors, margin violations as well as many other common formatting errors. Before submitting the camera-ready version of your paper to OpenReview, please run the package first and fix any detected errors.
+Following NAACL 2021, we are using a package called `aclpubcheck`, which has been updated by the ACL 2022 and the NAACL 2022 Publication Chairs. The package automatically detects author formatting errors, margin violations as well as many other common formatting errors. Before submitting the camera-ready version of your paper to OpenReview, please run the package first and fix any detected errors.
 
 The package is written in Python and you can access it here: <https://github.com/acl-org/aclpubcheck>.
 

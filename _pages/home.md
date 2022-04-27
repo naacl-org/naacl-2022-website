@@ -5,13 +5,16 @@ permalink: /
 header:
   overlay_image: "/assets/images/splash/seattle-resized.jpg"
   caption: 'Photo by <a href="https://unsplash.com/photos/QEob0Fp4rdg">Zhifei Zhou</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "Seattle, Washington"
+excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
 <style>
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+
+NAACL 2022 will be a **hybrid** event with both on-site ([venue information](/venue/)) and virtual participation (via Underline).
+{: .text-center .notice--info}
 
 Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline on a rolling basis.
 {: .text-center .notice--info}

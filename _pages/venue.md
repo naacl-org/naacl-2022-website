@@ -5,6 +5,8 @@ permalink: /venue/
 toc: true
 ---
 
+NAACL 2022 will be a **hybrid** event with both on-site and virtual participation.
+
 ## About Seattle
 
 Seattle welcomes millions of visitors from around the world so many of you may already be familiar

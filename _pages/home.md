@@ -41,7 +41,6 @@ Subsidies (travel and accomodation) and volunteer opportunities (with registrati
 .dates-table del { color: #888; }
 </style>
 
-| Notification of acceptance ([system demonstration](/calls/demos/)) | Thursday | Apr 21, 2022 |
 | Camera-ready due ([main conference](/calls/papers/) and [industry track](/calls/industry/)) | Tuesday | May 3, 2022 |
 | Notification of acceptance ([SRW](/calls/srw/)) | Sunday | May 8, 2022 |
 | Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
@@ -50,7 +49,3 @@ Subsidies (travel and accomodation) and volunteer opportunities (with registrati
 {: .dates-table}
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
-
-## Welcome!
-
-The 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022) will be held in Seattle, Washington from July 10 through July 15, 2022.

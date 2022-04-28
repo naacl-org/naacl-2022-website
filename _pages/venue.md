@@ -1,19 +1,22 @@
 ---
-title: Information for Participants
+title: Venue
 layout: single
 permalink: /venue/
+sidebar:
+    nav: "participants"
 toc: true
+toc_sticky: true
 ---
 
-NAACL 2022 will be a **hybrid** event with both on-site and virtual participation.
+NAACL 2022 will be a **hybrid** event with both on-site (Seattle, Washington) and virtual participation (via Underline).
 
 ## About Seattle
 
 Seattle welcomes millions of visitors from around the world so many of you may already be familiar
 with all that Seattle has to offer. Sightseeing, Arts &amp; Culture, Cultural Heritage, Outdoor hiking and
 enjoying nature, cruising the bay or departing for longer cruises, LGBTQ activities, spectator and other
-sports, etc. are just some of the things to keep you busy when not at the conference. Check out Visit
-Seattle [Visit Seattle Washington | Travel &amp; Tourism | Official Site](https://visitseattle.org/) and read below 
+sports, etc. are just some of the things to keep you busy when not at the conference.
+Check out the [Visit Seattle website](https://visitseattle.org/) and read below 
 for ideas and help in planning your Seattle adventures.
 
 Realizing the COVID pandemic is of concern to everyone, here is the latest update about Seattle: As of
@@ -32,15 +35,17 @@ Our downtown hotel is walking distance to Seattle’s most iconic attractions &a
 farther &amp; immerse yourself in the Pacific Northwest’s incredible landscapes. You can find more about
 the area attractions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears/area-attractions).
 
+Note that you may need to apply for a U.S. visa to enter the country. Please refer to [this page](/visa-info/) for more information.
+
 ## Welcome Reception
 
-A Welcome Reception will be held on Sunday, July 10 th from 6:00pm to 8:00pm. Join us at the
+A Welcome Reception will be held on **Sunday, July 10** from 6:00pm to 8:00pm. Join us at the
 conference venue where you can meet and make new friends and catch up with your colleagues. Light
 food and refreshments will be served.
 
 ## Social Event
 
-The NAACL 2022 Social Event will be held on Tuesday, July 12th, from 7:00 pm to 10:00 pm at the
+The NAACL 2022 Social Event will be held on **Tuesday, July 12** from 7:00 pm to 10:00 pm at the
 Museum of Pop Culture (MoPOP). Housed in a building designed by architect Frank Gehry, this
 museum features rotating exhibits dedicated to all things pop culture, including film, music, comic
 books, and more. MoPOP’s permanent collection features more than 80,000 objects. While we add
@@ -78,52 +83,6 @@ The conference and the hotel are committed to providing equal access and opportu
 In addition, the hotel does not operate a shuttle from the airport, but the Light Rail connects to the Westlake station near the hotel; you can read more about Light Rail accessibility [here](https://www.soundtransit.org/ride-with-us/know-before-you-go/transit-accessibility/ada-complementary-paratransit-service). The hotel has accessible parking in the building itself. The hotel is wheelchair-accessible through the main entrance, the elevators are accessible (auditory/visual feedback/wheelchair height controls, etc.), and bathrooms have accessible stalls that accommodate large electric wheelchairs. There is consistent braille labeling throughout the building. The hotel has gender-inclusive restrooms, lactation rooms, and quiet rooms. The hotel staff has had disability awareness training. Furthermore, all conference events will have automatic or live captioning. The area where the conference will take place is obstacle-free.
 
 If you would like to request any accommodations (e.g. sign language interpreter, mobility assistance, pregnancy needs, etc.), please complete [this form](https://forms.office.com/r/Cqd0NgHzDM) as soon as possible.
-
-## Visa Information
-
-The following questions will help you in determining whether and how to apply for a U.S. visa to attend the conference. 
-
-**Can I travel to the U.S. without a visa?**
-
-Please see [this page](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) to determine whether you are eligible to apply for an [Electronic System Travel Authorization (ESTA)](https://esta.cbp.dhs.gov/) instead, which might be cheaper and easier.  This is usually allowed if you hold a passport from a country that participates in the Visa Waiver Program, but there are some exceptions.  Be sure to apply for the ESTA at least 72 hours in advance.  [_Do not_](https://visaguide.world/tips/how-to-avoid-esta-fraud/) purchase your ESTA from any website other than the one linked above.
-
-**What kind of visa do I need?**
-
-To attend the conference, you should apply for a nonimmigrant B-1 visa.  (This also [permits](https://www.cbp.gov/sites/default/files/documents/B-1%20permissible%20activities.pdf) you to engage in tourism during your trip.)
-
-**How do I apply for a visa?**
-
-Please apply well in advance.  Visa applications can take from 1&ndash;4 months to be approved and normally require an interview at a U.S. Embassy or Consulate.  For details, begin [here](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) and navigate to the website for the embassy or consulate nearest you for further visa instructions.
-
-**How much will it cost?**
-
-The non-refundable visa application fee is [approximately $160](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html#temp) in local currency.  Depending on your nationality, you may also have to pay a [visa issuance fee](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html).
-
-**Why should I request a visa invitation letter?**
-
-A letter is not specifically required.  However, you are supposed to [bring documentation](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to your visa interview.  Bringing a letter from the conference organizers can help to establish the purpose of your trip: for example, we can document that you are coming to present a paper.  You can request such a letter [here](http://www.yesevents.com/NAACL-Visa).
-
-In addition, if you have already paid for your registration, bringing your receipt can help to establish your ability to pay.  In some countries, it may also be wise to bring a letter from your own institution that authorizes you to attend the conference.
-
-**What other documents may be needed in the visa interview?**
-
-The answer to this question varies by the country where the interview is conducted, and perhaps also by your nationality.  Typically you will be asked to bring:
-- your visa interview appointment letter
-- [suitable](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos.html) photos or digital images
-- your passport, valid for at least 6 months beyond the period of stay in the U.S.
-- DS-160 application confirmation page
-- application fee payment receipt
-
-You may also bring other documentation that will help you answer the interviewer’s questions.  The interviewer is particularly interested to establish:
-- The purpose of your trip.  See the previous question.  You may also be asked to bring your CV.
-- Your intent to depart the United States after your trip.  You may wish to show your return ticket, and evidence of your work and family responsibilities outside the U.S.
-- Your ability to pay all costs of the trip.  You may wish to show your bank statement, or evidence of travel grants or sponsorships, etc.
-- Your U.S. stay address.  You may wish to bring your hotel booking information.
-
-**Is it safe to go ahead and register for the conference before I have a visa?**
-
-Yes. If your visa application is denied, you are entitled to [request](mailto:office@aclweb.org) a full refund of your conference registration fees.  
-
 
 ## Attractions in Seattle
 

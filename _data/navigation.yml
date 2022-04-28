@@ -13,7 +13,7 @@ main:
     url: /sponsors/
 
   - title: "Info for Participants"
-    url: /venue/
+    subnav: participants
 
   - title: "Registration"
     url: /registration/
@@ -99,6 +99,14 @@ calls:
 #         url: /downloads/NAACL2021-Review-Form.pdf
 #       - title: "Reviewing Advice"
 #         url: /reviewer/advice/
+
+participants:
+  - title: Information for Participants
+    children:
+      - title: "Venue"
+        url: /venue/
+      - title: "Visa Information"
+        url: /visa-info/
 
 committees:
   - title: Committees

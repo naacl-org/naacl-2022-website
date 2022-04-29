@@ -62,7 +62,7 @@ silver:
     image_path: /assets/images/logos/ASAPP.png
     alt: ASAPP
     title: ASAPP
-  - url: https://www.duolingo.com/learn/
+  - url: https://careers.duolingo.com/
     image_path: /assets/images/logos/Duolingo.png
     alt: Duolingo
     title: Duolingo

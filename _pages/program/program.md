@@ -9,6 +9,8 @@ sidebar:
 ---
 
 The conference program will be available once the schedule is finalized.
+Below is the overall schedule:
 
-* [List of accepted tutorials](/program/tutorials/)
-* [List of accepted workshops](/program/workshops/)
+| July 10 | [Tutorials](/program/tutorials/) and [Workshops](/program/workshops/)
+| July 11--13 | Main Conference |
+| July 14--15 | [Workshops](/program/workshops/) |

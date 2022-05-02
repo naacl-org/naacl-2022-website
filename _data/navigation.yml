@@ -115,6 +115,8 @@ committees:
         url: /committees/organization/
       - title: "Senior Program Committee"
         url: /committees/program/
+      - title: "Industry Track SACs"
+        url: /committees/industry/
       #- title: "Ethics Committee"
       #  url: /ethics/committee/
       - title: "Diversity & Inclusion Committee"

@@ -33,6 +33,8 @@ program:
     children:
       - title: "Conference Program"
         url: /program/
+      - title: "Accepted Papers"
+        url: /program/accepted_papers/
       # - title: "Keynote Speakers"
       #   url: /program/keynotes/
       - title: "Tutorials"

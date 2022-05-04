@@ -24,12 +24,16 @@ GitHub Pages doesn't allow deploying changes in test mode so that they can be pr
 
 This requires installing Ruby and various dependencies. If you are having trouble doing so, you may want to use the [Docker-based](#local-testing-with-docker) solution instead.
 
-1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
+1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby versions > 2.4.
 
 2. Clone this repository. Note that this repository uses submodules so to properly check out the submodule code, run `git submodule init` and `git submodule update` after you clone the repository. You will need the submodule to generate the schedule for the website.
 
-3. Run the gems needed by this repository: `sudo bundle install`. 
-   *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
+3. Run the gems needed by this repository:
+    ```
+    bundle config set --local path 'vendor/bundle'
+    bundle install
+    ```
+    *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
 
 4. Start the jekyll server by running `bundle exec jekyll serve`.
 

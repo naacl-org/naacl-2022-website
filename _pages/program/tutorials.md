@@ -17,6 +17,8 @@ toc_sticky: true
 
 ## Schedule
 
+**Date:** July 10, 2022
+
 | [T1](#t1) | Text Generation and Text-Editing Models
 | [T2](#t2) | Self-supervised Representation Learning for Speech Processing
 | [T3](#t3) | New Frontiers of Information Extraction

@@ -12,7 +12,7 @@ toc: false
 .bio-box .author__name { margin-top: 5px; }
 </style>
 
-**Tutorial:** [Text Generation and Text-Editing Models](/program/tutorials/#t1)
+**Tutorial:** [Text Generation with Text-Editing Models](/program/tutorials/#t1)
 
 {% include bio-box
   name="Eric Malmi"

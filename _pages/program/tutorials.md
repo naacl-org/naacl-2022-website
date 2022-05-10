@@ -19,7 +19,7 @@ toc_sticky: true
 
 **Date:** July 10, 2022
 
-| [T1](#t1) | Text Generation and Text-Editing Models
+| [T1](#t1) | Text Generation with Text-Editing Models
 | [T2](#t2) | Self-supervised Representation Learning for Speech Processing
 | [T3](#t3) | New Frontiers of Information Extraction
 | [T4](#t4) | Human-Centered Evaluation of Explanations
@@ -29,7 +29,7 @@ toc_sticky: true
 Session times and venues are being finalized.
 There will be extra Q&A sessions (45-minute slots) for remote attendees who cannot connect synchronously to tutorials.
 
-## T1: Text Generation and Text-Editing Models
+## T1: Text Generation with Text-Editing Models
 {: #t1}
 
 [Eric Malmi](https://ericmalmi.com/),

@@ -13,10 +13,17 @@ secondary_excerpt: "July 10--15, 2022"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+<div markdown="1" class="notice--info">
+<p class="text-center">Authors have now been notified by email about the presentation mode of their paper.</p>
+* Findings papers will be presented as posters. If you choose to present at the conference, you do have to register.
+* Long papers are either oral or poster; short papers are posters.
+</div>
+
 NAACL 2022 will be a **hybrid** event with both on-site ([venue information](/venue/)) and virtual participation (via Underline).
 {: .text-center .notice--warning}
 
 Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline on a rolling basis.
+Questions about subsidies should be sent to the NAACL Diversity and Inclusion team: <naacl-2022-dei-chairs@googlegroups.com>.
 {: .text-center .notice--info}
 
 ## News

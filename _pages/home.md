@@ -22,8 +22,8 @@ secondary_excerpt: "July 10--15, 2022"
 NAACL 2022 will be a **hybrid** event with both on-site ([venue information](/venue/)) and virtual participation (via Underline).
 {: .text-center .notice--warning}
 
-Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline on a rolling basis.
-Questions about subsidies should be sent to the NAACL Diversity and Inclusion team: <naacl-2022-dei-chairs@googlegroups.com>.
+Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline is **May 24**.
+Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-2022-dei-chairs@googlegroups.com).
 {: .text-center .notice--info}
 
 ## News
@@ -53,6 +53,7 @@ Questions about subsidies should be sent to the NAACL Diversity and Inclusion te
 | Notification of acceptance ([SRW](/calls/srw/)) | Sunday | May 8, 2022 |
 | Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
 | Camera-ready due ([SRW](/calls/srw/)) | Friday | May 20, 2022 |
+| Subsidies and volunteer [applications](/blog/subsidies/) | Tuesday | May 24, 2022 |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}
 

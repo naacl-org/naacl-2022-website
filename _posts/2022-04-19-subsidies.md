@@ -17,7 +17,7 @@ NAACL 2022 is providing D&I funds for registration, caregiving, bandwidth, trave
 
 In exchange for one full day equivalent of work, student volunteers receive free registration to the main conference (including workshops and tutorials) and ACL membership for one year. Non-student volunteers receive free registration to the main conference (including workshops and tutorials). We encourage undergraduate students as volunteers, as well as PhD and MSc students. 
 
-The last date is not decided yet and applications will be considered on a rolling basis. Please apply as soon as possible so we can allocate you promptly before the funding runs out. Applications will close by 2 weeks before the early registration deadline [at this link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UAd5zRUMk5UN0hGREVZS1ZBWEpNSTY0WkNORDBQRy4u). 
+The last date is not decided yet and applications will be considered on a rolling basis. Please apply as soon as possible so we can allocate you promptly before the funding runs out. Applications will close by May 24 [at this link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UAd5zRUMk5UN0hGREVZS1ZBWEpNSTY0WkNORDBQRy4u). 
 
 
 ## Registration subsidies
@@ -84,9 +84,9 @@ Applicants will be evaluated based on the material they submit in their applicat
 
 ## Application deadline 
 
-The last date is not decided yet and applications will be considered on a rolling basis. **Please apply as soon as possible so we can allocate you promptly before the funding runs out.** 
+Applications will be considered on a rolling basis. **Please apply as soon as possible so we can allocate you promptly before the funding runs out.** 
 
-Applications will close by 2 weeks before the early registration deadline.
+No applications will be considered after **May 24**.
 
 
 ## Notification of acceptance 

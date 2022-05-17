@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/), deadline is **May 24**.
+Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/). The deadline is **May 24**.
 Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-2022-dei-chairs@googlegroups.com).
 {: .text-center .notice--info}
 

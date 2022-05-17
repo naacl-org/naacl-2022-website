@@ -57,6 +57,10 @@ gold:
     image_path: /assets/images/logos/TIAA.png
     alt: TIAA
     title: TIAA
+  - url: https://www.ets.org/
+    image_path: /assets/images/logos/ETS.jpg
+    alt: ETS
+    title: ETS
 silver:
   - url: https://www.asapp.com/
     image_path: /assets/images/logos/ASAPP.png

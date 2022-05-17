@@ -699,6 +699,10 @@ toc_sticky: true
  Alice Martin, Guillaume Quispe, Charles Ollion, Sylvain Le Corff, Florian Strub, Olivier Pietquin
 * **Social Norms Guide Reference Resolution**
  Mitchell Abrams, Matthias Scheutz
+* **Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia** 
+ Samee Omotayo Ibraheem, Gaoyue Zhou, John DeNero
+* **SwahBERT: Language Model of Swahili** 
+ Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo
 
 ## Main Conference - Short Papers
 
@@ -862,8 +866,6 @@ toc_sticky: true
  Akiko Eriguchi, Shufang Xie, Tao Qin, Hany Hassan
 * **A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction**
  Yong Xie, Dakuo Wang, Pin-Yu Chen, Jinjun Xiong, Sijia Liu, Oluwasanmi O Koyejo
-* **Lightweight STS Training using Barlow Twins Loss**
- Tanmay Laud, John Frederick Wieting, Taylor Berg-Kirkpatrick
 * **A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction**
  Shu Liu, Kaiwen Li, Zuhe Li
 * **SUBS: Subtree Substitution for Compositional Semantic Parsing**
@@ -1320,3 +1322,9 @@ toc_sticky: true
  Daniel J. Liebling, Katherine A Heller, Samantha Robertson, Wesley Hanwen Deng
 * **Quiz Design Task: Helping Teachers Create Quizzes with Automated Question Generation**
  Philippe Laban, Chien-Sheng Wu, Lidiya Murakhovs'ka, Wenhao Liu, Caiming Xiong
+* **POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection**
+ Yujian Liu, Xinliang Frederick Zhang, David Wegsman, Nicholas Beauchamp, Lu Wang
+* **Target-Guided Dialogue Response Generation Using Commonsense and Data Augmentation** 
+ Prakhar Gupta, Harsh Jhamtani, Jeffrey Bigham
+* **CRUSH: Contextually Regularized and User anchored Self-supervised Hate speech Detection** 
+ Souvic Chakraborty, Parag Dutta, Sumegh Roychowdhury, Animesh Mukherjee

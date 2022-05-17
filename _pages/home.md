@@ -49,8 +49,6 @@ Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-20
 .dates-table del { color: #888; }
 </style>
 
-| Camera-ready due ([main conference](/calls/papers/) and [industry track](/calls/industry/)) | Tuesday | May 3, 2022 |
-| Notification of acceptance ([SRW](/calls/srw/)) | Sunday | May 8, 2022 |
 | Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
 | Camera-ready due ([SRW](/calls/srw/)) | Friday | May 20, 2022 |
 | Subsidies and volunteer [applications](/blog/subsidies/) | Tuesday | May 24, 2022 |

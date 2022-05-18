@@ -13,7 +13,7 @@ secondary_excerpt: "July 10--15, 2022"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-**[Registration](/registration/) opens on May 17, 2022.** The early registration deadline is June 4, 2022, 11:59 PM (ET).
+**[Registration](/registration/) is now open.** The early registration deadline is June 4, 2022, 11:59 PM (ET).
 {: .text-center .notice--warning}
 
 Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See details here](/blog/subsidies/). The deadline is **May 24**.

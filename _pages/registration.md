@@ -18,7 +18,9 @@ Registration opens Tuesday, 17 May 2022.  We have made every effort to keep regi
 * Early registration ends June 4, 2022, 11:59 PM (ET).
 * Late registration starts June 5, 2022 and ends June 26, 2022, 9:00 AM (ET).
 * On-site registration begins June 26, 2022.  **It is suggested that onsite registration be completed and paid before you arrive at the registration desk.**  Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
-* If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events ([below](#cancellation-policy)) to make the change and pay the difference owed.  Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference.
+* If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed.  Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference.
+
+For questions about your registration and/or payment, please contact **Yes Events**: <NAACLinfo@yesevents.com> or Toll Free: +1-800-937-8728.
 
 ## Registration Pricing
 
@@ -63,9 +65,6 @@ The ACL offers a discount to members from developing countries. We hope this dis
 * Cancellations received up to three weeks prior to the conference will receive the ACL membership (if paid as part of the registration) and reimbursement of all amounts paid above the first $200  
 * Cancellations received within three weeks prior to the conference and all no-shows will not receive reimbursements but will receive the current full year ACL membership (if paid as part of the registration).
 * Cancellations due to governmental travel restrictions, failure to obtain a visa or serious illness that prevents travel to attend the Conference (including COVID-19 problems) will receive a full refund regardless of when notification is received by the ACL Registrar.
-
-For questions about your registration and/or payment, please contact **Yes Events**:
-<NAACLinfo@yesevents.com> or Toll Free: 1-800-937-8728.
 
 ## Code of Conduct
 

@@ -72,8 +72,8 @@ which is also the conference venue. You can make your discounted reservation [he
 - Walk two blocks southwest to the Westlake Station, where you can board the Link Light Rail and ride it to the airport, University of Washington, and more. Seattle-Tacoma International Airport is just 15 miles away. 
 - Overnight self-parking for hotel guests; In & Out privileges included. $40/day 
 - Complimentary Wi-fi in all guest rooms. 
-- Single/Double Room: **$275**, Triple Room: **$300**, Quad Room: **$325**.
-- 
+- Single/Double Room: **$265**, Triple Room: **$300**, Quad Room: **$325**.
+ 
 Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability. ACL discounted rates are available through Sunday, June 19, 2022. Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
 
 ## Accessibility

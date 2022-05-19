@@ -13,21 +13,22 @@ secondary_excerpt: "July 10--15, 2022"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-<div markdown="1" class="notice--info">
-<p class="text-center">Authors have now been notified by email about the presentation mode of their paper.</p>
-* Findings papers will be presented as posters. If you choose to present at the conference, you do have to register.
-* Long papers are either oral or poster; short papers are posters.
-</div>
-
-NAACL 2022 will be a **hybrid** event with both on-site ([venue information](/venue/)) and virtual participation (via Underline).
+**[Registration](/registration/) is now open.** The early registration deadline is June 4, 2022, 11:59 PM (ET).
 {: .text-center .notice--warning}
 
 Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See details here](/blog/subsidies/). The deadline is **May 24**.
 Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-2022-dei-chairs@googlegroups.com).
 {: .text-center .notice--info}
 
+<div markdown="1" class="notice--info">
+<p class="text-center">Authors have now been notified by email about the presentation mode of their paper.</p>
+* Findings papers will be presented as posters. If you choose to present at the conference, you do have to register.
+* Long papers are either oral or poster; short papers are posters.
+</div>
+
 ## News
 
+| May 17, 2022 | Updated the [Registration](/registration/) page.
 | Apr 28, 2022 | Updated the [Venue](/venue/) and [Visa Information](/visa-info/) pages.
 | Apr 20, 2022 | [Blogpost](/blog/poster-talk-accessibility-quality-inclusivity/) by D&I chairs on Poster and Talk Accessibility, Quality, and Inclusivity.
 | Apr 20, 2022 | [Camera-ready instructions](/blog/camera-ready) are available. 
@@ -52,7 +53,10 @@ Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-20
 | Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
 | Camera-ready due ([SRW](/calls/srw/)) | Friday | May 20, 2022 |
 | Subsidies and volunteer [applications](/blog/subsidies/) | Tuesday | May 24, 2022 |
+| [Structured Socials](/blog/structured-social/) proposal deadline | Friday | May 27, 2022 |
+| Early [registration](/registration/) deadline | Saturday | June 4, 2022 (23:59 ET) |
+| Late [registration](/registration/) deadline | Sunday | June 26, 2022 (09:00 ET) |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}
 
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth).</b>
+All deadlines are 23:59 <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> (anywhere on earth) unless stated otherwise.

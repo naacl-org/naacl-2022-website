@@ -776,8 +776,6 @@ toc_sticky: true
  Juhyuk Lee, Min-Joong Lee, June Yong Yang, Eunho Yang
 * **Quantifying Language Variation Acoustically with Few Resources**
  Martijn Bartelds, Martijn Wieling
-* **Reproducibility Beyond the NLP Research Community: A Study on User Experience**
- Shane Storks, Keunwoo Peter Yu, Joyce Chai
 * **ChapterBreak: A Challenge Dataset for Long-Range Language Models**
  Simeng Sun, Katherine Thai, Mohit Iyyer
 * **How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns**

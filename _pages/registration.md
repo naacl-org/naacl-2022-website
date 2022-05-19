@@ -66,6 +66,8 @@ The ACL offers a discount to members from developing countries. We hope this dis
 * Cancellations received within three weeks prior to the conference and all no-shows will not receive reimbursements but will receive the current full year ACL membership (if paid as part of the registration).
 * Cancellations due to governmental travel restrictions, failure to obtain a visa or serious illness that prevents travel to attend the Conference (including COVID-19 problems) will receive a full refund regardless of when notification is received by the ACL Registrar.
 
+For questions about your registration and/or payment, please contact **Yes Events**: <NAACLinfo@yesevents.com> or Toll Free: +1-800-937-8728
+
 ## Code of Conduct
 
 By registering, participants acknowledge and agree to follow the [ACL's code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), the [ACL's anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and the ACL code of conduct below. Violations against those should be reported to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) by approaching any of its members. The contact information for each member and the languages they speak are listed [here](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee).  

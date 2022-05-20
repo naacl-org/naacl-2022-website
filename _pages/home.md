@@ -28,16 +28,12 @@ Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-20
 
 ## News
 
+| May 19, 2022 | [Blogpost](/blog/caregivers/): Caring for the Caregivers at NAACL 2022 (childcare subsidy request deadline: May 24)
 | May 17, 2022 | Updated the [Registration](/registration/) page.
 | Apr 28, 2022 | Updated the [Venue](/venue/) and [Visa Information](/visa-info/) pages.
 | Apr 20, 2022 | [Blogpost](/blog/poster-talk-accessibility-quality-inclusivity/) by D&I chairs on Poster and Talk Accessibility, Quality, and Inclusivity.
-| Apr 20, 2022 | [Camera-ready instructions](/blog/camera-ready) are available. 
 | Apr 19, 2022 | Call for [D&I subsidies and volunteer awards](/blog/subsidies/) have been announced. 
-| Apr 19, 2022 | The notification of acceptance for the [demonstration track](/calls/demos/#important-dates) has been postponed to **April 21**.
-| Apr 15, 2022 | The list of [accepted tutorials](/program/tutorials/) is announced.
-| Apr 12, 2022 | [Blogpost](/blog/authors-faq) by Program Chairs: FAQ for NAACL authors
 | Apr 12, 2022 | [Call for structured socials](/blog/structured-social/) is announced.
-| Mar 29, 2022 | The list of [accepted workshops](/program/workshops/) is announced.
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->

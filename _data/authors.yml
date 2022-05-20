@@ -19,3 +19,8 @@ reproducibility-chairs:
   name        : "Reproducibility Chairs"
   bio         : "Daniel Deutsch, Yash Kumar Lal, Annie Louis, Pete Walsh, Jesse Dodge, Niranjan Balasubramanian"
   avatar      : "assets/images/logos/acl-logo-square.png"
+
+publicity-chairs:
+  name        : "Publicity Chairs"
+  bio         : "Nanyun (Violet) Peng, Emily Sheng, Sameer Singh"
+  avatar      : "assets/images/logos/acl-logo-square.png"

@@ -310,7 +310,7 @@ toc_sticky: true
    name="Emily Sheng"
    picture="/assets/images/committee/emily_sheng.jpg"
    site="https://ewsheng.github.io/"
-   institution="Twitter"
+   institution="Microsoft Research"
 %}
 {% include bio-box
    name="Sameer Singh"

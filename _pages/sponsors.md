@@ -54,7 +54,7 @@ gold:
     alt: ServiceNow
     title: ServiceNow
   - url: https://www.nuveen.com/en-us/about-us/profiles/j/tiaa-jemd
-    image_path: /assets/images/logos/TIAA.png
+    image_path: /assets/images/logos/TIAA.jpeg
     alt: TIAA
     title: TIAA
   - url: https://www.ets.org/

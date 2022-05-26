@@ -58,6 +58,6 @@ toc: false
   name="Dan Roth"
   picture="/assets/images/tutorials/Dan_Roth.jpg"
   site="http://www.cis.upenn.edu/~danroth/"
-  institution="University of Pennsylvania & AWS AI-Labs"
+  institution="University of Pennsylvania & AWS AI Labs"
   bio="Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of CIS, UPenn, the NLP Lead at AWS AI, and a Fellow of the AAAS, ACM, AAAI, and ACL. In 2017 Roth received the John McCarthy Award. Roth has published broadly in ML, NLP, KRR, and learning theory, and has given keynote talks and tutorials in all ACL and AAAI major conferences. Roth was the Editor-in-Chief of JAIR until 2017, and the program chair of AAAI’11, ACL’03 and CoNLL’02."
 %}

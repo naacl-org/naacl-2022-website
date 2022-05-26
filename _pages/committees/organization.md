@@ -14,7 +14,7 @@ toc_sticky: true
    name="Dan Roth"
    picture="/assets/images/committee/dan_roth.jpg"
    site="https://www.cis.upenn.edu/~danroth/"
-   institution="University of Pennsylvania & Amazon"
+   institution="University of Pennsylvania & AWS AI Labs"
 %}
 
 ## Program Chairs

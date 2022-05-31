@@ -111,6 +111,8 @@ participants:
         url: /venue/
       - title: "Visa Information"
         url: /visa-info/
+      - title: "COVID-19 Safety at NAACL 2022"
+        url: /covid-19-safety/
 
 committees:
   - title: Committees

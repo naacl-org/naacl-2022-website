@@ -24,8 +24,6 @@ import sys
 from pathlib import Path
 
 _THIS_DIR = Path(__file__).absolute().parent
-AGENDA_SUBMODULE_DIR = _THIS_DIR.parent.joinpath('agenda', 'code')
-sys.path.append(str(AGENDA_SUBMODULE_DIR))
 
 from orderfile import Agenda, SessionGroup, Session, Item
 from metadata import ScheduleMetadata
@@ -63,7 +61,7 @@ class WebAgenda(Agenda):
                       '<tbody></tbody>',
                       '</table>',
                       '<div id="introParagraph">',
-                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice <em>and</em> generate a PDF of your customized schedule! This page should work on modern browsers on all operating systems. On mobile devices, Safari on iOS and Chrome on Android are the only browsers known to work. For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. For help, simply type "?"" while on the page or click on the "Help" button.</p>',
+                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice <em>and</em> generate a PDF of your customized schedule! This page should work on modern browsers on all operating systems. For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. For help, simply type "?"" while on the page or click on the "Help" button.</p>',
                       '</div>',
                       '<p class="text-center">',
                       '<a href="#" id="help-button" class="btn btn--small btn--twitter">Help</a>',

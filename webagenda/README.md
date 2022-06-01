@@ -1,26 +1,19 @@
 ## Generating the Schedule for the Website
 
-This directory contains the data files and code used to generate the schedule for the NAACL 2019 official website. To do this, it relies on the code and data provided by the [NAACL 2019 schedule repository](https://github.com/naacl-org/naacl-schedule-2019), which is used as a submodule in this repository. This is structured in this way because it makes it much easier to allow syncing any changes in the data files much easier across both the websites and the apps and also allows for code sharing.
+This directory contains the data files and code used to generate the schedule for the NAACL official website.
 
-### Setting Up
+### Requirements
 
-In order to run the code in this repository, you first need to create a [conda](https://conda.io/en/latest/) environment. First you should [install miniconda](https://conda.io/en/latest/miniconda.html). Once you have it installed, run the following to create the Python environment:
+Python 3.6+ with:
 
-```bash
-conda create -n naacl2019 -c conda-forge --file agenda/requirements.txt
-```
-
-This will create a conda environment called `naacl2019` which you will need to "activate" before running any of the code. To activate this environment, run:
-
-```bash
-conda activate naacl2019
-```
+- [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+- [lxml](https://pypi.org/project/lxml/)
 
 ### Contents 
 
 There are three main files that support the schedule on the website:
 
-1. `generate.py` : This is the main driver script that generates the schedule markdown file for the repository. This script uses the classes defined in the `orderfile.py` module from the NAACL 2019 schedule repository that is integrated as a submodule in this repository under the `agenda` directory. It takes as input a single JSON configuration file that contains the following fields:
+1. `generate.py` : This is the main driver script that generates the schedule markdown file for the repository. It takes as input a single JSON configuration file that contains the following fields:
     
     - `order_file` : The manually combined order file for the main conference.
 
@@ -58,11 +51,11 @@ The configuration file `config.json` is checked into the repository and looks li
 
 ```json
 {
-    "order_file": "agenda/data/order/manually_combined_order",
-    "mapping_file": "agenda/data/mapping/manually_combined_id_map.txt",
-    "xml_file": "agenda/data/xml/N19.xml",
-    "extra_metadata_file": "agenda/data/extra-metadata/main.tsv",
-    "plenary_info_file": "agenda/data/plenary-info.tsv",
+    "order_file": "webagenda/data/order.txt",
+    "mapping_file": "webagenda/data/mapping.tsv",
+    "xml_file": "webagenda/data/N19.xml",
+    "extra_metadata_file": "webagenda/data/metadata.tsv",
+    "plenary_info_file": "webagenda/data/plenary.tsv",
     "pdf_icons": true,
     "video_icons": false
 }

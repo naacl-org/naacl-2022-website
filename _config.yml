@@ -181,6 +181,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - webagenda
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:

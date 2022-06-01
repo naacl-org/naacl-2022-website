@@ -1294,5 +1294,3 @@ ASCIIFolder.mapping = new Map([
     [0x2053, '~'],
     [0xFF5E, '~']
 ]);
-
-module.exports = ASCIIFolder;

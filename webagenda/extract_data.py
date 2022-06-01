@@ -55,7 +55,7 @@ def main():
             if line[0] == '{':
                 # Search for matching papers
                 for record in raw_schedule.search(json.loads(line)):
-                    fout.write('{} #\n'.format(record['Paper ID']))
+                    fout.write('{} #\n'.format(record['Paper ID'].replace(' ', '_')))
             else:
                 fout.write(line)
 

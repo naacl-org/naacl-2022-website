@@ -28,7 +28,7 @@
 681 #
 968 #
 534 #
-TACL 3561 #
+TACL_3561 #
 = Session 1D: Efficient Methods in NLP 1
 424 #
 117 #
@@ -41,7 +41,7 @@ TACL 3561 #
 618 #
 593 #
 687 #
-TACL 3537 #
+TACL_3537 #
 364 #
 = Session 1F: Poster Session 1
 42 #
@@ -138,7 +138,7 @@ TACL 3537 #
 370 #
 289 #
 348 #
-TACL 3735 #
+TACL_3735 #
 = Session 2E: NLP Applications 1
 193 #
 883 #
@@ -232,7 +232,7 @@ TACL 3735 #
 87 #
 1047 #
 = Session 3B: Semantics & Sentiment Analysis
-TACL 3655 #
+TACL_3655 #
 892 #
 970 #
 294 #
@@ -273,7 +273,7 @@ TACL 3655 #
 490 #
 191 #
 346 #
-TACL 3477 #
+TACL_3477 #
 = Session 4C: Information Retrieval
 40 #
 465 #
@@ -364,7 +364,7 @@ TACL 3477 #
 880 #
 = Session 5C: Information Extraction 1
 379 #
-TACL 3721 #
+TACL_3721 #
 991 #
 823 #
 988 #
@@ -424,8 +424,6 @@ CL #
 898 #
 613 #
 
-! Social Events
-
 * Wednesday, July 13, 2022
 
 + 8:00--9:00 Session 7 + Virtual Poster Q&A Session
@@ -457,7 +455,7 @@ CL #
 519 #
 = Session 7F: Machine Learning for NLP 2
 993 #
-TACL 3765 #
+TACL_3765 #
 843 #
 757 #
 
@@ -526,7 +524,7 @@ TACL 3765 #
 26 #
 1011 #
 818 #
-TACL 3519 #
+TACL_3519 #
 = Session 9E: NLP Applications 4
 594 #
 398 #
@@ -573,7 +571,7 @@ TACL 3519 #
 240 #
 451 #
 454 #
-TACL 3639 #
+TACL_3639 #
 
 ! 15:45--16:15 Break
 

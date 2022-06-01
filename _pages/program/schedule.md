@@ -525,7 +525,6 @@ after_footer_scripts:
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title">Social Events</span><br/><span class="session-time" title="Tuesday, July 12, 2022"> &ndash; </span></div>
 <div class="day" id="day-3">Wednesday, July 13, 2022</div>
 <div class="session-box" id="session-box-7">
 <div class="session-header" id="session-header-7">Session 7 + Virtual Poster Q&A Session</div>

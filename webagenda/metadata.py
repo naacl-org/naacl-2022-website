@@ -233,7 +233,7 @@ class ScheduleMetadata(object):
                                       abstract=abstract,
                                       pdf_url='',
                                       video_url='')
-                key = '{}#{}'.format(row['paper_id'].strip(), event)
+                key = '{}#{}'.format(row['paper_id'].strip().replace(' ', '_'), event)
                 non_anthology_dict[key] = value
 
         # return the dictionary

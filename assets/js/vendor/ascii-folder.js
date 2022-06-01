@@ -19,38 +19,48 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
-class ASCIIFolder {
+/**
+ * Sanitize strings by converting alphabetic, numeric, and symbolic Unicode characters which are not contained in
+ * the first 127 ASCII characters (the "Basic Latin" Unicode block) into a ASCII equivalents.
+ *
+ * @param str The string to be sanitized
+ * @param replacement The character an unmapped character should be replaced with or null should the original
+ * character be retained
+ * @returns {string} The sanitized string
+ */
+function ASCIIFold(str, replacement) {
+    var foldedStr = '';
 
-    static foldReplacing(str = '', replacement = '') {
-        return this._fold(str, () => replacement);
+    if (str === null)
+        return '';
+    if (typeof str === 'number')
+        return '' + str;
+    if (typeof str !== 'string')
+        throw new Error('Invalid input data type');
+    for (var i=0; i<str.length;i++) {
+        var character = str[i];
+        if (character.charCodeAt(0) < 128) {
+            foldedStr = foldedStr.concat(character);
+        }
+        else {
+            foldedStr = foldedStr.concat(ASCIIFoldReplaceChar(character, replacement));
+        }
     }
-
-    static foldMaintaining(str = '') {
-        return this._fold(str, (char) => char);
-    }
-
-    static _fold(str, fallback) {
-        if (str === null)
-            return '';
-
-        if (typeof str === 'number')
-            return '' + str;
-
-        if (typeof str !== 'string')
-            throw new Error('Invalid input data type');
-
-        return str.split('').map(character => {
-            if (character.charCodeAt(0) < 128) {
-                return character;
-            } else {
-                const replacement = this.mapping.get(character.charCodeAt(0));
-                return (replacement === undefined) ? fallback(character) : replacement;
-            }
-        }).join('');
-    }
+    return foldedStr;
+}
+/**
+ * Replaces a single character
+ *
+ * @param char The character to replace
+ * @param replacement What string unmapped characters should be replaced with
+ * @returns {string} A string representing the replacement of the character
+ */
+function ASCIIFoldReplaceChar(char, replacement) {
+    var ascii = ASCIIFoldMapping.get(char.charCodeAt(0));
+    return ascii ? ascii : replacement;
 }
 
-ASCIIFolder.mapping = new Map([
+var ASCIIFoldMapping = new Map([
     [0xC0, 'A'],
     [0xC1, 'A'],
     [0xC2, 'A'],
@@ -1288,6 +1298,7 @@ ASCIIFolder.mapping = new Map([
     [0x2048, '?!'],
     [0xFF20, '@'],
     [0xFF3C, '\\'],
+    [0x2C6, '^'],
     [0x2038, '^'],
     [0xFF3E, '^'],
     [0xFF3F, '_'],

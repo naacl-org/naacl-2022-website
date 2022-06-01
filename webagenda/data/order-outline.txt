@@ -112,8 +112,6 @@
 = Session 6E: Question Answering 1
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
 
-! Social Events
-
 * Wednesday, July 13, 2022
 
 + 8:00--9:00 Session 7 + Virtual Poster Q&A Session

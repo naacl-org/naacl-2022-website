@@ -41,24 +41,18 @@ For more details on how this script works, please refer to the code and the comm
 
 ### Generating the Schedule
 
-The following command will generate the schedule markdown file at `_pages/program/schedule.md` for the website without the video and paper icons. This command should be run in the top level of the cloned repository:
+First, download the spreadsheets given by the Program Chairs. Save them to `data/raw-*`.
+
+Then, process the downloaded files by running the following command at the top level of the cloned repository:
+
+```
+python extract_data.py
+```
+
+Then use the following command to generate the schedule markdown file at `_pages/program/schedule.md` for the website:
 
 ```
 python webagenda/generate.py webagenda/config.json _pages/output/schedule.md
 ```
 
-The configuration file `config.json` is checked into the repository and looks like this:
-
-```json
-{
-    "order_file": "webagenda/data/order.txt",
-    "mapping_file": "webagenda/data/mapping.tsv",
-    "xml_file": "webagenda/data/N19.xml",
-    "extra_metadata_file": "webagenda/data/metadata.tsv",
-    "plenary_info_file": "webagenda/data/plenary.tsv",
-    "pdf_icons": true,
-    "video_icons": false
-}
-```
-
-This file already adds the PDF links where available. To add the video icons where available, modify the above config file to have the value for `video_icons` field to be `true`. 
+The config file already adds the PDF links where available. To add the video icons where available, modify the config file to have the value for `video_icons` field to be `true`. 

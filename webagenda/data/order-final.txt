@@ -1,0 +1,582 @@
+* Monday, July 11, 2022
+
+! 8:45--9:15 Welcome Session
+
+! 9:15--10:15 Plenary Invited Talk
+
+! 10:15--10:45 Break
+
++ 11:45--12:15 Session 1 + In-person Poster Session 1
+
+= Session 1A: Language Generation
+665 #
+131 #
+551 #
+363 #
+895 #
+744 #
+= Session 1B: Summarization
+486 #
+494 #
+1050 #
+847 #
+608 #
+980 #
+= Session 1C: Information Extraction
+893 #
+905 #
+681 #
+968 #
+534 #
+TACL 3561 #
+= Session 1D: Efficient Methods in NLP 1
+424 #
+117 #
+750 #
+469 #
+922 #
+817 #
+= Session 1E: Dialogue
+627 #
+618 #
+593 #
+687 #
+TACL 3537 #
+364 #
+= Session 1F: Poster Session 1
+42 #
+975 #
+852 #
+351 #
+549 #
+330 #
+653 #
+520 #
+200 #
+128 #
+52 #
+829 #
+780 #
+734 #
+659 #
+298 #
+716 #
+438 #
+395 #
+316 #
+113 #
+899 #
+820 #
+678 #
+437 #
+302 #
+99 #
+672 #
+286 #
+1038 #
+821 #
+260 #
+110 #
+493 #
+340 #
+83 #
+747 #
+632 #
+482 #
+4 #
+109 #
+756 #
+350 #
+263 #
+338 #
+15 #
+915 #
+656 #
+478 #
+1020 #
+98 #
+280 #
+595 #
+108 #
+52 #
+99 #
+36 #
+5 #
+
+! 12:15--13:15 Lunch
+
+! 13:15--14:15 Industry Panel
+
+! 14:15--14:30 Break
+
++ 14:30--16:00 Session 2 + In-person Poster Session 2
+
+= Session 2A: Interpretability
+666 #
+951 #
+948 #
+944 #
+859 #
+396 #
+= Session 2B: Semantics
+831 #
+827 #
+824 #
+822 #
+797 #
+766 #
+= Session 2C: Language Resources & Evaluation 1
+670 #
+954 #
+973 #
+573 #
+475 #
+239 #
+= Session 2D: Machine Translation 1
+945 #
+450 #
+370 #
+289 #
+348 #
+TACL 3735 #
+= Session 2E: NLP Applications 1
+193 #
+883 #
+777 #
+394 #
+647 #
+779 #
+= Session 2F: Poster Session 2
+235 #
+428 #
+778 #
+228 #
+133 #
+421 #
+37 #
+205 #
+786 #
+334 #
+849 #
+941 #
+838 #
+156 #
+8 #
+913 #
+871 #
+789 #
+876 #
+14 #
+815 #
+775 #
+435 #
+273 #
+238 #
+257 #
+202 #
+403 #
+502 #
+630 #
+163 #
+572 #
+888 #
+433 #
+537 #
+389 #
+597 #
+612 #
+718 #
+536 #
+769 #
+116 #
+952 #
+284 #
+854 #
+705 #
+326 #
+446 #
+269 #
+217 #
+976 #
+967 #
+1049 #
+344 #
+807 #
+963 #
+489 #
+253 #
+671 #
+3 #
+921 #
+842 #
+149 #
+179 #
+324 #
+59 #
+983 #
+422 #
+480 #
+246 #
+
+! 16:00--16:30 Break
+
+! 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment 
+
+* Tuesday, July 12, 2022
+
++ 8:00--9:00 Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1
+
+= Session 3A: Language Generation
+566 #
+416 #
+87 #
+1047 #
+= Session 3B: Semantics & Sentiment Analysis
+TACL 3655 #
+892 #
+970 #
+294 #
+= Session 3C: Language Resources & Evaluation 2
+589 #
+901 #
+457 #
+162 #
+= Session 3D: Efficient Methods in NLP 2
+1006 #
+746 #
+614 #
+698 #
+= Session 3E: NLP Applications 2
+636 #
+565 #
+610 #
+931 #
+
+! 9:00--9:15 Break
+
+! 9:15--10:15 Plenary Invited Talk
+
+! 10:15--10:45 Break
+
++ 10:45--12:15 Session 4 + In-person Poster Session 3 + SRW Oral Session 1
+
+= Session 4A: Interpretability and Analysis of Models for NLP 1
+841 #
+840 #
+704 #
+505 #
+484 #
+464 #
+= Session 4B: Summarization
+591 #
+776 #
+490 #
+191 #
+346 #
+TACL 3477 #
+= Session 4C: Information Retrieval
+40 #
+465 #
+580 #
+605 #
+690 #
+832 #
+= Session 4D: Language Grounding to Vision 1
+174 #
+527 #
+1043 #
+834 #
+318 #
+874 #
+= Session 4E: Dialogue and Interactive Systems 1
+456 #
+926 #
+522 #
+638 #
+639 #
+249 #
+= Session 4F: Poster Session 3
+562 #
+887 #
+283 #
+660 #
+544 #
+53 #
+812 #
+407 #
+9 #
+368 #
+688 #
+529 #
+714 #
+168 #
+43 #
+741 #
+362 #
+76 #
+806 #
+70 #
+509 #
+320 #
+222 #
+761 #
+212 #
+528 #
+663 #
+390 #
+331 #
+224 #
+22 #
+971 #
+953 #
+857 #
+839 #
+794 #
+487 #
+29 #
+513 #
+801 #
+303 #
+657 #
+492 #
+120 #
+49 #
+693 #
+810 #
+
+! 12:15--14:15 Lunch + Business Meeting
+
++ 14:15--15:45 Session 5 + Industry Oral Session 2 + SRW Poster Session                                 
+
+= Session 5A: Ethics, Bias, Fairness 1
+867 #
+245 #
+674 #
+1015 #
+568 #
+512 #
+= Session 5B: Sentiment Analysis & Stylistic Analysis
+28 #
+981 #
+785 #
+561 #
+488 #
+880 #
+= Session 5C: Information Extraction 1
+379 #
+TACL 3721 #
+991 #
+823 #
+988 #
+894 #
+= Session 5D: Human-Centered NLP 1
+86 #
+53 #
+111 #
+93 #
+87 #
+90 #
+= Session 5E: NLP Applications 3
+964 #
+277 #
+1044 #
+474 #
+274 #
+244 #
+
+! 15:45--16:15 Break
+
++ 16:15--17:45 Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + In-person Industry/Demo Poster Session
+
+= Session 6A: Language Grounding to Vision 2
+391 #
+825 #
+946 #
+960 #
+836 #
+164 #
+= Session 6B: Syntax: Tagging, Chunking and Parsing
+CL #
+990 #
+516 #
+413 #
+220 #
+863 #
+= Session 6C: Multilinguality
+878 #
+676 #
+662 #
+481 #
+256 #
+383 #
+= Session 6D: Machine Learning for NLP 1
+966 #
+796 #
+851 #
+920 #
+956 #
+932 #
+= Session 6E: Question Answering 1
+947 #
+91 #
+196 #
+48 #
+898 #
+613 #
+
+! Social Events
+
+* Wednesday, July 13, 2022
+
++ 8:00--9:00 Session 7 + Virtual Poster Q&A Session
+
+= Session 7A: Interpretability and Analysis of Models for NLP 2
+177 #
+577 #
+226 #
+46 #
+= Session 7B: Summarization
+719 #
+873 #
+985 #
+1024 #
+= Session 7C: Information Extraction 2
+771 #
+700 #
+751 #
+1041 #
+= Session 7D: Machine Translation 2
+999 #
+965 #
+907 #
+703 #
+= Session 7E: Dialogue and Interactive Systems 2
+1001 #
+80 #
+861 #
+519 #
+= Session 7F: Machine Learning for NLP 2
+993 #
+TACL 3765 #
+843 #
+757 #
+
+! 9:00--9:15 Break
+
++ 9:15--10:15 Session 8 + Virtual Poster Q&A Session
+
+= Session 8A: Interpretability and Analysis of Models for NLP 3
+994 #
+1035 #
+1000 #
+853 #
+= Session 8B: Computational Social Science and Cultural Analytics
+882 #
+255 #
+1002 #
+1023 #
+= Session 8C: Human-Centered NLP 2
+70 #
+65 #
+34 #
+134 #
+= Session 8D: Machine Translation 3
+835 #
+870 #
+884 #
+811 #
+= Session 8E: Dialogue and Interactive Systems 3
+97 #
+1010 #
+233 #
+833 #
+= Session 8F: Machine Learning for NLP 3
+679 #
+517 #
+503 #
+962 #
+
+! 10:15--10:45 Break
+
++ 10:45--12:15 Session 9 + Findings Poster Session 1
+
+= Session 9A: Language Generation
+686 #
+634 #
+126 #
+142 #
+955 #
+673 #
+= Session 9B: Speech & Phonology, Morphology
+158 #
+772 #
+247 #
+129 #
+61 #
+= Session 9C: Information Extraction 3
+535 #
+184 #
+472 #
+574 #
+462 #
+845 #
+= Session 9D: Language Resources & Evaluation 3
+699 #
+371 #
+26 #
+1011 #
+818 #
+TACL 3519 #
+= Session 9E: NLP Applications 4
+594 #
+398 #
+958 #
+928 #
+510 #
+155 #
+
+! 12:15--14:15 Lunch
+
++ 14:15--15:45 Session 10 + Findings Poster Session 2
+
+= Session 10A: Ethics, Bias, Fairness 2
+524 #
+511 #
+172 #
+774 #
+495 #
+151 #
+= Session 10B: Semantics
+515 #
+950 #
+606 #
+936 #
+483 #
+729 #
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse
+875 #
+826 #
+684 #
+607 #
+471 #
+2 #
+= Session 10D: Machine Learning 4
+496 #
+846 #
+959 #
+266 #
+308 #
+152 #
+= Session 10E: Question Answering 2
+506 #
+553 #
+240 #
+451 #
+454 #
+TACL 3639 #
+
+! 15:45--16:15 Break
+
+! 16:15--17:15 Plenary Invited Talk
+
+! 17:15--17:45 Closing Session

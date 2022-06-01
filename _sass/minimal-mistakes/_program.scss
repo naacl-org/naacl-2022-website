@@ -71,7 +71,7 @@ div#generatePDFForm {
     vertical-align: middle;
     font-size: $type-size-6;
     background-color: $background-color;
-    border: 1px solid $light-gray;
+    // border: 1px solid $light-gray;
 
     a#generatePDFButton {
         margin-top: 10px;
@@ -106,8 +106,8 @@ div.day {
     color: white;
     background-color: $primary-color;
     border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 div#introParagraph {
@@ -151,8 +151,8 @@ div#popupInstructionsDiv {
 div.session-box {
     overflow: hidden;
     border: 2px solid $light-gray;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 div.session-header {
@@ -162,7 +162,8 @@ div.session-header {
     vertical-align: middle;
     height: 35px;
     border-bottom: 2px solid $light-gray;
-    background-color: $lighter-gray;
+    background-color: $light-gray;
+    // background-color: $lighter-gray;
     // background-color: #FFE4E1;
     // background-color: red;
 }

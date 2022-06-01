@@ -31,16 +31,10 @@ from metadata import ScheduleMetadata
 
 def authorlist_to_string(authorlist):
     """
-    Function to convert a list of author names
-    into a readable string, for example,
-    ['X', 'Y', 'Z'] -> 'X, Y and Z'.
+    Function to convert a list of author names into a readable string.
+    We just join by ", " to make it more machine-readable.
     """
-    if len(authorlist) > 1:
-        authors = '{} and {}'.format(', '.join(authorlist[:-1]), authorlist[-1])
-    else:
-        authors = authorlist[0]
-
-    return authors
+    return ', '.join(authorlist)
 
 
 class WebAgenda(Agenda):
@@ -471,7 +465,10 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'poster':
-            generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}"><div id="expander"></div><a href="#" class="session-title">{}: {} </a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><div class="poster-session-details"><br/><table class="poster-table">'.format(index, self.id_, self.title, str(day), self.start, self.end, self.location))
+            generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}"><div id="expander"></div><a href="#" class="session-title">{}: {} </a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_, self.title, str(day), self.start, self.end))
+            if self.location:
+                generated_html.append('<br/><span class="session-location btn btn--location">{}</span>'.format(self.location))
+            generated_html.append('<div class="poster-session-details"><br/><table class="poster-table">')
 
             # we know poster sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -486,14 +483,15 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'paper':
-            session_html = '<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end, self.location, self.id_.lower(), self.id_.lower(), self.chair)
+            session_html = '<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end)
 
-            # if the session has a livetweeter assigned, display that too
-            if 'tweeter' in self.extended_metadata:
-                session_html += '; <i title="LiveTweeter" class="fab fa-twitter"></i>: <a href="https://twitter.com/{}" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
+            if self.location:
+                session_html += '<br/><span class="session-location btn btn--location">{}</span>'.format(self.location)
+            
+            session_html += '<br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table">'.format(self.id_.lower(), self.id_.lower())
 
-            # close the session HTML properly
-            session_html += '</td></tr>'
+            if self.chair:
+                session_html += '<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span></td></tr>'.format(self.chair)
 
             # append the session HTML to the result variable
             generated_html.append(session_html)
@@ -575,7 +573,8 @@ class WebItem(Item):
                 self.title = '[TACL] {}'.format(self.title)
 
             # generate the rest of the HTML along with optional icons
-            item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
+            time_text = '{}&ndash;{}'.format(self.start, self.end) if self.start and self.end else ''
+            item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, time_text, self.title, self.authors)
             if pdf_icons and self.pdf_url:
                 item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
             if video_icons and self.video_url:

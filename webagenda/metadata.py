@@ -227,7 +227,7 @@ class ScheduleMetadata(object):
             for row in reader:
                 title = row['title'].strip()
                 authors = ScheduleMetadata.authors_string_to_list(row['authors'].strip())
-                abstract = row['abstract'].strip()
+                abstract = row['abstract'].strip() if row.get('abstract') else None
                 value = MetadataTuple(title=title,
                                       authors=authors,
                                       abstract=abstract,

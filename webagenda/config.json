@@ -1,7 +1,6 @@
 {
     "order_file": "webagenda/data/order.txt",
     "mapping_file": "webagenda/data/mapping.tsv",
-    "xml_file": "webagenda/data/N19.xml",
     "extra_metadata_file": "webagenda/data/metadata.tsv",
     "plenary_info_file": "webagenda/data/plenary.tsv",
     "pdf_icons": true,

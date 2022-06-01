@@ -4,7 +4,7 @@
 This script is used to generate the markdown file for
 the conference schedule. This script uses the classes
 defined in the `orderfile.py` module from the NAACL
-2019 schedule repository that is integrated as a
+schedule repository that is integrated as a
 submodule in this repository under the `agenda`
 directory. For more details, run `generate.py --help`
 and refer to the `README.md` file in this directory.
@@ -61,12 +61,10 @@ class WebAgenda(Agenda):
                       '<tbody></tbody>',
                       '</table>',
                       '<div id="introParagraph">',
-                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice <em>and</em> generate a PDF of your customized schedule! This page should work on modern browsers on all operating systems. For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. For help, simply type "?"" while on the page or click on the "Help" button.</p>',
+                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice and generate a PDF of your customized schedule. For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. For help, simply type "?"" while on the page or click on the "Help" button. All times are Pacific Daylight Time (<strong>GMT-7</strong>).</p>',
                       '</div>',
                       '<p class="text-center">',
                       '<a href="#" id="help-button" class="btn btn--small btn--twitter">Help</a>',
-                      '</p>',
-                      '<p class="text-center">',
                       '<a href="#" id="toggle-all-button" class="btn btn--small btn--twitter">Expand All Sessions ↓</a>',
                       '</p>',
                       '<div class="schedule">']
@@ -404,8 +402,12 @@ class WebSession(Session):
                 else:
                     session_html += '<span class="session-person">{}</span><br/>'.format(person_name)
 
-            # add the start and end time and location no matter what
-            session_html += '<span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="{} btn btn--location">{}</span>'.format(str(day), self.start, self.end, location_type, self.location)
+            # add the start and end time no matter what
+            session_html += '<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end)
+
+            # add location
+            if self.location:
+              session_html += '<br/><span class="{} btn btn--location">{}</span>'.format(location_type, self.location)
 
             # now add the actual abstract and the PDF and Video links
             # as icons if we have those URLs
@@ -648,7 +650,7 @@ def main():
     # parse the metadata files
     logging.info('Parsing metadata files ...')
     extra_metadata_file = config.get('extra_metadata_file', None)
-    metadata = ScheduleMetadata.fromfiles(xmls=[config['xml_file']],
+    metadata = ScheduleMetadata.fromfiles(xmls=[config['xml_file']] if 'xml_file' in config else [],
                                           mappings={'main': config['mapping_file']},
                                           extra_metadata_files={'main': extra_metadata_file} if extra_metadata_file else {})
 

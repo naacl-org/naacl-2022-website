@@ -119,7 +119,8 @@ class Agenda(object):
             if (current_item.type == 'poster' and not
                     current_item.id_.endswith('-demos')):
                 poster_number = next(self._poster_number_counter)
-                current_item.extended_metadata['poster_number'] = poster_number
+                # NOTE: Removed poster_number for now.
+                # current_item.extended_metadata['poster_number'] = poster_number
 
             # add it to the active session
             if current_session:
@@ -284,18 +285,6 @@ class Agenda(object):
                 # (poster/paper/tutorial) ...
                 elif Item._regexp.match(line):
 
-                    # if we have encountered a poster and
-                    # we have an active poster topic, attach
-                    # that topic to this poster to indicate
-                    # that this is where the topic starts
-                    # and then remove the active topic since
-                    # we are done with it
-                    if (current_item and
-                            current_item.type == 'poster' and
-                            current_poster_topic):
-                        current_item.topic = current_poster_topic
-                        current_poster_topic = None
-
                     # update the states for pending items
                     # but do not yet save the day, the session
                     # group or the session since we may still
@@ -311,6 +300,16 @@ class Agenda(object):
                     # make this new item the currently active one
                     matchobj = Item._regexp.match(line)
                     current_item = Item.fromstring(matchobj, current_session.type)
+
+                    # if we have encountered a poster and
+                    # we have an active poster topic, attach
+                    # that topic to this poster to indicate
+                    # that this is where the topic starts
+                    # and then remove the active topic since
+                    # we are done with it
+                    if current_item.type == 'poster' and current_poster_topic:
+                        current_item.topic = current_poster_topic
+                        current_poster_topic = None
 
             # after we are done iterating through the
             # lines in the file, we may still have some

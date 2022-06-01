@@ -37,7 +37,15 @@ class RawSchedule:
     def search(self, query):
         for record in self.records:
             if all(record.get(key) == query[key] for key in query):
+                if record.get('used'):
+                    logging.warning('Repeated record: {}'.format(record))
+                record['used'] = True
                 yield record
+
+    def report_unused(self):
+        for record in self.records:
+            if not record.get('used'):
+                logging.warning('Unused record: {}'.format(record))
 
 
 def main():
@@ -58,6 +66,7 @@ def main():
                     fout.write('{} #\n'.format(record['Paper ID'].replace(' ', '_')))
             else:
                 fout.write(line)
+    raw_schedule.report_unused()
 
 
 if __name__ == '__main__':

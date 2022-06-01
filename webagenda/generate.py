@@ -468,7 +468,7 @@ class WebSession(Session):
             generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}"><div id="expander"></div><a href="#" class="session-title">{}: {} </a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_, self.title, str(day), self.start, self.end))
             if self.location:
                 generated_html.append('<br/><span class="session-location btn btn--location">{}</span>'.format(self.location))
-            generated_html.append('<div class="poster-session-details"><br/><table class="poster-table">')
+            generated_html.append('<br><div class="poster-session-details"><br/><table class="poster-table">')
 
             # we know poster sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call

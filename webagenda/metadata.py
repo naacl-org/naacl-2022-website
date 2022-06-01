@@ -225,7 +225,7 @@ class ScheduleMetadata(object):
             reader = csv.DictReader(nonanthfh,
                                     dialect=csv.excel_tab)
             for row in reader:
-                title = row['title'].strip()
+                title = row['title'].strip().replace('{', '').replace('}', '')
                 authors = ScheduleMetadata.authors_string_to_list(row['authors'].strip())
                 abstract = row['abstract'].strip() if row.get('abstract') else None
                 value = MetadataTuple(title=title,

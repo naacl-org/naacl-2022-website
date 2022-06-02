@@ -375,17 +375,17 @@ function isChosen(timeKey, item, type) {
 
 function toggleSession(sessionObj) {
     $(sessionObj).children('[class$="-details"]').slideToggle(300);
-    $(sessionObj).children('#expander').toggleClass('expanded');
+    $(sessionObj).find('#expander').toggleClass('expanded');
 }
 
 function openSession(sessionObj) {
     $(sessionObj).children('[class$="-details"]').slideDown(300);
-    $(sessionObj).children('#expander').addClass('expanded');
+    $(sessionObj).find('#expander').addClass('expanded');
 }
 
 function closeSession(sessionObj) {
     $(sessionObj).children('[class$="-details"]').slideUp(300);
-    $(sessionObj).children('#expander').removeClass('expanded');
+    $(sessionObj).find('#expander').removeClass('expanded');
 }
 
 function populateHiddenProgramTable() {
@@ -596,7 +596,7 @@ $(document).ready(function() {
     /* get all the tutorial sessions and save the day and location for each of them in a hash */
     $('.session-tutorials').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.day = $(this).prevAll('.day:first').text().trim();
         sessionInfoHash[$(this).attr('id')] = session;
     });
@@ -604,7 +604,7 @@ $(document).ready(function() {
     /* get all the workshop sessions and save the day and location for each of them in a hash */
     $('.session-workshops').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.day = $(this).prevAll('.day:first').text().trim();
         sessionInfoHash[$(this).attr('id')] = session;
     });
@@ -612,7 +612,7 @@ $(document).ready(function() {
     /* get all the poster sessions and save the day and location for each of them in a hash */
     $('.session-posters').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.day = $(this).parent().prevAll('.day:first').text().trim();
         session.location = $(this).children('span.session-location').text().trim();
         var sessionTimeText = $(this).children('span.session-time').text().trim();                
@@ -630,7 +630,7 @@ $(document).ready(function() {
     });
     $(paperSessions).each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         session.location = $(this).children('span.session-location').text().trim();
         session.day = $(this).parent().prevAll('.day:first').text().trim();
         var sessionTimeText = $(this).children('span.session-time').text().trim();                
@@ -670,7 +670,7 @@ $(document).ready(function() {
     /* also save the plenary session info in another hash since we may need to add this to the pdf. Use the exact starting time as the hash key */
      $('.session-plenary').each(function() {
         var session = {};
-        session.title = $(this).children('.session-title').text().trim();
+        session.title = $(this).find('.session-title').text().trim();
         if (session.title == "Social Event") {
             session.location = $(this).children('span.session-external-location').text().trim();
         }
@@ -751,7 +751,7 @@ $(document).ready(function() {
     $('[class$="-details"]').hide();
 
     /* expand sessions when their title is clicked */
-    $('body').on('click', 'div.session-expandable .session-title, div#expander', function(event) {
+    $('body').on('click', 'div.session-expandable .expander-wrapper', function(event) {
         event.preventDefault();
         event.stopPropagation();
         var sessionObj = $(this).parent();
@@ -761,7 +761,7 @@ $(document).ready(function() {
             var sessionId = $(sessionObj).attr('id').match(/session-\d/)[0];
             var parallelSessions = $(sessionObj).siblings().addBack().filter(function() { return this.id.match(sessionId); });
 
-            var unexpandedParallelSessions = $(parallelSessions).filter(function() { return !$(this).children('#expander').hasClass('expanded'); });
+            var unexpandedParallelSessions = $(parallelSessions).filter(function() { return !$(this).find('#expander').hasClass('expanded'); });
 
             /* if all sessions are already expanded, then shift-clicking should close all of them */
             if (unexpandedParallelSessions.length == 0) {
@@ -785,16 +785,13 @@ $(document).ready(function() {
     /* when we mouse over a paper, highlight the conflicting papers */
     $('body').on('mouseover', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
-        $(this).addClass('hovered');
         $(conflictingPapers).addClass('conflicted');
     });
 
     /* when we mouse out, remove all highlights */
     $('body').on('mouseout', 'div.session-expandable[id] table.paper-table tr#paper', function(event) {
         var conflictingPapers = getConflicts($(this));
-        $(this).removeClass('hovered');
         $(conflictingPapers).removeClass('conflicted');
-
     });
 
     /* disable some events from propagating */
@@ -954,7 +951,6 @@ $(document).ready(function() {
 
     $('body').on('click', 'div.session-expandable[id] table.paper-table tr#paper', function(event, fromSession) {
         event.preventDefault();
-        $(this).removeClass('hovered');
         getConflicts($(this)).removeClass('conflicted');
         var paperID = $(this).attr('paper-id');
         var paperTimeObj = $(this).children('td#paper-time');

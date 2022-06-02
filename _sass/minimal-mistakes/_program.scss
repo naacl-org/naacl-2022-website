@@ -63,7 +63,7 @@ a.session-deselector {
 }
 
 div#generatePDFForm {
-    float: left;
+    // float: left;
     width: percentage(25/25);
     padding: 0.5em;
     margin-top: 2em;
@@ -96,8 +96,8 @@ div#generatePDFForm {
 }
 
 div.day {
-    float: left;
-    width: percentage(25/25);
+    // float: left;
+    // width: percentage(25/25);
     padding: 0.5em;
     font-weight: bold;
     text-align: left;
@@ -155,6 +155,13 @@ div.session-box {
     border: 2px solid $light-gray;
     margin-top: .6em;
     margin-bottom: .6em;
+
+    display: flex;
+    flex-direction: column;
+    @include breakpoint($medium) {
+      flex-direction: row;
+    }
+    flex-wrap: wrap;
 }
 
 div.session-header {
@@ -162,12 +169,14 @@ div.session-header {
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
-    padding: .5em 0;
+    padding: .5em;
     border-bottom: 2px solid $light-gray;
     background-color: $light-gray;
     // background-color: $lighter-gray;
     // background-color: #FFE4E1;
     // background-color: red;
+
+    width: 100%;
 }
 
 div.session {
@@ -195,100 +204,23 @@ div.session {
     }
 
     &.session-papers-best {
-        float: left;
-        width: percentage(25/25);
+        // float: left;
+        // width: percentage(25/25);
         border: 2px solid $light-gray;
         margin-top: .4em;
         margin-bottom: .4em;
     }
 
-    &.session-papers1 {
-        float: left;
-        width: percentage(25/25);
-        border-bottom: 1px solid $light-gray;
-
-        @include breakpoint($medium) {
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($medium-wide) {
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($large) {
-            width: percentage(25/25);
-        }
-
+    &.session-papers {
+        border-top: 1px solid $light-gray;
+        width: 100%;
         @include breakpoint($x-large) {
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($xx-large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
+            border-left: 1px solid $light-gray;
+            flex: 1 0 0;
         }
     }
- 
-    &.session-papers2, &.session-papers3, &.session-papers4 {
-        float: left;
-        width: percentage(25/25);
-        border-bottom: 1px solid $light-gray;
-
-        @include breakpoint($medium) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($medium-wide) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($large) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($x-large) {
-            width: percentage(25/25);
-            border-left: 1px solid $light-gray;
-        }
-
-        @include breakpoint($xx-large) {
-            border-right: 1px solid $light-gray;
-            width: percentage(5/25);
-        }
-    }
-
-    &.session-papers5 {
-        float: right;
-        width: percentage(25/25);
-        border-bottom: 1px solid $light-gray;
-
-        @include breakpoint($medium) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($medium-wide) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($large) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($x-large) {
-            border-left: none;
-            width: percentage(25/25);
-        }
-
-        @include breakpoint($xx-large) {
-            border-left: 1px solid $light-gray;
-            width: percentage(5/25);
-        }
+    &.session-papers:nth-child(2) {
+        border-left: none;
     }
 
     .session-title {
@@ -406,37 +338,24 @@ div.session {
         }
     }
 
-    tr#tutorial, tr#poster, tr#workshop {
+    tr#tutorial, tr#paper, tr#poster, tr#workshop {
         cursor: pointer;
         background-color: $background-color;
         font-size: $type-size-5;
         &.selected {
             background-color: $light-gray;
         }
-    }
-
-
-    tr#paper {
-        cursor: pointer;
-        background-color: $background-color;
-        font-size: $type-size-5;
-        &.selected {
-            background-color: $light-gray;
+        &:hover {
+            background-color: yellow;
         }
-
-        @include breakpoint($large) {
-            &.hovered {
-                background-color: yellow;
-            }
-            &.conflicted {
-                background-color: #FF9999;
-            }
-            &.hovered.selected {
-                background-color: #4EEE94;
-            }
-            &.conflicted.selected {
-                background-color: #4EEE94;
-            }
+        &.conflicted {
+            background-color: #FF9999;
+        }
+        &.selected:hover {
+            background-color: #4EEE94;
+        }
+        &.conflicted.selected {
+            background-color: #4EEE94;
         }
     }
 
@@ -469,6 +388,13 @@ div.session {
 
     td#paper-time {
         font-size: $type-size-5;
+    }
+
+    .expander-wrapper {
+        cursor: pointer;
+    }
+    .expander-wrapper:hover .session-title {
+        text-decoration: underline;
     }
 
     #expander {

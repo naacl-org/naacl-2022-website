@@ -434,7 +434,14 @@ class WebSession(Session):
                 self.start = self.items[0].start
                 self.end = self.items[0].end
 
-            generated_html.append('<div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">{}</a><span class="session-time" title="{}">{} &ndash; {}</span><div class="tutorial-session-details"><table class="tutorial-table">'.format(self.title, str(day), self.start, self.end, self.location))
+            generated_html.append('<div class="session session-expandable session-tutorials">')
+            generated_html.append('<div class="expander-wrapper">')
+            generated_html.append('<div id="expander"></div><a href="#" class="session-title">{}</a>'.format(self.title))
+            generated_html.append('</div>')
+            generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
+            if self.location:
+                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+            generated_html.append('<div class="tutorial-session-details"><table class="tutorial-table">')
 
             # we know tutorial sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -457,7 +464,14 @@ class WebSession(Session):
                 self.start = self.items[0].start
                 self.end = self.items[-1].end
 
-            generated_html.append('<div class="session session-plenary session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">{}</a><span class="session-time" title="{}">{} &ndash; {}</span><span class="session-location btn btn--location">{}</span><div class="paper-session-details"><table class="paper-table">'.format(self.title, str(day), self.start, self.end, self.location))
+            generated_html.append('<div class="session session-plenary session-expandable session-papers-best">')
+            generated_html.append('<div class="expander-wrapper">')
+            generated_html.append('<div id="expander"></div><a href="#" class="session-title">{}</a></div>'.format(self.title))
+            generated_html.append('</div>')
+            generated_html.apepnd('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
+            if self.location:
+                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+            generated_html.append('<div class="paper-session-details"><table class="paper-table">')
 
             # we know the best paper session has child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -472,7 +486,11 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'poster':
-            generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}"><div id="expander"></div><a href="#" class="session-title">{}: {} </a><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_, self.title, str(day), self.start, self.end))
+            generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}">'.format(index))
+            generated_html.append('<div class="expander-wrapper">')
+            generated_html.append('<div id="expander"></div><a href="#" class="session-title">{}: {} </a>'.format(self.id_, self.title))
+            generated_html.append('</div>')
+            generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
                 generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
             generated_html.append('<div class="poster-session-details"><table class="poster-table">')
@@ -490,18 +508,16 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'paper':
-            session_html = '<div class="session session-expandable session-papers session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end)
-
+            generated_html.append('<div class="session session-expandable session-papers" id="session-{}">'.format(self.id_.lower()))
+            generated_html.append('<div class="expander-wrapper">')
+            generated_html.append('<div id="expander"></div><a href="#" class="session-title">{}: {}</a>'.format(self.id_, self.title))
+            generated_html.append('</div>')
+            generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
-                session_html += '<span class="session-location btn btn--location">{}</span>'.format(self.location)
-            
-            session_html += '<div class="paper-session-details"><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table">'.format(self.id_.lower(), self.id_.lower())
-
+                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+            generated_html.append('<div class="paper-session-details"><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table">'.format(self.id_.lower(), self.id_.lower()))
             if self.chair:
-                session_html += '<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span></td></tr>'.format(self.chair)
-
-            # append the session HTML to the result variable
-            generated_html.append(session_html)
+                generated_html.append('<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span></td></tr>'.format(self.chair))
 
             # we know paper sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call

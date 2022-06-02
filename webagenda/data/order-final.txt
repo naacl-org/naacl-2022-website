@@ -267,6 +267,12 @@ TACL_3655 #
 565 #
 610 #
 931 #
+= Session 3F: Industry Oral Session 1
+9-industry #
+11-industry #
+32-industry #
+50-industry #
+71-industry #
 
 ! 9:00--9:15 Break
 
@@ -407,6 +413,12 @@ TACL_3721 #
 474 #
 274 #
 244 #
+= Session 5F: Industry Oral Session 2
+33-industry #
+40-industry #
+65-industry #
+91-industry #
+119-industry #
 
 ! 15:45--16:15 Break
 
@@ -447,6 +459,37 @@ CL #
 48 #
 898 #
 613 #
+= Session 6F: Industry Poster Session
+5-industry #
+17-industry #
+22-industry #
+24-industry #
+26-industry #
+28-industry #
+36-industry #
+37-industry #
+42-industry #
+43-industry #
+45-industry #
+51-industry #
+53-industry #
+60-industry #
+69-industry #
+70-industry #
+74-industry #
+84-industry #
+89-industry #
+93-industry #
+94-industry #
+99-industry #
+103-industry #
+108-industry #
+115-industry #
+117-industry #
+122-industry #
+125-industry #
+128-industry #
+134-industry #
 
 * Wednesday, July 13, 2022
 

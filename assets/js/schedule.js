@@ -89,13 +89,13 @@ function generatePDFfromTable() {
             if (pageNumber == 1) {
                 doc.setFontSize(16);
                 doc.setFontStyle('normal');
-                doc.text("NAACL 2019 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
+                doc.text("NAACL 2022 Schedule", (doc.internal.pageSize.width - (data.settings.margin.left*2))/2 - 30, 50);
             }
 
             /* FOOTER on each page */
             doc.setFont('courier');
             doc.setFontSize(8);
-            doc.text('(Generated via https://naacl2019.org/schedule)', data.settings.margin.left, doc.internal.pageSize.height - 10);
+            doc.text('(Generated via https://2022.naacl.org/program/schedule/)', data.settings.margin.left, doc.internal.pageSize.height - 10);
         },
         didDrawCell: function(data) {
             /* split long plenary session text */

@@ -818,7 +818,7 @@ after_footer_scripts:
 <div class="session session-plenary"><span class="session-title">Closing Session</span><br/><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span></div>
 <div id="generatePDFForm">
 <div id="formContainer">
-<input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<span id="checkBoxLabel">Include plenary sessions in schedule</span>
+<input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<label id="checkBoxLabel" for="includePlenaryCheckBox">Include plenary sessions in schedule</label>
 <br/>
 <a href="#" id="generatePDFButton" class="btn btn--twitter btn--large">Download PDF</a></div>
 </div>

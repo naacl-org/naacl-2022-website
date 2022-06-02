@@ -66,7 +66,6 @@ div#generatePDFForm {
     float: left;
     width: percentage(25/25);
     padding: 0.5em;
-    font-family: $serif;
     text-align: center;
     vertical-align: middle;
     font-size: $type-size-6;
@@ -88,8 +87,10 @@ div#generatePDFForm {
         height: 16px;
     }
 
-    span#checkBoxLabel {
+    label#checkBoxLabel {
         font-size: $type-size-5;
+        display: inline-block;
+        vertical-align: bottom;
     }
 }
 

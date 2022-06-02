@@ -67,7 +67,7 @@ class WebAgenda(Agenda):
     # of the actual schedule HTML
     _closing_html = ['<div id="generatePDFForm">',
                      '<div id="formContainer">',
-                     '<input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<span id="checkBoxLabel">Include plenary sessions in schedule</span>',
+                     '<input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<label id="checkBoxLabel" for="includePlenaryCheckBox">Include plenary sessions in schedule</label>',
                      '<br/>',
                      '<a href="#" id="generatePDFButton" class="btn btn--twitter btn--large">Download PDF</a>'
                      '</div>',

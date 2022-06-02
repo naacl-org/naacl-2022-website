@@ -311,6 +311,9 @@ class Agenda(object):
                         current_item.topic = current_poster_topic
                         current_poster_topic = None
 
+                else:
+                    raise ValueError('Unparsable line: "{}"'.format(line))
+
             # after we are done iterating through the
             # lines in the file, we may still have some
             # pending items, sessions, groups, and days

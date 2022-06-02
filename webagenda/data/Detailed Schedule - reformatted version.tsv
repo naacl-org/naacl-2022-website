@@ -16,7 +16,7 @@ Day 1	Information Extraction	905	2	11:00
 Day 1	Information Extraction	681	3	11:00
 Day 1	Information Extraction	968	4	11:00
 Day 1	Information Extraction	534	5	11:00
-Day 1	Information Extraction	TACL 3561	6	11:00
+Day 1	Information Extraction	3561-tacl	6	11:00
 Day 1	Efficient Methods in NLP 1	424	1	11:00
 Day 1	Efficient Methods in NLP 1	117	2	11:00
 Day 1	Efficient Methods in NLP 1	750	3	11:00
@@ -27,7 +27,7 @@ Day 1	Dialogue	627	1	11:00
 Day 1	Dialogue	618	2	11:00
 Day 1	Dialogue	593	3	11:00
 Day 1	Dialogue	687	4	11:00
-Day 1	Dialogue	TACL 3537	5	11:00
+Day 1	Dialogue	3537-tacl	5	11:00
 Day 1	Dialogue	364	6	11:00
 Day 1	Interpretability	666	1	14:30
 Day 1	Interpretability	951	2	14:30
@@ -52,7 +52,7 @@ Day 1	Machine Translation 1	450	2	14:30
 Day 1	Machine Translation 1	370	3	14:30
 Day 1	Machine Translation 1	289	4	14:30
 Day 1	Machine Translation 1	348	5	14:30
-Day 1	Machine Translation 1	TACL 3735	6	14:30
+Day 1	Machine Translation 1	3735-tacl	6	14:30
 Day 1	NLP Applications 1	193	1	14:30
 Day 1	NLP Applications 1	883	2	14:30
 Day 1	NLP Applications 1	777	3	14:30
@@ -63,7 +63,7 @@ Day 2	Language Generation	566	1	8:00
 Day 2	Language Generation	416	2	8:00
 Day 2	Language Generation	87	3	8:00
 Day 2	Language Generation	1047	4	8:00
-Day 2	Semantics & Sentiment Analysis	TACL 3655	1	8:00
+Day 2	Semantics & Sentiment Analysis	3655-tacl	1	8:00
 Day 2	Semantics & Sentiment Analysis	892	2	8:00
 Day 2	Semantics & Sentiment Analysis	970	3	8:00
 Day 2	Semantics & Sentiment Analysis	294	4	8:00
@@ -90,7 +90,7 @@ Day 2	Summarization	776	2	10:45
 Day 2	Summarization	490	3	10:45
 Day 2	Summarization	191	4	10:45
 Day 2	Summarization	346	5	10:45
-Day 2	Summarization	TACL 3477	6	10:45
+Day 2	Summarization	3477-tacl	6	10:45
 Day 2	Information Retrieval	40	1	10:45
 Day 2	Information Retrieval	465	2	10:45
 Day 2	Information Retrieval	580	3	10:45
@@ -122,7 +122,7 @@ Day 2	Sentiment Analysis & Stylistic Analysis	561	4	14:15
 Day 2	Sentiment Analysis & Stylistic Analysis	488	5	14:15
 Day 2	Sentiment Analysis & Stylistic Analysis	880	6	14:15
 Day 2	Information Extraction 1	379	1	14:15
-Day 2	Information Extraction 1	TACL 3721	2	14:15
+Day 2	Information Extraction 1	3721-tacl	2	14:15
 Day 2	Information Extraction 1	991	3	14:15
 Day 2	Information Extraction 1	823	4	14:15
 Day 2	Information Extraction 1	988	5	14:15
@@ -145,7 +145,7 @@ Day 2	Language Grounding to Vision 2	946	3	16:15
 Day 2	Language Grounding to Vision 2	960	4	16:15
 Day 2	Language Grounding to Vision 2	836	5	16:15
 Day 2	Language Grounding to Vision 2	164	6	16:15
-Day 2	Syntax: Tagging, Chunking and Parsing	CL	1	16:15
+Day 2	Syntax: Tagging, Chunking and Parsing	0-cl	1	16:15
 Day 2	Syntax: Tagging, Chunking and Parsing	990	2	16:15
 Day 2	Syntax: Tagging, Chunking and Parsing	516	3	16:15
 Day 2	Syntax: Tagging, Chunking and Parsing	413	4	16:15
@@ -190,7 +190,7 @@ Day 3	Dialogue and Interactive Systems 2	80	2	8:00
 Day 3	Dialogue and Interactive Systems 2	861	3	8:00
 Day 3	Dialogue and Interactive Systems 2	519	4	8:00
 Day 3	Machine Learning for NLP 2	993	1	8:00
-Day 3	Machine Learning for NLP 2	TACL 3765	2	8:00
+Day 3	Machine Learning for NLP 2	3765-tacl	2	8:00
 Day 3	Machine Learning for NLP 2	843	3	8:00
 Day 3	Machine Learning for NLP 2	757	4	8:00
 Day 3	Interpretability and Analysis of Models for NLP 3	994	1	9:15
@@ -239,7 +239,7 @@ Day 3	Language Resources & Evaluation 3	371	2	10:45
 Day 3	Language Resources & Evaluation 3	26	3	10:45
 Day 3	Language Resources & Evaluation 3	1011	4	10:45
 Day 3	Language Resources & Evaluation 3	818	5	10:45
-Day 3	Language Resources & Evaluation 3	TACL 3519	6	10:45
+Day 3	Language Resources & Evaluation 3	3519-tacl	6	10:45
 Day 3	NLP Applications 4	594	1	10:45
 Day 3	NLP Applications 4	398	2	10:45
 Day 3	NLP Applications 4	958	3	10:45
@@ -275,4 +275,4 @@ Day 3	Question Answering 2	553	2	14:15
 Day 3	Question Answering 2	240	3	14:15
 Day 3	Question Answering 2	451	4	14:15
 Day 3	Question Answering 2	454	5	14:15
-Day 3	Question Answering 2	TACL 3639	6	14:15
+Day 3	Question Answering 2	3639-tacl	6	14:15

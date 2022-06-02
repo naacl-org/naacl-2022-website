@@ -1,10 +1,11 @@
 ---
-title: Invited Speakers
+title: Invited Speakers and Panels
 layout: single
-permalink: /program/keynotes/
-toc: false
+permalink: /program/keynotes-panels/
 sidebar:
     nav: program
+toc: true
+toc_sticky: true
 ---
 
 The following speakers have graciously accepted to give invited talks at NAACL 2022.
@@ -26,3 +27,9 @@ Dr. Friedman’s 2019 MIT Press book co-authored with David Hendry, Value Sensit
 He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).
 
 **Talk title:** NLP in Mexican Spanish: One of many stories
+
+## Panel: The Place of Linguistics and Symbolic Structures
+
+**Moderator:** Dan Roth
+
+The widespread adoption of neural models in NLP research and the fact that NLP applications increasingly mediate people’s lives have prompted many discussions about what productive research directions might look like for our community. Since NAACL is a meeting of a chapter of the Association for Computational Linguistics, we would like to highlight specifically the role that linguistics and symbolic structures can play (or not) in shaping these research directions.

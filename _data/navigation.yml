@@ -33,16 +33,16 @@ program:
     children:
       - title: "Overview"
         url: /program/
-      # - title: "Main Conference Schedule"
-      #   url: /program/schedule/
-      - title: "Invited Speakers"
-        url: /program/keynotes/
+      - title: "Main Conference Schedule"
+        url: /program/schedule/
+      - title: "Invited Speakers and Panels"
+        url: /program/keynotes-panels/
       - title: "Tutorials"
         url: /program/tutorials/
-      - title: "Workshops"
-        url: /program/workshops/
       - title: "Affinity Group Workshops"
         url: /program/affinity/
+      - title: "Workshops"
+        url: /program/workshops/
       - title: "Accepted Papers"
         url: /program/accepted_papers/
       # - title: "Accepted Papers"

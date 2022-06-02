@@ -4,7 +4,7 @@
 
 div.schedule {
     max-width: 100%;
-    padding: 0 20px;
+    padding: 0 1em;
 }
 
 div#generatePDF {
@@ -66,6 +66,7 @@ div#generatePDFForm {
     float: left;
     width: percentage(25/25);
     padding: 0.5em;
+    margin-top: 2em;
     text-align: center;
     vertical-align: middle;
     font-size: $type-size-6;
@@ -73,7 +74,7 @@ div#generatePDFForm {
     // border: 1px solid $light-gray;
 
     a#generatePDFButton {
-        margin-top: 10px;
+        margin-top: .5em;
         font-size: $type-size-5;
 
         @include breakpoint($medium) {
@@ -107,16 +108,16 @@ div.day {
     color: white;
     background-color: $primary-color;
     border: 1px solid black;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 2em;
+    margin-bottom: 1em;
 }
 
 div#introParagraph {
-    font-size: $type-size-7;
-    padding: 20px;
+    font-size: $type-size-6;
+    padding: 1.5em;
 
     @include breakpoint($medium) {
-        font-size: $type-size-6;
+        font-size: $type-size-5-half;
     }
 }
 
@@ -152,8 +153,8 @@ div#popupInstructionsDiv {
 div.session-box {
     overflow: hidden;
     border: 2px solid $light-gray;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: .6em;
+    margin-bottom: .6em;
 }
 
 div.session-header {
@@ -161,7 +162,7 @@ div.session-header {
     font-weight: bold;
     text-align: center;
     vertical-align: middle;
-    height: 35px;
+    padding: .5em 0;
     border-bottom: 2px solid $light-gray;
     background-color: $light-gray;
     // background-color: $lighter-gray;
@@ -184,8 +185,8 @@ div.session {
         border-left: 2px solid $light-gray;
         border-bottom: 2px solid $light-gray;
         border-right: 2px solid $light-gray;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-top: .4em;
+        margin-bottom: .4em;
     }
 
     &.session-posters {
@@ -197,8 +198,8 @@ div.session {
         float: left;
         width: percentage(25/25);
         border: 2px solid $light-gray;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-top: .4em;
+        margin-bottom: .4em;
     }
 
     &.session-papers1 {
@@ -298,7 +299,8 @@ div.session {
 
     .session-time {
         margin-right: 5px;
-        float: left;
+        // float: left;
+        display: block;
 
         font-size: $type-size-6;
         font-style: italic;
@@ -307,15 +309,17 @@ div.session {
     &.session-break {
         border: none;
         font-style: italic;
+        margin-top: .4em;
+        margin-bottom: .4em;
     }
 
 
     .paper-session-details {
-        float: left;
+        // float: left;
     } 
 
     .poster-session-details {
-        float: left;
+        // float: left;
     }
 
     hr.detail-separator {
@@ -374,7 +378,7 @@ div.session {
 
     .session-location {
         font-size: $type-size-6;
-        float: left;
+        // float: left;
         cursor: pointer;
     }
 
@@ -387,7 +391,7 @@ div.session {
 
     .session-external-location {
         font-size: $type-size-6;
-        float: left;
+        // float: left;
     }
 
     .info-button {

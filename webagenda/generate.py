@@ -55,7 +55,15 @@ class WebAgenda(Agenda):
                       '<tbody></tbody>',
                       '</table>',
                       '<div id="introParagraph">',
-                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice and generate a PDF of your customized schedule. For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. For help, simply type "?"" while on the page or click on the "Help" button. All times are Pacific Daylight Time (<strong>GMT-7</strong>).</p>',
+                      '<h1>Main Conference Schedule</h1>'
+                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice and generate a PDF of your customized schedule. ',
+                      'For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. ',
+                      'For help, simply type "?"" while on the page or click on the "Help" button.</p>',
+                      '<p>The overall schedule structure is final, but the assignment of papers to sessions and order of papers within sessions might still be modified ',
+                      'to accommodate the final mode of presentation (virtual or in-person) chosen by the authors.</p>',
+                      '<p>Detailed information about the Q&A sessions for virtual posters will be posted soon. ',
+                      'To foster discussion, virtual poster sessions will be organized into small Zoom rooms that bring together posters on similar themes.</p>',
+                      '<p>All times are Pacific Daylight Time (<strong>GMT-7</strong>).</p>',
                       '</div>',
                       '<p class="text-center">',
                       '<a href="#" id="help-button" class="btn btn--small btn--twitter">Help</a>',
@@ -67,8 +75,7 @@ class WebAgenda(Agenda):
     # of the actual schedule HTML
     _closing_html = ['<div id="generatePDFForm">',
                      '<div id="formContainer">',
-                     '<input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<label id="checkBoxLabel" for="includePlenaryCheckBox">Include plenary sessions in schedule</label>',
-                     '<br/>',
+                     '<p><input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<label id="checkBoxLabel" for="includePlenaryCheckBox">Include plenary sessions in schedule</label></p>',
                      '<a href="#" id="generatePDFButton" class="btn btn--twitter btn--large">Download PDF</a>'
                      '</div>',
                      '</div>',
@@ -328,11 +335,11 @@ class WebSession(Session):
 
         # generate the appropriate HTML for each type of session
         if self.type == 'break':
-            break_html = '<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.title, str(day), self.start, self.end)
+            break_html = '<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.title, str(day), self.start, self.end)
 
             # add the loation if we have any
             if self.location:
-                break_html += '<br/><span class="btn btn--location session-location">{}</span>'.format(self.location)
+                break_html += '<span class="btn btn--location session-location">{}</span>'.format(self.location)
 
             # close the div and append to result
             break_html += '</div>'
@@ -373,15 +380,15 @@ class WebSession(Session):
             # if we have an abstract, we need the session expander
             # next to the title
             if self.abstract:
-                session_html += '<div id="expander"></div><a href="#" class="session-title">{}</a><br/>'.format(self.title)
+                session_html += '<div id="expander"></div><a href="#" class="session-title">{}</a>'.format(self.title)
             # otherwise, no expander, just the title; if we have a PDF
             # url (like the slides for plenary sessions) but no abstract
             # we just make an icon in the title, if we are asked to
             else:
                 if pdf_icons and self.pdf_url:
-                    session_html += '<span class="session-title">{}&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i></span><br/>'.format(self.title, self.pdf_url)
+                    session_html += '<span class="session-title">{}&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i></span>'.format(self.title, self.pdf_url)
                 else:
-                    session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
+                    session_html += '<span class="session-title">{}</span>'.format(self.title)
 
             # if we have a person, we need to show it along with the
             # optional affiliation and the optional URL as the person's link
@@ -392,21 +399,21 @@ class WebSession(Session):
                     person_name += ' ({})'.format(self.person_affiliation)
 
                 if self.person_url:
-                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span><br/>'.format(self.person_url, person_name)
+                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span>'.format(self.person_url, person_name)
                 else:
-                    session_html += '<span class="session-person">{}</span><br/>'.format(person_name)
+                    session_html += '<span class="session-person">{}</span>'.format(person_name)
 
             # add the start and end time no matter what
             session_html += '<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end)
 
             # add location
             if self.location:
-              session_html += '<br/><span class="{} btn btn--location">{}</span>'.format(location_type, self.location)
+              session_html += '<span class="{} btn btn--location">{}</span>'.format(location_type, self.location)
 
             # now add the actual abstract and the PDF and Video links
             # as icons if we have those URLs
             if self.abstract:
-                session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>{}'.format(self.abstract)
+                session_html += '<div class="paper-session-details"><div class="session-abstract"><p>{}'.format(self.abstract)
                 if pdf_icons and self.pdf_url:
                     session_html += '&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
                 if video_icons and self.video_url:
@@ -427,7 +434,7 @@ class WebSession(Session):
                 self.start = self.items[0].start
                 self.end = self.items[0].end
 
-            generated_html.append('<div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><div class="tutorial-session-details"><br/><table class="tutorial-table">'.format(self.title, str(day), self.start, self.end, self.location))
+            generated_html.append('<div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">{}</a><span class="session-time" title="{}">{} &ndash; {}</span><div class="tutorial-session-details"><table class="tutorial-table">'.format(self.title, str(day), self.start, self.end, self.location))
 
             # we know tutorial sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -450,7 +457,7 @@ class WebSession(Session):
                 self.start = self.items[0].start
                 self.end = self.items[-1].end
 
-            generated_html.append('<div class="session session-plenary session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><table class="paper-table">'.format(self.title, str(day), self.start, self.end, self.location))
+            generated_html.append('<div class="session session-plenary session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">{}</a><span class="session-time" title="{}">{} &ndash; {}</span><span class="session-location btn btn--location">{}</span><div class="paper-session-details"><table class="paper-table">'.format(self.title, str(day), self.start, self.end, self.location))
 
             # we know the best paper session has child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -465,10 +472,10 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'poster':
-            generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}"><div id="expander"></div><a href="#" class="session-title">{}: {} </a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_, self.title, str(day), self.start, self.end))
+            generated_html.append('<div class="session session-expandable session-posters" id="session-poster-{}"><div id="expander"></div><a href="#" class="session-title">{}: {} </a><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_, self.title, str(day), self.start, self.end))
             if self.location:
-                generated_html.append('<br/><span class="session-location btn btn--location">{}</span>'.format(self.location))
-            generated_html.append('<br><div class="poster-session-details"><br/><table class="poster-table">')
+                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+            generated_html.append('<div class="poster-session-details"><table class="poster-table">')
 
             # we know poster sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -483,12 +490,12 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'paper':
-            session_html = '<div class="session session-expandable session-papers session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end)
+            session_html = '<div class="session session-expandable session-papers session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end)
 
             if self.location:
-                session_html += '<br/><span class="session-location btn btn--location">{}</span>'.format(self.location)
+                session_html += '<span class="session-location btn btn--location">{}</span>'.format(self.location)
             
-            session_html += '<br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table">'.format(self.id_.lower(), self.id_.lower())
+            session_html += '<div class="paper-session-details"><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table">'.format(self.id_.lower(), self.id_.lower())
 
             if self.chair:
                 session_html += '<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span></td></tr>'.format(self.chair)
@@ -571,6 +578,8 @@ class WebItem(Item):
                 self.title = '[SRW] {}'.format(self.title)
             elif self.id_.endswith('-tacl'):
                 self.title = '[TACL] {}'.format(self.title)
+            elif self.id_.endswith('-cl'):
+                self.title = '[CL] {}'.format(self.title)
 
             # generate the rest of the HTML along with optional icons
             time_text = '{}&ndash;{}'.format(self.start, self.end) if self.start and self.end else ''
@@ -593,6 +602,8 @@ class WebItem(Item):
                 self.title = '[SRW] {}'.format(self.title)
             elif self.id_.endswith('-tacl'):
                 self.title = '[TACL] {}'.format(self.title)
+            elif self.id_.endswith('-cl'):
+                self.title = '[CL] {}'.format(self.title)
 
             # show the poster number if available
             if 'poster_number' in self.extended_metadata:
@@ -614,7 +625,7 @@ class WebItem(Item):
             item_metadata = metadata.lookup(self.id_)
             self.title = item_metadata.title
             self.authors = authorlist_to_string(item_metadata.authors)
-            generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><br/><span class="btn btn--location inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
+            generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><span class="btn btn--location inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
 
         # return the generated item HTML
         return generated_html

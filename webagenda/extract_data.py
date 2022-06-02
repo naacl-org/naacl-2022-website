@@ -21,6 +21,7 @@ _RAW_PAPER_DETAILS = _THIS_DIR / 'data' / 'Accepted papers main info for detaile
 _INDUSTRY_ORAL_1 = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_oral_session1.csv'
 _INDUSTRY_ORAL_2 = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_oral_session2.csv'
 _INDUSTRY_POSTER = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_posters.csv'
+_DEMO_POSTER = _THIS_DIR / 'data' / 'demos.tsv'
 # Output files
 _ORDER_FINAL = _THIS_DIR / 'data' / 'order-final.txt'
 _METADATA = _THIS_DIR / 'data' / 'metadata.tsv'
@@ -49,6 +50,17 @@ class RawSchedule:
                 new_records.append({
                     'Session Name': session_name,
                     'Paper ID': row['number'] + '-industry'})
+        logging.info('Read %d records from %s', len(new_records), path)
+        self.records += new_records
+
+    def read_demo_tsv(self, path, session_name):
+        new_records = []
+        with open(path) as fin:
+            for line in fin:
+                paper_id, title, authors = line.rstrip('\n').split('\t')
+                new_records.append({
+                    'Session Name': session_name,
+                    'Paper ID': paper_id + '-demo'})
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
@@ -109,6 +121,20 @@ class RawMetadata:
         logging.info('Read %d metadata records from %s', len(new_records), path)
         self.records += new_records
 
+    def read_demo_tsv(self, path):
+        new_records = []
+        with open(path) as fin:
+            for line in fin:
+                paper_id, title, authors = line.rstrip('\n').split('\t')
+                new_records.append({
+                    'paper_id': paper_id + '-demo',
+                    'track': 'Demo',
+                    'title': title,
+                    'authors': authors,
+                    })
+        logging.info('Read %d records from %s', len(new_records), path)
+        self.records += new_records
+
     def check_duplicates(self):
         paper_id_to_record = {}
         for record in self.records:
@@ -156,12 +182,14 @@ def main():
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1')
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2')
     raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster')
+    raw_schedule.read_demo_tsv(_DEMO_POSTER, 'Demo Poster')
     raw_schedule.check_duplicates()
 
     raw_metadata.read_main_tsv(_RAW_PAPER_DETAILS)
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_1)
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_2)
     raw_metadata.read_industry_csv(_INDUSTRY_POSTER)
+    raw_metadata.read_demo_tsv(_DEMO_POSTER)
     raw_metadata.check_duplicates()
 
     # Process the `order` file

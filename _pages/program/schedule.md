@@ -440,7 +440,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Panel: The Place of Linguistics and Symbolic Structures</span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Panel: "The Place of Linguistics and Symbolic Structures"</span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Session 4 + In-person Poster Session 3 + SRW Oral Session 1</div>
@@ -757,10 +757,11 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </div>
 <div class="session session-expandable session-posters" id="session-poster-4">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">6F: Industry Poster Session </a>
+<div id="expander"></div><a href="#" class="session-title">6F: Industry/Demo Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <div class="poster-session-details"><table class="poster-table">
+<tr><td><span class="poster-type">Industry Track Posters</span></td></tr>
 <tr id="poster" poster-id="5-industry"><td><span class="poster-title">Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems. </span><em>Mohammad Kachuee, Jinseok Nam, Sarthak Ahuja, Jin-Myung Won, SUNGJIN LEE</em></td></tr>
 <tr id="poster" poster-id="17-industry"><td><span class="poster-title">AB/BA analysis: A framework for estimating keyword spotting recall improvement while maintaining audio privacy. </span><em>Raphael Petegrosso, VasistaKrishna Baderdinnni, Thibaud Senechal, Benjamin Bullough</em></td></tr>
 <tr id="poster" poster-id="22-industry"><td><span class="poster-title">Temporal Generalization for Spoken Language Understanding. </span><em>Judith Gaspers, Anoop Kumar, Greg Ver Steeg, Aram Galstyan</em></td></tr>
@@ -791,6 +792,21 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 <tr id="poster" poster-id="125-industry"><td><span class="poster-title">BLINK with Elasticsearch for Efficient Entity Linking in Business Conversations. </span><em>Md Tahmid Rahman Laskar, Cheng Chen, Aliaksandr Martsinovich, Jonathan Johnston, Xue-Yong Fu, Shashi Bhushan Tn, Simon Corston-Oliver</em></td></tr>
 <tr id="poster" poster-id="128-industry"><td><span class="poster-title">Q2R: A Query-to-Resolution System for Natural-Language Queries. </span><em>Shiau Hong Lim, Laura Wynter</em></td></tr>
 <tr id="poster" poster-id="134-industry"><td><span class="poster-title">Identifying Corporate Credit Risk Sentiments from Financial News. </span><em>Noujoud Ahbali, Xinyuan Liu, Albert Aristotle Nanda, Jamie Stark, Ashit Talukder, Rupinder Paul Khandpur</em></td></tr>
+<tr><td><span class="poster-type">Demo Track Posters</span></td></tr>
+<tr id="poster" poster-id="3-demo"><td><span class="poster-title">textless-lib: a Library for Textless Spoken Language Processing. </span><em>Eugene Kharitonov, Jade Copet, Kushal Lakhotia, Tu Anh Nguyen, Paden Tomasello, Ann Lee, Ali Elkahky, Wei-Ning Hsu, Abdelrahman Mohamed, Emmanuel Dupoux, Yossef Mordechay Adi</em></td></tr>
+<tr id="poster" poster-id="5-demo"><td><span class="poster-title">Web-based Annotation Interface for Derivational Morphology. </span><em>Lukáš Kyjánek</em></td></tr>
+<tr id="poster" poster-id="6-demo"><td><span class="poster-title">TurkishDelightNLP: A Neural Turkish NLP Toolkit. </span><em>Huseyin Alecakir, Necva Bölücü, Burcu Can</em></td></tr>
+<tr id="poster" poster-id="8-demo"><td><span class="poster-title">ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations. </span><em>Oscar Sainz, Haoling Qiu, Oier Lopez de Lacalle, Eneko Agirre, Bonan Min</em></td></tr>
+<tr id="poster" poster-id="13-demo"><td><span class="poster-title">Flowstorm: Open-Source Platform with Hybrid Dialogue Architecture. </span><em>Jan Pichl, Petr Marek, Jakub Konrád, Petr Lorenc, Ondrej Kobza, Tomáš Zajíček, Jan Šedivý</em></td></tr>
+<tr id="poster" poster-id="14-demo"><td><span class="poster-title">Contrastive Explanations of Text Classifiers as a Service. </span><em>Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica, Navid Nobani, Andrea Seveso</em></td></tr>
+<tr id="poster" poster-id="19-demo"><td><span class="poster-title">RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios. </span><em>Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, Qi Zeng, Qing Lyu, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji</em></td></tr>
+<tr id="poster" poster-id="22-demo"><td><span class="poster-title">A Human-machine Interface for Few-shot Rule Synthesis for Information Extraction. </span><em>Robert Vacareanu, George C. G. Barbosa, Enrique Noriega-Atala, Gus Hahn-Powell, Rebecca Sharp, Marco Antonio Valenzuela-Escárcega, Mihai Surdeanu</em></td></tr>
+<tr id="poster" poster-id="24-demo"><td><span class="poster-title">SETSum: Summarization and Visualization of Student Evaluations of Teaching. </span><em>Yinuo Hu, Shiyue Zhang, Viji Sathy, Abigail Panter, Mohit Bansal</em></td></tr>
+<tr id="poster" poster-id="25-demo"><td><span class="poster-title">Towards Open-Domain Topic Classification. </span><em>Hantian Ding, Jinrui Yang, Yuqian Deng, Hongming Zhang, Dan Roth</em></td></tr>
+<tr id="poster" poster-id="28-demo"><td><span class="poster-title">SentSpace: Large-Scale Benchmarking and Evaluation of Text using Cognitively Motivated Lexical, Syntactic, and Semantic Features. </span><em>Greta Tuckute, Aalok Sathe, Mingye Wang, Harley Yoder, Cory Shain, Evelina Fedorenko</em></td></tr>
+<tr id="poster" poster-id="29-demo"><td><span class="poster-title">PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit. </span><em>Hui Zhang, Tian Yuan, Junkun Chen, Xintong Li, Renjie Zheng, Yuxin Huang, Xiaojie Chen, Enlei Gong, Zeyu Chen, Xiaoguang Hu, Dianhai Yu, Yanjun Ma, Liang Huang</em></td></tr>
+<tr id="poster" poster-id="30-demo"><td><span class="poster-title">DadmaTools: Natural Language Processing Toolkit for Persian Language. </span><em>Romina Etezadi, Mohammad Karrabi, Najmeh Zare, Mohamad Bagher Sajadi, Mohammad Taher Pilehvar</em></td></tr>
+<tr id="poster" poster-id="32-demo"><td><span class="poster-title">FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction. </span><em>Minh Van Nguyen, Nghia Trung Ngo, Bonan Min, Thien Huu Nguyen</em></td></tr>
 </table>
 </div>
 </div>

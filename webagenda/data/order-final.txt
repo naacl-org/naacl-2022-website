@@ -276,7 +276,7 @@
 
 ! 9:00--9:15 Break
 
-! 9:15--10:15 Plenary Panel: The Place of Linguistics and Symbolic Structures
+! 9:15--10:15 Plenary Panel: "The Place of Linguistics and Symbolic Structures"
 
 ! 10:15--10:45 Break
 
@@ -459,7 +459,8 @@
 418 #
 898 #
 613 #
-= Session 6F: Industry Poster Session
+= Session 6F: Industry/Demo Poster Session
+@ Industry Track Posters
 5-industry #
 17-industry #
 22-industry #
@@ -490,6 +491,21 @@
 125-industry #
 128-industry #
 134-industry #
+@ Demo Track Posters
+3-demo #
+5-demo #
+6-demo #
+8-demo #
+13-demo #
+14-demo #
+19-demo #
+22-demo #
+24-demo #
+25-demo #
+28-demo #
+29-demo #
+30-demo #
+32-demo #
 
 * Wednesday, July 13, 2022
 

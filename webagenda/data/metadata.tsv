@@ -493,3 +493,17 @@ paper_id	track	title	authors
 125-industry	Industry	BLINK with Elasticsearch for Efficient Entity Linking in Business Conversations	Md Tahmid Rahman Laskar, Cheng Chen, Aliaksandr Martsinovich, Jonathan Johnston, Xue-Yong Fu, Shashi Bhushan Tn, Simon Corston-Oliver
 128-industry	Industry	Q2R: A Query-to-Resolution System for Natural-Language Queries	Shiau Hong Lim, Laura Wynter
 134-industry	Industry	{I}dentifying {C}orporate {C}redit {R}isk {S}entiments from {F}inancial {N}ews	Noujoud Ahbali, Xinyuan Liu, Albert Aristotle Nanda, Jamie Stark, Ashit Talukder, Rupinder Paul Khandpur
+3-demo	Demo	 textless-lib: a Library for Textless Spoken Language Processing	Eugene Kharitonov, Jade Copet, Kushal Lakhotia, Tu Anh Nguyen, Paden Tomasello, Ann Lee, Ali Elkahky, Wei-Ning Hsu, Abdelrahman Mohamed, Emmanuel Dupoux, Yossef Mordechay Adi
+5-demo	Demo	 Web-based Annotation Interface for Derivational Morphology	Lukáš Kyjánek
+6-demo	Demo	 TurkishDelightNLP: A Neural Turkish NLP Toolkit	Huseyin Alecakir, Necva Bölücü, Burcu Can
+8-demo	Demo	 ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations	Oscar Sainz, Haoling Qiu, Oier Lopez de Lacalle, Eneko Agirre, Bonan Min
+13-demo	Demo	 Flowstorm: Open-Source Platform with Hybrid Dialogue Architecture	Jan Pichl, Petr Marek, Jakub Konrád, Petr Lorenc, Ondrej Kobza, Tomáš Zajíček, Jan Šedivý
+14-demo	Demo	 Contrastive Explanations of Text Classifiers as a Service	Lorenzo Malandri, Fabio Mercorio, Mario Mezzanzanica, Navid Nobani, Andrea Seveso
+19-demo	Demo	 RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios	Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, Qi Zeng, Qing Lyu, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji
+22-demo	Demo	 A Human-machine Interface for Few-shot Rule Synthesis for Information Extraction	Robert Vacareanu, George C. G. Barbosa, Enrique Noriega-Atala, Gus Hahn-Powell, Rebecca Sharp, Marco Antonio Valenzuela-Escárcega, Mihai Surdeanu
+24-demo	Demo	 SETSum: Summarization and Visualization of Student Evaluations of Teaching	Yinuo Hu, Shiyue Zhang, Viji Sathy, Abigail Panter, Mohit Bansal
+25-demo	Demo	 Towards Open-Domain Topic Classification	Hantian Ding, Jinrui Yang, Yuqian Deng, Hongming Zhang, Dan Roth
+28-demo	Demo	 SentSpace: Large-Scale Benchmarking and Evaluation of Text using Cognitively Motivated Lexical, Syntactic, and Semantic Features	Greta Tuckute, Aalok Sathe, Mingye Wang, Harley Yoder, Cory Shain, Evelina Fedorenko
+29-demo	Demo	 PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit	Hui Zhang, Tian Yuan, Junkun Chen, Xintong Li, Renjie Zheng, Yuxin Huang, Xiaojie Chen, Enlei Gong, Zeyu Chen, Xiaoguang Hu, Dianhai Yu, Yanjun Ma, Liang Huang
+30-demo	Demo	 DadmaTools: Natural Language Processing Toolkit for Persian Language	Romina Etezadi, Mohammad Karrabi, Najmeh Zare, Mohamad Bagher Sajadi, Mohammad Taher Pilehvar
+32-demo	Demo	 FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction	Minh Van Nguyen, Nghia Trung Ngo, Bonan Min, Thien Huu Nguyen

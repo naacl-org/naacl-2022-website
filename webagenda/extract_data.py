@@ -41,21 +41,26 @@ class RawSchedule:
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
-    def read_industry_csv(self, path, session_name, metadata_fout):
+    def read_industry_csv(self, path, session_name):
         new_records = []
         with open(path) as fin:
             reader = csv.DictReader(fin)
             for row in reader:
-                print('{}\t{}\t{}\t{}'.format(
-                    row['number'] + '-industry',
-                    'Industry',
-                    row['title'],
-                    row['authors'].replace('|', ', ')), file=metadata_fout)
                 new_records.append({
                     'Session Name': session_name,
                     'Paper ID': row['number'] + '-industry'})
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
+
+    def check_duplicates(self):
+        paper_id_to_record = {}
+        for record in self.records:
+            paper_id = record['Paper ID']
+            if paper_id in paper_id_to_record:
+                logging.warning('Repeated ID: {}'.format(paper_id))
+                logging.warning('    {}'.format(paper_id_to_record[paper_id]))
+                logging.warning('    {}'.format(record))
+            paper_id_to_record[paper_id] = record
 
     def search(self, query):
         for record in self.records:
@@ -71,24 +76,96 @@ class RawSchedule:
                 logging.warning('Unused record: {}'.format(record))
 
 
+class RawMetadata:
+
+    def __init__(self):
+        self.records = []
+
+    def read_main_tsv(self, path):
+        new_records = []
+        with open(path) as fin:
+            reader = csv.DictReader(fin, dialect=csv.excel_tab)
+            for row in reader:
+                paper_id = row['Number']
+                # if row['Track'] == 'Special Theme':
+                #     paper_id += '-special'
+                new_records.append({
+                    'paper_id': row['Number'],
+                    'track': row['Track'],
+                    'title': row['Title'],
+                    'authors': row['Authors'],
+                    })
+        logging.info('Read %d metadata records from %s', len(new_records), path)
+        self.records += new_records
+
+    def read_industry_csv(self, path):
+        new_records = []
+        with open(path) as fin:
+            reader = csv.DictReader(fin)
+            for row in reader:
+                new_records.append({
+                    'paper_id': row['number'] + '-industry',
+                    'track': 'Industry',
+                    'title': row['title'],
+                    'authors': row['authors'].replace('|', ', '),
+                    })
+        logging.info('Read %d metadata records from %s', len(new_records), path)
+        self.records += new_records
+
+    def check_duplicates(self):
+        paper_id_to_record = {}
+        for record in self.records:
+            paper_id = record['paper_id']
+            if paper_id in paper_id_to_record:
+                logging.warning('Repeated ID: {}'.format(paper_id))
+                logging.warning('    {}'.format(paper_id_to_record[paper_id]))
+                logging.warning('    {}'.format(record))
+            paper_id_to_record[paper_id] = record
+
+    def mark_used(self, paper_id):
+        for record in self.records:
+            if record['paper_id'] == paper_id:
+                if record.get('used'):
+                    logging.warning('Repeated record: {}'.format(record))
+                record['used'] = True
+
+    def report_unused(self):
+        for record in self.records:
+            if not record.get('used'):
+                logging.warning('Unused record: {}'.format(record))
+
+    def dump_metadata(self, path):
+        with open(path, 'w') as fout:
+            print('paper_id\ttrack\ttitle\tauthors', file=fout)
+            for record in self.records:
+                print('{}\t{}\t{}\t{}'.format(
+                    record['paper_id'],
+                    record['track'],
+                    record['title'],
+                    record['authors']), file=fout)
+        logging.info('Wrote %d metadata records to %s', len(self.records), path)
+
+
 def main():
     # set up the logging
     logging.basicConfig(format='%(levelname)s - %(message)s', level=logging.INFO)
 
-    with open(_RAW_PAPER_DETAILS) as fin, open(_METADATA, 'w') as fout:
-        fin.readline()
-        print('paper_id\ttrack\ttitle\tauthors', file=fout)
-        for line in fin:
-            print(line.rstrip('\n'), file=fout)
-
     raw_schedule = RawSchedule()
-    # Read the paper and poster schedules
+    raw_metadata = RawMetadata()
+
+    # Read data
     raw_schedule.read_tsv(_RAW_PAPER_SCHEDULE)
     raw_schedule.read_tsv(_RAW_POSTER_SCHEDULE)
-    with open(_METADATA, 'a') as fout:
-        raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1', fout)
-        raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2', fout)
-        raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster', fout)
+    raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1')
+    raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2')
+    raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster')
+    raw_schedule.check_duplicates()
+
+    raw_metadata.read_main_tsv(_RAW_PAPER_DETAILS)
+    raw_metadata.read_industry_csv(_INDUSTRY_ORAL_1)
+    raw_metadata.read_industry_csv(_INDUSTRY_ORAL_2)
+    raw_metadata.read_industry_csv(_INDUSTRY_POSTER)
+    raw_metadata.check_duplicates()
 
     # Process the `order` file
     with open(_ORDER_OUTLINE_) as fin, open(_ORDER_FINAL, 'w') as fout:
@@ -97,9 +174,12 @@ def main():
                 # Search for matching papers
                 for record in raw_schedule.search(json.loads(line)):
                     fout.write('{} #\n'.format(record['Paper ID'].replace(' ', '_')))
+                    raw_metadata.mark_used(record['Paper ID'])
             else:
                 fout.write(line)
     raw_schedule.report_unused()
+    raw_metadata.report_unused()
+    raw_metadata.dump_metadata(_METADATA)
 
 
 if __name__ == '__main__':

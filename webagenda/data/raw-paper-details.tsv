@@ -1,0 +1,457 @@
+paper_id	track	title	authors
+1023	Computational Social Science and Cultural Analytics	Hate Speech and Counter Speech Detection: Conversational Context Does Matter	Xinchen Yu, Eduardo Blanco, Lingzi Hong
+1002	Computational Social Science and Cultural Analytics	A Holistic Framework for Analyzing the COVID-19 Vaccine Debate	Maria Leonor Pacheco, Tunazzina Islam, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser
+975	Computational Social Science and Cultural Analytics	Conceptualizing Treatment Leakage in Text-based Causal Inference	Adel Daoud, Connor Thomas Jerzak, Richard Johansson
+882	Computational Social Science and Cultural Analytics	Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy	Allison Lahnala, Charles Welch, Béla Neuendorf, Lucie Flek
+852	Computational Social Science and Cultural Analytics	Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection	Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein
+351	Computational Social Science and Cultural Analytics	Combining Humor and Sarcasm for Improving Political Parody Detection	Xiao Ao, Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras
+255	Computational Social Science and Cultural Analytics	{H}atemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate	Hannah Rose Kirk, Bertie Vidgen, Paul Rottger, Tristan Thrush, Scott A. Hale
+42	Computational Social Science and Cultural Analytics	Political Ideology and Polarization: A Multi-dimensional Approach	Barea Sinno, Bernardo Oviedo, Katherine Atwell, Malihe Alikhani, Junyi Jessy Li
+1010	Dialogue and Interactive systems	You Don’t Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers’ Private Personas	Haoran Li, Yangqiu Song, Lixin Fan
+1001	Dialogue and Interactive systems	Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation	Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen
+941	Dialogue and Interactive systems	On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?	Nouha Dziri, Sivan Milton, Mo Yu, Osmar Zaiane, Siva Reddy
+926	Dialogue and Interactive systems	Partner Personas Generation for Dialogue Response Generation	Hongyuan Lu, Wai Lam, Hong Cheng, Helen M. Meng
+913	Dialogue and Interactive systems	Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances	Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang
+871	Dialogue and Interactive systems	Mining Clues from Incomplete Utterance: A Query-enhanced Network for Incomplete Utterance Rewriting	Shuzheng Si, Shuang Zeng, Baobao Chang
+861	Dialogue and Interactive systems	Learning as Conversation: Dialogue Systems Reinforced for Information Acquisition	Pengshan Cai, Hui Wan, Fei Liu, Mo Yu, hong yu, Sachindra Joshi
+849	Dialogue and Interactive systems	Disentangling Indirect Answers to Yes-No Questions in Real Conversations	Krishna Chaitanya Sanagavarapu, Jathin Pranav Singaraju, Anusha Kakileti, Anirudh Kaza, Aaron Abraham Mathews, Helen Li, Nathan Raul Brito, Eduardo Blanco
+838	Dialogue and Interactive systems	Show, Don't Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue	Raghav Gupta, Harrison Lee, Jeffrey Zhao, Yuan Cao, Abhinav Rastogi, Yonghui Wu
+833	Dialogue and Interactive systems	CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning	Siddharth Verma, Justin Fu, Sherry Yang, Sergey Levine
+789	Dialogue and Interactive systems	AISFG: Abundant Information Slot Filling Generator	Yang Yan, Junda Ye, Zhongbao Zhang, Liwen Wang
+786	Dialogue and Interactive systems	Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold	Yanan Wu, Keqing He, Yuanmeng Yan, QiXiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu
+778	Dialogue and Interactive systems	Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances	Wongyu Kim, Youbin Ahn, Donghyun Kim, Kyong-Ho Lee
+687	Dialogue and Interactive systems	Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog	Chia-Chien Hung, Anne Lauscher, Ivan Vulić, Simone Paolo Ponzetto, Goran Glavaš
+639	Dialogue and Interactive systems	Multimodal Dialogue State Tracking	Hung Le, Nancy F. Chen, Steven HOI
+638	Dialogue and Interactive systems	VGNMN: Video-grounded Neural Module Networks for Video-Grounded Dialogue Systems	Hung Le, Nancy F. Chen, Steven HOI
+627	Dialogue and Interactive systems	LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking	Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He
+618	Dialogue and Interactive systems	Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting	Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang
+593	Dialogue and Interactive systems	Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation	Shumpei Inoue, Tsungwei Liu, Son Hong Nguyen, Minh-Tien Nguyen
+522	Dialogue and Interactive systems	Robust Conversational Agents against Imperceptible Toxicity Triggers	Ninareh Mehrabi, Ahmad Beirami, Fred Morstatter, Aram Galstyan
+519	Dialogue and Interactive systems	Enhancing Knowledge Selection for Grounded Dialogues via Document Semantic Graphs	Sha Li, Mahdi Namazifar, Di Jin, Mohit Bansal, Heng Ji, Yang Liu, Dilek Hakkani-Tur
+456	Dialogue and Interactive systems	Learning to Express in Knowledge-Grounded Conversation	Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan
+428	Dialogue and Interactive systems	Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models	Sanghwan Bae, Donghyun Kwak, Sungdong Kim, Donghoon Ham, Soyoung Kang, Sang-Woo Lee, Woomyoung Park
+421	Dialogue and Interactive systems	D2U: Distance-to-Uniform Learning for Out-of-Scope Detection	Eyup Halit Yilmaz, Cagri Toraman
+364	Dialogue and Interactive systems	Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering	Rajat Kumar, Mayur Patidar, VAIBHAV VARSHNEY, Lovekesh Vig, Gautam Shroff
+334	Dialogue and Interactive systems	Representation Learning for Conversational Data using Discourse Mutual Information Maximization	Bishal Santra, Sumegh Roychowdhury, Aishik Mandal, Vasu Gurram, Atharva Naik, Manish Gupta, Pawan Goyal
+249	Dialogue and Interactive systems	Commonsense and Named Entity Aware Knowledge Grounded Dialogue Generation	Deeksha varshney, Akshara Prabhakar, Asif Ekbal
+235	Dialogue and Interactive systems	Towards a Progression-Aware Autonomous Dialogue Agent	Abraham Sanders, Tomek Strzalkowski, Mei Si, Albert Chang, Deepanshu Dey, Jonas Braasch, Dakuo Wang
+233	Dialogue and Interactive systems	Unsupervised Slot Schema Induction for Task-oriented Dialog	Dian Yu, Mingqiu Wang, Yuan Cao, Izhak Shafran, Laurent El Shafey, Hagen Soltau
+228	Dialogue and Interactive systems	Database Search Results Disambiguation for Task-Oriented Dialog Systems	Kun Qian, Satwik Kottur, Ahmad Beirami, Shahin Shayandeh, Paul A. Crook, Alborz Geramifard, Zhou Yu, Chinnadhurai Sankar
+205	Dialogue and Interactive systems	EmpHi: Generating Empathetic Responses with Human-like Intents	MAO YAN CHEN, Siheng Li, Yujiu Yang
+156	Dialogue and Interactive systems	Generating Repetitions with Appropriate Repeated Words	Toshiki Kawamoto, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura
+133	Dialogue and Interactive systems	Learning Dialogue Representations from Consecutive Utterances	Zhihan Zhou, Dejiao Zhang, Wei Xiao, Nicholas Dingwall, Xiaofei Ma, Andrew Arnold, Bing Xiang
+97	Dialogue and Interactive systems	Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization	Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Y.S. Lam
+80	Dialogue and Interactive systems	Diversifying Neural Dialogue Generation via Negative Distillation	Yiwei Li, Shaoxiong Feng, Bin Sun, Kan Li
+37	Dialogue and Interactive systems	Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation	Yu Li, Baolin Peng, yelong shen, Yi Mao, Lars Liden, Zhou Yu, Jianfeng Gao
+8	Dialogue and Interactive systems	ErAConD: Error Annotated Conversational Dialog Dataset for Grammatical Error Correction	Xun Yuan, Derek Pham, Sam Davidson, Zhou Yu
+562	Discourse and Pragmatics	Incorporating Centering Theory into Neural Coreference Resolution	Haixia Chai, Michael Strube
+471	Discourse and Pragmatics	Towards Understanding Large-Scale Discourse Structures in Pre-Trained and Fine-Tuned Language Models	Patrick Huber, Giuseppe Carenini
+2	Discourse and Pragmatics	Social Norms Guide Reference Resolution	Mitchell Abrams, Matthias Scheutz
+1006	Efficient methods in NLP	Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training	Yuanxin Liu, Fandong Meng, Zheng Lin, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou
+922	Efficient methods in NLP	Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences	Yifan Chen, Qi Zeng, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang
+876	Efficient methods in NLP	Exact Paired-Permutation Testing for Structured Test Statistics	Ran Zmigrod, Tim Vieira, Ryan Cotterell
+817	Efficient methods in NLP	FNet: Mixing Tokens with Fourier Transforms	James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon
+815	Efficient methods in NLP	Causal Distillation for Language Models	Zhengxuan Wu, Atticus Geiger, Joshua Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah Goodman
+775	Efficient methods in NLP	Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval	Siyu Ren, Kenny Q. Zhu
+750	Efficient methods in NLP	On Transferability of Prompt Tuning for Natural Language Processing	Yusheng Su, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou
+746	Efficient methods in NLP	Knowledge Inheritance for Pre-trained Language Models	Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, Yusheng Su, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou
+698	Efficient methods in NLP	Adaptable Adapters	Nafise Sadat Moosavi, Quentin Delfosse, Kristian Kersting, Iryna Gurevych
+614	Efficient methods in NLP	Towards Efficient NLP: A Standard Evaluation and A Strong Baseline	Xiangyang Liu, Tianxiang Sun, JunLiang He, Jiawen Wu, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu
+469	Efficient methods in NLP	Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models	Qinyuan Ye, Madian Khabsa, Mike Lewis, Sinong Wang, Xiang Ren, Aaron Jaech
+435	Efficient methods in NLP	Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem	Ryoma Sato
+424	Efficient methods in NLP	KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation	Marzieh S. Tahaei, Ella Charlaix, Vahid Partovi Nia, Ali Ghodsi, Mehdi Rezagholizadeh
+117	Efficient methods in NLP	Meta Learning for Natural Language Processing: A Survey	Hung-yi Lee, Shang-Wen Li, Thang Vu
+14	Efficient methods in NLP	LEA: Meta Knowledge-Driven Self-Attentive Document Embedding for Few-Shot Text Classification	Seungki Hong, Tae Young Jang
+1015	Ethics, Bias, and Fairness	Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection	Maarten Sap, Swabha Swayamdipta, Laura Vianna, Xuhui Zhou, Yejin Choi, Noah Smith
+867	Ethics, Bias, and Fairness	What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review	Terne Sasha Thorn Jakobsen, Anna Rogers
+774	Ethics, Bias, and Fairness	Optimising Equal Opportunity Fairness in Model Training	Aili Shen, Xudong Han, Trevor Cohn, Timothy Baldwin, Lea Frermann
+674	Ethics, Bias, and Fairness	Benchmarking Intersectional Biases in NLP	John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi
+653	Ethics, Bias, and Fairness	Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution	Connor Baumler, Rachel Rudinger
+568	Ethics, Bias, and Fairness	Features or Spurious Artifacts? Data-centric Baselines for Fair and Robust Hate Speech Detection	Alan Ramponi, Sara Tonelli
+549	Ethics, Bias, and Fairness	Triggerless Backdoor Attack for NLP Tasks with Clean Labels	Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan
+524	Ethics, Bias, and Fairness	Selective Differential Privacy for Language Modeling	Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu
+520	Ethics, Bias, and Fairness	Using Natural Sentence Prompts for Understanding Biases in Language Models	Sarah Alnegheimish, Alicia Guo, Yi Sun
+512	Ethics, Bias, and Fairness	Gender Bias in Masked Language Models for Multiple Languages	Masahiro Kaneko, Aizhan Imankulova, Danushka Bollegala, Naoaki Okazaki
+511	Ethics, Bias, and Fairness	Federated Learning with Noisy User Feedback	Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, Rahul Gupta
+495	Ethics, Bias, and Fairness	How Gender Debiasing Affects Internal Model Representations, and Why It Matters	Hadas Orgad, Seraphina Goldfarb-Tarrant, Yonatan Belinkov
+330	Ethics, Bias, and Fairness	Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models	Pieter Delobelle, Ewoenam Kwaku Tokpo, Toon Calders, Bettina Berendt
+245	Ethics, Bias, and Fairness	Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models	Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, Linda Zou
+200	Ethics, Bias, and Fairness	Socially Aware Bias Measurements for Hindi Language Representations	Vijit Malik, Sunipa Dev, Akihiro Nishi, Nanyun Peng, Kai-Wei Chang
+172	Ethics, Bias, and Fairness	Provably Confidential Language Modelling	Xuandong Zhao, Lei Li, Yu-Xiang Wang
+151	Ethics, Bias, and Fairness	Explaining Toxic Text via Knowledge Enhanced Text Generation	Rohit Sridhar, Diyi Yang
+128	Ethics, Bias, and Fairness	Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification	Xiaolei Huang
+1041	Information Extraction	HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction	Shuliang Liu, Xuming Hu, Chenwei Zhang, Shu'ang Li, Lijie Wen, Philip S. Yu
+991	Information Extraction	Few-Shot Document-Level Relation Extraction	Nicholas Popovic, Michael Färber
+988	Information Extraction	Hyperbolic Relevance Matching for Neural Keyphrase Extraction	Mingyang Song, Yi Feng, Liping Jing
+968	Information Extraction	Cross-Lingual Event Detection via Optimized Adversarial Training	Luis Fernando Guzman-Nateras, Minh Van Nguyen, Thien Huu Nguyen
+952	Information Extraction	Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction	Liyan Xu, Jinho D. Choi
+905	Information Extraction	Modeling Multi-Granularity Hierarchical Features for Relation Extraction	Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li
+894	Information Extraction	A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction	Runxin Xu, Peiyi Wang, Tianyu Liu, Shuang Zeng, Baobao Chang, Zhifang Sui
+893	Information Extraction	An Enhanced Span-based Decomposition Method for  Few-Shot Sequence Labeling	Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui
+888	Information Extraction	RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction	Yuan Liang, Zhuoxuan Jiang, di yin, Bo Ren
+845	Information Extraction	GenIE: Generative Information Extraction	Martin Josifoski, Nicola De Cao, Maxime Peyrard, Fabio Petroni, Robert West
+823	Information Extraction	Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies	Minh Van Nguyen, Bonan Min, Franck Dernoncourt, Thien Huu Nguyen
+771	Information Extraction	Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting	Linzhi Wu, Pengjun Xie, Jie Zhou, Meishan Zhang, Ma Chunping, Guangwei Xu, Min Zhang
+769	Information Extraction	Generative Biomedical Entity Linking via Knowledge Base-Guided Pre-training and Synonyms-Aware Fine-tuning	Hongyi Yuan, Zheng Yuan, Sheng Yu
+751	Information Extraction	DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction	MeiHan Tong, Bin Xu, Shuai Wang, Meihuan Han, Yixin Cao, Jiangqi Zhu, Siyu Chen, Lei Hou, Juanzi Li
+718	Information Extraction	Does it Really Generalize Well on Unseen Data? Systematic Evaluation of Relational Triple Extraction Methods	Juhyuk Lee, Min-Joong Lee, June Yong Yang, Eunho Yang
+700	Information Extraction	{GMN}: Generative Multi-modal Network for Practical Document Information Extraction	Haoyu Cao, Jiefeng Ma, Antai Guo, Yiqing Hu, Hao Liu, Deqiang Jiang, Yinsong Liu, Bo Ren
+681	Information Extraction	Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities	Benjamin Hsu, Graham Horwood
+630	Information Extraction	Crossroads, Buildings and Neighborhoods: A Dataset for Fine-grained Location Recognition	Pei Chen, Haotian Xu, Cheng Zhang, Ruihong Huang
+612	Information Extraction	Global Entity Disambiguation with {BERT}	Ikuya Yamada, Koki Washio, Hiroyuki Shindo, Yuji Matsumoto
+597	Information Extraction	ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition	Xinyu Wang, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Kewei Tu
+574	Information Extraction	Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis	Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Dayiheng Liu, Baosong Yang, Juncheng Liu, Bryan Hooi
+572	Information Extraction	Document-Level Event Argument Extraction by Leveraging Redundant Information and Closed Boundary Loss	Hanzhang Zhou, Kezhi Mao
+537	Information Extraction	Document-Level Relation Extraction with Sentences Importance Estimation and Focusing	Wang Xu, Kehai Chen, Lili Mou, Tiejun Zhao
+536	Information Extraction	Modal Dependency Parsing via Language Model Priming	Jiarui Yao, Nianwen Xue, Bonan Min
+535	Information Extraction	Improving Entity Disambiguation by Reasoning over a Knowledge Base	Tom Ayoola, Joseph Fisher, Andrea Pierleoni
+534	Information Extraction	Learning to Borrow– Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion	Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala
+502	Information Extraction	Unified Semantic Typing with Meaningful Label Inference	James Y. Huang, Bangzheng Li, Jiashu Xu, Muhao Chen
+472	Information Extraction	SAIS: Supervising and Augmenting Intermediate Steps for Document-Level Relation Extraction	Yuxin Xiao, Zecheng Zhang, Yuning Mao, Carl Yang, Jiawei Han
+462	Information Extraction	MINION: a Large-Scale and Diverse Dataset for Multilingual Event Detection	Amir Pouran Ben Veyseh, Minh Van Nguyen, Franck Dernoncourt, Thien Huu Nguyen
+433	Information Extraction	Sentence-Level Resampling for Named Entity Recognition	Xiaochen Wang, Yue Wang
+403	Information Extraction	Event Schema Induction with Double Graph Autoencoders	Xiaomeng Jin, Manling Li, Heng Ji
+389	Information Extraction	Hero-Gang Neural Model For Named Entity Recognition	Jinpeng Hu, Yaling Shen, Yang Liu, Xiang Wan, Tsung-Hui Chang
+379	Information Extraction	DEGREE: A Data-Efficient Generation-Based Event Extraction Model	I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng
+284	Information Extraction	Relation-Specific Attentions over Entity Mentions for Enhanced Document-Level Relation Extraction	Jiaxin Yu, Deqing Yang, Shuyu Tian
+184	Information Extraction	DocTime: A Document-level Temporal Dependency Graph Parser	Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova, Dinesh Manocha, Rajiv Jain
+163	Information Extraction	CompactIE: Compact Facts in Open Information Extraction	Farima Fatahi Bayat, Nikita Bhutani, H. Jagadish
+116	Information Extraction	EmRel: Joint Representation of Entities and Embedded Relations for Multi-triple Extraction	Benfeng Xu, Quan Wang, Yajuan Lyu, Yabing Shi, Yong Zhu, Jie Gao, Zhendong Mao
+832	Information Retrieval and Text Mining	Multi-Vector Models with Textual Guidance for Fine-Grained Scientific Document Similarity	Sheshera Mysore, Arman Cohan, Tom Hope
+829	Information Retrieval and Text Mining	Learning Cross-Lingual IR from an English Retriever	Yulong Li, Martin Franz, Md Arafat Sultan, Bhavani Iyer, Young-Suk Lee, Avirup Sil
+780	Information Retrieval and Text Mining	Collective Relevance Labeling for Passage Retrieval	Jihyuk Kim, Minsoo Kim, seung-won hwang
+734	Information Retrieval and Text Mining	Is Neural Topic Modelling Better than Clustering? An Empirical Study on Clustering with Contextual Embeddings for Topics	Zihan Zhang, Meng Fang, Ling Chen, Mohammad Reza Namazi Rad
+690	Information Retrieval and Text Mining	ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction	Keshav Santhanam, Omar Khattab, Jon Saad-Falcon, Christopher Potts, Matei Zaharia
+659	Information Retrieval and Text Mining	Improving Neural Models for Radiology Report Retrieval with Lexicon-based Automated Annotation	Luyao Shi, Tanveer Syeda-mahmood, Tyler Baldwin
+605	Information Retrieval and Text Mining	A Dataset for N-ary Relation Extraction of Drug Combinations	Aryeh Tiktinsky, Vijay Viswanathan, Danna Niezni, Dana Meron Azagury, Yosi Shamay, Hillel Taub-Tabib, Tom Hope, Yoav Goldberg
+580	Information Retrieval and Text Mining	Boosted Dense Retriever	Patrick Lewis, Barlas Oguz, Wenhan Xiong, Fabio Petroni, Scott Yih, Sebastian Riedel
+465	Information Retrieval and Text Mining	GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval	Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych
+298	Information Retrieval and Text Mining	SKILL: Structured Knowledge Infusion for Large Language Models	Fedor Moiseev, Zhe Dong, Enrique Alfonseca, Martin Jaggi
+52	Information Retrieval and Text Mining	Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds	Yu Zhang, Yu Meng, Xuan Wang, Sheng Wang, Jiawei Han
+40	Information Retrieval and Text Mining	CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data	Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang
+1035	Interpretability and Analysis of Models for NLP	Time Waits for No One! Analysis and Challenges of Temporal Misalignment	Kelvin Luu, Daniel Khashabi, Suchin Gururangan, Karishma Mandyam, Noah Smith
+1000	Interpretability and Analysis of Models for NLP	What do Toothbrushes do in the Kitchen? How Transformers Think our World is Structured	Alexander Henlein, Alexander Mehler
+994	Interpretability and Analysis of Models for NLP	Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs	Ghazi Felhi, Joseph Le Roux, Djamé Seddah
+951	Interpretability and Analysis of Models for NLP	When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes	Mycal Tucker, Tiwalayo Eisape, Peng Qian, Roger P. Levy, Julie Shah
+948	Interpretability and Analysis of Models for NLP	{ExSum}: {F}rom Local Explanations to Model Understanding	Yilun Zhou, Marco Tulio Ribeiro, Julie Shah
+944	Interpretability and Analysis of Models for NLP	Is "My Favorite New Movie" My Favorite Movie? Probing the Understanding of Recursive Noun Phrases	Qing Lyu, Hua Zheng, Daoxin Li, Li Zhang, Marianna Apidianaki, Chris Callison-Burch
+899	Interpretability and Analysis of Models for NLP	Models In a Spelling Bee: Language Models Implicitly Learn the Character Composition of Tokens	Itay Itzhak, Omer Levy
+859	Interpretability and Analysis of Models for NLP	Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora	Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew Arnold, Xiang Ren
+853	Interpretability and Analysis of Models for NLP	A Study of the Attention Abnormality in Trojaned BERTs	Weimin Lyu, Songzhu Zheng, Tengfei Ma, Chao Chen
+841	Interpretability and Analysis of Models for NLP	Measure and Improve Robustness in NLP Models: A Survey	Xuezhi Wang, Haohan Wang, Diyi Yang
+840	Interpretability and Analysis of Models for NLP	Using Paraphrases to Study Properties of Contextual Embeddings	Laura Burdick, Jonathan K Kummerfeld, Rada Mihalcea
+820	Interpretability and Analysis of Models for NLP	Informativeness and Invariance: Two Perspectives on Spurious Correlations in Natural Language	Jacob Eisenstein
+716	Interpretability and Analysis of Models for NLP	Residue-Based Natural Language Adversarial Attack Detection	Vyas Raina, Mark Gales
+704	Interpretability and Analysis of Models for NLP	Can Rationalization Improve Robustness?	Howard Chen, Jacqueline He, Karthik R Narasimhan, Danqi Chen
+678	Interpretability and Analysis of Models for NLP	How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns	Stephanie Brandl, Ruixiang Cui, Anders Søgaard
+666	Interpretability and Analysis of Models for NLP	ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models	Junyi Li, Tianyi Tang, Zheng Gong, Lixin Yang, Zhuohao Yu, Zhipeng Chen, Jingyuan Wang, Xin Zhao, Ji-Rong Wen
+577	Interpretability and Analysis of Models for NLP	Analyzing Encoded Concepts in Transformer Language Models	Hassan Sajjad, Nadir Durrani, Fahim Dalvi, Firoj Alam, Abdul Rafae Khan, Jia Xu
+505	Interpretability and Analysis of Models for NLP	Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection	Esma Balkir, Isar Nejadgholi, Kathleen C. Fraser, Svetlana Kiritchenko
+484	Interpretability and Analysis of Models for NLP	What do tokens know about their characters and how do they know it?	Ayush Kaushal, Kyle Mahowald
+464	Interpretability and Analysis of Models for NLP	Do Prompt-Based Models Really Understand the Meaning of Their Prompts?	Albert Webson, Ellie Pavlick
+438	Interpretability and Analysis of Models for NLP	Locally Aggregated Feature Attribution on Natural Language Model Understanding	Sheng Zhang, Jin Wang, Haitao Jiang, Rui Song
+437	Interpretability and Analysis of Models for NLP	On the Diversity and Limits of Human Explanations	Chenhao Tan
+396	Interpretability and Analysis of Models for NLP	Even the Simplest Baseline Needs Careful Re-investigation: A Case Study on XML-CNN	Si-An Chen, JIE-JYUN LIU, Tsung-Han Yang, Hsuan-Tien Lin, Chih-Jen Lin
+395	Interpretability and Analysis of Models for NLP	Simple Local Attentions Remain Competitive for Long-Context Tasks	Wenhan Xiong, Barlas Oguz, Anchit Gupta, Xilun Chen, Diana Liskovich, Omer Levy, Scott Yih, Yashar Mehdad
+316	Interpretability and Analysis of Models for NLP	Implicit n-grams Induced by Recurrence	Xiaobing Sun, Wei Lu
+302	Interpretability and Analysis of Models for NLP	Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models	Karolina Stanczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein
+226	Interpretability and Analysis of Models for NLP	Probing via Prompting	Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan
+177	Interpretability and Analysis of Models for NLP	When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it	Sebastian Schuster, Tal Linzen
+113	Interpretability and Analysis of Models for NLP	Reframing Human-AI Collaboration for Generating Free-Text Explanations	Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi
+46	Interpretability and Analysis of Models for NLP	GlobEnc: Quantifying Global Token Attribution by Incorporating the Whole Encoder Layer in Transformers	Ali Modarressi, Mohsen Fayyaz, Yadollah Yaghoobzadeh, Mohammad Taher Pilehvar
+1047	Language Generation	MOVER: Mask, Over-generate and Rank for Hyperbole Generation	Yunxiang Zhang, Xiaojun Wan
+955	Language Generation	Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation	Dingcheng Li, Zheng Chen, Eunah Cho, Jie Hao, Xiaohu Liu, Xing Fan, Chenlei Guo, Yang Liu
+895	Language Generation	Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning	Fei Wang, Zhewei Xu, Pedro Szekely, Muhao Chen
+744	Language Generation	TRUE: Re-evaluating Factual Consistency Evaluation	Or Honovich, Roee Aharoni, Jonathan Herzig, Hagai Taitelbaum, Doron Kukliansy, Vered Cohen, Thomas Scialom, Idan Szpektor, Avinatan Hassidim, Yossi Matias
+686	Language Generation	FRUIT: Faithfully Reflecting Updated Information in Text	Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang
+673	Language Generation	Zero-shot Sonnet Generation with Discourse-level Planning and Aesthetics Features	Yufei Tian, Nanyun Peng
+665	Language Generation	Learning to Transfer Prompts for Text Generation	Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao
+634	Language Generation	Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation	Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang
+566	Language Generation	Low Resource Style Transfer via Domain Adaptive Meta Learning	Xiangyang Li, Xiang Long, Yu Xia, Sujian Li
+551	Language Generation	{PPL-MCTS}: {C}onstrained Textual Generation Through Discriminator-Guided {MCTS} Decoding	Antoine Chaffin, Vincent Claveau, Ewa Kijak
+416	Language Generation	Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation	Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu
+363	Language Generation	RSTGen: Imbuing Fine-Grained Interpretable Control into Long-FormText Generators	Rilwan Akanni Adewoyin, Ritabrata Dutta, Yulan He
+273	Language Generation	Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts	Rujun Han, Hong Chen, Yufei Tian, Nanyun Peng
+257	Language Generation	Learning to Selectively Learn for Weakly Supervised Paraphrase Generation with Model-based Reinforcement Learning	Haiyan Yin, Dingcheng Li, Ping Li
+238	Language Generation	Cross-Domain Detection of {GPT}-2-Generated Technical Text	Juan Diego Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan
+202	Language Generation	AmbiPun: Generating Humorous Puns with Ambiguous Context	Anirudh Mittal, Yufei Tian, Nanyun Peng
+142	Language Generation	NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics	Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi
+131	Language Generation	Long-term Control for Dialogue Generation: Methods and Evaluation	Ramya Ramakrishnan, Hashan Buddhika Narangodage, Mauro Schilman, Kilian Q Weinberger, Ryan McDonald
+126	Language Generation	Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation	Jinyi Hu, Xiaoyuan Yi, Wenhao Li, Maosong Sun, Xing Xie
+87	Language Generation	Towards Robust and Semantically Organised Latent Representations for Unsupervised Text Style Transfer	Sharan Narasimhan, Suvodip Dey, Maunendra Sankar Desarkar
+1043	Language Grounding to Vision, Robotics and Beyond	Diagnosing Vision-and-Language Navigation: What Really Matters	Wanrong Zhu, Yuankai Qi, Pradyumna Narayana, Kazoo Sone, Sugato Basu, Xin Eric Wang, Qi Wu, Miguel Eckstein, William Yang Wang
+1038	Language Grounding to Vision, Robotics and Beyond	{MCSE}: {M}ultimodal Contrastive Learning of Sentence Embeddings	Miaoran Zhang, Marius Mosbach, David Ifeoluwa Adelani, Michael A. Hedderich, Dietrich Klakow
+960	Language Grounding to Vision, Robotics and Beyond	Few-shot Subgoal Planning with Language Models	Lajanugen Logeswaran, Yao Fu, Moontae Lee, Honglak Lee
+946	Language Grounding to Vision, Robotics and Beyond	Visual Commonsense in Pretrained Unimodal and Multimodal Models	Chenyu Zhang, Benjamin Van Durme, Zhuowan Li, Elias Stengel-Eskin
+874	Language Grounding to Vision, Robotics and Beyond	Interactive Symbol Grounding with Complex Referential Expressions	Rimvydas Rubavicius, Alex Lascarides
+836	Language Grounding to Vision, Robotics and Beyond	Disentangling Categorization in Multi-agent Emergent Communication	Washington Garcia, Hamilton Scott Clouse, Kevin R. B. Butler
+834	Language Grounding to Vision, Robotics and Beyond	Connecting the Dots between Audio and Text without Parallel Data through Visual Knowledge Transfer	Yanpeng Zhao, Jack Hessel, Youngjae Yu, Ximing Lu, Rowan Zellers, Yejin Choi
+825	Language Grounding to Vision, Robotics and Beyond	Imagination-Augmented Natural Language Understanding	Yujie Lu, Wanrong Zhu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
+821	Language Grounding to Vision, Robotics and Beyond	FOAM: A Follower-aware Speaker Model For Vision-and-Language Navigation	Zi-Yi Dou, Nanyun Peng
+672	Language Grounding to Vision, Robotics and Beyond	Exposing the Limits of Video-Text Models through Contrast Sets	Jae Sung Park, Sheng Shen, Ali Farhadi, Trevor Darrell, Yejin Choi, Anna Rohrbach
+527	Language Grounding to Vision, Robotics and Beyond	Do Trajectories Encode Verb Meaning?	Dylan Ebert, Chen Sun, Ellie Pavlick
+391	Language Grounding to Vision, Robotics and Beyond	All You May Need for VQA are Image Captions	Soravit Changpinyo, Doron Kukliansy, Idan Szpektor, Xi Chen, Nan Ding, Radu Soricut
+318	Language Grounding to Vision, Robotics and Beyond	Guiding Visual Question Generation	Nihir Vedd, Zixu Wang, Marek Rei, yishu miao, Lucia Specia
+286	Language Grounding to Vision, Robotics and Beyond	Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation	Giscard Biamby, Grace Luo, Trevor Darrell, Anna Rohrbach
+174	Language Grounding to Vision, Robotics and Beyond	KAT: A Knowledge Augmented Transformer for Vision-and-Language	Liangke Gui, Borui Wang, Qiuyuan Huang, Alexander G Hauptmann, Yonatan Bisk, Jianfeng Gao
+164	Language Grounding to Vision, Robotics and Beyond	CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination	Hyounghun Kim, Abhay Zala, Mohit Bansal
+99	Language Grounding to Vision, Robotics and Beyond	Disentangled Action Recognition with Knowledge Bases	Zhekun Luo, Shalini Ghosh, Devin Guillory, Keizo Kato, Trevor Darrell, Huijuan Xu
+1011	Language Resources and Evaluation	Explaining Dialogue Evaluation Metrics using Adversarial Behavioral Analysis	Baber Khalid, SUNGJIN LEE
+973	Language Resources and Evaluation	Shedding New Light on the Language of the Dark Web	Youngjin Jin, Eugene Jang, Yongjae Lee, Seungwon Shin, Jin-Woo Chung
+954	Language Resources and Evaluation	CORWA: A Citation-Oriented Related Work Annotation Dataset	Xiangci Li, Biswadip Mandal, Jessica Ouyang
+901	Language Resources and Evaluation	A Corpus for Understanding and Generating Moral Stories	Jian Guan, Ziqi Liu, Minlie Huang
+887	Language Resources and Evaluation	SkillSpan: Hard and Soft Skill Extraction from English Job Postings	Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank
+818	Language Resources and Evaluation	Answer Consolidation: Formulation and Benchmarking	Wenxuan Zhou, Qiang Ning, Heba Elfardy, Kevin Small, Muhao Chen
+812	Language Resources and Evaluation	TVShowGuess: Character Comprehension in Stories as Speaker Guessing	Yisi Sang, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton
+699	Language Resources and Evaluation	Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants	Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela
+688	Language Resources and Evaluation	ChapterBreak: A Challenge Dataset for Long-Range Language Models	Simeng Sun, Katherine Thai, Mohit Iyyer
+670	Language Resources and Evaluation	Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand	Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Daniel Morrison, Alexander Fabbri, Yejin Choi, Noah Smith
+660	Language Resources and Evaluation	Transparent Human Evaluation for Image Captioning	Jungo Kasai, Keisuke Sakaguchi, Lavinia Dunagan, Jacob Daniel Morrison, Ronan Le Bras, Yejin Choi, Noah Smith
+589	Language Resources and Evaluation	MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction	Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang
+573	Language Resources and Evaluation	A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation	David Ifeoluwa Adelani, Jesujoba Oluwadara Alabi, Angela Fan, Julia Kreutzer, Xiaoyu Shen, Machel Reid, Dana Ruiter, Dietrich Klakow, Peter Nabende, Ernie Chang, Tajuddeen Gwadabe, Freshia Sackey, Bonaventure F. P. Dossou, Chris Chinenye Emezue, Colin Leong, Michael Beukman, Shamsuddeen Hassan Muhammad, Guyo Dub Jarso, Oreen Yousuf, Andre Niyongabo Rubungo, Gilles HACHEME, Eric Peter Wairagala, Muhammad Umair Nasir, Benjamin Ayoade Ajibade, Tunde Oluwaseyi Ajayi, Yvonne Wambui Gitau, Jade Abbott, Mohamed Ahmed, Millicent Ochieng, Anuoluwapo Aremu, Perez Ogayo, Jonathan Mukiibi, Fatoumata Ouoba Kabore, Godson Koffi KALIPE, Derguene Mbaye, Allahsera Auguste Tapo, Victoire Memdjokam Koagne, Edwin Munkoh-Buabeng, Valencia Wagner, Idris Abdulmumin, Ayodele Awokoya, Happy Buzaaba, Blessing Sibanda, Andiswa Bukula, Sam Manthalu
+544	Language Resources and Evaluation	Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification	Yang Xiao, Jinlan Fu, See-Kiong Ng, Pengfei Liu
+529	Language Resources and Evaluation	The USMLE® Step 2 Clinical Skills Patient Note Corpus	Victoria Yaneva, Janet Mee, Le An Ha, Polina Harik, Michael Jodoin, Alex J Mechaber
+475	Language Resources and Evaluation	Does Summary Evaluation Survive Translation to Other Languages?	Spencer Braun, Oleg Vasilyev, Neslihan Iskender, John Bohannon
+457	Language Resources and Evaluation	End-to-End Chinese Speaker Identification: Formulation, Annotation, and Methods	Dian Yu, Ben Zhou, Dong Yu
+407	Language Resources and Evaluation	CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course	Changyoon Lee, Yeon Seonwoo, Alice Oh
+371	Language Resources and Evaluation	MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting	Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo
+368	Language Resources and Evaluation	Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations	Daniela Brook Weiss, Paul Roit, Ori Ernst, Ido Dagan
+283	Language Resources and Evaluation	Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding	Ao Jia, Yu He, Yazhou Zhang, Sagar Uprety, Dawei Song, Christina Lioma
+239	Language Resources and Evaluation	DISAPERE: A Dataset for Discourse Structure in Peer Review Discussions	Neha Nayak Kennard, Tim O'Gorman, Rajarshi Das, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Hamed Zamani, Andrew McCallum
+162	Language Resources and Evaluation	WALNUT: A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding	Guoqing Zheng, Giannis Karamanolakis, Kai Shu, Ahmed Hassan Awadallah
+53	Language Resources and Evaluation	SwahBERT: Language Model of Swahili	Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo
+26	Language Resources and Evaluation	NewsEdits: A News Article Revision Dataset and a Novel Document-Level Reasoning Challenge	Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng
+9	Language Resources and Evaluation	Semantic Diversity in Dialogue with Natural Language Inference	Katherine Stasaski, Marti Hearst
+875	Linguistic Theories, Cognitive Modeling and Psycholinguistics	Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks	Ruixiang Cui, Daniel Hershcovich, Anders Søgaard
+826	Linguistic Theories, Cognitive Modeling and Psycholinguistics	What company do words keep? Revisiting the distributional semantics of J.R. Firth & Zellig Harris	Mikael Brunila, Jack LaViolette
+714	Linguistic Theories, Cognitive Modeling and Psycholinguistics	A Computational Acquisition Model for Multimodal Word Categorization	Uri Berger, Gabriel Stanovsky, Omri Abend, Lea Frermann
+684	Linguistic Theories, Cognitive Modeling and Psycholinguistics	Learning the Ordering of Coordinate Compounds and Elaborate Expressions in Hmong, Lahu, and Chinese	Chenxuan Cui, Katherine J. Zhang, David R Mortensen
+607	Linguistic Theories, Cognitive Modeling and Psycholinguistics	Neural Language Taskonomy: Which NLP Tasks are the most Predictive of fMRI Brain Activity?	SUBBA REDDY OOTA, JASHN ARORA, Veeral Agarwal, mounika marreddy, Manish Gupta, Bapi Raju Surampudi
+168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	Abstraction not Memory: BERT and the English Article System	Harish Tayyar Madabushi, Dagmar Divjak, Petar Milin
+1049	Machine Learning for NLP: Classification and Structured Prediction Models	Embarrassingly Simple Performance Prediction for Abductive Natural Language Inference	Emīls Kadiķis, Vaibhav Srivastav, Roman Klinger
+976	Machine Learning for NLP: Classification and Structured Prediction Models	Consistency Training with Virtual Adversarial Discrete Perturbation	Jungsoo Park, Gyuwan Kim, Jaewoo Kang
+967	Machine Learning for NLP: Classification and Structured Prediction Models	Contrastive Learning for Prompt-based Few-shot Language Learners	Yiren Jian, Chongyang Gao, Soroush Vosoughi
+963	Machine Learning for NLP: Classification and Structured Prediction Models	Embedding Hallucination for Few-shot Language Fine-tuning	Yiren Jian, Chongyang Gao, Soroush Vosoughi
+959	Machine Learning for NLP: Classification and Structured Prediction Models	Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification	Han Wang, Canwen Xu, Julian McAuley
+956	Machine Learning for NLP: Classification and Structured Prediction Models	Extreme {Z}ero-{S}hot Learning for Extreme Text Classification	Yuanhao Xiong, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Inderjit S Dhillon
+932	Machine Learning for NLP: Classification and Structured Prediction Models	TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding	Le Zhang, Zichao Yang, Diyi Yang
+920	Machine Learning for NLP: Classification and Structured Prediction Models	{KALA:} Knowledge-Augmented Language Model Adaptation	Minki Kang, Jinheon Baek, Sung Ju Hwang
+854	Machine Learning for NLP: Classification and Structured Prediction Models	EPiDA: An Easy Plug-in Data Augmentation Framework for High Performance Text Classification	Minyi Zhao, Lu Zhang, Yi Xu, Jiandong Ding, Jihong Guan, Shuigeng Zhou
+846	Machine Learning for NLP: Classification and Structured Prediction Models	Entity Linking via Explicit Mention-Mention Coreference Modeling	Dhruv Agarwal, Rico Angell, Nicholas Monath, Andrew McCallum
+807	Machine Learning for NLP: Classification and Structured Prediction Models	A Data Cartography based MixUp for Pre-trained Language Models	Seo Yeon Park, Cornelia Caragea
+705	Machine Learning for NLP: Classification and Structured Prediction Models	On the Effectiveness of Sentence Encoding for Intent Detection Meta-Learning	Tingting Ma, Qianhui Wu, Zhiwei Yu, Tiejun Zhao, Chin-Yew Lin
+496	Machine Learning for NLP: Classification and Structured Prediction Models	A Structured Span Selector	Tianyu Liu, Yuchen Eleanor Jiang, Ryan Cotterell, Mrinmaya Sachan
+489	Machine Learning for NLP: Classification and Structured Prediction Models	Exploring the Role of Task Transferability in Large-Scale Multi-Task Learning	Vishakh Padmakumar, Leonard Lausen, Miguel Ballesteros, Sheng Zha, He He, George Karypis
+446	Machine Learning for NLP: Classification and Structured Prediction Models	Generic and Trend-aware Curriculum Learning for Relation Extraction	Nidhi Vakil, Hadi Amiri
+344	Machine Learning for NLP: Classification and Structured Prediction Models	CIAug: Equipping Interpolative Augmentation with Curriculum Learning	Ramit Sawhney, Ritesh Singh Soun, Shrey Pandit, Megh Thakkar, Sarvagya Malaviya, Yuval Pinter
+326	Machine Learning for NLP: Classification and Structured Prediction Models	Improving Constituent Representation with Hypertree Neural Networks	Hao Zhou, Gongshen Liu, Kewei Tu
+308	Machine Learning for NLP: Classification and Structured Prediction Models	MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation	Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao, Weizhu Chen
+269	Machine Learning for NLP: Classification and Structured Prediction Models	Label Anchored Contrastive Learning for Language Understanding	Zhenyu Zhang, Yuming Zhao, Meng Chen, Xiaodong He
+266	Machine Learning for NLP: Classification and Structured Prediction Models	AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models	Yue Yu, Lingkai Kong, Jieyu Zhang, Rongzhi Zhang, Chao Zhang
+217	Machine Learning for NLP: Classification and Structured Prediction Models	Inducing and Using Alignments for Transition-based AMR Parsing	Andrew Drozdov, Jiawei Zhou, Radu Florian, Andrew McCallum, Tahira Naseem, Yoon Kim, Ramon Fernandez Astudillo
+152	Machine Learning for NLP: Classification and Structured Prediction Models	Teaching BERT to Wait: Balancing Accuracy and Latency for Streaming Disfluency Detection	Angelica Chen, Vicky Zayats, Daniel David Walker, Dirk Padfield
+993	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	LaMemo: Language Modeling with Look-Ahead Memory	Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang
+966	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	DEMix Layers: Disentangling Domains for Modular Language Modeling	Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah Smith, Luke Zettlemoyer
+962	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	IDPG: An Instance-Dependent Prompt Generation Method	Zhuofeng Wu, Sinong Wang, Jiatao Gu, Rui Hou, Yuxiao Dong, V.G.Vinod Vydiswaran, Hao Ma
+921	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model	Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung
+851	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Quantifying Adaptability in Pre-trained Language Models with 500 Tasks	Belinda Z. Li, Jane A. Yu, Madian Khabsa, Luke Zettlemoyer, Alon Y. Halevy, Jacob Andreas
+843	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Symbolic Knowledge Distillation: from General Language Models to Commonsense Models	Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi
+842	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Learning to Generate Examples for Semantic Processing Tasks	Danilo Croce, Simone Filice, Giuseppe Castellucci, Roberto Basili
+796	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers	Vivek Kumar, Rishabh Maheshwary, Vikram Pudi
+757	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models	Benjamin Minixhofer, Fabian Paischer, Navid Rekabsaz
+679	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts	Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Sameer Singh, Yejin Choi
+671	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Improving In-Context Few-Shot Learning via Self-Supervised Training	Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov, Zornitsa Kozareva
+517	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	MetaICL: Learning to Learn In Context	Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi
+503	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Learning To Retrieve Prompts for In-Context Learning	Ohad Rubin, Jonathan Herzig, Jonathan Berant
+253	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Efficient Hierarchical Domain Adaptation for Pretrained Language Models	Alexandra Chronopoulou, Matthew E Peters, Jesse Dodge
+179	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	On Curriculum Learning for Commonsense Reasoning	Adyasha Maharana, Mohit Bansal
+149	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining	Machel Reid, Mikel Artetxe
+3	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	Learning Natural Language Generation with Truncated Reinforcement Learning	Alice Martin, Guillaume Quispe, Charles Ollion, Sylvain Le Corff, Florian Strub, Olivier Pietquin
+999	Machine Translation	Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints	Chun Zeng, Jiangjie Chen, Tianyi Zhuang, Rui Xu, Hao Yang, Qin Ying, shimin tao, Yanghua Xiao
+965	Machine Translation	Nearest Neighbor Knowledge Distillation for Neural Machine Translation	Zhixian Yang, Renliang Sun, Xiaojun Wan
+945	Machine Translation	Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance	Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan, Bernhard Schölkopf
+907	Machine Translation	Cross-modal Contrastive Learning for Speech Translation	Rong Ye, Mingxuan Wang, Lei Li
+884	Machine Translation	Jam or Cream First? Modeling Ambiguity in Neural Machine Translation with SCONES	Felix Stahlberg, Shankar Kumar
+870	Machine Translation	Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information	Niccolò Campolungo, Tommaso Pasini, Denis Emelin, Roberto Navigli
+835	Machine Translation	SURF: Semantic-level Unsupervised Reward Function for Machine Translation	Atijit Anuchitanukul, Julia Ive
+811	Machine Translation	Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation	Siyu Lai, Zhen Yang, Fandong Meng, Xue Zhang, Yufeng Chen, Jinan Xu, Jie Zhou
+747	Machine Translation	{B}i-{S}im{C}ut: A Simple Strategy for Boosting Neural Machine Translation	Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang
+703	Machine Translation	One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation	Chenze Shao, Xuanfu Wu, Yang Feng
+632	Machine Translation	Tricks for Training Sparse Translation Models	Dheeru Dua, Shruti Bhosale, Vedanuj Goswami, James Cross, Mike Lewis, Angela Fan
+493	Machine Translation	Training Mixed-Domain Translation Models via Federated Learning	Peyman Passban, Tanya Roosta, Rahul Gupta, Ankit Chadha, Clement Chung
+482	Machine Translation	Cheat Codes to Quantify Missing Source Information in Neural Machine Translation	Proyag Pal, Kenneth Heafield
+450	Machine Translation	On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation	Kelly Marchisio, Markus Freitag, David Grangier
+370	Machine Translation	The Devil is in the Details: On the Pitfalls of Vocabulary Selection in Neural Machine Translation	Tobias Domhan, Eva Hasler, Ke Tran, Sony Trenous, Bill Byrne, Felix Hieber
+348	Machine Translation	Non-Autoregressive Machine Translation: It's Not as Fast as it Seems	Jindřich Helcl, Barry Haddow, Alexandra Birch
+340	Machine Translation	A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation	Kexun Zhang, Rui Wang, Xu Tan, Junliang Guo, Yi Ren, Tao Qin, Tie-Yan Liu
+289	Machine Translation	{BlonDe}: An Automatic Evaluation Metric for Document-level Machine Translation	Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan, Ming Zhou
+260	Machine Translation	Quality-Aware Decoding for Neural Machine Translation	Patrick Fernandes, António Farinhas, Ricardo Rei, José G. C. de Souza, Perez Ogayo, Graham Neubig, Andre Martins
+110	Machine Translation	Non-Autoregressive Neural Machine Translation with Consistency Regularization Optimized Variational Framework	Minghao Zhu, Junli Wang, Chungang Yan
+109	Machine Translation	Building Multilingual Machine Translation Systems That Serve Arbitrary XY Translations	Akiko Eriguchi, Shufang Xie, Tao Qin, Hany Hassan
+83	Machine Translation	On Synthetic Data for Back Translation	Jiahao Xu, Yubin Ruan, Wei Bi, Guoping Huang, Shuming Shi, Lihui Chen, Lemao Liu
+4	Machine Translation	Language Model Augmented Monotonic Attention for Simultaneous Translation	Sathish Reddy Indurthi, Mohd Abbas Zaidi, Beomseok Lee, Nikhil Kumar Lakumarapu, Sangha Kim
+878	Multilinguality	A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank	Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky
+756	Multilinguality	Towards Debiasing Translation Artifacts	KOEL DUTTA CHOWDHURY, Rricha Jalota, Cristina España-Bonet, Josef van Genabith
+676	Multilinguality	When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer	Ameet Deshpande, Partha Talukdar, Karthik R Narasimhan
+662	Multilinguality	Lifting the Curse of Multilinguality by Pre-training Modular Transformers	Jonas Pfeiffer, Naman Goyal, Xi Victoria Lin, Xian Li, James Cross, Sebastian Riedel, Mikel Artetxe
+481	Multilinguality	Combating the Curse of Multilinguality in Cross-Lingual WSD by Aligning Sparse Contextualized Word Representations	Gábor Berend
+383	Multilinguality	Bridging the Gap between Language Models and Cross-Lingual Sequence Labeling	Nuo Chen, Linjun Shou, MING GONG, Jian Pei, Daxin Jiang
+350	Multilinguality	BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer	Marinela Parović, Goran Glavaš, Ivan Vulić, Anna Korhonen
+263	Multilinguality	Pretrained Models for Multilingual Federated Learning	Orion Weller, Marc Marone, Vladimir Braverman, Dawn Lawrie, Benjamin Van Durme
+256	Multilinguality	On the Economics of Multilingual Few-shot Learning: Modeling the Cost-Performance Trade-offs of Machine Translated and Manual Data	Kabir Ahuja, Monojit Choudhury, Sandipan Dandapat
+1044	NLP Applications	Aligning to Social Norms and Values in Interactive Narratives	Prithviraj Ammanabrolu, Liwei Jiang, Maarten Sap, Hannaneh Hajishirzi, Yejin Choi
+1020	NLP Applications	Non-Autoregressive Chinese ASR Error Correction with Phonological Training	Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao
+964	NLP Applications	Cryptocurrency Bubble Detection: A New Stock Market Dataset, Financial Task & Hyperbolic Models	Ramit Sawhney, Shivam Agarwal, Vivek Mittal, Paolo Rosso, Vikram Nanda, Sudheer Chava
+958	NLP Applications	ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence	Yibo Hu, MohammadSaleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick Brandt, Vito D'Orazio
+931	NLP Applications	Dual-Channel Evidence Fusion for Fact Verification over Texts and Tables	Nan Hu, Zirui Wu, Yuxuan Lai, Xiao Liu, Yansong Feng
+928	NLP Applications	Semantically Informed Slang Interpretation	Zhewei Sun, Richard Zemel, Yang Xu
+915	NLP Applications	DynamicTOC: Persona-based Table of Contents for Consumption of Long Documents	Himanshu Maheshwari, Nethraa Sivakumar, Shelly Jain, Tanvi Karandikar, Vinay Aggarwal, Navita Goyal, Sumit Shekhar
+883	NLP Applications	DUCK: Rumour Detection on Social Media by Modelling User and  Comment Propagation Networks	LIN TIAN, Xiuzhen Zhang, Jey Han Lau
+779	NLP Applications	KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media	Wenqian Zhang, Shangbin Feng, Zilong Chen, Zhenyu Lei, Jundong Li, Minnan Luo
+777	NLP Applications	{E}arly Rumor Detection Using Neural {H}awkes Process with a New Benchmark Dataset	Fengzhu ZENG, Wei Gao
+656	NLP Applications	TWEETSPIN: Fine-grained Propaganda Detection in Social Media Using Multi-View Representations	Prashanth Vijayaraghavan, Soroush Vosoughi
+647	NLP Applications	On the Use of Bert for Automated Essay Scoring: Joint Learning of Multi-Scale Essay Representation	Yongjie Wang, Chuan Wang, Ruobing Li, Hui Lin
+636	NLP Applications	CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking	Xuming Hu, Zhijiang Guo, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
+610	NLP Applications	Unsupervised Paraphrasability Prediction for Compound Nominalizations	John Sie Yuen Lee, Ho Hung Lim, Carol Webster
+595	NLP Applications	Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption	Garam Lee, Minsoo Kim, Jai Hyun Park, seung-won hwang, Jung Hee Cheon
+594	NLP Applications	Efficient Constituency Tree based Encoding for Natural Language to Bash Translation	Shikhar Bharadwaj, Shirish Shevade
+565	NLP Applications	Progressive Class Semantic Matching for Semi-supervised Text Classification	Haiming Xu, Lingqiao Liu, Ehsan M Abbasnejad
+510	NLP Applications	Don’t sweat the small stuff, classify the rest: Sample Shielding to protect text classifiers against adversarial attacks	Jonathan Rusert, Padmini Srinivasan
+478	NLP Applications	A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony	Tulika Saha, Saichethan Miriyala Reddy, Anindya Sundar Das, Sriparna Saha, Pushpak Bhattacharyya
+474	NLP Applications	{LITE}: {I}ntent-based Task Representation Learning Using Weak Supervision	Naoki Otani, Michael Gamon, Sujay Kumar Jauhar, Mei Yang, Sri Raghu Malireddi, Oriana Riva
+398	NLP Applications	Multi-Relational Graph Transformer for Automatic Short Answer Grading	Rajat Agarwal, Varun Khurana, Karish Grover, Mukesh Mohania, Vikram Goyal
+394	NLP Applications	Frustratingly Easy System Combination for Grammatical Error Correction	Muhammad Reza Qorib, Seung-Hoon Na, Hwee Tou Ng
+338	NLP Applications	ValCAT: Variable-Length Contextualized Adversarial Transformations Using Encoder-Decoder Language Model	Chuyun Deng, Mingxuan Liu, Yue Qin, Jia Zhang, Hai-Xin Duan, Donghong Sun
+280	NLP Applications	Natural Language Inference with Self-Attention for Veracity Assessment of Pandemic Claims	Miguel Arana-Catania, Elena Kochkina, Arkaitz Zubiaga, Maria Liakata, Robert Procter, Yulan He
+277	NLP Applications	Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays	Rahul Kumar, Sandeep Mathias, Sriparna Saha, Pushpak Bhattacharyya
+274	NLP Applications	Forecasting COVID-19 Caseloads Using Unsupervised Embedding Clusters of Social Media Posts	Felix Drinkall, Stefan Zohren, Janet B. Pierrehumbert
+244	NLP Applications	Context-Aware Abbreviation Expansion Using Large Language Models	Shanqing Cai, Subhashini Venugopalan, Katrin Tomanek, Ajit Narayanan, Meredith Ringel Morris, Michael Brenner
+193	NLP Applications	ScAN: Suicide Attempt and Ideation Events Dataset	Bhanu Pratap Singh Rawat, Samuel Kovaly, Hong Yu, Wilfred Pigeon
+155	NLP Applications	{GRAM}: {F}ast {F}ine-tuning of {P}re-trained {L}anguage {M}odels for {C}ontent-based {C}ollaborative {F}iltering	Yoonseok Yang, Kyu Seok Kim, Minsam Kim, Juneyoung Park
+108	NLP Applications	A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction	Yong Xie, Dakuo Wang, Pin-Yu Chen, Jinjun Xiong, Sijia Liu, Oluwasanmi O Koyejo
+98	NLP Applications	Cross-document Misinformation Detection based on Event Graph Reasoning	Xueqing Wu, Kung-Hsiang Huang, Yi Fung, Heng Ji
+15	NLP Applications	Enhancing Self-Attention with Knowledge-Assisted Attention Maps	Jiangang Bai, Yujing Wang, Hong Sun, Ruonan Wu, Tianmeng Yang, Pengfei Tang, Defu Cao, Mingliang Zhang, Yunhai Tong, Yaming Yang, Jing Bai, Ruofei Zhang, Hao Sun, Wei Shen
+810	Phonology, Morphology and Word Segmentation	Grapheme-to-Phoneme Conversion for Thai using Neural Regression Models	Tomohiro Yamasaki
+772	Phonology, Morphology and Word Segmentation	Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages	Ramy Eskander, Cass Lowry, Sujay Khandagale, Judith Lynn Klavans, Maria Polinsky, Smaranda Muresan
+247	Phonology, Morphology and Word Segmentation	Quantifying Synthesis and Fusion and their Impact on Machine Translation	Arturo Oncevay, Duygu Ataman, Niels van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva
+947	Question Answering	QuALITY: Question Answering with Long Input Texts, Yes!	Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny L Ma, Jana Thompson, He He, Samuel R. Bowman
+898	Question Answering	JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering	Yueqing Sun, Qi Shi, Le Qi, Yu Zhang
+806	Question Answering	ProQA: Structural Prompt-based Pre-training for Unified Question Answering	Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan
+761	Question Answering	A New Concept of Knowledge based Question Answering (KBQA) System for Multi-hop Reasoning	Yu Wang, Vijay Srinivasan, Hongxia Jin
+741	Question Answering	Dynamic Multistep Reasoning based on Video Scene Graph for Video Question Answering	JianGuo Mao, Wenbin Jiang, Xiangdong Wang, Zhifan Feng, Yajuan Lyu, Hong Liu, Yong Zhu
+613	Question Answering	Clues Before Answers: Generation-Enhanced Multiple-Choice QA	Zixian Huang, Ao Wu, Jiaying Zhou, Yu Gu, Yue Zhao, Gong Cheng
+553	Question Answering	Interpretable Proof Generation via Iterative Backward Reasoning	Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu
+528	Question Answering	Long Context Question Answering via Supervised Contrastive Learning	Avi Caciularu, Ido Dagan, Jacob Goldberger, Arman Cohan
+509	Question Answering	Re2G: Retrieve, Rerank, Generate	Michael Glass, Gaetano Rossiello, Md Faisal Mahbub Chowdhury, Ankita Naik, Pengshan Cai, Alfio Gliozzo
+506	Question Answering	Learning to Retrieve Passages without Supervision	Ori Ram, Gal Shachaf, Omer Levy, Jonathan Berant, Amir Globerson
+454	Question Answering	Modularized Transfer Learning with Multiple Knowledge Graphs for Zero-shot Commonsense Reasoning	Yu Jin Kim, Beong-woo Kwak, Youngwook Kim, Reinald Kim Amplayo, seung-won hwang, Jinyoung Yeo
+451	Question Answering	Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks	Akari Asai, Matt Gardner, Hannaneh Hajishirzi
+418	Question Answering	Modeling Exemplification in Long-form Question Answering via Retrieval	Shufan Wang, Fangyuan Xu, Laure Thompson, Eunsol Choi, Mohit Iyyer
+362	Question Answering	{TIE}: Topological Information Enhanced Structural Reading Comprehension on Web Pages	Zihan Zhao, Lu Chen, Ruisheng Cao, Hongshen Xu, Xingyu Chen, Kai Yu
+320	Question Answering	OPERA: Operation-Pivoted Discrete Reasoning over Text	Yongwei Zhou, Junwei Bao, Chaoqun Duan, Haipeng Sun, jiahui liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao
+240	Question Answering	MultiSpanQA: A Dataset for Multi-Span Question Answering	Haonan Li, Martin Tomko, Maria Vasardani, Timothy Baldwin
+222	Question Answering	DREAM: Improving Situational QA by First Elaborating the Situation	Yuling Gu, Bhavana Dalvi, Peter Clark
+212	Question Answering	Yes, No or IDK: The Challenge of Unanswerable Yes/No Questions	Elior Sulem, Jamaal Hay, Dan Roth
+169	Question Answering	OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering	Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen
+91	Question Answering	On the Robustness of Reading Comprehension Models to Entity Renaming	Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren
+76	Question Answering	Ask Me Anything in Your Native Language	Nikita Sorokin, Dmitry Abulkhanov, Irina Piontkovskaya, Valentin Malykh
+70	Question Answering	Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding	Hao Huang, Xiubo Geng, Guodong Long, Daxin Jiang
+43	Question Answering	Cooperative Self-training of Machine Reading Comprehension	Hongyin Luo, Shang-Wen Li, Mingye Gao, Seunghak Yu, James R. Glass
+936	Semantics: Lexical Semantics	Syn2Vec: Synset Colexification Graphs for Lexical Semantic Similarity	John Harvill, Roxana Girju, Mark A. Hasegawa-Johnson
+483	Semantics: Lexical Semantics	WiC = TSV = WSD: On the Equivalence of Three Semantic Tasks	Bradley Hauer, Grzegorz Kondrak
+971	Semantics: Sentence-level Semantics and Textual Inference	Label Definitions Improve Semantic Role Labeling	Li Zhang, Ishan Jindal, Yunyao Li
+953	Semantics: Sentence-level Semantics and Textual Inference	Few-Shot Semantic Parsing with Language Models Trained on Code	Richard Shin, Benjamin Van Durme
+950	Semantics: Sentence-level Semantics and Textual Inference	Maximum Bayes Smatch Ensemble Distillation for AMR Parsing	Young-Suk Lee, Ramon Fernandez Astudillo, Hoang Thanh Lam, Tahira Naseem, Radu Florian, Salim Roukos
+892	Semantics: Sentence-level Semantics and Textual Inference	A Double-Graph Based Framework for Frame Semantic Parsing	Ce Zheng, Xudong Chen, Runxin Xu, Baobao Chang
+857	Semantics: Sentence-level Semantics and Textual Inference	Partial-input baselines show that NLI models can ignore context, but they don't.	Neha Srikanth, Rachel Rudinger
+839	Semantics: Sentence-level Semantics and Textual Inference	Does Pre-training Induce Systematic Inference? How Masked Language Models Acquire Commonsense Knowledge	Ian Porada, Alessandro Sordoni, Jackie CK Cheung
+831	Semantics: Sentence-level Semantics and Textual Inference	Testing the Ability of Language Models to Interpret Figurative Language	Emmy Liu, Chenxuan Cui, Kenneth Zheng, Graham Neubig
+827	Semantics: Sentence-level Semantics and Textual Inference	Compositional Task-Oriented Parsing as Abstractive Question Answering	Wenting Zhao, Konstantine Arkoudas, Weiqi Sun, Claire Cardie
+824	Semantics: Sentence-level Semantics and Textual Inference	Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling	Jakob Prange, Nathan Schneider, Lingpeng Kong
+822	Semantics: Sentence-level Semantics and Textual Inference	Improving Compositional Generalization with Latent Structure and Data Augmentation	Linlu Qiu, Peter Shaw, Panupong Pasupat, Pawel Krzysztof Nowak, Tal Linzen, Fei Sha, Kristina Toutanova
+797	Semantics: Sentence-level Semantics and Textual Inference	DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings	Yung-Sung Chuang, Rumen Dangovski, Hongyin Luo, Yang Zhang, Shiyu Chang, Marin Soljacic, Shang-Wen Li, Scott Yih, Yoon Kim, James R. Glass
+794	Semantics: Sentence-level Semantics and Textual Inference	Improving negation detection with negation-focused pre-training	Thinh Hung Truong, Timothy Baldwin, Trevor Cohn, Karin Verspoor
+766	Semantics: Sentence-level Semantics and Textual Inference	Bilingual Tabular Inference: A Case Study on Indic Languages	Chaitanya Agarwal, Vivek Gupta, Anoop Kunchukuttan, Manish Shrivastava
+729	Semantics: Sentence-level Semantics and Textual Inference	EASE: Entity-Aware Contrastive Learning of Sentence Embedding	Sosuke Nishikawa, Ryokan Ri, Ikuya Yamada, Yoshimasa Tsuruoka, Isao Echizen
+663	Semantics: Sentence-level Semantics and Textual Inference	DocAMR: Multi-Sentence AMR Representation and Evaluation	Tahira Naseem, Austin Blodgett, Sadhana Kumaravel, Tim O'Gorman, Young-Suk Lee, Jeffrey Flanigan, Ramon Fernandez Astudillo, Radu Florian, Salim Roukos, Nathan Schneider
+606	Semantics: Sentence-level Semantics and Textual Inference	Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding	Zeming Chen, Qiyue Gao
+515	Semantics: Sentence-level Semantics and Textual Inference	Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization	Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych
+487	Semantics: Sentence-level Semantics and Textual Inference	Paragraph-based Transformer Pre-training for Multi-Sentence Inference	Luca Di Liello, Siddhant Garg, Luca Soldaini, Alessandro Moschitti
+390	Semantics: Sentence-level Semantics and Textual Inference	MGIMN: Multi-Grained Interactive Matching Network for Few-shot Text Classification	Jianhai Zhang, Mieradilijiang Maimaiti, Gao Xing, Yuanhang Zheng, Ji Zhang
+331	Semantics: Sentence-level Semantics and Textual Inference	MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset	Yahui Liu, Haoping Yang, Chen Gong, Qingrong Xia, Zhenghua Li, Min Zhang
+224	Semantics: Sentence-level Semantics and Textual Inference	CoSe-Co: Text Conditioned Generative CommonSense Contextualizer	Rachit Bansal, Milan Aggarwal, Sumit Bhatia, Jivat Neet Kaur, Balaji Krishnamurthy
+29	Semantics: Sentence-level Semantics and Textual Inference	SUBS: Subtree Substitution for Compositional Semantic Parsing	Jingfeng Yang, Le Zhang, Diyi Yang
+22	Semantics: Sentence-level Semantics and Textual Inference	Batch-Softmax Contrastive Loss for Pairwise Sentence Scoring Tasks	Anton Chernyavskiy, Dmitry Ilvovsky, Pavel Kalinin, Preslav Nakov
+981	Sentiment Analysis and Stylistic Analysis	CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation	Joosung Lee, Wooin Lee
+970	Sentiment Analysis and Stylistic Analysis	Identifying Implicitly Abusive Remarks about Identity Groups using a Linguistically Informed Approach	Michael Wiegand, Elisabeth Eder, Josef Ruppenhofer
+880	Sentiment Analysis and Stylistic Analysis	SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis	Zheng Zhang, Zili Zhou, Yanna Wang
+801	Sentiment Analysis and Stylistic Analysis	Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction	Junjie Li, Jianfei Yu, Rui Xia
+785	Sentiment Analysis and Stylistic Analysis	COGMEN: COntextualized GNN based Multimodal Emotion recognitioN	Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Vikram Singh, Ashutosh Modi
+657	Sentiment Analysis and Stylistic Analysis	UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis	Fatemehsadat Mireshghallah, Vaishnavi Shrivastava, Milad Shokouhi, Taylor Berg-Kirkpatrick, Robert Sim, Dimitrios Dimitriadis
+561	Sentiment Analysis and Stylistic Analysis	Domain Confused Contrastive Learning for Unsupervised Domain Adaptation	Quanyu Long, Tianze Luo, Wenya Wang, Sinno Pan
+513	Sentiment Analysis and Stylistic Analysis	Multi-Domain Targeted Sentiment Analysis	Orith Toledo-Ronen, Matan Orbach, Yoav Katz, Noam Slonim
+492	Sentiment Analysis and Stylistic Analysis	Data Augmentation with Dual Training for Offensive Span Detection	Nasim Nouri
+488	Sentiment Analysis and Stylistic Analysis	Text Style Transfer via Optimal Transport	Nasim Nouri
+303	Sentiment Analysis and Stylistic Analysis	Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis	Jiahao Cao, Rui Liu, Huailiang Peng, Lei Jiang, Xu Bai
+294	Sentiment Analysis and Stylistic Analysis	Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media	Lixing Zhu, Zheng Fang, Gabriele Pergola, Robert Procter, Yulan He
+120	Sentiment Analysis and Stylistic Analysis	Analyzing Modality Robustness in Multimodal Sentiment Analysis	Devamanyu Hazarika, Yingting Li, Bo Cheng, Shuai Zhao, Roger Zimmermann, Soujanya Poria
+49	Sentiment Analysis and Stylistic Analysis	A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction	Shu Liu, Kaiwen Li, Zuhe Li
+28	Sentiment Analysis and Stylistic Analysis	Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia	Samee Omotayo Ibraheem, Gaoyue Zhou, John DeNero
+134	Special Theme	On the Machine Learning of Ethical Judgments from Natural Language	Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams
+111	Special Theme	User-Centric Gender Rewriting	Bashar Alhafni, Nizar Habash, Houda Bouamor
+99	Special Theme	Machine-in-the-Loop Rewriting for Creative Image Captioning	Vishakh Padmakumar, He He
+93	Special Theme	Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data	Jamar L. Sullivan Jr., Will Brackenbury, Andrew McNutt, Kevin Bryson, Kwam Byll, Yuxin Chen, Michael Littman, Chenhao Tan, Blase Ur
+90	Special Theme	Automatic Correction of Human Translations	Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero
+87	Special Theme	An Exploration of Post-Editing Effectiveness in Text Summarization	Vivian Lai, Alison Smith-Renner, Ke Zhang, Ruijia Cheng, Wenjuan Zhang, Joel R. Tetreault, Alejandro Jaimes
+86	Special Theme	Mapping the Design Space of Human-AI Interaction in Text Summarization	Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel R. Tetreault, Alejandro Jaimes
+70	Special Theme	User-Driven Research of Medical Note Generation Software	Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov
+65	Special Theme	The Why and The How: A Survey on Natural Language Interaction in Visualization	Henrik Voigt, Ozge Alacam, Monique Meuschke, Kai Lawonn, Sina Zarrieß
+53	Special Theme	Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications	Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu
+52	Special Theme	Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs	Xu Wang, Simin Fan, Jessica Houghton, Lu Wang
+36	Special Theme	Do Deep Neural Nets Display Human-like Attention in Short Answer Scoring?	Zijie Zeng, XINYU LI, Dragan Gasevic, Guanliang Chen
+34	Special Theme	Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks	Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet B. Pierrehumbert
+5	Special Theme	What Makes a Good and Useful Summary? {I}ncorporating Users in Automatic Summarization Research	Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke
+693	Speech	Quantifying Language Variation Acoustically with Few Resources	Martijn Bartelds, Martijn Wieling
+158	Speech	Textless Speech-to-Speech Translation on Real Data	Ann Lee, Hongyu Gong, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Yossi Adi, Juan Pino, Jiatao Gu, Wei-Ning Hsu
+129	Speech	On the Use of External Data for Spoken Named Entity Recognition	Ankita Pasad, Felix Wu, Suwon Shon, Karen Livescu, Kyu Han
+61	Speech	Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems	Saiteja Kosgi, Sarath Sivaprasad, Niranjan Pedanekar, Anil Kumar Nelakanti, Vineet Gandhi
+1050	Summarization	Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics	Daniel Deutsch, Rotem Dror, Dan Roth
+1024	Summarization	DACSA: A large-scale Dataset for Automatic summarization of Catalan and Spanish newspaper Articles	Encarna Segarra, Vicent Ahuir, Lluís-F. Hurtado, José Ángel González
+985	Summarization	DialSummEval: Revisiting Summarization Evaluation for Dialogues	Mingqi Gao, Xiaojun Wan
+983	Summarization	Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries	Xiangru Tang, Alexander Fabbri, Haoran Li, Ziming Mao, Griffin Thomas Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev
+980	Summarization	CONFIT: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning	Xiangru Tang, Arjun Nair, Borui Wang, Bingyao Wang, Jai Amit Desai, Aaron Wade, Haoran Li, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev
+873	Summarization	Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization	Lulu Zhao, Fujia Zheng, Weihao Zeng, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu
+847	Summarization	Massive-scale Decoding for Text Generation using Lattices	Jiacheng Xu, Siddhartha Jonnalagadda, Greg Durrett
+776	Summarization	Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization	Jingyi You, Dongyuan Li, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura
+719	Summarization	From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization	Yue Fang, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou
+608	Summarization	FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations	Leonardo F. R. Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal
+591	Summarization	NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias	Nayeon Lee, Yejin Bang, Tiezheng YU, Andrea Madotto, Pascale Fung
+494	Summarization	QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization	Alexander Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong
+490	Summarization	Interactive Query-Assisted Summarization via Deep Reinforcement Learning	Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Ido Dagan, Yael Amsterdamer
+486	Summarization	AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization	Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona T. Diab
+480	Summarization	SueNes: A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling	Forrest Sheng Bao, Ge Luo, Hebi Li, Minghui Qiu, Yinfei Yang, Youbiao He, Cen Chen
+422	Summarization	Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio	Yizhu Liu, Qi Jia, Kenny Q. Zhu
+346	Summarization	Proposition-Level Clustering for Multi-Document Summarization	Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan
+324	Summarization	Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness	Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai
+191	Summarization	FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization	David Wan, Mohit Bansal
+59	Summarization	TSTR: Too Short to Represent, Summarize with Details!  Intro-Guided Extended Summary Generation	Sajad Sotudeh, Nazli Goharian
+990	Syntax: Tagging, Chunking, and Parsing	Template-free Prompt Tuning for Few-shot NER	Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang
+863	Syntax: Tagging, Chunking, and Parsing	Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs	Songlin Yang, Wei Liu, Kewei Tu
+516	Syntax: Tagging, Chunking, and Parsing	Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition	Besnik Fetahu, Anjie Fang, Oleg Rokhlenko, Shervin Malmasi
+413	Syntax: Tagging, Chunking, and Parsing	Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data	Kemal Kurniawan, Lea Frermann, Philip Schulz, Trevor Cohn
+246	Syntax: Tagging, Chunking, and Parsing	Sort by Structure: Language Model Ranking as Dependency Probing	Max Müller-Eberstein, Rob van der Goot, Barbara Plank
+220	Syntax: Tagging, Chunking, and Parsing	Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?	Xiang Zhou, Shiyue Zhang, Mohit Bansal
+TACL 3537		Reducing conversational agents' overconfidence through linguistic calibration	
+TACL 3561		Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference	Bangzheng Li, Wenpeng Yin, Muhao Chen 
+TACL 3721		Text-based NP Enrichment	
+TACL 3519		Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation	Zoey Liu, Emily Prud’hommeau
+TACL 3593		Heterogeneous Supervised Topic Models	
+TACL 3601		Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression	
+TACL 3765		Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity	
+TACL 3735		Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality	
+TACL 3639		MuSiQue: Multi-hop Questions via Single-hop Question Composition	Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal
+TACL 3655		Fact Checking with Insufficient Evidence	
+TACL 3477		A Multi-Level Optimization Framework for End-to-End Text Augmentation	Sai Ashish Somayajula, Linfeng Song, Pengtao Xie
+CL		Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta
+196	UNKNOWN	UNKNOWN	UNKNOWN
+48	UNKNOWN	UNKNOWN	UNKNOWN

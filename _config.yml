@@ -164,6 +164,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - agenda
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
@@ -181,6 +182,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - webagenda
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:

@@ -21,6 +21,12 @@
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
 
+{% if page.after_footer_scripts %}
+  {% for script in page.after_footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}
+
 {% if site.after_footer_scripts %}
   {% for script in site.after_footer_scripts %}
     <script src="{{ script | relative_url }}"></script>

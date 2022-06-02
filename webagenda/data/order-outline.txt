@@ -1,0 +1,234 @@
+* Monday, July 11, 2022
+
+! 8:45--9:15 Welcome Session
+
+! 9:15--10:15 Plenary Invited Talk
+
+! 10:15--10:45 Break
+
++ 11:45--12:15 Session 1 + In-person Poster Session 1
+
+= Session 1A: Language Generation
+{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Language Generation"}
+= Session 1B: Summarization
+{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Summarization"}
+= Session 1C: Information Extraction
+{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Information Extraction"}
+= Session 1D: Efficient Methods in NLP 1
+{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Efficient Methods in NLP 1"}
+= Session 1E: Dialogue
+{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Dialogue"}
+= Session 1F: Poster Session 1
+@ Computational Social Science and Cultural Analytics
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Computational Social Science and Cultural Analytics"}
+@ Ethics
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Ethics"}
+@ Information Retrieval
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Information Retrieval"}
+@ Interpretability and Analysis of Models for NLP
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Interpretability and Analysis of Models for NLP"}
+@ Language Grounding to Vision
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Language Grounding to Vision"}
+@ Machine Translation
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Machine Translation"}
+@ Multilinguality
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Multilinguality"}
+@ NLP Application
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "NLP Application"}
+@ Special Theme
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Special Theme"}
+
+! 12:15--13:15 Lunch
+
+! 13:15--14:15 Industry Panel
+
+! 14:15--14:30 Break
+
++ 14:30--16:00 Session 2 + In-person Poster Session 2
+
+= Session 2A: Interpretability
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Interpretability"}
+= Session 2B: Semantics
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Semantics"}
+= Session 2C: Language Resources & Evaluation 1
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Language Resources & Evaluation 1"}
+= Session 2D: Machine Translation 1
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Machine Translation 1"}
+= Session 2E: NLP Applications 1
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
+= Session 2F: Poster Session 2
+@ Dialogue and Interactive Systems
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Dialogue and Interactive Systems"}
+@ Efficient Methods in NLP
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Efficient Methods in NLP"}
+@ Language Generation
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Language Generation"}
+@ Information Extraction
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Information Extraction"}
+@ Machine Learning
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Machine Learning"}
+@ Summarization
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Summarization"}
+@ Syntax: Tagging, Chunking and Parsing
+{"Day": "Day 1", "Session start time": "2:30", "Session Name": "Poster session 2", "Track": "Syntax: Tagging, Chunking and Parsing"}
+
+! 16:00--16:30 Break
+
+! 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment 
+
+* Tuesday, July 12, 2022
+
++ 8:00--9:00 Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1
+
+= Session 3A: Language Generation
+{"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Generation"}
+= Session 3B: Semantics & Sentiment Analysis
+{"Day": "Day 2", "Session start time": "8:00", "Session Name": "Semantics & Sentiment Analysis"}
+= Session 3C: Language Resources & Evaluation 2
+{"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Resources & Evaluation 2"}
+= Session 3D: Efficient Methods in NLP 2
+{"Day": "Day 2", "Session start time": "8:00", "Session Name": "Efficient Methods in NLP 2"}
+= Session 3E: NLP Applications 2
+{"Day": "Day 2", "Session start time": "8:00", "Session Name": "NLP Applications 2"}
+= Session 3F: Industry Oral Session 1
+{"Session Name": "Industry Oral 1"}
+
+! 9:00--9:15 Break
+
+! 9:15--10:15 Plenary Invited Talk
+
+! 10:15--10:45 Break
+
++ 10:45--12:15 Session 4 + In-person Poster Session 3 + SRW Oral Session 1
+
+= Session 4A: Interpretability and Analysis of Models for NLP 1
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Interpretability and Analysis of Models for NLP 1"}
+= Session 4B: Summarization
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Summarization"}
+= Session 4C: Information Retrieval
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Information Retrieval"}
+= Session 4D: Language Grounding to Vision 1
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Language Grounding to Vision 1"}
+= Session 4E: Dialogue and Interactive Systems 1
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
+= Session 4F: Poster Session 3
+@ Discourse and Pragmatics
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Discourse and Pragamtics"}
+@ Language Resources
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Language Resources"}
+@ Linguistic Theories, Cognitive Modeling and Psycholinguistics
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"}
+@ Question Answering
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Question Answering"}
+@ Semantics: Sentence-level Semantics and Textual Inference
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Semantics: Sentence-level Semantics and Textual Inference"}
+@ Sentiment Analysis and Stylistic Analysis
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Sentiment Analysis and Stylistic Analysis"}
+@ Speech
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Speech"}
+@ Phonology
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Phonology"}
+
+! 12:15--14:15 Lunch + Business Meeting
+
++ 14:15--15:45 Session 5 + Industry Oral Session 2 + SRW Poster Session                                 
+
+= Session 5A: Ethics, Bias, Fairness 1
+{"Day": "Day 2", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 1"}
+= Session 5B: Sentiment Analysis & Stylistic Analysis
+{"Day": "Day 2", "Session start time": "14:15", "Session Name": "Sentiment Analysis & Stylistic Analysis"}
+= Session 5C: Information Extraction 1
+{"Day": "Day 2", "Session start time": "14:15", "Session Name": "Information Extraction 1"}
+= Session 5D: Human-Centered NLP 1
+{"Day": "Day 2", "Session start time": "14:15", "Session Name": "Human-Centered NLP 1"}
+= Session 5E: NLP Applications 3
+{"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
+= Session 5F: Industry Oral Session 2
+{"Session Name": "Industry Oral 2"}
+
+! 15:45--16:15 Break
+
++ 16:15--17:45 Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + In-person Industry/Demo Poster Session
+
+= Session 6A: Language Grounding to Vision 2
+{"Day": "Day 2", "Session start time": "16:15", "Session Name": "Language Grounding to Vision 2"}
+= Session 6B: Syntax: Tagging, Chunking and Parsing
+{"Day": "Day 2", "Session start time": "16:15", "Session Name": "Syntax: Tagging, Chunking and Parsing"}
+= Session 6C: Multilinguality
+{"Day": "Day 2", "Session start time": "16:15", "Session Name": "Multilinguality"}
+= Session 6D: Machine Learning for NLP 1
+{"Day": "Day 2", "Session start time": "16:15", "Session Name": "Machine Learning for NLP 1"}
+= Session 6E: Question Answering 1
+{"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
+= Session 6F: Industry Poster Session
+{"Session Name": "Industry Poster"}
+
+* Wednesday, July 13, 2022
+
++ 8:00--9:00 Session 7 + Virtual Poster Q&A Session
+
+= Session 7A: Interpretability and Analysis of Models for NLP 2
+{"Day": "Day 3", "Session start time": "8:00", "Session Name": "Interpretability and Analysis of Models for NLP 2"}
+= Session 7B: Summarization
+{"Day": "Day 3", "Session start time": "8:00", "Session Name": "Summarization"}
+= Session 7C: Information Extraction 2
+{"Day": "Day 3", "Session start time": "8:00", "Session Name": "Information Extraction 2"}
+= Session 7D: Machine Translation 2
+{"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Translation 2"}
+= Session 7E: Dialogue and Interactive Systems 2
+{"Day": "Day 3", "Session start time": "8:00", "Session Name": "Dialogue and Interactive Systems 2"}
+= Session 7F: Machine Learning for NLP 2
+{"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Learning for NLP 2"}
+
+! 9:00--9:15 Break
+
++ 9:15--10:15 Session 8 + Virtual Poster Q&A Session
+
+= Session 8A: Interpretability and Analysis of Models for NLP 3
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Interpretability and Analysis of Models for NLP 3"}
+= Session 8B: Computational Social Science and Cultural Analytics
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Computational Social Science and Cultural Analytics"}
+= Session 8C: Human-Centered NLP 2
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Human-Centered NLP 2"}
+= Session 8D: Machine Translation 3
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Translation 3"}
+= Session 8E: Dialogue and Interactive Systems 3
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Dialogue and Interactive Systems 3"}
+= Session 8F: Machine Learning for NLP 3
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
+
+! 10:15--10:45 Break
+
++ 10:45--12:15 Session 9 + Findings Poster Session 1
+
+= Session 9A: Language Generation
+{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Generation"}
+= Session 9B: Speech & Phonology, Morphology
+{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Speech & Phonology, Morphology"}
+= Session 9C: Information Extraction 3
+{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Information Extraction 3"}
+= Session 9D: Language Resources & Evaluation 3
+{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Resources & Evaluation 3"}
+= Session 9E: NLP Applications 4
+{"Day": "Day 3", "Session start time": "10:45", "Session Name": "NLP Applications 4"}
+
+! 12:15--14:15 Lunch
+
++ 14:15--15:45 Session 10 + Findings Poster Session 2
+
+= Session 10A: Ethics, Bias, Fairness 2
+{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 2"}
+= Session 10B: Semantics
+{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Semantics"}
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse
+{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Linguistic Theories, Cognitive Modeling, Discourse"}
+= Session 10D: Machine Learning 4
+{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Machine Learning 4"}
+= Session 10E: Question Answering 2
+{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Question Answering 2"}
+
+! 15:45--16:15 Break
+
+! 16:15--17:15 Plenary Invited Talk
+
+! 17:15--17:45 Closing Session

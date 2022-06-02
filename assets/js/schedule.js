@@ -210,6 +210,9 @@ function isOverlapping(thisPaperRange, otherPaperRange) {
 
 function getConflicts(paperObject) {
 
+    // NOTE: The presentation order is not settled yet, so don't show conflicts for now.
+    return $([]);
+
     /* first get the parallel sessions */
     var sessionId = paperObject.parents('.session').attr('id').match(/session-\d/)[0];
     var parallelSessions = paperObject.parents('.session').siblings().filter(function() { return this.id.match(sessionId); });
@@ -652,7 +655,9 @@ $(document).ready(function() {
         var paperTitle = paperTimeObj.siblings('td').text().trim().replace(/\s\s+/g, " ");
 
         /* get the paper slot and the starting and ending times */
-        var paperTimeText = paperTimeObj.text().trim();
+        // NOTE: The presentation order is not settled yet, so use the session time for now.
+        // var paperTimeText = paperTimeObj.text().trim();
+        var paperTimeText = $(this).parents('.session-papers').children('.session-time').text().trim();
         var paperTimes = paperTimeText.split('\u2013');
         var paperSlotStart = paperTimes[0];
         var paperSlotEnd = paperTimes[1];

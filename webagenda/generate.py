@@ -483,7 +483,7 @@ class WebSession(Session):
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'paper':
-            session_html = '<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end)
+            session_html = '<div class="session session-expandable session-papers session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end)
 
             if self.location:
                 session_html += '<br/><span class="session-location btn btn--location">{}</span>'.format(self.location)

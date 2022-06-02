@@ -35,8 +35,8 @@
 {"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Multilinguality"}
 @ NLP Application
 {"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "NLP Application"}
-@ Special Theme
-{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Special Theme"}
+@ Human-Centered NLP
+{"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Human-Centered NLP"}
 
 ! 12:15--13:15 Lunch
 

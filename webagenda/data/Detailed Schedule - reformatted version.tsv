@@ -127,12 +127,12 @@ Day 2	Information Extraction 1	991	3	14:15
 Day 2	Information Extraction 1	823	4	14:15
 Day 2	Information Extraction 1	988	5	14:15
 Day 2	Information Extraction 1	894	6	14:15
-Day 2	Human-Centered NLP 1	86	1	14:15
-Day 2	Human-Centered NLP 1	53	2	14:15
-Day 2	Human-Centered NLP 1	111	3	14:15
-Day 2	Human-Centered NLP 1	93	4	14:15
-Day 2	Human-Centered NLP 1	87	5	14:15
-Day 2	Human-Centered NLP 1	90	6	14:15
+Day 2	Human-Centered NLP 1	86-special	1	14:15
+Day 2	Human-Centered NLP 1	53-special	2	14:15
+Day 2	Human-Centered NLP 1	111-special	3	14:15
+Day 2	Human-Centered NLP 1	93-special	4	14:15
+Day 2	Human-Centered NLP 1	87-special	5	14:15
+Day 2	Human-Centered NLP 1	90-special	6	14:15
 Day 2	NLP Applications 3	964	1	14:15
 Day 2	NLP Applications 3	277	2	14:15
 Day 2	NLP Applications 3	1044	3	14:15
@@ -201,10 +201,10 @@ Day 3	Computational Social Science and Cultural Analytics	882	1	9:15
 Day 3	Computational Social Science and Cultural Analytics	255	2	9:15
 Day 3	Computational Social Science and Cultural Analytics	1002	3	9:15
 Day 3	Computational Social Science and Cultural Analytics	1023	4	9:15
-Day 3	Human-Centered NLP 2	70	1	9:15
-Day 3	Human-Centered NLP 2	65	2	9:15
-Day 3	Human-Centered NLP 2	34	3	9:15
-Day 3	Human-Centered NLP 2	134	4	9:15
+Day 3	Human-Centered NLP 2	70-special	1	9:15
+Day 3	Human-Centered NLP 2	65-special	2	9:15
+Day 3	Human-Centered NLP 2	34-special	3	9:15
+Day 3	Human-Centered NLP 2	134-special	4	9:15
 Day 3	Machine Translation 3	835	1	9:15
 Day 3	Machine Translation 3	870	2	9:15
 Day 3	Machine Translation 3	884	3	9:15

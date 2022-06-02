@@ -86,9 +86,6 @@ class RawMetadata:
         with open(path) as fin:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
-                paper_id = row['Number']
-                # if row['Track'] == 'Special Theme':
-                #     paper_id += '-special'
                 new_records.append({
                     'paper_id': row['Number'],
                     'track': row['Track'],

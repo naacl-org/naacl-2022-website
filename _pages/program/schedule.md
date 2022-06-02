@@ -91,7 +91,7 @@ after_footer_scripts:
 <tr id="poster" poster-id="200"><td><span class="poster-title">Socially Aware Bias Measurements for Hindi Language Representations. </span><em>Vijit Malik, Sunipa Dev, Akihiro Nishi, Nanyun Peng, Kai-Wei Chang</em></td></tr>
 <tr id="poster" poster-id="128"><td><span class="poster-title">Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification. </span><em>Xiaolei Huang</em></td></tr>
 <tr><td><span class="poster-type">Information Retrieval</span></td></tr>
-<tr id="poster" poster-id="52"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
+<tr id="poster" poster-id="52"><td><span class="poster-title">Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds. </span><em>Yu Zhang, Yu Meng, Xuan Wang, Sheng Wang, Jiawei Han</em></td></tr>
 <tr id="poster" poster-id="829"><td><span class="poster-title">Learning Cross-Lingual IR from an English Retriever. </span><em>Yulong Li, Martin Franz, Md Arafat Sultan, Bhavani Iyer, Young-Suk Lee, Avirup Sil</em></td></tr>
 <tr id="poster" poster-id="780"><td><span class="poster-title">Collective Relevance Labeling for Passage Retrieval. </span><em>Jihyuk Kim, Minsoo Kim, seung-won hwang</em></td></tr>
 <tr id="poster" poster-id="734"><td><span class="poster-title">Is Neural Topic Modelling Better than Clustering? An Empirical Study on Clustering with Contextual Embeddings for Topics. </span><em>Zihan Zhang, Meng Fang, Ling Chen, Mohammad Reza Namazi Rad</em></td></tr>
@@ -109,7 +109,7 @@ after_footer_scripts:
 <tr id="poster" poster-id="437"><td><span class="poster-title">On the Diversity and Limits of Human Explanations. </span><em>Chenhao Tan</em></td></tr>
 <tr id="poster" poster-id="302"><td><span class="poster-title">Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models. </span><em>Karolina Stanczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</em></td></tr>
 <tr><td><span class="poster-type">Language Grounding to Vision</span></td></tr>
-<tr id="poster" poster-id="99"><td><span class="poster-title">Machine-in-the-Loop Rewriting for Creative Image Captioning. </span><em>Vishakh Padmakumar, He He</em></td></tr>
+<tr id="poster" poster-id="99"><td><span class="poster-title">Disentangled Action Recognition with Knowledge Bases. </span><em>Zhekun Luo, Shalini Ghosh, Devin Guillory, Keizo Kato, Trevor Darrell, Huijuan Xu</em></td></tr>
 <tr id="poster" poster-id="672"><td><span class="poster-title">Exposing the Limits of Video-Text Models through Contrast Sets. </span><em>Jae Sung Park, Sheng Shen, Ali Farhadi, Trevor Darrell, Yejin Choi, Anna Rohrbach</em></td></tr>
 <tr id="poster" poster-id="286"><td><span class="poster-title">Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation. </span><em>Giscard Biamby, Grace Luo, Trevor Darrell, Anna Rohrbach</em></td></tr>
 <tr id="poster" poster-id="1038"><td><span class="poster-title">MCSE: Multimodal Contrastive Learning of Sentence Embeddings. </span><em>Miaoran Zhang, Marius Mosbach, David Ifeoluwa Adelani, Michael A. Hedderich, Dietrich Klakow</em></td></tr>
@@ -140,11 +140,11 @@ after_footer_scripts:
 <tr id="poster" poster-id="280"><td><span class="poster-title">Natural Language Inference with Self-Attention for Veracity Assessment of Pandemic Claims. </span><em>Miguel Arana-Catania, Elena Kochkina, Arkaitz Zubiaga, Maria Liakata, Robert Procter, Yulan He</em></td></tr>
 <tr id="poster" poster-id="595"><td><span class="poster-title">Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption. </span><em>Garam Lee, Minsoo Kim, Jai Hyun Park, seung-won hwang, Jung Hee Cheon</em></td></tr>
 <tr id="poster" poster-id="108"><td><span class="poster-title">A Word is Worth A Thousand Dollars: Adversarial Attack on Tweets Fools Stock Prediction. </span><em>Yong Xie, Dakuo Wang, Pin-Yu Chen, Jinjun Xiong, Sijia Liu, Oluwasanmi O Koyejo</em></td></tr>
-<tr><td><span class="poster-type">Special Theme</span></td></tr>
-<tr id="poster" poster-id="52"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
-<tr id="poster" poster-id="99"><td><span class="poster-title">Machine-in-the-Loop Rewriting for Creative Image Captioning. </span><em>Vishakh Padmakumar, He He</em></td></tr>
-<tr id="poster" poster-id="36"><td><span class="poster-title">Do Deep Neural Nets Display Human-like Attention in Short Answer Scoring?. </span><em>Zijie Zeng, XINYU LI, Dragan Gasevic, Guanliang Chen</em></td></tr>
-<tr id="poster" poster-id="5"><td><span class="poster-title">What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research. </span><em>Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke</em></td></tr>
+<tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
+<tr id="poster" poster-id="52-special"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
+<tr id="poster" poster-id="99-special"><td><span class="poster-title">Machine-in-the-Loop Rewriting for Creative Image Captioning. </span><em>Vishakh Padmakumar, He He</em></td></tr>
+<tr id="poster" poster-id="36-special"><td><span class="poster-title">Do Deep Neural Nets Display Human-like Attention in Short Answer Scoring?. </span><em>Zijie Zeng, XINYU LI, Dragan Gasevic, Guanliang Chen</em></td></tr>
+<tr id="poster" poster-id="5-special"><td><span class="poster-title">What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research. </span><em>Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke</em></td></tr>
 </table>
 </div>
 </div>
@@ -294,7 +294,7 @@ after_footer_scripts:
 <div class="session session-expandable session-papers session-papers1" id="session-3a"><div id="expander"></div><a href="#" class="session-title">3A: Language Generation</a><br/><span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-3a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="566"><td id="paper-time"></td><td><span class="paper-title">Low Resource Style Transfer via Domain Adaptive Meta Learning. </span><em>Xiangyang Li, Xiang Long, Yu Xia, Sujian Li</em></td></tr>
 <tr id="paper" paper-id="416"><td id="paper-time"></td><td><span class="paper-title">Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation. </span><em>Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu</em></td></tr>
-<tr id="paper" paper-id="87"><td id="paper-time"></td><td><span class="paper-title">An Exploration of Post-Editing Effectiveness in Text Summarization. </span><em>Vivian Lai, Alison Smith-Renner, Ke Zhang, Ruijia Cheng, Wenjuan Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
+<tr id="paper" paper-id="87"><td id="paper-time"></td><td><span class="paper-title">Towards Robust and Semantically Organised Latent Representations for Unsupervised Text Style Transfer. </span><em>Sharan Narasimhan, Suvodip Dey, Maunendra Sankar Desarkar</em></td></tr>
 <tr id="paper" paper-id="1047"><td id="paper-time"></td><td><span class="paper-title">MOVER: Mask, Over-generate and Rank for Hyperbole Generation. </span><em>Yunxiang Zhang, Xiaojun Wan</em></td></tr>
 </table>
 </div>
@@ -403,7 +403,7 @@ after_footer_scripts:
 <tr id="poster" poster-id="283"><td><span class="poster-title">Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding. </span><em>Ao Jia, Yu He, Yazhou Zhang, Sagar Uprety, Dawei Song, Christina Lioma</em></td></tr>
 <tr id="poster" poster-id="660"><td><span class="poster-title">Transparent Human Evaluation for Image Captioning. </span><em>Jungo Kasai, Keisuke Sakaguchi, Lavinia Dunagan, Jacob Daniel Morrison, Ronan Le Bras, Yejin Choi, Noah Smith</em></td></tr>
 <tr id="poster" poster-id="544"><td><span class="poster-title">Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification. </span><em>Yang Xiao, Jinlan Fu, See-Kiong Ng, Pengfei Liu</em></td></tr>
-<tr id="poster" poster-id="53"><td><span class="poster-title">Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications. </span><em>Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu</em></td></tr>
+<tr id="poster" poster-id="53"><td><span class="poster-title">SwahBERT: Language Model of Swahili. </span><em>Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo</em></td></tr>
 <tr id="poster" poster-id="812"><td><span class="poster-title">TVShowGuess: Character Comprehension in Stories as Speaker Guessing. </span><em>Yisi Sang, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton</em></td></tr>
 <tr id="poster" poster-id="407"><td><span class="poster-title">CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course. </span><em>Changyoon Lee, Yeon Seonwoo, Alice Oh</em></td></tr>
 <tr id="poster" poster-id="9"><td><span class="poster-title">Semantic Diversity in Dialogue with Natural Language Inference. </span><em>Katherine Stasaski, Marti Hearst</em></td></tr>
@@ -419,7 +419,7 @@ after_footer_scripts:
 <tr id="poster" poster-id="362"><td><span class="poster-title">TIE: Topological Information Enhanced Structural Reading Comprehension on Web Pages. </span><em>Zihan Zhao, Lu Chen, Ruisheng Cao, Hongshen Xu, Xingyu Chen, Kai Yu</em></td></tr>
 <tr id="poster" poster-id="76"><td><span class="poster-title">Ask Me Anything in Your Native Language. </span><em>Nikita Sorokin, Dmitry Abulkhanov, Irina Piontkovskaya, Valentin Malykh</em></td></tr>
 <tr id="poster" poster-id="806"><td><span class="poster-title">ProQA: Structural Prompt-based Pre-training for Unified Question Answering. </span><em>Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan</em></td></tr>
-<tr id="poster" poster-id="70"><td><span class="poster-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
+<tr id="poster" poster-id="70"><td><span class="poster-title">Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding. </span><em>Hao Huang, Xiubo Geng, Guodong Long, Daxin Jiang</em></td></tr>
 <tr id="poster" poster-id="509"><td><span class="poster-title">Re2G: Retrieve, Rerank, Generate. </span><em>Michael Glass, Gaetano Rossiello, Md Faisal Mahbub Chowdhury, Ankita Naik, Pengshan Cai, Alfio Gliozzo</em></td></tr>
 <tr id="poster" poster-id="320"><td><span class="poster-title">OPERA: Operation-Pivoted Discrete Reasoning over Text. </span><em>Yongwei Zhou, Junwei Bao, Chaoqun Duan, Haipeng Sun, jiahui liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao</em></td></tr>
 <tr id="poster" poster-id="222"><td><span class="poster-title">DREAM: Improving Situational QA by First Elaborating the Situation. </span><em>Yuling Gu, Bhavana Dalvi, Peter Clark</em></td></tr>
@@ -488,12 +488,12 @@ after_footer_scripts:
 </div>
 </div>
 <div class="session session-expandable session-papers session-papers5" id="session-5d"><div id="expander"></div><a href="#" class="session-title">5D: Human-Centered NLP 1</a><br/><span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-5d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5d-deselector">Remove All</a><table class="paper-table">
-<tr id="paper" paper-id="86"><td id="paper-time"></td><td><span class="paper-title">Mapping the Design Space of Human-AI Interaction in Text Summarization. </span><em>Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
-<tr id="paper" paper-id="53"><td id="paper-time"></td><td><span class="paper-title">Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications. </span><em>Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu</em></td></tr>
-<tr id="paper" paper-id="111"><td id="paper-time"></td><td><span class="paper-title">User-Centric Gender Rewriting. </span><em>Bashar Alhafni, Nizar Habash, Houda Bouamor</em></td></tr>
-<tr id="paper" paper-id="93"><td id="paper-time"></td><td><span class="paper-title">Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data. </span><em>Jamar L. Sullivan Jr., Will Brackenbury, Andrew McNutt, Kevin Bryson, Kwam Byll, Yuxin Chen, Michael Littman, Chenhao Tan, Blase Ur</em></td></tr>
-<tr id="paper" paper-id="87"><td id="paper-time"></td><td><span class="paper-title">An Exploration of Post-Editing Effectiveness in Text Summarization. </span><em>Vivian Lai, Alison Smith-Renner, Ke Zhang, Ruijia Cheng, Wenjuan Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
-<tr id="paper" paper-id="90"><td id="paper-time"></td><td><span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
+<tr id="paper" paper-id="86-special"><td id="paper-time"></td><td><span class="paper-title">Mapping the Design Space of Human-AI Interaction in Text Summarization. </span><em>Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
+<tr id="paper" paper-id="53-special"><td id="paper-time"></td><td><span class="paper-title">Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications. </span><em>Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu</em></td></tr>
+<tr id="paper" paper-id="111-special"><td id="paper-time"></td><td><span class="paper-title">User-Centric Gender Rewriting. </span><em>Bashar Alhafni, Nizar Habash, Houda Bouamor</em></td></tr>
+<tr id="paper" paper-id="93-special"><td id="paper-time"></td><td><span class="paper-title">Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data. </span><em>Jamar L. Sullivan Jr., Will Brackenbury, Andrew McNutt, Kevin Bryson, Kwam Byll, Yuxin Chen, Michael Littman, Chenhao Tan, Blase Ur</em></td></tr>
+<tr id="paper" paper-id="87-special"><td id="paper-time"></td><td><span class="paper-title">An Exploration of Post-Editing Effectiveness in Text Summarization. </span><em>Vivian Lai, Alison Smith-Renner, Ke Zhang, Ruijia Cheng, Wenjuan Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
+<tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
 </table>
 </div>
 </div>
@@ -563,7 +563,7 @@ after_footer_scripts:
 <tr id="paper" paper-id="947"><td id="paper-time"></td><td><span class="paper-title">QuALITY: Question Answering with Long Input Texts, Yes!. </span><em>Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny L Ma, Jana Thompson, He He, Samuel R. Bowman</em></td></tr>
 <tr id="paper" paper-id="91"><td id="paper-time"></td><td><span class="paper-title">On the Robustness of Reading Comprehension Models to Entity Renaming. </span><em>Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren</em></td></tr>
 <tr id="paper" paper-id="169"><td id="paper-time"></td><td><span class="paper-title">OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering. </span><em>Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen</em></td></tr>
-<tr id="paper" paper-id="43"><td id="paper-time"></td><td><span class="paper-title">Cooperative Self-training of Machine Reading Comprehension. </span><em>Hongyin Luo, Shang-Wen Li, Mingye Gao, Seunghak Yu, James R. Glass</em></td></tr>
+<tr id="paper" paper-id="418"><td id="paper-time"></td><td><span class="paper-title">Modeling Exemplification in Long-form Question Answering via Retrieval. </span><em>Shufan Wang, Fangyuan Xu, Laure Thompson, Eunsol Choi, Mohit Iyyer</em></td></tr>
 <tr id="paper" paper-id="898"><td id="paper-time"></td><td><span class="paper-title">JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering. </span><em>Yueqing Sun, Qi Shi, Le Qi, Yu Zhang</em></td></tr>
 <tr id="paper" paper-id="613"><td id="paper-time"></td><td><span class="paper-title">Clues Before Answers: Generation-Enhanced Multiple-Choice QA. </span><em>Zixian Huang, Ao Wu, Jiaying Zhou, Yu Gu, Yue Zhao, Gong Cheng</em></td></tr>
 </table>
@@ -676,10 +676,10 @@ after_footer_scripts:
 </div>
 </div>
 <div class="session session-expandable session-papers session-papers1" id="session-8c"><div id="expander"></div><a href="#" class="session-title">8C: Human-Centered NLP 2</a><br/><span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-8c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8c-deselector">Remove All</a><table class="paper-table">
-<tr id="paper" paper-id="70"><td id="paper-time"></td><td><span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
-<tr id="paper" paper-id="65"><td id="paper-time"></td><td><span class="paper-title">The Why and The How: A Survey on Natural Language Interaction in Visualization. </span><em>Henrik Voigt, Ozge Alacam, Monique Meuschke, Kai Lawonn, Sina Zarrieß</em></td></tr>
-<tr id="paper" paper-id="34"><td id="paper-time"></td><td><span class="paper-title">Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks. </span><em>Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet B. Pierrehumbert</em></td></tr>
-<tr id="paper" paper-id="134"><td id="paper-time"></td><td><span class="paper-title">On the Machine Learning of Ethical Judgments from Natural Language. </span><em>Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams</em></td></tr>
+<tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
+<tr id="paper" paper-id="65-special"><td id="paper-time"></td><td><span class="paper-title">The Why and The How: A Survey on Natural Language Interaction in Visualization. </span><em>Henrik Voigt, Ozge Alacam, Monique Meuschke, Kai Lawonn, Sina Zarrieß</em></td></tr>
+<tr id="paper" paper-id="34-special"><td id="paper-time"></td><td><span class="paper-title">Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks. </span><em>Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet B. Pierrehumbert</em></td></tr>
+<tr id="paper" paper-id="134-special"><td id="paper-time"></td><td><span class="paper-title">On the Machine Learning of Ethical Judgments from Natural Language. </span><em>Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams</em></td></tr>
 </table>
 </div>
 </div>

@@ -106,11 +106,11 @@ TACL_3537 #
 280 #
 595 #
 108 #
-@ Special Theme
-52 #
-99 #
-36 #
-5 #
+@ Human-Centered NLP
+52-special #
+99-special #
+36-special #
+5-special #
 
 ! 12:15--13:15 Lunch
 
@@ -400,12 +400,12 @@ TACL_3721 #
 988 #
 894 #
 = Session 5D: Human-Centered NLP 1
-86 #
-53 #
-111 #
-93 #
-87 #
-90 #
+86-special #
+53-special #
+111-special #
+93-special #
+87-special #
+90-special #
 = Session 5E: NLP Applications 3
 964 #
 277 #
@@ -541,10 +541,10 @@ TACL_3765 #
 1002 #
 1023 #
 = Session 8C: Human-Centered NLP 2
-70 #
-65 #
-34 #
-134 #
+70-special #
+65-special #
+34-special #
+134-special #
 = Session 8D: Machine Translation 3
 835 #
 870 #

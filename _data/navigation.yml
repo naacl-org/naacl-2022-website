@@ -35,8 +35,8 @@ program:
         url: /program/
       # - title: "Main Conference Schedule"
       #   url: /program/schedule/
-      # - title: "Keynote Speakers"
-      #   url: /program/keynotes/
+      - title: "Invited Speakers"
+        url: /program/keynotes/
       - title: "Tutorials"
         url: /program/tutorials/
       - title: "Workshops"

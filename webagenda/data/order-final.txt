@@ -455,8 +455,8 @@ CL #
 = Session 6E: Question Answering 1
 947 #
 91 #
-196 #
-48 #
+169 #
+43 #
 898 #
 613 #
 = Session 6F: Industry Poster Session

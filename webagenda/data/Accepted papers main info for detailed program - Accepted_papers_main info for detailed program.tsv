@@ -1,4 +1,4 @@
-paper_id	track	title	authors
+Number	Track	Title	Authors
 1023	Computational Social Science and Cultural Analytics	Hate Speech and Counter Speech Detection: Conversational Context Does Matter	Xinchen Yu, Eduardo Blanco, Lingzi Hong
 1002	Computational Social Science and Cultural Analytics	A Holistic Framework for Analyzing the COVID-19 Vaccine Debate	Maria Leonor Pacheco, Tunazzina Islam, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser
 975	Computational Social Science and Cultural Analytics	Conceptualizing Treatment Leakage in Text-based Causal Inference	Adel Daoud, Connor Thomas Jerzak, Richard Johansson
@@ -453,5 +453,3 @@ TACL 3639		MuSiQue: Multi-hop Questions via Single-hop Question Composition	Hars
 TACL 3655		Fact Checking with Insufficient Evidence	
 TACL 3477		A Multi-Level Optimization Framework for End-to-End Text Augmentation	Sai Ashish Somayajula, Linfeng Song, Pengtao Xie
 CL		Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta
-196	UNKNOWN	UNKNOWN	UNKNOWN
-48	UNKNOWN	UNKNOWN	UNKNOWN

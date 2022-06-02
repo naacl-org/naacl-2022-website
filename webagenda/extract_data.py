@@ -15,9 +15,9 @@ _THIS_DIR = Path(__file__).absolute().parent
 # Change the hard-coded paths below
 # Input files
 _ORDER_OUTLINE_ = _THIS_DIR / 'data' / 'order-outline.txt'
-_RAW_PAPER_SCHEDULE = _THIS_DIR / 'data' / 'raw-paper-schedule.tsv'
-_RAW_POSTER_SCHEDULE = _THIS_DIR / 'data' / 'raw-poster-schedule.tsv'
-_RAW_PAPER_DETAILS = _THIS_DIR / 'data' / 'raw-paper-details.tsv'
+_RAW_PAPER_SCHEDULE = _THIS_DIR / 'data' / 'Detailed Schedule - reformatted version.tsv'
+_RAW_POSTER_SCHEDULE = _THIS_DIR / 'data' / 'Detailed Schedule - Poster sessions.tsv'
+_RAW_PAPER_DETAILS = _THIS_DIR / 'data' / 'Accepted papers main info for detailed program - Accepted_papers_main info for detailed program.tsv'
 _INDUSTRY_ORAL_1 = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_oral_session1.csv'
 _INDUSTRY_ORAL_2 = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_oral_session2.csv'
 _INDUSTRY_POSTER = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_posters.csv'
@@ -76,8 +76,10 @@ def main():
     logging.basicConfig(format='%(levelname)s - %(message)s', level=logging.INFO)
 
     with open(_RAW_PAPER_DETAILS) as fin, open(_METADATA, 'w') as fout:
+        fin.readline()
+        print('paper_id\ttrack\ttitle\tauthors', file=fout)
         for line in fin:
-            fout.write(line)
+            print(line.rstrip('\n'), file=fout)
 
     raw_schedule = RawSchedule()
     # Read the paper and poster schedules

@@ -16,15 +16,8 @@ secondary_excerpt: "July 10--15, 2022"
 **[Registration](/registration/) is now open.** The early registration deadline is June 4, 2022, 11:59 PM (ET).
 {: .text-center .notice--warning}
 
-Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See details here](/blog/subsidies/). The deadline is **May 24**.
-Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-2022-dei-chairs@googlegroups.com).
-{: .text-center .notice--info}
-
-<div markdown="1" class="notice--info">
-<p class="text-center">Authors have now been notified by email about the presentation mode of their paper.</p>
-* Findings papers will be presented as posters. If you choose to present at the conference, you do have to register.
-* Long papers are either oral or poster; short papers are posters.
-</div>
+The [main conference schedule](/program/schedule/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
+{: .text-center .notice--success}
 
 ## News
 

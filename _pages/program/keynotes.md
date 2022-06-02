@@ -11,6 +11,7 @@ toc_sticky: true
 The following speakers have graciously accepted to give invited talks at NAACL 2022.
 
 ## Batya Friedman
+{: #batya-friedman}
 
 ![Batya Friedman](/assets/images/keynotes/Batya_Friedman.jpg){: .align-center}
 
@@ -19,6 +20,7 @@ The following speakers have graciously accepted to give invited talks at NAACL 2
 Dr. Friedman’s 2019 MIT Press book co-authored with David Hendry, Value Sensitive Design: Shaping Technology with Moral Imagination, provides a comprehensive account of value sensitive design. In 2012 Dr. Friedman received the ACM-SIGCHI Social Impact Award and the University Faculty Lecturer award at the University of Washington, in 2019 she was inducted into the CHI Academy, in 2020 she received an honorary doctorate from Delft University of Technology, and in 2021 she was recognized as an ACM Fellow. She is also a stone sculptor and mixed media artist. Dr. Friedman received both her B.A. and Ph.D. from the University of California at Berkeley.
 
 ## Manuel Montes-y-Gómez
+{: #manuel-montes-y-gomez}
 
 ![Manuel Montes-y-Gómez](/assets/images/keynotes/Manuel_Montes_y_Gomez.jpg){: .align-center}
 
@@ -29,6 +31,7 @@ He has been visiting professor at the Polytechnic University of Valencia (Spain)
 **Talk title:** NLP in Mexican Spanish: One of many stories
 
 ## Panel: The Place of Linguistics and Symbolic Structures
+{: #panel}
 
 **Moderator:** Dan Roth
 

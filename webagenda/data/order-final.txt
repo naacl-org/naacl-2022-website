@@ -2,7 +2,7 @@
 
 ! 8:45--9:15 Welcome Session
 
-! 9:15--10:15 Plenary Invited Talk
+! 9:15--10:15 Plenary Invited Talk 1: Batya Friedman
 
 ! 10:15--10:45 Break
 
@@ -276,7 +276,7 @@
 
 ! 9:00--9:15 Break
 
-! 9:15--10:15 Plenary Invited Talk
+! 9:15--10:15 Plenary Panel: The Place of Linguistics and Symbolic Structures
 
 ! 10:15--10:45 Break
 
@@ -642,6 +642,6 @@
 
 ! 15:45--16:15 Break
 
-! 16:15--17:15 Plenary Invited Talk
+! 16:15--17:15 Plenary Invited Talk 2: Manuel Montes-y-Gómez
 
 ! 17:15--17:45 Closing Session

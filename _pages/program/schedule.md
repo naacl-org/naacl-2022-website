@@ -31,7 +31,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 <div class="schedule">
 <div class="day" id="day-1">Monday, July 11, 2022</div>
 <div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk</span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: Batya Friedman</span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Session 1 + In-person Poster Session 1</div>
@@ -440,7 +440,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk</span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Panel: The Place of Linguistics and Symbolic Structures</span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Session 4 + In-person Poster Session 3 + SRW Oral Session 1</div>
@@ -1117,7 +1117,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk</span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: Manuel Montes-y-Gómez</span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
 <div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span></div>
 <div id="generatePDFForm">
 <div id="formContainer">

@@ -6,18 +6,18 @@
 
 ! 10:15--10:45 Break
 
-+ 11:45--12:15 Session 1 + In-person Poster Session 1
++ 10:45--12:15 Session 1 + In-person Poster Session 1
 
 = Session 1A: Language Generation
-{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Language Generation"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Language Generation"}
 = Session 1B: Summarization
-{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Summarization"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Summarization"}
 = Session 1C: Information Extraction
-{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Information Extraction"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Information Extraction"}
 = Session 1D: Efficient Methods in NLP 1
-{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Efficient Methods in NLP 1"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Efficient Methods in NLP 1"}
 = Session 1E: Dialogue
-{"Day": "Day 1", "Session start time": "11:00", "Session Name": "Dialogue"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
 = Session 1F: Poster Session 1
 @ Computational Social Science and Cultural Analytics
 {"Day": "Day 1", "Session start time": "11:45", "Session Name": "Poster session 1", "Track": "Computational Social Science and Cultural Analytics"}

@@ -35,7 +35,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Session 1 + In-person Poster Session 1</div>
-<div class="session session-expandable session-papers session-papers1" id="session-1a"><div id="expander"></div><a href="#" class="session-title">1A: Language Generation</a><span class="session-time" title="Monday, July 11, 2022">11:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table">
+<div class="session session-expandable session-papers session-papers1" id="session-1a"><div id="expander"></div><a href="#" class="session-title">1A: Language Generation</a><span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="665"><td id="paper-time"></td><td><span class="paper-title">Learning to Transfer Prompts for Text Generation. </span><em>Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao</em></td></tr>
 <tr id="paper" paper-id="131"><td id="paper-time"></td><td><span class="paper-title">Long-term Control for Dialogue Generation: Methods and Evaluation. </span><em>Ramya Ramakrishnan, Hashan Buddhika Narangodage, Mauro Schilman, Kilian Q Weinberger, Ryan McDonald</em></td></tr>
 <tr id="paper" paper-id="551"><td id="paper-time"></td><td><span class="paper-title">PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding. </span><em>Antoine Chaffin, Vincent Claveau, Ewa Kijak</em></td></tr>
@@ -45,7 +45,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </table>
 </div>
 </div>
-<div class="session session-expandable session-papers session-papers2" id="session-1b"><div id="expander"></div><a href="#" class="session-title">1B: Summarization</a><span class="session-time" title="Monday, July 11, 2022">11:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1b-deselector">Remove All</a><table class="paper-table">
+<div class="session session-expandable session-papers session-papers2" id="session-1b"><div id="expander"></div><a href="#" class="session-title">1B: Summarization</a><span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="486"><td id="paper-time"></td><td><span class="paper-title">AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization. </span><em>Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona T. Diab</em></td></tr>
 <tr id="paper" paper-id="494"><td id="paper-time"></td><td><span class="paper-title">QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization. </span><em>Alexander Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong</em></td></tr>
 <tr id="paper" paper-id="1050"><td id="paper-time"></td><td><span class="paper-title">Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics. </span><em>Daniel Deutsch, Rotem Dror, Dan Roth</em></td></tr>
@@ -55,7 +55,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </table>
 </div>
 </div>
-<div class="session session-expandable session-papers session-papers3" id="session-1c"><div id="expander"></div><a href="#" class="session-title">1C: Information Extraction</a><span class="session-time" title="Monday, July 11, 2022">11:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1c-deselector">Remove All</a><table class="paper-table">
+<div class="session session-expandable session-papers session-papers3" id="session-1c"><div id="expander"></div><a href="#" class="session-title">1C: Information Extraction</a><span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="893"><td id="paper-time"></td><td><span class="paper-title">An Enhanced Span-based Decomposition Method for  Few-Shot Sequence Labeling. </span><em>Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui</em></td></tr>
 <tr id="paper" paper-id="905"><td id="paper-time"></td><td><span class="paper-title">Modeling Multi-Granularity Hierarchical Features for Relation Extraction. </span><em>Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li</em></td></tr>
 <tr id="paper" paper-id="681"><td id="paper-time"></td><td><span class="paper-title">Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities. </span><em>Benjamin Hsu, Graham Horwood</em></td></tr>
@@ -65,7 +65,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </table>
 </div>
 </div>
-<div class="session session-expandable session-papers session-papers4" id="session-1d"><div id="expander"></div><a href="#" class="session-title">1D: Efficient Methods in NLP 1</a><span class="session-time" title="Monday, July 11, 2022">11:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1d-deselector">Remove All</a><table class="paper-table">
+<div class="session session-expandable session-papers session-papers4" id="session-1d"><div id="expander"></div><a href="#" class="session-title">1D: Efficient Methods in NLP 1</a><span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="424"><td id="paper-time"></td><td><span class="paper-title">KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation. </span><em>Marzieh S. Tahaei, Ella Charlaix, Vahid Partovi Nia, Ali Ghodsi, Mehdi Rezagholizadeh</em></td></tr>
 <tr id="paper" paper-id="117"><td id="paper-time"></td><td><span class="paper-title">Meta Learning for Natural Language Processing: A Survey. </span><em>Hung-yi Lee, Shang-Wen Li, Thang Vu</em></td></tr>
 <tr id="paper" paper-id="750"><td id="paper-time"></td><td><span class="paper-title">On Transferability of Prompt Tuning for Natural Language Processing. </span><em>Yusheng Su, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou</em></td></tr>
@@ -75,7 +75,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </table>
 </div>
 </div>
-<div class="session session-expandable session-papers session-papers5" id="session-1e"><div id="expander"></div><a href="#" class="session-title">1E: Dialogue</a><span class="session-time" title="Monday, July 11, 2022">11:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1e-deselector">Remove All</a><table class="paper-table">
+<div class="session session-expandable session-papers session-papers5" id="session-1e"><div id="expander"></div><a href="#" class="session-title">1E: Dialogue</a><span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span><div class="paper-session-details"><a href="#" class="session-selector" id="session-1e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="627"><td id="paper-time"></td><td><span class="paper-title">LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking. </span><em>Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He</em></td></tr>
 <tr id="paper" paper-id="618"><td id="paper-time"></td><td><span class="paper-title">Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting. </span><em>Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang</em></td></tr>
 <tr id="paper" paper-id="593"><td id="paper-time"></td><td><span class="paper-title">Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation. </span><em>Shumpei Inoue, Tsungwei Liu, Son Hong Nguyen, Minh-Tien Nguyen</em></td></tr>
@@ -85,7 +85,7 @@ To foster discussion, virtual poster sessions will be organized into small Zoom 
 </table>
 </div>
 </div>
-<div class="session session-expandable session-posters" id="session-poster-1"><div id="expander"></div><a href="#" class="session-title">1F: Poster Session 1 </a><span class="session-time" title="Monday, July 11, 2022">11:45 &ndash; 12:15</span>
+<div class="session session-expandable session-posters" id="session-poster-1"><div id="expander"></div><a href="#" class="session-title">1F: Poster Session 1 </a><span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="42"><td><span class="poster-title">Political Ideology and Polarization: A Multi-dimensional Approach. </span><em>Barea Sinno, Bernardo Oviedo, Katherine Atwell, Malihe Alikhani, Junyi Jessy Li</em></td></tr>

@@ -436,7 +436,6 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3f-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="9-industry"><td id="paper-time"></td><td><span class="paper-title">CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning. </span><em>Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng</em></td></tr>
 <tr id="paper" paper-id="11-industry"><td id="paper-time"></td><td><span class="paper-title">Augmenting Poetry Composition with Verse by Verse. </span><em>David Uthus, Maria Voitovich, R.J. Mical</em></td></tr>
-<tr id="paper" paper-id="32-industry"><td id="paper-time"></td><td><span class="paper-title">Aspect-based Analysis of Advertising Appeals for Search Engine Advertising. </span><em>Soichiro Murakami, Peinan Zhang, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura</em></td></tr>
 <tr id="paper" paper-id="50-industry"><td id="paper-time"></td><td><span class="paper-title">FPI: Failure Point Isolation in Large-scale Conversational Assistants. </span><em>Rinat Khaziev, Usman Shahid, Tobias Roeding, Rakesh Chada, Emir Kapanci, Pradeep Natarajan</em></td></tr>
 <tr id="paper" paper-id="71-industry"><td id="paper-time"></td><td><span class="paper-title">ReFinED: An Efficient Zero-shot-capable Approach to End-to-End Entity Linking. </span><em>Tom Ayoola, Shubhi Tyagi, Joseph Fisher, Christos Christodoulopoulos, Andrea Pierleoni</em></td></tr>
 </table>
@@ -677,6 +676,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="65-industry"><td id="paper-time"></td><td><span class="paper-title">Medical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning. </span><em>Angelo Ziletti, Alan Akbik, Christoph Berns, Thomas Herold, Marion Legler, Martina Viell</em></td></tr>
 <tr id="paper" paper-id="91-industry"><td id="paper-time"></td><td><span class="paper-title">CTM - A Model for Large-Scale Multi-View Tweet Topic Classification. </span><em>Vivek Kulkarni, Kenny Leung, Aria Haghighi</em></td></tr>
 <tr id="paper" paper-id="119-industry"><td id="paper-time"></td><td><span class="paper-title">Self-Aware Feedback-Based Self-Learning in Large-Scale Conversational AI. </span><em>Pragaash Ponnusamy, Clint Solomon Mathialagan, Gustavo Aguilar, Chengyuan Ma, Chenlei Guo</em></td></tr>
+<tr id="paper" paper-id="32-industry"><td id="paper-time"></td><td><span class="paper-title">Aspect-based Analysis of Advertising Appeals for Search Engine Advertising. </span><em>Soichiro Murakami, Peinan Zhang, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura</em></td></tr>
 </table>
 </div>
 </div>

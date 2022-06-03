@@ -1326,3 +1326,86 @@ toc_sticky: true
  Prakhar Gupta, Harsh Jhamtani, Jeffrey Bigham
 * **CRUSH: Contextually Regularized and User anchored Self-supervised Hate speech Detection** 
  Souvic Chakraborty, Parag Dutta, Sumegh Roychowdhury, Animesh Mukherjee
+
+## Industry Track
+
+* **Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems**
+ Mohammad Kachuee, Jinseok Nam, Sarthak Ahuja, Jin-Myung Won, SUNGJIN LEE
+* **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**
+ Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng
+* **Augmenting Poetry Composition with Verse by Verse**
+ David Uthus, Maria Voitovich, R.J. Mical
+* **AB/BA analysis: A framework for estimating keyword spotting recall improvement while maintaining audio privacy**
+ Raphael Petegrosso, VasistaKrishna Baderdinnni, Thibaud Senechal, Benjamin Bullough
+* **Temporal Generalization for Spoken Language Understanding**
+ Judith Gaspers, Anoop Kumar, Greg Ver Steeg, Aram Galstyan
+* **An End-to-End Dialogue Summarization System for Sales Calls**
+ Abedelkadir Asi, Song Wang, Roy Eisenstadt, Dean Geckt, Yarin Kuper, Yi Mao, Royi Ronen
+* **Controlled Data Generation via Insertion Operations for NLU**
+ Manoj Kumar, Yuval Merhav, Haidar Khan, Rahul Gupta, Anna Rumshisky, Wael Hamza
+* **Easy and Efficient Transformer: Scalable Inference Solution For Large NLP Model**
+ Li GongZheng LGZ, Yadong Xi, Jingzhen Ding, Duan Wang, Ziyang Luo, Rongsheng Zhang, Bai Liu, Changjie Fan, Xiaoxi Mao, Zeng Zhao
+* **Aspect-based Analysis of Advertising Appeals for Search Engine Advertising**
+ Soichiro Murakami, Peinan Zhang, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
+* **Self-supervised Product Title Rewrite for Product Listing Ads**
+ Xue Zhao, Dayiheng Liu, Junwei Ding, Liang Yao, Mahone Yan, Huibo wang, Wenqing Yao
+* **Efficient Semi-supervised Consistency Training for Natural Language Understanding**
+ George Leung, Joshua Tan
+* **Distantly Supervised Aspect Clustering And Naming For E-Commerce Reviews**
+ Prateek Sircar, Aniket Chakrabarti, DEEPAK GUPTA, Anirban Majumder
+* **Local-to-global learning for iterative training of production SLU models on new features**
+ Yulia Grishina, Daniil Sorokin
+* **CULG: Commercial Universal Language Generation**
+ Haonan Li, yameng huang, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan
+* **Constraining word alignments with posterior regularization for label transfer**
+ Thomas Gueudre, Kevin Martin Jose
+* **Explaining the Effectiveness of Multi-Task Learning for Efficient Knowledge Extraction from Spine MRI Reports**
+ Arijit Sehanobish, McCullen Sandora, Nabila Abraham, Jayashri Pawar, Danielle Torres, Anasuya Das, Murray Becker, Richard Herzog, Benjamin Odry, Ron Vianu
+* **FPI: Failure Point Isolation in Large-scale Conversational Assistants**
+ Rinat Khaziev, Usman Shahid, Tobias Roeding, Rakesh Chada, Emir Kapanci, Pradeep Natarajan
+* **Asynchronous Convergence in Multi-Task Learning via Knowledge Distillation from Converged Tasks**
+ Weiyi Lu, Sunny Rajagopalan, Priyanka Nigam, Jaspreet Singh, Xiaodi Sun, Yi Xu, Belinda Zeng, Trishul Chilimbi
+* **Augmenting Training Data for Massive Semantic Matching Models in Low-Traffic E-commerce Stores**
+ Ashutosh Joshi, Shankar Vishwanath, Choon Hui Teo, Vaclav Petricek, Vishy Vishwanathan, Rahul Bhagat, Jonathan May
+* **Retrieval Based Response Letter Generation For a Customer Care Setting**
+ Biplob Biswas, Renhao Cui, Rajiv Ramnath
+* **Medical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning**
+ Angelo Ziletti, Alan Akbik, Christoph Berns, Thomas Herold, Marion Legler, Martina Viell
+* **Knowledge extraction from aeronautical messages (NOTAMs) with self-supervised language models for aircraft pilots**
+ Alexandre Arnold, Fares Ernez, Catherine Kobus, Marion-Cécile Martin
+* **Intent Discovery for Enterprise Virtual Assistants: Applications of Utterance Embedding and Clustering to Intent Mining**
+ Minhua Chen, Badrinath Jayakumar, Michael Johnston, S. Eman Mahmoodi, Daniel Pressel
+* **ReFinED: An Efficient Zero-shot-capable Approach to End-to-End Entity Linking**
+ Tom Ayoola, Shubhi Tyagi, Joseph Fisher, Christos Christodoulopoulos, Andrea Pierleoni
+* **Lightweight Transformers for Conversational AI**
+ Daniel Pressel, Wenshuo Liu, Michael Johnston, Minhua Chen
+* **NER-MQMRC: Formulating Named Entity Recognition as Multi Question Machine Reading Comprehension**
+ Anubhav Shrimal, Avi Jain, Kartik Mehta, Promod Yenigalla
+* **What Do Users Care About? Detecting Actionable Insights from User Feedback**
+ Kasturi Bhattacharjee, Rashmi Gangadharaiah, Kathleen McKeown, Dan Roth
+* **CTM - A Model for Large-Scale Multi-View Tweet Topic Classification**
+ Vivek Kulkarni, Kenny Leung, Aria Haghighi
+* **Developing a Production System for Purpose of Call Detection in Business Phone Conversations**
+ Elena Khasanova, Pooja Hiranandani, Shayna Gardiner, Cheng Chen, Simon Corston-Oliver, Xue-Yong Fu
+* **Adversarial Text Normalization**
+ Joanna Bitton, Maya Pavlova, Ivan Evtimov
+* **Constraint-based Multi-hop Question Answering with Knowledge Graph**
+ Sayantan Mitra, Roshni Ramnani, Shubhashis Sengupta
+* **Fast Bilingual Grapheme-To-Phoneme Conversion**
+ Hwa-Yeon Kim, Jong-Hwan Kim, Jae-Min Kim
+* **Knowledge Extraction From Texts Based on Wikidata**
+ Anastasia Shimorina, Johannes Heinecke, Frédéric Herledan
+* **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry**
+ Yannis Katsis, Saneem Ahmed Chemmengath, vishwajeet kumar, Samarth Bharadwaj, MUSTAFA CANIM, Michael Glass, Alfio Gliozzo, Feifei Pan, Jaydeep Sen, Karthik Sankaranarayanan, Soumen Chakrabarti
+* **Parameter-efficient Continual Learning Framework in Industrial Real-time Text Classification System**
+ Tao Zhu, Zhe Zhao, Weijie Liu, Jiachi Liu, Yiren Chen, Weiquan Mao, Haoyan Liu, Kunbo Ding, Yudong Li, Xuefeng Yang, Kimmo Yan
+* **Self-Aware Feedback-Based Self-Learning in Large-Scale Conversational AI**
+ Pragaash Ponnusamy, Clint Solomon Mathialagan, Gustavo Aguilar, Chengyuan Ma, Chenlei Guo
+* **Fast and Light-Weight Answer Text Retrieval in Dialogue Systems**
+ Hui Wan, Siva Sankalp Patel, J William Murdock, Saloni Potdar, Sachindra Joshi
+* **BLINK with Elasticsearch for Efficient Entity Linking in Business Conversations**
+ Md Tahmid Rahman Laskar, Cheng Chen, Aliaksandr Martsinovich, Jonathan Johnston, Xue-Yong Fu, Shashi Bhushan Tn, Simon Corston-Oliver
+* **Q2R: A Query-to-Resolution System for Natural-Language Queries**
+ Shiau Hong Lim, Laura Wynter
+* **Identifying Corporate Credit Risk Sentiments from Financial News**
+ Noujoud Ahbali, Xinyuan Liu, Albert Aristotle Nanda, Jamie Stark, Ashit Talukder, Rupinder Paul Khandpur

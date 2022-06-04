@@ -455,7 +455,6 @@ paper_id	track	title	authors
 0-cl		Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta
 9-industry	Industry	CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning	Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng
 11-industry	Industry	Augmenting Poetry Composition with {V}erse by {V}erse	David Uthus, Maria Voitovich, R.J. Mical
-32-industry	Industry	Aspect-based Analysis of Advertising Appeals for Search Engine Advertising	Soichiro Murakami, Peinan Zhang, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
 50-industry	Industry	FPI: Failure Point Isolation in Large-scale Conversational Assistants	Rinat Khaziev, Usman Shahid, Tobias Roeding, Rakesh Chada, Emir Kapanci, Pradeep Natarajan
 71-industry	Industry	ReFinED: An Efficient Zero-shot-capable Approach to End-to-End Entity Linking	Tom Ayoola, Shubhi Tyagi, Joseph Fisher, Christos Christodoulopoulos, Andrea Pierleoni
 33-industry	Industry	Self-supervised Product Title Rewrite for Product Listing Ads	Xue Zhao, Dayiheng Liu, Junwei Ding, Liang Yao, Mahone Yan, Huibo wang, Wenqing Yao
@@ -463,6 +462,7 @@ paper_id	track	title	authors
 65-industry	Industry	{M}edical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning	Angelo Ziletti, Alan Akbik, Christoph Berns, Thomas Herold, Marion Legler, Martina Viell
 91-industry	Industry	CTM - A Model for Large-Scale Multi-View Tweet Topic Classification	Vivek Kulkarni, Kenny Leung, Aria Haghighi
 119-industry	Industry	Self-Aware Feedback-Based Self-Learning in Large-Scale Conversational AI	Pragaash Ponnusamy, Clint Solomon Mathialagan, Gustavo Aguilar, Chengyuan Ma, Chenlei Guo
+32-industry	Industry	Aspect-based Analysis of Advertising Appeals for Search Engine Advertising	Soichiro Murakami, Peinan Zhang, Sho Hoshino, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura
 5-industry	Industry	Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems	Mohammad Kachuee, Jinseok Nam, Sarthak Ahuja, Jin-Myung Won, SUNGJIN LEE
 17-industry	Industry	AB/BA analysis: A framework for estimating keyword spotting recall improvement while maintaining audio privacy	Raphael Petegrosso, VasistaKrishna Baderdinnni, Thibaud Senechal, Benjamin Bullough
 22-industry	Industry	Temporal Generalization for Spoken Language Understanding	Judith Gaspers, Anoop Kumar, Greg Ver Steeg, Aram Galstyan

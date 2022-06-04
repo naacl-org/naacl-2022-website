@@ -1,8 +1,8 @@
 {
-  "order_file": "webagenda/data/order-final.txt",
-  "mapping_file": "webagenda/data/mapping.tsv",
-  "extra_metadata_file": "webagenda/data/metadata.tsv",
-  "plenary_info_file": "webagenda/data/plenary.tsv",
+  "order_file": "webagenda/preprocessed/order.txt",
+  "mapping_file": "webagenda/preprocessed/mapping.tsv",
+  "extra_metadata_file": "webagenda/preprocessed/metadata.tsv",
+  "plenary_info_file": "webagenda/preprocessed/plenary.tsv",
   "pdf_icons": true,
   "video_icons": false
 }

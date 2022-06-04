@@ -1,6 +1,7 @@
 ## Generating the Schedule for the Website
 
 This directory contains the data files and code used to generate the schedule (`_pages/output/schedule.md`) for the NAACL official website.
+This code is ported from the NAACL 2019 schedule generation code written by Nitin Madnani.
 
 ### Requirements
 
@@ -9,7 +10,26 @@ Python 3.6+ with:
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
 - [lxml](https://pypi.org/project/lxml/)
 
-### Contents 
+### Generating the Schedule
+
+1. Prepare the files needed for the `generate.py` script. Refer to [the 2019 README](https://github.com/naacl-org/naacl-schedule-2019/blob/master/README.md) for the format of these files.
+
+    - Download the spreadsheets given by the Program Chairs. Save them to `webagenda/raw/`.
+
+    - Edit `webagenda/raw/order-outline.txt` to contain the schedule outline. In addition to the [`order` file syntax](https://github.com/naacl-org/naacl-schedule-2019/blob/master/README.md#parsing-the-order-file), JSONL filters can be used. The `preprocess_data.py` script below will replace them with matching papers from the downloaded schedules.
+
+    - Process the downloaded files by running the following command at the top level of the cloned repository:
+        ```
+        python webagenda/preprocess_data.py
+        ```
+        This creates `webagenda/preprocessed/order.txt` and `webagenda/preprocessed/metadata.tsv`. The script also checks for duplicates and missing entries. If you are adding files to `webagenda/raw/`, you might need to change the hardcoded paths in the script and modify the data preprocessing logic.
+
+2. Use the following command to generate the schedule markdown file at `_pages/program/schedule.md` for the website:
+    ```
+    python webagenda/generate.py webagenda/config.json _pages/output/schedule.md
+    ```
+
+### Script Details 
 
 There are three main files that support the schedule on the website:
 
@@ -36,22 +56,3 @@ There are three main files that support the schedule on the website:
 
     These libraries are installed in `assets/js/` and are minified into the main JS. If you want to update them, [follow the instructions here](https://mmistakes.github.io/minimal-mistakes/docs/javascript/#customizing).
 
-### Generating the Schedule
-
-1. Prepare the files needed for the `generate.py` script. Refer to [the 2019 README](https://github.com/naacl-org/naacl-schedule-2019/blob/master/README.md) for the format of these files.
-
-    - Download the spreadsheets given by the Program Chairs. Save them to `webagenda/data/raw-*`.
-
-    - Edit `webagenda/data/order-outline.txt` to contain the schedule outline. In addition to [normal `order` file lines](https://github.com/naacl-org/naacl-schedule-2019/blob/master/README.md#parsing-the-order-file), JSONL filters can be used. The `extract_data.py` script below will replace them with matching papers from the downloaded schedules.
-
-    - Process the downloaded files by running the following command at the top level of the cloned repository:
-        ```
-        python webagenda/extract_data.py
-        ```
-        This creates `webagenda/data/order-final.txt` and `webagenda/data/metadata.tsv`. The script also checks for duplicates and missing entries. You might need to change the hardcoded paths in the script.
-
-4. Use the following command to generate the schedule markdown file at `_pages/program/schedule.md` for the website:
-    ```
-    python webagenda/generate.py webagenda/config.json _pages/output/schedule.md
-    ```
-    The config file already adds the PDF links where available. To add the video icons where available, modify the config file to have the value for `video_icons` field to be `true`. 

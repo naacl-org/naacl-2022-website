@@ -14,17 +14,17 @@ _THIS_DIR = Path(__file__).absolute().parent
 
 # Change the hard-coded paths below
 # Input files
-_ORDER_OUTLINE_ = _THIS_DIR / 'data' / 'order-outline.txt'
-_RAW_PAPER_SCHEDULE = _THIS_DIR / 'data' / 'Detailed Schedule - reformatted version.tsv'
-_RAW_POSTER_SCHEDULE = _THIS_DIR / 'data' / 'Detailed Schedule - Poster sessions.tsv'
-_RAW_PAPER_DETAILS = _THIS_DIR / 'data' / 'Accepted papers main info for detailed program - Accepted_papers_main info for detailed program.tsv'
-_INDUSTRY_ORAL_1 = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_oral_session1.csv'
-_INDUSTRY_ORAL_2 = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_oral_session2.csv'
-_INDUSTRY_POSTER = _THIS_DIR / 'data' / 'NAACL_2022_Industry_Track_posters.csv'
-_DEMO_POSTER = _THIS_DIR / 'data' / 'demos.tsv'
+_ORDER_OUTLINE_ = _THIS_DIR / 'raw' / 'order-outline.txt'
+_RAW_PAPER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - reformatted version.tsv'
+_RAW_POSTER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster sessions.tsv'
+_RAW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_main info for detailed program.tsv'
+_INDUSTRY_ORAL_1 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session1.csv'
+_INDUSTRY_ORAL_2 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session2.csv'
+_INDUSTRY_POSTER = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_posters.csv'
+_DEMO_POSTER = _THIS_DIR / 'raw' / 'demos.tsv'
 # Output files
-_ORDER_FINAL = _THIS_DIR / 'data' / 'order-final.txt'
-_METADATA = _THIS_DIR / 'data' / 'metadata.tsv'
+_ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
+_METADATA = _THIS_DIR / 'preprocessed' / 'metadata.tsv'
 
 
 class RawSchedule:
@@ -193,7 +193,7 @@ def main():
     raw_metadata.check_duplicates()
 
     # Process the `order` file
-    with open(_ORDER_OUTLINE_) as fin, open(_ORDER_FINAL, 'w') as fout:
+    with open(_ORDER_OUTLINE_) as fin, open(_ORDER_PREPROCESSED, 'w') as fout:
         for line in fin:
             if line[0] == '{':
                 # Search for matching papers

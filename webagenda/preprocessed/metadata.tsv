@@ -212,7 +212,7 @@ paper_id	track	title	authors
 544	Language Resources and Evaluation	Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification	Yang Xiao, Jinlan Fu, See-Kiong Ng, Pengfei Liu
 529	Language Resources and Evaluation	The USMLE® Step 2 Clinical Skills Patient Note Corpus	Victoria Yaneva, Janet Mee, Le An Ha, Polina Harik, Michael Jodoin, Alex J Mechaber
 475	Language Resources and Evaluation	Does Summary Evaluation Survive Translation to Other Languages?	Spencer Braun, Oleg Vasilyev, Neslihan Iskender, John Bohannon
-457	Language Resources and Evaluation	End-to-End Chinese Speaker Identification: Formulation, Annotation, and Methods	Dian Yu, Ben Zhou, Dong Yu
+457	Language Resources and Evaluation	End-to-End Chinese Speaker Identification	Dian Yu, Ben Zhou, Dong Yu
 407	Language Resources and Evaluation	CS1QA: A Dataset for Assisting Code-based Question Answering in an Introductory Programming Course	Changyoon Lee, Yeon Seonwoo, Alice Oh
 371	Language Resources and Evaluation	MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting	Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo
 368	Language Resources and Evaluation	Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations	Daniela Brook Weiss, Paul Roit, Ori Ernst, Ido Dagan
@@ -441,16 +441,16 @@ paper_id	track	title	authors
 413	Syntax: Tagging, Chunking, and Parsing	Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data	Kemal Kurniawan, Lea Frermann, Philip Schulz, Trevor Cohn
 246	Syntax: Tagging, Chunking, and Parsing	Sort by Structure: Language Model Ranking as Dependency Probing	Max Müller-Eberstein, Rob van der Goot, Barbara Plank
 220	Syntax: Tagging, Chunking, and Parsing	Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?	Xiang Zhou, Shiyue Zhang, Mohit Bansal
-3537-tacl		Reducing conversational agents' overconfidence through linguistic calibration	
+3537-tacl		Reducing conversational agents' overconfidence through linguistic calibration	Mielke, Arthur Szlam, Emily Dinan,Y-Lan Boureau
 3561-tacl		Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference	Bangzheng Li, Wenpeng Yin, Muhao Chen 
-3721-tacl		Text-based NP Enrichment	
+3721-tacl		Text-based NP Enrichment	Yanai Elazar, Victoria Basmov, Yoav Goldberg
 3519-tacl		Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation	Zoey Liu, Emily Prud’hommeau
-3593-tacl		Heterogeneous Supervised Topic Models	
-3601-tacl		Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression	
-3765-tacl		Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity	
-3735-tacl		Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality	
+3593-tacl		Heterogeneous Supervised Topic Models	Dhanya Sridhar, Hal Daumé III, David Meir Blei
+3601-tacl		Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression	Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor
+3765-tacl		Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity	Yiding Hao, Dana Angluin, Robert Evan Frank
+3735-tacl		Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality	Markus Freitag, David Grangier, Qijun Tan, Bowen Liang
 3639-tacl		MuSiQue: Multi-hop Questions via Single-hop Question Composition	Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal
-3655-tacl		Fact Checking with Insufficient Evidence	
+3655-tacl		Fact Checking with Insufficient Evidence	Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein
 3477-tacl		A Multi-Level Optimization Framework for End-to-End Text Augmentation	Sai Ashish Somayajula, Linfeng Song, Pengtao Xie
 0-cl		Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta
 9-industry	Industry	CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning	Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng

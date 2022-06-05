@@ -109,7 +109,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="618"><td id="paper-time"></td><td><span class="paper-title">Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting. </span><em>Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang</em></td></tr>
 <tr id="paper" paper-id="593"><td id="paper-time"></td><td><span class="paper-title">Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation. </span><em>Shumpei Inoue, Tsungwei Liu, Son Hong Nguyen, Minh-Tien Nguyen</em></td></tr>
 <tr id="paper" paper-id="687"><td id="paper-time"></td><td><span class="paper-title">Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog. </span><em>Chia-Chien Hung, Anne Lauscher, Ivan Vulić, Simone Paolo Ponzetto, Goran Glavaš</em></td></tr>
-<tr id="paper" paper-id="3537-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Reducing conversational agents' overconfidence through linguistic calibration. </span><em></em></td></tr>
+<tr id="paper" paper-id="3537-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Reducing conversational agents' overconfidence through linguistic calibration. </span><em>Mielke, Arthur Szlam, Emily Dinan, Y-Lan Boureau</em></td></tr>
 <tr id="paper" paper-id="364"><td id="paper-time"></td><td><span class="paper-title">Intent Detection and Discovery from User Logs via Deep Semi-Supervised Contrastive Clustering. </span><em>Rajat Kumar, Mayur Patidar, VAIBHAV VARSHNEY, Lovekesh Vig, Gautam Shroff</em></td></tr>
 </table>
 </div>
@@ -252,7 +252,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="370"><td id="paper-time"></td><td><span class="paper-title">The Devil is in the Details: On the Pitfalls of Vocabulary Selection in Neural Machine Translation. </span><em>Tobias Domhan, Eva Hasler, Ke Tran, Sony Trenous, Bill Byrne, Felix Hieber</em></td></tr>
 <tr id="paper" paper-id="289"><td id="paper-time"></td><td><span class="paper-title">BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation. </span><em>Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan, Ming Zhou</em></td></tr>
 <tr id="paper" paper-id="348"><td id="paper-time"></td><td><span class="paper-title">Non-Autoregressive Machine Translation: It's Not as Fast as it Seems. </span><em>Jindřich Helcl, Barry Haddow, Alexandra Birch</em></td></tr>
-<tr id="paper" paper-id="3735-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality. </span><em></em></td></tr>
+<tr id="paper" paper-id="3735-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality. </span><em>Markus Freitag, David Grangier, Qijun Tan, Bowen Liang</em></td></tr>
 </table>
 </div>
 </div>
@@ -382,7 +382,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3b-deselector">Remove All</a><table class="paper-table">
-<tr id="paper" paper-id="3655-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Fact Checking with Insufficient Evidence. </span><em></em></td></tr>
+<tr id="paper" paper-id="3655-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Fact Checking with Insufficient Evidence. </span><em>Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein</em></td></tr>
 <tr id="paper" paper-id="892"><td id="paper-time"></td><td><span class="paper-title">A Double-Graph Based Framework for Frame Semantic Parsing. </span><em>Ce Zheng, Xudong Chen, Runxin Xu, Baobao Chang</em></td></tr>
 <tr id="paper" paper-id="970"><td id="paper-time"></td><td><span class="paper-title">Identifying Implicitly Abusive Remarks about Identity Groups using a Linguistically Informed Approach. </span><em>Michael Wiegand, Elisabeth Eder, Josef Ruppenhofer</em></td></tr>
 <tr id="paper" paper-id="294"><td id="paper-time"></td><td><span class="paper-title">Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media. </span><em>Lixing Zhu, Zheng Fang, Gabriele Pergola, Robert Procter, Yulan He</em></td></tr>
@@ -397,7 +397,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="589"><td id="paper-time"></td><td><span class="paper-title">MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. </span><em>Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang</em></td></tr>
 <tr id="paper" paper-id="901"><td id="paper-time"></td><td><span class="paper-title">A Corpus for Understanding and Generating Moral Stories. </span><em>Jian Guan, Ziqi Liu, Minlie Huang</em></td></tr>
-<tr id="paper" paper-id="457"><td id="paper-time"></td><td><span class="paper-title">End-to-End Chinese Speaker Identification: Formulation, Annotation, and Methods. </span><em>Dian Yu, Ben Zhou, Dong Yu</em></td></tr>
+<tr id="paper" paper-id="457"><td id="paper-time"></td><td><span class="paper-title">End-to-End Chinese Speaker Identification. </span><em>Dian Yu, Ben Zhou, Dong Yu</em></td></tr>
 <tr id="paper" paper-id="162"><td id="paper-time"></td><td><span class="paper-title">WALNUT: A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding. </span><em>Guoqing Zheng, Giannis Karamanolakis, Kai Shu, Ahmed Hassan Awadallah</em></td></tr>
 </table>
 </div>
@@ -627,7 +627,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="379"><td id="paper-time"></td><td><span class="paper-title">DEGREE: A Data-Efficient Generation-Based Event Extraction Model. </span><em>I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng</em></td></tr>
-<tr id="paper" paper-id="3721-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Text-based NP Enrichment. </span><em></em></td></tr>
+<tr id="paper" paper-id="3721-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Text-based NP Enrichment. </span><em>Yanai Elazar, Victoria Basmov, Yoav Goldberg</em></td></tr>
 <tr id="paper" paper-id="991"><td id="paper-time"></td><td><span class="paper-title">Few-Shot Document-Level Relation Extraction. </span><em>Nicholas Popovic, Michael Färber</em></td></tr>
 <tr id="paper" paper-id="823"><td id="paper-time"></td><td><span class="paper-title">Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies. </span><em>Minh Van Nguyen, Bonan Min, Franck Dernoncourt, Thien Huu Nguyen</em></td></tr>
 <tr id="paper" paper-id="988"><td id="paper-time"></td><td><span class="paper-title">Hyperbolic Relevance Matching for Neural Keyphrase Extraction. </span><em>Mingyang Song, Yi Feng, Liping Jing</em></td></tr>
@@ -890,7 +890,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7f-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="993"><td id="paper-time"></td><td><span class="paper-title">LaMemo: Language Modeling with Look-Ahead Memory. </span><em>Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang</em></td></tr>
-<tr id="paper" paper-id="3765-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity. </span><em></em></td></tr>
+<tr id="paper" paper-id="3765-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity. </span><em>Yiding Hao, Dana Angluin, Robert Evan Frank</em></td></tr>
 <tr id="paper" paper-id="843"><td id="paper-time"></td><td><span class="paper-title">Symbolic Knowledge Distillation: from General Language Models to Commonsense Models. </span><em>Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi</em></td></tr>
 <tr id="paper" paper-id="757"><td id="paper-time"></td><td><span class="paper-title">WECHSEL: Effective initialization of subword embeddings for cross-lingual transfer of monolingual language models. </span><em>Benjamin Minixhofer, Fabian Paischer, Navid Rekabsaz</em></td></tr>
 </table>

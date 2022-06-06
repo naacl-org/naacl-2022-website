@@ -11,9 +11,10 @@ secondary_excerpt: "July 10--15, 2022"
 
 <style>
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+.notice--warning del { color: #888; }
 </style>
 
-**[Registration](/registration/) is now open.** The early registration deadline is June 4, 2022, 11:59 PM (ET).
+**[Registration](/registration/) is now open.** The early registration deadline is ~~June 4~~ **June 10**, 2022, 11:59 PM (ET).
 {: .text-center .notice--warning}
 
 The [main conference schedule](/program/schedule/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
@@ -39,11 +40,7 @@ The [main conference schedule](/program/schedule/) and the list of [invited spea
 .dates-table del { color: #888; }
 </style>
 
-| Camera-ready due ([system demonstration](/calls/demos/)) | Wednesday | May 18, 2022 |
-| Camera-ready due ([SRW](/calls/srw/)) | Friday | May 20, 2022 |
-| Subsidies and volunteer [applications](/blog/subsidies/) | Tuesday | May 24, 2022 |
-| [Structured Socials](/blog/structured-social/) proposal deadline | Friday | May 27, 2022 |
-| Early [registration](/registration/) deadline | Saturday | June 4, 2022 (23:59 ET) |
+| Early [registration](/registration/) deadline | Saturday | ~~June 4~~ **June 10**, 2022 (23:59 ET) |
 | Late [registration](/registration/) deadline | Sunday | June 26, 2022 (09:00 ET) |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}

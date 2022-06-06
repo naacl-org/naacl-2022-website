@@ -6,17 +6,13 @@ toc: true
 toc_sticky: true
 ---
 
-Subsidies (travel and accomodation) and volunteer opportunities (with registration waivers) are available! [See here for more details](/blog/subsidies/). The deadline is **May 24**.
-Questions about subsidies should be sent to the [NAACL D&I team](mailto:naacl-2022-dei-chairs@googlegroups.com).
-{: .text-center .notice--info}
-
 [Register Here](https://www.yesevents.com/naacl2022){: .btn .btn--info .btn--large}
 {: .text-center}
 
 Registration opens Tuesday, 17 May 2022.  We have made every effort to keep registration fees affordable.  Please note that, **for the virtual attendees**, by paying the registration fee, you will enjoy full access to all tutorials, main conference and workshops.  **For in-person attendees**, by paying the full registration fee, you will be able to attend all tutorials, main conference and workshops of your choosing as well as the Welcome Reception and Social Event.  We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend particular workshop(s).
 
-* Early registration ends June 4, 2022, 11:59 PM (ET).
-* Late registration starts June 5, 2022 and ends June 26, 2022, 9:00 AM (ET).
+* Early registration ends ~~June 4~~ **June 10**, 2022, 11:59 PM (ET).
+* Late registration ends June 26, 2022, 9:00 AM (ET).
 * On-site registration begins June 26, 2022.  **It is suggested that onsite registration be completed and paid before you arrive at the registration desk.**  Bring a copy of your registration confirmation to the Onsite Registration Desk to pick up your badge.
 * If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed.  Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference.
 

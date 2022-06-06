@@ -11,6 +11,8 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Apr 19, 2022 | Call for [D&I subsidies and volunteer awards](/blog/subsidies/) have been announced.
+| Apr 12, 2022 | [Call for structured socials](/blog/structured-social/) is announced.
 | Apr 20, 2022 | [Camera-ready instructions](/blog/camera-ready) are available. 
 | Apr 19, 2022 | The notification of acceptance for the [demonstration track](/calls/demos/#important-dates) has been postponed to **April 21**.
 | Apr 15, 2022 | The list of [accepted tutorials](/program/tutorials/) is announced.

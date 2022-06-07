@@ -6,6 +6,7 @@ sidebar:
     nav: program
 toc: true
 toc_sticky: true
+toc_h_max: 2
 ---
 
 The following speakers have graciously accepted to give invited talks at NAACL 2022.
@@ -31,8 +32,43 @@ He has been visiting professor at the Polytechnic University of Valencia (Spain)
 **Talk title:** NLP in Mexican Spanish: One of many stories
 
 ## Panel: The Place of Linguistics and Symbolic Structures
-{: #panel}
+{: #panel-linguistics-symbolic-structures}
 
 **Moderator:** Dan Roth
 
 The widespread adoption of neural models in NLP research and the fact that NLP applications increasingly mediate people’s lives have prompted many discussions about what productive research directions might look like for our community. Since NAACL is a meeting of a chapter of the Association for Computational Linguistics, we would like to highlight specifically the role that linguistics and symbolic structures can play (or not) in shaping these research directions.
+
+## Panel: Careers in NLP Panel
+{: #panel-careers-in-nlp}
+
+The Careers in NLP Panel is a standing feature of NAACL Industry Track. The panel is addressed to graduate students and junior researchers as well as their supervisors and mentors, although all NAACL participants are welcomed. The panellists will discuss the diversity of career paths in NLP: from more research-oriented NLP scientist roles to careers in product. 
+
+### Moderator: Yunyao Li, Apple Knowledge Platform
+
+![Yunyao Li](/assets/images/keynotes/Yunyao_Li.jpg){: .align-center}
+
+Yunyao Li is the Head of Machine Learning, Apple Knowledge Platform, where her team builds the next-generation machine learning solutions to help power features such as Siri and Spotlight. Previously she was a Distinguished Research Staff Member and Senior Research Manager at IBM Research - Almaden. She is particularly known for her work in scalable NLP, enterprise search, and database usability. She has built systems, developed solutions, and delivered core technologies to over 20 IBM products under brands such as Watson, InfoSphere, and Cognos. She has published over 80 articles with multiple awards and a book. She was an IBM Master Inventor, with over 50 patents filed/granted. She is an ACM Distinguished Member. She was a member of the inaugural New Voices program of the US National Academies (1 out of 18 selected nationwide) and represented US young scientists at World Laureates Forum Young Scientists Forum in 2019 (1 of 4 selected nationwide).
+
+### Panelist: Yang Liu, Amazon, Alexa AI
+
+![Yang Liu](/assets/images/keynotes/Yang_Liu.jpg){: .align-center}
+
+Yang Liu is currently a principal scientist at Amazon, Alexa AI. Her research interest is in speech and language processing. She received her BS and MS from Tsinghua University, and Ph.D. from Purdue University. Before joining Amazon, she was the head of LAIX Silicon Valley AI lab, a research scientist at Facebook, visiting scientist at Google, a faculty member at the University of Texas at Dallas, and researcher at ICSI in Berkeley. She received NSF CAREER award and Air Force Young Investigator Program award. She is currently a member of the IEEE SLTC committee, a senior area editor for IEEE/ACM Transactions on Audio, Speech and Language Processing, an action editor for TACL. She was one of the program chairs for EMNLP 2020, and has served regularly as an area chair and reviewer in the past NLP conferences. She is a fellow of IEEE and ISCA.
+
+### Panelist: Timo Mertens, Grammarly
+
+![Timo Mertens](/assets/images/keynotes/Timo_Mertens.jpg){: .align-center}
+
+Timo Mertens is the Head of Machine Learning & NLP Products at Grammarly. In his role, he oversees the teams that design and build products that use machine learning and natural language processing. These technologies empower Grammarly to offer a digital writing assistant that helps millions of users write more clearly and effectively every day. Timo has focused on the intersection between machine learning and delivering impactful products throughout his career, spanning academia—with a Ph.D. in Speech Recognition—and industry, where he’s held product leadership positions across Microsoft, Google, and Dropbox.
+
+### Panelist: Thamar Solorio, University of Houston and Bloomberg LP
+
+![Thamar Solorio](/assets/images/keynotes/Thamar_Solorio.jpg){: .align-center}
+
+Thamar Solorio is a  Professor of Computer Science at the University of Houston (UH) and she is also a visiting scientist at Bloomberg LP. She holds graduate degrees in Computer Science from the Instituto Nacional de Astrofísica, Óptica y Electrónica, in Puebla, Mexico. Her research interests include information extraction from social media data, enabling technology for code-switched data, stylistic modelling of text, and more recently multimodal approaches for online content understanding. She is the director and founder of the Research in Text Understanding and Language Analysis Lab at UH. She is the recipient of an NSF CAREER award for her work on authorship attribution, and recipient of the 2014 Emerging Leader ABIE Award in Honor of Denice Denton. She is currently serving a second term as an elected board member of the North American Chapter of the Association of Computational Linguistics.
+
+### Panelist: Luke Zettlemoyer, University of Washington and Meta
+
+![Luke Zettlemoyer](/assets/images/keynotes/Luke_Zettlemoyer.jpg){: .align-center}
+
+Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, and a Research Scientist at Meta. His research focuses on empirical methods for natural language semantics, and involves designing machine learning algorithms, introducing new tasks and datasets, and, most recently, studying how to best develop self-supervision signals for pre-training. His honors include being named an ACL Fellow as well as winning a PECASE award, an Allen Distinguished Investigator award, and multiple best paper awards. 

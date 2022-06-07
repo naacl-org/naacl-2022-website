@@ -124,10 +124,20 @@ bronze:
     alt: UC Santa Cruz
     title: UC Santa Cruz
 di_champion:
-  - url: https://www.microsoft.com/en-ca/
+  - url: https://www.microsoft.com/
     image_path: /assets/images/logos/Microsoft.png
     alt: Microsoft
     title: Microsoft
+di_ally:
+  - url: https://www.deepmind.com/
+    image_path: /assets/images/logos/DeepMind.png
+    alt: DeepMind
+    title: DeepMind
+di_contributor:
+  - url: https://www.gresearch.co.uk
+    image_path: /assets/images/logos/G-research.png
+    alt: G-Research
+    title: G-Research
 ---
 
 NAACL 2022 is extremely grateful to all sponsors, who are listed below. We simply couldn't run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
@@ -178,7 +188,17 @@ For any questions regarding sponsorship, please email [sponsoring@aclweb.org](ma
 
 {% include sponsors-list id="bronze" layout="third" %}
 
-## Diversity and Inclusion: Champion
+## Diversity and Inclusion
+
+### Champion
 
 {% include sponsors-list id="di_champion" layout="third" %}
+
+### Ally
+
+{% include sponsors-list id="di_ally" layout="third" %}
+
+### Contributor
+
+{% include sponsors-list id="di_contributor" layout="third" %}
 

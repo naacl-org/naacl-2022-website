@@ -44,6 +44,18 @@ platinum:
     image_path: /assets/images/logos/Grammarly.png
     alt: Grammarly
     title: Grammarly
+  - url: https://www.bytedance.com/en
+    image_path: /assets/images/logos/ByteDance.png
+    alt: ByteDance
+    title: ByteDance
+  - url: https://www.kensho.com/
+    image_path: /assets/images/logos/Kensho.jpeg
+    alt: Kensho
+    title: Kensho
+  - url: https://www.revealdata.com/
+    image_path: /assets/images/logos/RevealData.png
+    alt: Reveal Data
+    title: Reveal Data
 gold:
   - url: https://www.relativity.com/
     image_path: /assets/images/logos/Relativity.png
@@ -61,6 +73,18 @@ gold:
     image_path: /assets/images/logos/ETS.jpg
     alt: ETS
     title: ETS
+  - url: https://cohere.com/
+    image_path: /assets/images/logos/Cohere.png
+    alt: Cohere.ai
+    title: Cohere.ai
+  - url: https://www.gresearch.co.uk
+    image_path: /assets/images/logos/G-research.png
+    alt: G-Research
+    title: G-Research
+  - url: https://openai.com/
+    image_path: /assets/images/logos/OpenAI.png
+    alt: OpenAI
+    title: OpenAI
 silver:
   - url: https://www.asapp.com/
     image_path: /assets/images/logos/ASAPP.png
@@ -70,6 +94,10 @@ silver:
     image_path: /assets/images/logos/Duolingo.png
     alt: Duolingo
     title: Duolingo
+  - url: https://www.magicdatatech.com/
+    image_path: /assets/images/logos/MagicData.jpeg
+    alt: Magic Data
+    title: Magic Data
 bronze:
   - url: https://research.adobe.com/
     image_path: /assets/images/logos/Adobe.png
@@ -83,6 +111,18 @@ bronze:
     image_path: /assets/images/logos/HLTCOE.png
     alt: Human Language Technology Center of Excellence
     title: Human Language Technology Center of Excellence
+  - url: https://www.linkedin.com/
+    image_path: /assets/images/logos/LinkedIn.png
+    alt: LinkedIn
+    title: LinkedIn
+  - url: https://www.rakuten.com/
+    image_path: /assets/images/logos/Rakuten.png
+    alt: Rakuten
+    title: Rakuten
+  - url: https://www.ucsc.edu/
+    image_path: /assets/images/logos/UCSC.png
+    alt: UC Santa Cruz
+    title: UC Santa Cruz
 di_champion:
   - url: https://www.microsoft.com/en-ca/
     image_path: /assets/images/logos/Microsoft.png

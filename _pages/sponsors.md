@@ -95,7 +95,7 @@ silver:
     alt: Duolingo
     title: Duolingo
   - url: https://www.magicdatatech.com/
-    image_path: /assets/images/logos/MagicData.jpeg
+    image_path: /assets/images/logos/MagicData.png
     alt: Magic Data
     title: Magic Data
 bronze:

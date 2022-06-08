@@ -45,71 +45,47 @@
 364 #
 = Session 1F: Poster Session 1
 @ Computational Social Science and Cultural Analytics
-42 #
-975 #
 852 #
 351 #
 @ Ethics
-549 #
 330 #
 653 #
 520 #
-200 #
 128 #
 @ Information Retrieval
 52 #
 829 #
 780 #
-734 #
 659 #
-298 #
 @ Interpretability and Analysis of Models for NLP
 716 #
 438 #
 395 #
-316 #
 113 #
 899 #
 820 #
-678 #
 437 #
 302 #
 @ Language Grounding to Vision
-99 #
 672 #
-286 #
-1038 #
 821 #
 @ Machine Translation
 260 #
-110 #
-493 #
-340 #
-83 #
-747 #
-632 #
 482 #
 4 #
 109 #
 @ Multilinguality
 756 #
-350 #
 263 #
 @ NLP Application
 338 #
-15 #
 915 #
 656 #
 478 #
-1020 #
 98 #
-280 #
-595 #
-108 #
 @ Human-Centered NLP
 52-special #
 99-special #
-36-special #
 5-special #
 
 ! 12:15--13:15 Lunch
@@ -157,30 +133,24 @@
 779 #
 = Session 2F: Poster Session 2
 @ Dialogue and Interactive Systems
-235 #
+913 #
+871 #
+789 #
 428 #
 778 #
 228 #
 133 #
 421 #
 37 #
-205 #
-786 #
-334 #
-849 #
 941 #
 838 #
 156 #
 8 #
-913 #
 871 #
 789 #
 @ Efficient Methods in NLP
-876 #
 14 #
-815 #
 775 #
-435 #
 @ Language Generation
 273 #
 238 #
@@ -191,35 +161,15 @@
 502 #
 630 #
 163 #
-572 #
-888 #
-433 #
-537 #
-389 #
-597 #
-612 #
-718 #
-536 #
-769 #
-116 #
 952 #
-284 #
 @ Machine Learning
-854 #
-705 #
-326 #
-446 #
-269 #
 217 #
 976 #
 967 #
-1049 #
 344 #
-807 #
 963 #
 489 #
 253 #
-671 #
 3 #
 921 #
 842 #
@@ -228,8 +178,6 @@
 @ Summarization
 324 #
 59 #
-983 #
-422 #
 480 #
 @ Syntax: Tagging, Chunking and Parsing
 246 #
@@ -318,13 +266,9 @@
 249 #
 = Session 4F: Poster Session 3
 @ Discourse and Pragmatics
-562 #
 @ Language Resources
 887 #
-283 #
 660 #
-544 #
-53 #
 812 #
 407 #
 9 #
@@ -333,45 +277,31 @@
 529 #
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 714 #
-168 #
 @ Question Answering
-43 #
-741 #
-362 #
 76 #
 806 #
-70 #
-509 #
-320 #
 222 #
 761 #
 212 #
 528 #
 @ Semantics: Sentence-level Semantics and Textual Inference
 663 #
-390 #
-331 #
 224 #
 22 #
 971 #
 953 #
 857 #
-839 #
 794 #
 487 #
 29 #
 @ Sentiment Analysis and Stylistic Analysis
 513 #
-801 #
-303 #
 657 #
 492 #
 120 #
-49 #
 @ Speech
 693 #
 @ Phonology
-810 #
 
 ! 12:15--14:15 Lunch + Business Meeting
 

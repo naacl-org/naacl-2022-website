@@ -82,14 +82,14 @@ class RawSchedule:
         for record in self.records:
             if all(record.get(key) == query[key] for key in query):
                 if record.get('used'):
-                    logging.warning('Repeated record: {}'.format(record))
+                    logging.warning('Repeated schedule record: {}'.format(record))
                 record['used'] = True
                 yield record
 
     def report_unused(self):
         for record in self.records:
             if not record.get('used'):
-                logging.warning('Unused record: {}'.format(record))
+                logging.warning('Unused schedule record: {}'.format(record))
 
 
 class RawMetadata:
@@ -153,13 +153,13 @@ class RawMetadata:
         for record in self.records:
             if record['paper_id'] == paper_id:
                 if record.get('used'):
-                    logging.warning('Repeated record: {}'.format(record))
+                    logging.warning('Repeated metadata record: {}'.format(record))
                 record['used'] = True
 
     def report_unused(self):
         for record in self.records:
             if not record.get('used'):
-                logging.warning('Unused record: {}'.format(record))
+                logging.warning('Unused metadata record: {}'.format(record))
 
     def dump_metadata(self, path):
         with open(path, 'w') as fout:
@@ -182,8 +182,8 @@ def main():
 
     # Read data
     raw_schedule.read_tsv(_RAW_PAPER_SCHEDULE)
-    raw_schedule.read_tsv(_RAW_POSTER_SCHEDULE, extra_info={'format': 'in-person'})
-    raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, extra_info={'format': 'virtual'})
+    raw_schedule.read_tsv(_RAW_POSTER_SCHEDULE, extra_info={'Format': 'in-person'})
+    raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1')
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2')
     raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster')

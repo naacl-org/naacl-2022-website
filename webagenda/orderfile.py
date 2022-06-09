@@ -376,7 +376,7 @@ class Day(object):
         self.contents = []
 
     def __str__(self):
-        return self.datetime.strftime('%A, %B %d, %Y')
+        return self.datetime
 
     def __repr__(self):
         return 'Day <{}>'.format(str(self))
@@ -400,7 +400,7 @@ class Day(object):
             An instance of `Day`.
         """
         real_day_string = day_string.lstrip('* ').rstrip()
-        return cls(datetime.strptime(real_day_string, '%A, %B %d, %Y'))
+        return cls(real_day_string)
 
     def add(self, session_or_session_group):
         """

@@ -54,15 +54,11 @@
 653
 520
 128
-200
-549
 @ Information Retrieval
 52
 829
 780
 659
-298
-734
 @ Interpretability and Analysis of Models for NLP
 716
 438
@@ -73,46 +69,27 @@
 437
 302
 3207-tacl
-316
-678
 @ Language Grounding to Vision
 672
 821
-99
-286
-1038
 @ Machine Translation
 260
 482
 4
 109
-83
-110
-340
-493
-632
-747
 @ Multilinguality
 756
 263
 2-cl
-350
 @ NLP Application
 915
 656
 478
 98
-15
-108
-280
-338
-595
-1020
 @ Human-Centered NLP
 52-special
 99-special
 5-special
-36-special
 
 ! 12:15--13:15 Lunch
 
@@ -170,19 +147,9 @@
 838
 156
 8
-205
-334
-786
-789
-849
-871
-913
 @ Efficient Methods in NLP
 14
 775
-435
-815
-876
 @ Language Generation
 273
 238
@@ -194,18 +161,6 @@
 630
 163
 952
-116
-284
-389
-433
-536
-537
-572
-597
-612
-718
-769
-888
 @ Machine Learning
 217
 976
@@ -219,20 +174,10 @@
 842
 149
 179
-269
-326
-446
-671
-705
-807
-854
-1049
 @ Summarization
 324
 59
 480
-422
-983
 @ Syntax: Tagging, Chunking and Parsing
 246
 1-cl
@@ -321,7 +266,6 @@
 249
 = Session 4F: Poster Session 3
 @ Discourse and Pragmatics
-562
 @ Language Resources
 887
 660
@@ -332,13 +276,9 @@
 688
 529
 3319-tacl
-53
-283
-544
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 714
 2887-tacl
-168
 @ Question Answering
 76
 806
@@ -347,12 +287,6 @@
 212
 528
 2849-tacl
-43
-70
-320
-362
-509
-741
 @ Semantics: Sentence-level Semantics and Textual Inference
 663
 224
@@ -363,21 +297,14 @@
 794
 487
 29
-331
-390
-839
 @ Sentiment Analysis and Stylistic Analysis
 513
 657
 492
 120
-49
-303
-801
 @ Speech
 693
 @ Phonology
-810
 
 ! 12:15--14:15 Lunch + Business Meeting
 
@@ -667,3 +594,81 @@
 ! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a>
 
 ! 17:15--17:45 Closing Session
+
+* Virtual Posters (to be scheduled to Q&A sessions)
+
++ 0:00--0:00 Virtual Posters
+= Session X: Virtual Posters
+200
+549
+36-special
+298
+734
+316
+678
+99
+286
+1038
+83
+110
+340
+493
+632
+747
+350
+15
+108
+280
+338
+595
+1020
+205
+334
+786
+789
+849
+871
+913
+435
+815
+876
+116
+284
+389
+433
+536
+537
+572
+597
+612
+718
+769
+888
+269
+326
+446
+671
+705
+807
+854
+1049
+422
+983
+562
+53
+283
+544
+168
+810
+43
+70
+320
+362
+509
+741
+331
+390
+839
+49
+303
+801

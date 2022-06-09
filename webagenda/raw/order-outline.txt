@@ -20,23 +20,23 @@
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
 = Session 1F: Poster Session 1
 @ Computational Social Science and Cultural Analytics
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Computational Social Science and Cultural Analytics"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Computational Social Science and Cultural Analytics"}
 @ Ethics
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Ethics"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Ethics"}
 @ Information Retrieval
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Information Retrieval"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Information Retrieval"}
 @ Interpretability and Analysis of Models for NLP
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Interpretability and Analysis of Models for NLP"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Interpretability and Analysis of Models for NLP"}
 @ Language Grounding to Vision
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Language Grounding to Vision"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Language Grounding to Vision"}
 @ Machine Translation
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Machine Translation"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Machine Translation"}
 @ Multilinguality
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Multilinguality"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Multilinguality"}
 @ NLP Application
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "NLP Application"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "NLP Application"}
 @ Human-Centered NLP
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Human-Centered NLP"}
+{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Human-Centered NLP"}
 
 ! 12:15--13:15 Lunch
 
@@ -58,19 +58,19 @@
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
 = Session 2F: Poster Session 2
 @ Dialogue and Interactive Systems
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Dialogue and Interactive Systems"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Dialogue and Interactive Systems"}
 @ Efficient Methods in NLP
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Efficient Methods in NLP"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Efficient Methods in NLP"}
 @ Language Generation
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Language Generation"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Language Generation"}
 @ Information Extraction
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Information Extraction"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Information Extraction"}
 @ Machine Learning
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Machine Learning"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Machine Learning"}
 @ Summarization
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Summarization"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Summarization"}
 @ Syntax: Tagging, Chunking and Parsing
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Syntax: Tagging, Chunking and Parsing"}
+{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Syntax: Tagging, Chunking and Parsing"}
 
 ! 16:00--16:30 Break
 
@@ -113,21 +113,21 @@
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
 = Session 4F: Poster Session 3
 @ Discourse and Pragmatics
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Discourse and Pragamtics"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Discourse and Pragamtics"}
 @ Language Resources
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Language Resources"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Language Resources"}
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"}
 @ Question Answering
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Question Answering"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Question Answering"}
 @ Semantics: Sentence-level Semantics and Textual Inference
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Semantics: Sentence-level Semantics and Textual Inference"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Semantics: Sentence-level Semantics and Textual Inference"}
 @ Sentiment Analysis and Stylistic Analysis
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Sentiment Analysis and Stylistic Analysis"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Sentiment Analysis and Stylistic Analysis"}
 @ Speech
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Speech"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Speech"}
 @ Phonology
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Phonology"}
+{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Phonology"}
 
 ! 12:15--14:15 Lunch + Business Meeting
 
@@ -235,3 +235,11 @@
 ! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a>
 
 ! 17:15--17:45 Closing Session
+
+* Virtual Posters (to be scheduled to Q&A sessions)
+
++ 0:00--0:00 Virtual Posters
+= Session X: Virtual Posters
+{"Session Name": "Poster session 1", "Format": "virtual"}
+{"Session Name": "Poster session 2", "Format": "virtual"}
+{"Session Name": "Poster session 3", "Format": "virtual"}

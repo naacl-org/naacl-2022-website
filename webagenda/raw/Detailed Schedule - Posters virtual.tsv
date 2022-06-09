@@ -1,77 +1,74 @@
-Day	Session Name	Paper ID	Track	Session start time				
-Day 1	Poster session 1	549	Ethics	10:45				
-Day 1	Poster session 1	200	Ethics	10:45				
-Day 1	Poster session 1	734	Information Retrieval	10:45				
-Day 1	Poster session 1	298	Information Retrieval	10:45				
-Day 1	Poster session 1	316	Interpretability and Analysis of Models for NLP	10:45				
-Day 1	Poster session 1	678	Interpretability and Analysis of Models for NLP	10:45				
-Day 1	Poster session 1	99	Language Grounding to Vision	10:45				
-Day 1	Poster session 1	286	Language Grounding to Vision	10:45				
-Day 1	Poster session 1	1038	Language Grounding to Vision	10:45				
-Day 1	Poster session 1	350	Multilinguality	10:45				
-Day 1	Poster session 1	110	Machine Translation	10:45				
-Day 1	Poster session 1	493	Machine Translation	10:45				
-Day 1	Poster session 1	340	Machine Translation	10:45				
-Day 1	Poster session 1	83	Machine Translation	10:45				
-Day 1	Poster session 1	747	Machine Translation	10:45				
-Day 1	Poster session 1	632	Machine Translation	10:45				
-Day 1	Poster session 1	338	NLP Application	10:45				
-Day 1	Poster session 1	15	NLP Application	10:45				
-Day 1	Poster session 1	1020	NLP Application	10:45				
-Day 1	Poster session 1	280	NLP Application	10:45				
-Day 1	Poster session 1	595	NLP Application	10:45				
-Day 1	Poster session 1	108	NLP Application	10:45				
-Day 1	Poster session 1	36-special	Human-Centered NLP	10:45				
-Day 1	Poster session 2	913	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	871	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	789	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	205	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	786	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	334	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	849	Dialogue and Interactive Systems	14:30				
-Day 1	Poster session 2	876	Efficient Methods in NLP	14:30				
-Day 1	Poster session 2	815	Efficient Methods in NLP	14:30				
-Day 1	Poster session 2	435	Efficient Methods in NLP	14:30				
-Day 1	Poster session 2	14	Efficient Methods in NLP	14:30				
-Day 1	Poster session 2	273	Language Generation	14:30				
-Day 1	Poster session 2	257	Language Generation	14:30				
-Day 1	Poster session 2	572	Information Extraction	14:30				
-Day 1	Poster session 2	888	Information Extraction	14:30				
-Day 1	Poster session 2	433	Information Extraction	14:30				
-Day 1	Poster session 2	537	Information Extraction	14:30				
-Day 1	Poster session 2	389	Information Extraction	14:30				
-Day 1	Poster session 2	597	Information Extraction	14:30				
-Day 1	Poster session 2	612	Information Extraction	14:30				
-Day 1	Poster session 2	718	Information Extraction	14:30				
-Day 1	Poster session 2	536	Information Extraction	14:30				
-Day 1	Poster session 2	769	Information Extraction	14:30				
-Day 1	Poster session 2	116	Information Extraction	14:30				
-Day 1	Poster session 2	284	Information Extraction	14:30				
-Day 1	Poster session 2	854	Machine Learning	14:30				
-Day 1	Poster session 2	705	Machine Learning	14:30				
-Day 1	Poster session 2	326	Machine Learning	14:30				
-Day 1	Poster session 2	446	Machine Learning	14:30				
-Day 1	Poster session 2	269	Machine Learning	14:30				
-Day 1	Poster session 2	1049	Machine Learning	14:30				
-Day 1	Poster session 2	807	Machine Learning	14:30				
-Day 1	Poster session 2	671	Machine Learning	14:30				
-Day 1	Poster session 2	983	Summarization	14:30				
-Day 1	Poster session 2	422	Summarization	14:30				
-Day 2	Poster session 3	562	Discourse and Pragamtics	10:45				
-Day 2	Poster session 3	283	Language Resources	10:45				
-Day 2	Poster session 3	544	Language Resources	10:45				
-Day 2	Poster session 3	53	Language Resources	10:45				
-Day 2	Poster session 3	168	"Linguistic Theories, Cognitive Modeling and Psycholinguistics"	10:45				
-Day 2	Poster session 3	810	Phonology	10:45				
-Day 2	Poster session 3	43	Question Answering	10:45				
-Day 2	Poster session 3	741	Question Answering	10:45				
-Day 2	Poster session 3	362	Question Answering	10:45				
-Day 2	Poster session 3	70	Question Answering	10:45				
-Day 2	Poster session 3	509	Question Answering	10:45				
-Day 2	Poster session 3	320	Question Answering	10:45				
-Day 2	Poster session 3	390	Semantics: Sentence-level Semantics and Textual Inference	10:45				
-Day 2	Poster session 3	331	Semantics: Sentence-level Semantics and Textual Inference	10:45				
-Day 2	Poster session 3	839	Semantics: Sentence-level Semantics and Textual Inference	10:45				
-Day 2	Poster session 3	801	Sentiment Analysis and Stylistic Analysis	10:45				
-Day 2	Poster session 3	303	Sentiment Analysis and Stylistic Analysis	10:45				
-Day 2	Poster session 3	49	Sentiment Analysis and Stylistic Analysis	10:45				
+Day	Session Name	Paper ID	Track	Session start time
+Day 1	Poster session 1 	200	Ethics	10:45
+Day 1	Poster session 1 	549	Ethics	10:45
+Day 1	Poster session 1 	36-special	Human-Centered NLP	10:45
+Day 1	Poster session 1 	298	Information Retrieval	10:45
+Day 1	Poster session 1 	734	Information Retrieval	10:45
+Day 1	Poster session 1 	316	Interpretability and Analysis of Models for NLP	10:45
+Day 1	Poster session 1 	678	Interpretability and Analysis of Models for NLP	10:45
+Day 1	Poster session 1 	99	Language Grounding to Vision	10:45
+Day 1	Poster session 1 	286	Language Grounding to Vision	10:45
+Day 1	Poster session 1 	1038	Language Grounding to Vision	10:45
+Day 1	Poster session 1 	83	Machine Translation	10:45
+Day 1	Poster session 1 	110	Machine Translation	10:45
+Day 1	Poster session 1 	340	Machine Translation	10:45
+Day 1	Poster session 1 	493	Machine Translation	10:45
+Day 1	Poster session 1 	632	Machine Translation	10:45
+Day 1	Poster session 1 	747	Machine Translation	10:45
+Day 1	Poster session 1 	350	Multilinguality	10:45
+Day 1	Poster session 1 	15	NLP Application	10:45
+Day 1	Poster session 1 	108	NLP Application	10:45
+Day 1	Poster session 1 	280	NLP Application	10:45
+Day 1	Poster session 1 	338	NLP Application	10:45
+Day 1	Poster session 1 	595	NLP Application	10:45
+Day 1	Poster session 1 	1020	NLP Application	10:45
+Day 1	Poster session 2	205	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	334	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	786	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	789	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	849	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	871	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	913	Dialogue and Interactive Systems	14:30
+Day 1	Poster session 2	435	Efficient Methods in NLP	14:30
+Day 1	Poster session 2	815	Efficient Methods in NLP	14:30
+Day 1	Poster session 2	876	Efficient Methods in NLP	14:30
+Day 1	Poster session 2	116	Information Extraction	14:30
+Day 1	Poster session 2	284	Information Extraction	14:30
+Day 1	Poster session 2	389	Information Extraction	14:30
+Day 1	Poster session 2	433	Information Extraction	14:30
+Day 1	Poster session 2	536	Information Extraction	14:30
+Day 1	Poster session 2	537	Information Extraction	14:30
+Day 1	Poster session 2	572	Information Extraction	14:30
+Day 1	Poster session 2	597	Information Extraction	14:30
+Day 1	Poster session 2	612	Information Extraction	14:30
+Day 1	Poster session 2	718	Information Extraction	14:30
+Day 1	Poster session 2	769	Information Extraction	14:30
+Day 1	Poster session 2	888	Information Extraction	14:30
+Day 1	Poster session 2	269	Machine Learning	14:30
+Day 1	Poster session 2	326	Machine Learning	14:30
+Day 1	Poster session 2	446	Machine Learning	14:30
+Day 1	Poster session 2	671	Machine Learning	14:30
+Day 1	Poster session 2	705	Machine Learning	14:30
+Day 1	Poster session 2	807	Machine Learning	14:30
+Day 1	Poster session 2	854	Machine Learning	14:30
+Day 1	Poster session 2	1049	Machine Learning	14:30
+Day 1	Poster session 2	422	Summarization	14:30
+Day 1	Poster session 2	983	Summarization	14:30
+Day 2	Poster session 3	562	Discourse and Pragamtics	10:45
+Day 2	Poster session 3	53	Language Resources	10:45
+Day 2	Poster session 3	283	Language Resources	10:45
+Day 2	Poster session 3	544	Language Resources	10:45
+Day 2	Poster session 3	168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	10:45
+Day 2	Poster session 3	810	Phonology	10:45
+Day 2	Poster session 3	43	Question Answering	10:45
+Day 2	Poster session 3	70	Question Answering	10:45
+Day 2	Poster session 3	320	Question Answering	10:45
+Day 2	Poster session 3	362	Question Answering	10:45
+Day 2	Poster session 3	509	Question Answering	10:45
+Day 2	Poster session 3	741	Question Answering	10:45
+Day 2	Poster session 3	331	Semantics: Sentence-level Semantics and Textual Inference	10:45
+Day 2	Poster session 3	390	Semantics: Sentence-level Semantics and Textual Inference	10:45
+Day 2	Poster session 3	839	Semantics: Sentence-level Semantics and Textual Inference	10:45
+Day 2	Poster session 3	49	Sentiment Analysis and Stylistic Analysis	10:45
+Day 2	Poster session 3	303	Sentiment Analysis and Stylistic Analysis	10:45
+Day 2	Poster session 3	801	Sentiment Analysis and Stylistic Analysis	10:45

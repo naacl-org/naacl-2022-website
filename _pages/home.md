@@ -14,7 +14,10 @@ secondary_excerpt: "July 10--15, 2022"
 .notice--warning del { color: #888; }
 </style>
 
-**[Registration](/registration/) is now open.** The early registration deadline is ~~June 4~~ **June 10**, 2022, 11:59 PM (ET).
+In-person posters have to be **portrait** (the poster boards are vertical: 4’ width × 8’ height).
+{: .text-center .notice--danger}
+
+**[Registration](/registration/) is now open.** The early registration deadline is ~~June 4~~ **June 10**, 2022, 11:59 PM (Eastern Time).
 {: .text-center .notice--warning}
 
 The [main conference schedule](/program/schedule/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.

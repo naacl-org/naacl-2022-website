@@ -191,6 +191,7 @@ def main():
     raw_schedule.check_duplicates()
 
     raw_metadata.read_main_tsv(_RAW_PAPER_DETAILS)
+    raw_metadata.read_main_tsv(_RAW_FINDING_DETAILS)
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_1)
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_2)
     raw_metadata.read_industry_csv(_INDUSTRY_POSTER)

@@ -72,6 +72,7 @@
 820
 437
 302
+3207-tacl
 316
 678
 @ Language Grounding to Vision
@@ -94,6 +95,7 @@
 @ Multilinguality
 756
 263
+2-cl
 350
 @ NLP Application
 915
@@ -233,6 +235,7 @@
 983
 @ Syntax: Tagging, Chunking and Parsing
 246
+1-cl
 
 ! 16:00--16:30 Break
 
@@ -328,11 +331,13 @@
 368
 688
 529
+3319-tacl
 53
 283
 544
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 714
+2887-tacl
 168
 @ Question Answering
 76
@@ -341,6 +346,7 @@
 761
 212
 528
+2849-tacl
 43
 70
 320

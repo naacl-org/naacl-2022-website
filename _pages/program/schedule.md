@@ -148,6 +148,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="poster" poster-id="820"><td><span class="poster-title">Informativeness and Invariance: Two Perspectives on Spurious Correlations in Natural Language. </span><em>Jacob Eisenstein</em></td></tr>
 <tr id="poster" poster-id="437"><td><span class="poster-title">On the Diversity and Limits of Human Explanations. </span><em>Chenhao Tan</em></td></tr>
 <tr id="poster" poster-id="302"><td><span class="poster-title">Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models. </span><em>Karolina Stanczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</em></td></tr>
+<tr id="poster" poster-id="3207-tacl"><td><span class="poster-title">[TACL] Explanation-Based Human Debugging of NLP Models: A Survey. </span><em>Piyawat Lertvittayakumjorn, Francesca Toni</em></td></tr>
 <tr id="poster" poster-id="316"><td><span class="poster-title">Implicit n-grams Induced by Recurrence. </span><em>Xiaobing Sun, Wei Lu</em></td></tr>
 <tr id="poster" poster-id="678"><td><span class="poster-title">How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns. </span><em>Stephanie Brandl, Ruixiang Cui, Anders Søgaard</em></td></tr>
 <tr><td><span class="poster-type">Language Grounding to Vision</span></td></tr>
@@ -170,6 +171,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr><td><span class="poster-type">Multilinguality</span></td></tr>
 <tr id="poster" poster-id="756"><td><span class="poster-title">Towards Debiasing Translation Artifacts. </span><em>KOEL DUTTA CHOWDHURY, Rricha Jalota, Cristina España-Bonet, Josef van Genabith</em></td></tr>
 <tr id="poster" poster-id="263"><td><span class="poster-title">Pretrained Models for Multilingual Federated Learning. </span><em>Orion Weller, Marc Marone, Vladimir Braverman, Dawn Lawrie, Benjamin Van Durme</em></td></tr>
+<tr id="poster" poster-id="2-cl"><td><span class="poster-title">[CL] Investigating Language Relationships in Multilingual Sentence Encoders through the Lens of Linguistic Typology. </span><em>Rochelle Choenni, Ekaterina Shutova</em></td></tr>
 <tr id="poster" poster-id="350"><td><span class="poster-title">BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer. </span><em>Marinela Parović, Goran Glavaš, Ivan Vulić, Anna Korhonen</em></td></tr>
 <tr><td><span class="poster-type">NLP Application</span></td></tr>
 <tr id="poster" poster-id="915"><td><span class="poster-title">DynamicTOC: Persona-based Table of Contents for Consumption of Long Documents. </span><em>Himanshu Maheshwari, Nethraa Sivakumar, Shelly Jain, Tanvi Karandikar, Vinay Aggarwal, Navita Goyal, Sumit Shekhar</em></td></tr>
@@ -252,7 +254,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="370"><td id="paper-time"></td><td><span class="paper-title">The Devil is in the Details: On the Pitfalls of Vocabulary Selection in Neural Machine Translation. </span><em>Tobias Domhan, Eva Hasler, Ke Tran, Sony Trenous, Bill Byrne, Felix Hieber</em></td></tr>
 <tr id="paper" paper-id="289"><td id="paper-time"></td><td><span class="paper-title">BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation. </span><em>Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan, Ming Zhou</em></td></tr>
 <tr id="paper" paper-id="348"><td id="paper-time"></td><td><span class="paper-title">Non-Autoregressive Machine Translation: It's Not as Fast as it Seems. </span><em>Jindřich Helcl, Barry Haddow, Alexandra Birch</em></td></tr>
-<tr id="paper" paper-id="3735-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Minimum Bayes Risk Decoding with Neural Metrics of Translation Quality. </span><em>Markus Freitag, David Grangier, Qijun Tan, Bowen Liang</em></td></tr>
+<tr id="paper" paper-id="3735-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] High Quality Rather than High Model Probability: Minimum Bayes Risk Decoding with Neural Metrics. </span><em>Markus Freitag, David Grangier, Qijun Tan, Bowen Liang</em></td></tr>
 </table>
 </div>
 </div>
@@ -354,6 +356,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="poster" poster-id="983"><td><span class="poster-title">Investigating Crowdsourcing Protocols for Evaluating the Factual Consistency of Summaries. </span><em>Xiangru Tang, Alexander Fabbri, Haoran Li, Ziming Mao, Griffin Thomas Adams, Borui Wang, Asli Celikyilmaz, Yashar Mehdad, Dragomir Radev</em></td></tr>
 <tr><td><span class="poster-type">Syntax: Tagging, Chunking and Parsing</span></td></tr>
 <tr id="poster" poster-id="246"><td><span class="poster-title">Sort by Structure: Language Model Ranking as Dependency Probing. </span><em>Max Müller-Eberstein, Rob van der Goot, Barbara Plank</em></td></tr>
+<tr id="poster" poster-id="1-cl"><td><span class="poster-title">[CL] The Impact of Edge Displacement Vaserstein Distance on UD Parsing Performance. </span><em>Mark Anderson, Carlos Gómez-Rodríguez</em></td></tr>
 </table>
 </div>
 </div>
@@ -539,11 +542,13 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="poster" poster-id="368"><td><span class="poster-title">Extending Multi-Text Sentence Fusion Resources via Pyramid Annotations. </span><em>Daniela Brook Weiss, Paul Roit, Ori Ernst, Ido Dagan</em></td></tr>
 <tr id="poster" poster-id="688"><td><span class="poster-title">ChapterBreak: A Challenge Dataset for Long-Range Language Models. </span><em>Simeng Sun, Katherine Thai, Mohit Iyyer</em></td></tr>
 <tr id="poster" poster-id="529"><td><span class="poster-title">The USMLE® Step 2 Clinical Skills Patient Note Corpus. </span><em>Victoria Yaneva, Janet Mee, Le An Ha, Polina Harik, Michael Jodoin, Alex J Mechaber</em></td></tr>
+<tr id="poster" poster-id="3319-tacl"><td><span class="poster-title">[TACL] Czech Grammar Error Correction with a Large and Diverse Corpus. </span><em>Jakub Náplava, Milan Straka, Jana Straková, Alexandr Rosen</em></td></tr>
 <tr id="poster" poster-id="53"><td><span class="poster-title">SwahBERT: Language Model of Swahili. </span><em>Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo</em></td></tr>
 <tr id="poster" poster-id="283"><td><span class="poster-title">Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding. </span><em>Ao Jia, Yu He, Yazhou Zhang, Sagar Uprety, Dawei Song, Christina Lioma</em></td></tr>
 <tr id="poster" poster-id="544"><td><span class="poster-title">Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification. </span><em>Yang Xiao, Jinlan Fu, See-Kiong Ng, Pengfei Liu</em></td></tr>
 <tr><td><span class="poster-type">Linguistic Theories, Cognitive Modeling and Psycholinguistics</span></td></tr>
 <tr id="poster" poster-id="714"><td><span class="poster-title">A Computational Acquisition Model for Multimodal Word Categorization. </span><em>Uri Berger, Gabriel Stanovsky, Omri Abend, Lea Frermann</em></td></tr>
+<tr id="poster" poster-id="2887-tacl"><td><span class="poster-title">[TACL] He Thinks He Knows Better than the Doctors: BERT for Event Factuality Fails on Pragmatics. </span><em>Nanjiang Jiang, Marie-Catherine Hedwige de Marneffe</em></td></tr>
 <tr id="poster" poster-id="168"><td><span class="poster-title">Abstraction not Memory: BERT and the English Article System. </span><em>Harish Tayyar Madabushi, Dagmar Divjak, Petar Milin</em></td></tr>
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
 <tr id="poster" poster-id="76"><td><span class="poster-title">Ask Me Anything in Your Native Language. </span><em>Nikita Sorokin, Dmitry Abulkhanov, Irina Piontkovskaya, Valentin Malykh</em></td></tr>
@@ -552,6 +557,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="poster" poster-id="761"><td><span class="poster-title">A New Concept of Knowledge based Question Answering (KBQA) System for Multi-hop Reasoning. </span><em>Yu Wang, Vijay Srinivasan, Hongxia Jin</em></td></tr>
 <tr id="poster" poster-id="212"><td><span class="poster-title">Yes, No or IDK: The Challenge of Unanswerable Yes/No Questions. </span><em>Elior Sulem, Jamaal Hay, Dan Roth</em></td></tr>
 <tr id="poster" poster-id="528"><td><span class="poster-title">Long Context Question Answering via Supervised Contrastive Learning. </span><em>Avi Caciularu, Ido Dagan, Jacob Goldberger, Arman Cohan</em></td></tr>
+<tr id="poster" poster-id="2849-tacl"><td><span class="poster-title">[TACL] Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study. </span><em>Xiangyang Mou, Chenghao Yang, Mo Yu, Bingsheng Yao, Xiaoxiao Guo, Saloni Potdar, Hui Su</em></td></tr>
 <tr id="poster" poster-id="43"><td><span class="poster-title">Cooperative Self-training of Machine Reading Comprehension. </span><em>Hongyin Luo, Shang-Wen Li, Mingye Gao, Seunghak Yu, James R. Glass</em></td></tr>
 <tr id="poster" poster-id="70"><td><span class="poster-title">Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding. </span><em>Hao Huang, Xiubo Geng, Guodong Long, Daxin Jiang</em></td></tr>
 <tr id="poster" poster-id="320"><td><span class="poster-title">OPERA: Operation-Pivoted Discrete Reasoning over Text. </span><em>Yongwei Zhou, Junwei Bao, Chaoqun Duan, Haipeng Sun, jiahui liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao</em></td></tr>

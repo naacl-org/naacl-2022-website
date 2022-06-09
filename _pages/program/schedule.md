@@ -35,7 +35,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="schedule">
 <div class="day" id="day-1">Monday, July 11, 2022</div>
 <div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: Batya Friedman</span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Session 1 + In-person Poster Session 1</div>
@@ -192,7 +192,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
-<div class="session session-plenary"><span class="session-title">Industry Panel</span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span></div>
+<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span></div>
 <div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span></div>
 <div class="session-box" id="session-box-2">
 <div class="session-header" id="session-header-2">Session 2 + In-person Poster Session 2</div>
@@ -443,7 +443,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Panel: "The Place of Linguistics and Symbolic Structures"</span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Session 4 + In-person Poster Session 3 + SRW Oral Session 1</div>
@@ -1137,7 +1137,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: Manuel Montes-y-Gómez</span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
 <div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span></div>
 <div id="generatePDFForm">
 <div id="formContainer">

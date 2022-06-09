@@ -16,7 +16,9 @@ Python 3.6+ with:
 
     - Download the spreadsheets given by the Program Chairs. Save them to `webagenda/raw/`.
 
-    - Edit `webagenda/raw/order-outline.txt` to contain the schedule outline. In addition to the [`order` file syntax](https://github.com/naacl-org/naacl-schedule-2019/blob/master/README.md#parsing-the-order-file), JSONL filters can be used. The `preprocess_data.py` script below will replace them with matching papers from the downloaded schedules.
+    - Edit `webagenda/raw/order-outline.txt` to contain the schedule outline.
+        - In addition to the [`order` file syntax](https://github.com/naacl-org/naacl-schedule-2019/blob/master/README.md#parsing-the-order-file), JSONL filters can be used. The `preprocess_data.py` script below will replace them with matching papers from the downloaded schedules.
+        - The `#` symbol for marking metadata has been changed to `##` to accommodate `#` in the title.
 
     - Process the downloaded files by running the following command at the top level of the cloned repository:
         ```

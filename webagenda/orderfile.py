@@ -21,7 +21,7 @@ def parse_order_file_metadata(metadata_string):
     order file. This metadata usually contains the
     room and the session chair. An example of such a
     metadata string is:
-    "# %room FOO %chair1 BAR BAZ"
+    "## %room FOO %chair1 BAR BAZ"
 
     This function parses such a string and creates
     a dictionary from it irrespective of the specified
@@ -41,7 +41,7 @@ def parse_order_file_metadata(metadata_string):
         A dictionary containing the metadata keys
         and values.
     """
-    metadata_string = metadata_string.strip()
+    metadata_string = (metadata_string or '').strip()
     return dict(_METADATA_REGEXP.findall(metadata_string))
 
 
@@ -489,7 +489,7 @@ class Session(object):
     """
 
     # define regular expressions to parse the session strings
-    _any_session_regexp = re.compile(r'^([!=])\s*(([0-9]{1,2}:[0-9]{2})--([0-9]{1,2}:[0-9]{2}))?\s*([^#]+)?#?([^#]+)?$')
+    _any_session_regexp = re.compile(r'^([!=])\s*(([0-9]{1,2}:[0-9]{2})--([0-9]{1,2}:[0-9]{2}))?\s*(.*?)(?:##(.*))?$')
     _session_id_regexp = re.compile('Session ([0-9A-Za-z]+)\s*:')
 
     def __init__(self,
@@ -545,9 +545,9 @@ class Session(object):
         are some examples:
 
         Break : "! 12:30--14:00 Lunch Break"
-        Non-break Plenary : "! 9:30--10:30 Keynote 1: Arvind Narayanan "Data as a Mirror of Society: Lessons from the Emerging Science of Fairness in Machine Learning" # %room Nicollet Grand Ballroom"
-        Paper : "= Session 1B: Speech # %room Nicollet A %chair1 Yang Liu"
-        Poster : "= Session 1F: Question Answering, Sentiment, Machine Translation, Resources \& Evaluation (Posters) # %room Hyatt Exhibit Hall"
+        Non-break Plenary : "! 9:30--10:30 Keynote 1: Arvind Narayanan "Data as a Mirror of Society: Lessons from the Emerging Science of Fairness in Machine Learning" ## %room Nicollet Grand Ballroom"
+        Paper : "= Session 1B: Speech ## %room Nicollet A %chair1 Yang Liu"
+        Poster : "= Session 1F: Question Answering, Sentiment, Machine Translation, Resources \& Evaluation (Posters) ## %room Hyatt Exhibit Hall"
 
         Break and non-break plenary sessions are distinguished
         by the presence of the words "break/coffee/lunch". Paper
@@ -649,7 +649,7 @@ class Item(object):
     (if any).
     """
 
-    _regexp = re.compile(r'^([0-9]+(-[a-z]+)?)(\s*([0-9]{1,2}:[0-9]{2})--([0-9]{1,2}:[0-9]{2}))?\s+#([^#]*)$')
+    _regexp = re.compile(r'^([0-9]+(-[a-z]+)?)(\s*([0-9]{1,2}:[0-9]{2})--([0-9]{1,2}:[0-9]{2}))?\s*(?:##(.*))?$')
 
     def __init__(self, id_, type, **kwargs):
         super(Item, self).__init__()
@@ -682,9 +682,9 @@ class Item(object):
         indicator of some sort) and then have various
         other attributes. Examples include:
 
-        Regular paper/poster item: "737 15:30--15:45  #"
-        Tutorial : "28-tutorial 9:00--12:30  # %room Greenway DE/FG"
-        A special track paper : "45-srw 15:30--15:45 #"
+        Regular paper/poster item: "737 15:30--15:45"
+        Tutorial : "28-tutorial 9:00--12:30  ## %room Greenway DE/FG"
+        A special track paper : "45-srw 15:30--15:45"
 
         Parameters
         ----------

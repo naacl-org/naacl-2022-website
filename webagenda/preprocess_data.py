@@ -203,7 +203,7 @@ def main():
             if line[0] == '{':
                 # Search for matching papers
                 for record in raw_schedule.search(json.loads(line)):
-                    fout.write('{} #\n'.format(record['Paper ID'].replace(' ', '_')))
+                    fout.write('{}\n'.format(record['Paper ID'].replace(' ', '_')))
                     raw_metadata.mark_used(record['Paper ID'])
             else:
                 fout.write(line)

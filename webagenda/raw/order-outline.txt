@@ -2,7 +2,7 @@
 
 ! 8:45--9:15 Welcome Session
 
-! 9:15--10:15 Plenary Invited Talk 1: Batya Friedman
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman</a>
 
 ! 10:15--10:45 Break
 
@@ -40,7 +40,7 @@
 
 ! 12:15--13:15 Lunch
 
-! 13:15--14:15 Industry Panel: "Careers in NLP"
+! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a>
 
 ! 14:15--14:30 Break
 
@@ -95,7 +95,7 @@
 
 ! 9:00--9:15 Break
 
-! 9:15--10:15 Plenary Panel: "The Place of Linguistics and Symbolic Structures"
+! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a>
 
 ! 10:15--10:45 Break
 
@@ -232,6 +232,6 @@
 
 ! 15:45--16:15 Break
 
-! 16:15--17:15 Plenary Invited Talk 2: Manuel Montes-y-Gómez
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a>
 
 ! 17:15--17:45 Closing Session

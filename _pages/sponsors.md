@@ -119,7 +119,7 @@ bronze:
     image_path: /assets/images/logos/Rakuten.png
     alt: Rakuten
     title: Rakuten
-  - url: https://www.ucsc.edu/
+  - url: https://nlp.ucsc.edu/
     image_path: /assets/images/logos/UCSC.png
     alt: UC Santa Cruz
     title: UC Santa Cruz

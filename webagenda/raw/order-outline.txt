@@ -90,7 +90,7 @@
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Efficient Methods in NLP 2"}
 = Session 3E: NLP Applications 2
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "NLP Applications 2"}
-= Session 3F: Industry Oral Session 1
+= Session 3F: Industry Oral Session 1 ## %chair1 Kasturi Bhattacharjee
 {"Session Name": "Industry Oral 1"}
 
 ! 9:00--9:15 Break
@@ -143,7 +143,7 @@
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Human-Centered NLP 1"}
 = Session 5E: NLP Applications 3
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
-= Session 5F: Industry Oral Session 2
+= Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
 
 ! 15:45--16:15 Break

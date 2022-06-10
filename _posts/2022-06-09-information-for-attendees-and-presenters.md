@@ -41,12 +41,13 @@ As notified by email, posters have to be in a portrait format. Poster boards are
 
 ### In-person orals:
 
-You will be asked to upload your presentation on the room computer prior to the beginning of the session. 
-Make sure to introduce yourself to the chair of the session prior to its start.
+You will be asked to upload your slides via a link (TBA), 
+at the latest the night before your presentation. 
+The day of your presentation, arrive 15 minutes prior to the session and make sure to introduce yourself to the chair of the session.
 
 ### Virtual orals:
 
-Underline will make sure that you can share your screen.
+Join the Zoom room that you will find on the schedule on Underline 15 minutes before the session start. The Underline staff will be there to greet you. You will present by sharing your screen and you will have a chance to answer questions. You are advised to present live. Your pre-recording will be used as a backup only. Please be respectful of the time!
 
 ### Virtual Q&A poster sessions:
 

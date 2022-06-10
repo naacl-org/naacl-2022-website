@@ -215,7 +215,7 @@
 565
 610
 931
-= Session 3F: Industry Oral Session 1
+= Session 3F: Industry Oral Session 1 ## %chair1 Kasturi Bhattacharjee
 9-industry
 11-industry
 50-industry
@@ -345,7 +345,7 @@
 474
 274
 244
-= Session 5F: Industry Oral Session 2
+= Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
 33-industry
 40-industry
 65-industry

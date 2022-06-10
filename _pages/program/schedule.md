@@ -382,6 +382,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3f-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kasturi Bhattacharjee</span></td></tr>
 <tr id="paper" paper-id="9-industry"><td id="paper-time"></td><td><span class="paper-title">CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning. </span><em>Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng</em></td></tr>
 <tr id="paper" paper-id="11-industry"><td id="paper-time"></td><td><span class="paper-title">Augmenting Poetry Composition with Verse by Verse. </span><em>David Uthus, Maria Voitovich, R.J. Mical</em></td></tr>
 <tr id="paper" paper-id="50-industry"><td id="paper-time"></td><td><span class="paper-title">FPI: Failure Point Isolation in Large-scale Conversational Assistants. </span><em>Rinat Khaziev, Usman Shahid, Tobias Roeding, Rakesh Chada, Emir Kapanci, Pradeep Natarajan</em></td></tr>
@@ -602,6 +603,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5f-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sandesh Swamy</span></td></tr>
 <tr id="paper" paper-id="33-industry"><td id="paper-time"></td><td><span class="paper-title">Self-supervised Product Title Rewrite for Product Listing Ads. </span><em>Xue Zhao, Dayiheng Liu, Junwei Ding, Liang Yao, Mahone Yan, Huibo wang, Wenqing Yao</em></td></tr>
 <tr id="paper" paper-id="40-industry"><td id="paper-time"></td><td><span class="paper-title">Local-to-global learning for iterative training of production SLU models on new features. </span><em>Yulia Grishina, Daniil Sorokin</em></td></tr>
 <tr id="paper" paper-id="65-industry"><td id="paper-time"></td><td><span class="paper-title">Medical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning. </span><em>Angelo Ziletti, Alan Akbik, Christoph Berns, Thomas Herold, Marion Legler, Martina Viell</em></td></tr>

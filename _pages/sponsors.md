@@ -53,7 +53,7 @@ platinum:
     alt: Kensho
     title: Kensho
   - url: https://www.revealdata.com/
-    image_path: /assets/images/logos/RevealData.png
+    image_path: /assets/images/logos/Reveal.png
     alt: Reveal Data
     title: Reveal Data
 gold:

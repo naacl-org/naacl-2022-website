@@ -14,17 +14,19 @@ secondary_excerpt: "July 10--15, 2022"
 .notice--warning del { color: #888; }
 </style>
 
-In-person posters have to be **portrait** (the poster boards are vertical: 4’ width × 8’ height).
-{: .text-center .notice--danger}
-
 **[Registration](/registration/) is now open.** The early registration deadline is ~~June 4~~ **June 10**, 2022, 11:59 PM (Eastern Time).
 {: .text-center .notice--warning}
 
 The [main conference schedule](/program/schedule/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
 {: .text-center .notice--success}
 
+[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)<br>
+*Note:* In-person posters have to be **portrait** (the poster boards are vertical: 4’ width × 8’ height).
+{: .text-center .notice--info}
+
 ## News
 
+| Jun 9, 2022 | [Blogpost](/blog/information-for-attendees-and-presenters/): Program Information for Attendees and Presenters
 | Jun 6, 2022 | The early [registration](/registration/) deadline has been extended to June 10, 2022.
 | May 19, 2022 | [Blogpost](/blog/caregivers/): Caring for the Caregivers at NAACL 2022 (childcare subsidy request deadline: May 24)
 | May 17, 2022 | Updated the [Registration](/registration/) page.

@@ -27,9 +27,27 @@ Dr. Friedman’s 2019 MIT Press book co-authored with David Hendry, Value Sensit
 
 **Manuel Montes-y-Gómez** is Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico. His research is on automatic text processing. He is author of more than 250 journal and conference papers in the fields of information retrieval, text mining and authorship analysis.
 
-He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).
+He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also a member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).
 
 **Talk title:** NLP in Mexican Spanish: One of many stories
+
+**Abstract:**
+
+Spanish is one of the most widely spoken languages in the world, however, the
+development of language technologies for it has not been in the same
+proportion. This is particularly true for some of its Latin American variants, such
+as the Mexican Spanish. This talk will focus on presenting the development of
+NLP for Mexican Spanish, emphasizing one of its many research stories related
+to the analysis of social media content.
+
+This talk will present some data on the languages spoken in Mexico and on the
+development of the area of Natural Language Processing in our country, and
+will describe a research project that combined the efforts of several groups: the
+identification of abusive language in Mexican tweets. The talk will conclude by
+exposing some calls for collaboration, with the intention of increasing and
+improving the research in Mexican Spanish as well as in the many indigenous
+languages spoken in Mexico.
+
 
 ## Panel: The Place of Linguistics and Symbolic Structures
 {: #panel-linguistics-symbolic-structures}

@@ -38,6 +38,28 @@ He has been visiting professor at the Polytechnic University of Valencia (Spain)
 
 The widespread adoption of neural models in NLP research and the fact that NLP applications increasingly mediate people’s lives have prompted many discussions about what productive research directions might look like for our community. Since NAACL is a meeting of a chapter of the Association for Computational Linguistics, we would like to highlight specifically the role that linguistics and symbolic structures can play (or not) in shaping these research directions.
 
+[comment]: <> (### Panelist: Emily M. Bender, University of Washington)
+
+[comment]: <> (![Emily M. Bender]&#40;/assets/images/keynotes/Emily_Bender.jpg&#41;{: .align-center})
+
+[comment]: <> (...)
+
+[comment]: <> (### Panelist: Dilek Hakkani-Tur)
+
+[comment]: <> (![Dilek Hakkani-Tur]&#40;/assets/images/keynotes/Dilek_Hakkani-Tur.jpg&#41;{: .align-center})
+
+[comment]: <> (...)
+
+[comment]: <> (### Panelist: Chitta Baral)
+
+[comment]: <> (![Chitta Baral]&#40;/assets/images/keynotes/Chitta_Baral.jpg&#41;{: .align-center})
+
+### Panelist: Christopher D. Manning, Stanford University
+
+![Christopher D. Manning](/assets/images/keynotes/Chris_Manning.jpg){: .align-center}
+
+Christopher Manning is a professor of linguistics and computer science at Stanford University, Director of the Stanford Artificial Intelligence Lab (SAIL), and an Associate Director of the Stanford Institute for Human-Centered AI (HAI). He is a leader in applying deep neural networks to natural language processing (NLP), including work on neural machine translation, tree-recursive models, natural language inference, summarization, parsing, question answering, and the GloVe word vectors. Manning founded the Stanford NLP group (@stanfordnlp), teaches and has co-written textbooks for NLP (CS 224N) and information retrieval (CS 276), co-developed Stanford Dependencies and Universal Dependencies, manages development of the Stanford CoreNLP and Stanza software, is the most-cited researcher in NLP, and is an ACM, AAAI, and ACL Fellow and a Past President of ACL.
+
 ## Panel: Careers in NLP Panel
 {: #panel-careers-in-nlp}
 

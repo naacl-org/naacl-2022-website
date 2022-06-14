@@ -298,6 +298,37 @@ toc_sticky: true
    site="https://danielkhashabi.com/"
    institution="Allen Institute for AI"
 %}
+**Volunteer coordinators**
+{% include bio-box
+   name="Akari Asai"
+   picture="/assets/images/committee/books.jpg"
+   site="https://akariasai.github.io/"
+   institution="University of Washington"
+%}
+{% include bio-box
+   name="Faeze Brahman"
+   picture="/assets/images/committee/books.jpg"
+   site="https://users.soe.ucsc.edu/~hannahbrahman/"
+   institution="Allen Institute for AI"
+%}
+{% include bio-box
+   name="Liwei Jiang"
+   picture="/assets/images/committee/books.jpg"
+   site="https://liweijiang.me/"
+   institution="Allen Institute for AI"
+%}
+{% include bio-box
+   name="Ximing Lu"
+   picture="/assets/images/committee/books.jpg"
+   site="https://scholar.google.com/citations?user=ssYPSmkAAAAJ&hl=en"
+   institution="Allen Institute for AI"
+%}
+{% include bio-box
+   name="Ellen Wu"
+   picture="/assets/images/committee/books.jpg"
+   site="http://ellenmellon.github.io/"
+   institution="University of Washington"
+%}
 
 ## Publicity Chairs
 {% include bio-box

@@ -23,7 +23,7 @@ Dr. Friedman’s 2019 MIT Press book co-authored with David Hendry, Value Sensit
 ## Manuel Montes-y-Gómez
 {: #manuel-montes-y-gomez}
 
-![Manuel Montes-y-Gómez](/assets/images/keynotes/Manuel_Montes_y_Gomez.jpg){: .align-center}
+![Manuel Montes-y-Gómez](/assets/images/keynotes/Manuel_Montes_y_Gomez.png){: .align-center}
 
 **Manuel Montes-y-Gómez** is Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico. His research is on automatic text processing. He is author of more than 250 journal and conference papers in the fields of information retrieval, text mining and authorship analysis.
 

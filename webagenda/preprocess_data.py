@@ -16,7 +16,7 @@ _THIS_DIR = Path(__file__).absolute().parent
 # Input files
 _ORDER_OUTLINE_ = _THIS_DIR / 'raw' / 'order-outline.txt'
 _RAW_PAPER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - reformatted version.tsv'
-_RAW_POSTER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster sessions.tsv'
+_RAW_POSTER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster in-person sessions.tsv'
 _RAW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Posters virtual.tsv'
 _RAW_FINDINGS_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Findings in-person.tsv'
 _RAW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_main.tsv'

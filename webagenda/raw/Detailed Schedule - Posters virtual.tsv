@@ -1,74 +1,137 @@
 Day	Session Name	Paper ID	Track	Session start time
-Day 1	Poster session 1 	200	Ethics	10:45
-Day 1	Poster session 1 	549	Ethics	10:45
-Day 1	Poster session 1 	36-special	Human-Centered NLP	10:45
-Day 1	Poster session 1 	298	Information Retrieval	10:45
-Day 1	Poster session 1 	734	Information Retrieval	10:45
-Day 1	Poster session 1 	316	Interpretability and Analysis of Models for NLP	10:45
-Day 1	Poster session 1 	678	Interpretability and Analysis of Models for NLP	10:45
-Day 1	Poster session 1 	99	Language Grounding to Vision	10:45
-Day 1	Poster session 1 	286	Language Grounding to Vision	10:45
-Day 1	Poster session 1 	1038	Language Grounding to Vision	10:45
-Day 1	Poster session 1 	83	Machine Translation	10:45
-Day 1	Poster session 1 	110	Machine Translation	10:45
-Day 1	Poster session 1 	340	Machine Translation	10:45
-Day 1	Poster session 1 	493	Machine Translation	10:45
-Day 1	Poster session 1 	632	Machine Translation	10:45
-Day 1	Poster session 1 	747	Machine Translation	10:45
-Day 1	Poster session 1 	350	Multilinguality	10:45
-Day 1	Poster session 1 	15	NLP Application	10:45
-Day 1	Poster session 1 	108	NLP Application	10:45
-Day 1	Poster session 1 	280	NLP Application	10:45
-Day 1	Poster session 1 	338	NLP Application	10:45
-Day 1	Poster session 1 	595	NLP Application	10:45
-Day 1	Poster session 1 	1020	NLP Application	10:45
-Day 1	Poster session 2	205	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	334	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	786	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	789	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	849	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	871	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	913	Dialogue and Interactive Systems	14:30
-Day 1	Poster session 2	435	Efficient Methods in NLP	14:30
-Day 1	Poster session 2	815	Efficient Methods in NLP	14:30
-Day 1	Poster session 2	876	Efficient Methods in NLP	14:30
-Day 1	Poster session 2	116	Information Extraction	14:30
-Day 1	Poster session 2	284	Information Extraction	14:30
-Day 1	Poster session 2	389	Information Extraction	14:30
-Day 1	Poster session 2	433	Information Extraction	14:30
-Day 1	Poster session 2	536	Information Extraction	14:30
-Day 1	Poster session 2	537	Information Extraction	14:30
-Day 1	Poster session 2	572	Information Extraction	14:30
-Day 1	Poster session 2	597	Information Extraction	14:30
-Day 1	Poster session 2	612	Information Extraction	14:30
-Day 1	Poster session 2	718	Information Extraction	14:30
-Day 1	Poster session 2	769	Information Extraction	14:30
-Day 1	Poster session 2	888	Information Extraction	14:30
-Day 1	Poster session 2	269	Machine Learning	14:30
-Day 1	Poster session 2	326	Machine Learning	14:30
-Day 1	Poster session 2	446	Machine Learning	14:30
-Day 1	Poster session 2	671	Machine Learning	14:30
-Day 1	Poster session 2	705	Machine Learning	14:30
-Day 1	Poster session 2	807	Machine Learning	14:30
-Day 1	Poster session 2	854	Machine Learning	14:30
-Day 1	Poster session 2	1049	Machine Learning	14:30
-Day 1	Poster session 2	422	Summarization	14:30
-Day 1	Poster session 2	983	Summarization	14:30
-Day 2	Poster session 3	562	Discourse and Pragamtics	10:45
-Day 2	Poster session 3	53	Language Resources	10:45
-Day 2	Poster session 3	283	Language Resources	10:45
-Day 2	Poster session 3	544	Language Resources	10:45
-Day 2	Poster session 3	168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	10:45
-Day 2	Poster session 3	810	Phonology	10:45
-Day 2	Poster session 3	43	Question Answering	10:45
-Day 2	Poster session 3	70	Question Answering	10:45
-Day 2	Poster session 3	320	Question Answering	10:45
-Day 2	Poster session 3	362	Question Answering	10:45
-Day 2	Poster session 3	509	Question Answering	10:45
-Day 2	Poster session 3	741	Question Answering	10:45
-Day 2	Poster session 3	331	Semantics: Sentence-level Semantics and Textual Inference	10:45
-Day 2	Poster session 3	390	Semantics: Sentence-level Semantics and Textual Inference	10:45
-Day 2	Poster session 3	839	Semantics: Sentence-level Semantics and Textual Inference	10:45
-Day 2	Poster session 3	49	Sentiment Analysis and Stylistic Analysis	10:45
-Day 2	Poster session 3	303	Sentiment Analysis and Stylistic Analysis	10:45
-Day 2	Poster session 3	801	Sentiment Analysis and Stylistic Analysis	10:45
+		200	Ethics	
+		549	Ethics	
+		36-special	Human-Centered NLP	
+		298	Information Retrieval	
+		734	Information Retrieval	
+		316	Interpretability and Analysis of Models for NLP	
+		678	Interpretability and Analysis of Models for NLP	
+		99	Language Grounding to Vision	
+		286	Language Grounding to Vision	
+		1038	Language Grounding to Vision	
+		83	Machine Translation	
+		110	Machine Translation	
+		340	Machine Translation	
+		493	Machine Translation	
+		632	Machine Translation	
+		747	Machine Translation	
+		350	Multilinguality	
+		15	NLP Application	
+		108	NLP Application	
+		280	NLP Application	
+		338	NLP Application	
+		595	NLP Application	
+		1020	NLP Application	
+		205	Dialogue and Interactive Systems	
+		334	Dialogue and Interactive Systems	
+		786	Dialogue and Interactive Systems	
+		789	Dialogue and Interactive Systems	
+		849	Dialogue and Interactive Systems	
+		871	Dialogue and Interactive Systems	
+		913	Dialogue and Interactive Systems	
+		435	Efficient Methods in NLP	
+		815	Efficient Methods in NLP	
+		876	Efficient Methods in NLP	
+		116	Information Extraction	
+		284	Information Extraction	
+		389	Information Extraction	
+		433	Information Extraction	
+		536	Information Extraction	
+		537	Information Extraction	
+		572	Information Extraction	
+		597	Information Extraction	
+		612	Information Extraction	
+		718	Information Extraction	
+		769	Information Extraction	
+		888	Information Extraction	
+		269	Machine Learning	
+		326	Machine Learning	
+		446	Machine Learning	
+		671	Machine Learning	
+		705	Machine Learning	
+		807	Machine Learning	
+		854	Machine Learning	
+		1049	Machine Learning	
+		422	Summarization	
+		983	Summarization	
+		562	Discourse and Pragamtics	
+		53	Language Resources	
+		283	Language Resources	
+		544	Language Resources	
+		168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	
+		810	Phonology	
+		43	Question Answering	
+		70	Question Answering	
+		320	Question Answering	
+		362	Question Answering	
+		509	Question Answering	
+		741	Question Answering	
+		331	Semantics: Sentence-level Semantics and Textual Inference	
+		390	Semantics: Sentence-level Semantics and Textual Inference	
+		839	Semantics: Sentence-level Semantics and Textual Inference	
+		49	Sentiment Analysis and Stylistic Analysis	
+		303	Sentiment Analysis and Stylistic Analysis	
+		801	Sentiment Analysis and Stylistic Analysis	
+		1007	Language Grounding to Vision, Robotics and Beyond	
+		1014	Language Grounding to Vision, Robotics and Beyond	
+		1028	Language Resources and Evaluation	
+		128	Ethics, Bias, and Fairness	
+		147	Information Extraction	
+		180	NLP Applications	
+		181	Language Grounding to Vision, Robotics and Beyond	
+		194	Dialogue and Interactive systems	
+		203	Syntax: Tagging, Chunking, and Parsing	
+		213	Language Grounding to Vision, Robotics and Beyond	
+		214	Language Resources and Evaluation	
+		223	Summarization	
+		225	Dialogue and Interactive systems	
+		236	Efficient methods in NLP	
+		237	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
+		258	Language Resources and Evaluation	
+		268	Efficient methods in NLP	
+		296	Efficient methods in NLP	
+		300	Semantics: Lexical Semantics	
+		343	NLP Applications	
+		347	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
+		357	Interpretability and Analysis of Models for NLP	
+		36-special	Special Theme	
+		365	Dialogue and Interactive systems	
+		374	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
+		386	Efficient methods in NLP	
+		392	Speech	
+		410	Language Generation	
+		415	Language Resources and Evaluation	
+		417	Efficient methods in NLP	
+		421	Dialogue and Interactive systems	
+		436	NLP Applications	
+		45-special	Special Theme	
+		693	NLP Applications	
+		526	Computational Social Science and Cultural Analytics	
+		542	Information Extraction	
+		554	Efficient methods in NLP	
+		559	Language Resources and Evaluation	
+		564	Summarization	
+		575	Sentiment Analysis and Stylistic Analysis	
+		603	Question Answering	
+		604	Computational Social Science and Cultural Analytics	
+		619	Machine Translation	
+		624	Question Answering	
+		641	Language Grounding to Vision, Robotics and Beyond	
+		658	Information Extraction	
+		696	Dialogue and Interactive systems	
+		702	Question Answering	
+		72	Question Answering	
+		726	Information Retrieval and Text Mining	
+		738	Multilinguality	
+		791	Sentiment Analysis and Stylistic Analysis	
+		798	Information Retrieval and Text Mining	
+		82	Multilinguality	
+		879	Machine Translation	
+		893	Information Extraction	
+		900	Computational Social Science and Cultural Analytics	
+		916	Language Generation	
+		93	Dialogue and Interactive systems	
+		771	Information Extraction	
+		399	Speech	
+		731	Dialogue and Interactive systems	
+		635	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	

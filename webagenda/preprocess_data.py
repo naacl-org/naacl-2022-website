@@ -18,8 +18,9 @@ _ORDER_OUTLINE_ = _THIS_DIR / 'raw' / 'order-outline.txt'
 _RAW_PAPER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - reformatted version.tsv'
 _RAW_POSTER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster sessions.tsv'
 _RAW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Posters virtual.tsv'
+_RAW_FINDINGS_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Findings in-person.tsv'
 _RAW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_main.tsv'
-_RAW_FINDING_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_findings.tsv'
+_RAW_FINDINGS_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_findings.tsv'
 _INDUSTRY_ORAL_1 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session1.csv'
 _INDUSTRY_ORAL_2 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session2.csv'
 _INDUSTRY_POSTER = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_posters.csv'
@@ -73,7 +74,7 @@ class RawSchedule:
         for record in self.records:
             paper_id = record['Paper ID']
             if paper_id in paper_id_to_record:
-                logging.warning('Repeated ID: {}'.format(paper_id))
+                logging.warning('Repeated ID in raw schedule files: {}'.format(paper_id))
                 logging.warning('    {}'.format(paper_id_to_record[paper_id]))
                 logging.warning('    {}'.format(record))
             paper_id_to_record[paper_id] = record
@@ -82,7 +83,7 @@ class RawSchedule:
         for record in self.records:
             if all(record.get(key) == query[key] for key in query):
                 if record.get('used'):
-                    logging.warning('Repeated schedule record: {}'.format(record))
+                    logging.warning('Reappearing schedule record: {}'.format(record))
                 record['used'] = True
                 yield record
 
@@ -144,7 +145,7 @@ class RawMetadata:
         for record in self.records:
             paper_id = record['paper_id']
             if paper_id in paper_id_to_record:
-                logging.warning('Repeated ID: {}'.format(paper_id))
+                logging.warning('Repeated ID in raw metadata files: {}'.format(paper_id))
                 logging.warning('    {}'.format(paper_id_to_record[paper_id]))
                 logging.warning('    {}'.format(record))
             paper_id_to_record[paper_id] = record
@@ -153,7 +154,7 @@ class RawMetadata:
         for record in self.records:
             if record['paper_id'] == paper_id:
                 if record.get('used'):
-                    logging.warning('Repeated metadata record: {}'.format(record))
+                    logging.warning('Re-queried metadata record: {}'.format(record))
                 record['used'] = True
 
     def report_unused(self):
@@ -184,6 +185,7 @@ def main():
     raw_schedule.read_tsv(_RAW_PAPER_SCHEDULE)
     raw_schedule.read_tsv(_RAW_POSTER_SCHEDULE, extra_info={'Format': 'in-person'})
     raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
+    raw_schedule.read_tsv(_RAW_FINDINGS_SCHEDULE)
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1')
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2')
     raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster')
@@ -191,7 +193,7 @@ def main():
     raw_schedule.check_duplicates()
 
     raw_metadata.read_main_tsv(_RAW_PAPER_DETAILS)
-    raw_metadata.read_main_tsv(_RAW_FINDING_DETAILS)
+    raw_metadata.read_main_tsv(_RAW_FINDINGS_DETAILS)
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_1)
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_2)
     raw_metadata.read_industry_csv(_INDUSTRY_POSTER)

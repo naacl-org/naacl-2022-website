@@ -6,7 +6,7 @@
 
 ! 10:15--10:45 Break
 
-+ 10:45--12:15 Session 1 + In-person Poster Session 1
++ 10:45--12:15 Oral Session 1 + In-person Poster Session 1
 
 = Session 1A: Language Generation
 665
@@ -97,7 +97,7 @@
 
 ! 14:15--14:30 Break
 
-+ 14:30--16:00 Session 2 + In-person Poster Session 2
++ 14:30--16:00 Oral Session 2 + In-person Poster Session 2
 
 = Session 2A: Interpretability
 666
@@ -188,7 +188,7 @@
 
 * Tuesday, July 12, 2022
 
-+ 8:00--9:00 Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1
++ 8:00--9:00 Oral Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1
 
 = Session 3A: Language Generation
 566
@@ -227,7 +227,7 @@
 
 ! 10:15--10:45 Break
 
-+ 10:45--12:15 Session 4 + In-person Poster Session 3 + SRW Oral Session 1
++ 10:45--12:15 Oral Session 4 + In-person Poster Session 3 + SRW Oral Session 1
 
 = Session 4A: Interpretability and Analysis of Models for NLP 1
 841
@@ -308,7 +308,7 @@
 
 ! 12:15--14:15 Lunch + Business Meeting
 
-+ 14:15--15:45 Session 5 + Industry Oral Session 2 + SRW Poster Session                                 
++ 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW Poster Session
 
 = Session 5A: Ethics, Bias, Fairness 1
 867
@@ -355,7 +355,7 @@
 
 ! 15:45--16:15 Break
 
-+ 16:15--17:45 Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + In-person Industry/Demo Poster Session
++ 16:15--17:45 Oral Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + Industry/Demo In-person Poster Session
 
 = Session 6A: Language Grounding to Vision 2
 391
@@ -392,7 +392,7 @@
 418
 898
 613
-= Session 6F: Industry/Demo Poster Session
+= Session 6F: Industry/Demo In-person Poster Session
 @ Industry Track Posters
 5-industry
 17-industry
@@ -442,7 +442,7 @@
 
 * Wednesday, July 13, 2022
 
-+ 8:00--9:00 Session 7 + Virtual Poster Q&A Session
++ 8:00--9:00 Oral Session 7 + Virtual Poster Q&A Session
 
 = Session 7A: Interpretability and Analysis of Models for NLP 2
 177
@@ -477,7 +477,7 @@
 
 ! 9:00--9:15 Break
 
-+ 9:15--10:15 Session 8 + Virtual Poster Q&A Session
++ 9:15--10:15 Oral Session 8 + Virtual Poster Q&A Session
 
 = Session 8A: Interpretability and Analysis of Models for NLP 3
 994
@@ -512,7 +512,7 @@
 
 ! 10:15--10:45 Break
 
-+ 10:45--12:15 Session 9 + Findings Poster Session 1
++ 10:45--12:15 Oral Session 9 + Findings In-person Poster Session 1
 
 = Session 9A: Language Generation
 686
@@ -548,10 +548,57 @@
 928
 510
 155
+= Session 9F: Findings In-person Poster Session 1
+@ Computational Social Science and Cultural Analytics
+188
+633
+@ Dialogue and Interactive systems
+265
+414
+717
+778
+819
+@ Discourse and Pragmatics
+787
+@ Efficient methods in NLP
+427
+669
+@ Ethics, Bias, and Fairness
+1045
+189
+@ Interpretability and Analysis of Models for NLP
+136
+171
+601
+625
+755
+@ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
+219
+24
+299
+485
+79
+@ Multilinguality
+138
+63
+691
+@ Question Answering
+323
+626
+649
+682
+88
+@ Semantics: Lexical Semantics
+886
+@ Semantics: Sentence-level Semantics and Textual Inference
+176
+33
+@ Sentiment Analysis and Stylistic Analysis
+426
 
 ! 12:15--14:15 Lunch
 
-+ 14:15--15:45 Session 10 + Findings Poster Session 2
++ 14:15--15:45 Oral Session 10 + Findings In-person Poster Session 2
 
 = Session 10A: Ethics, Bias, Fairness 2
 524
@@ -588,6 +635,52 @@
 451
 454
 3639-tacl
+= Session 10F: Findings In-person Poster Session 2
+@ Human-Centered NLP
+121-special
+83-special
+@ Information Extraction
+125
+208
+252
+306
+425
+578
+668
+864
+@ Information Retrieval and Text Mining
+140
+397
+@ Language Generation
+707
+@ Language Grounding to Vision, Robotics and Beyond
+328
+444
+@ Language Resources and Evaluation
+19
+314
+57
+78
+782
+@ Machine Translation
+209
+476
+@ NLP Applications
+119
+122
+173
+216
+259
+34
+35
+44
+725
+@ Speech
+667
+@ Summarization
+327
+508
+651
 
 ! 15:45--16:15 Break
 

@@ -38,7 +38,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-1">
-<div class="session-header" id="session-header-1">Session 1 + In-person Poster Session 1</div>
+<div class="session-header" id="session-header-1">Oral Session 1 + In-person Poster Session 1</div>
 <div class="session session-expandable session-papers" id="session-1a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">1A: Language Generation</a>
@@ -174,7 +174,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span></div>
 <div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span></div>
 <div class="session-box" id="session-box-2">
-<div class="session-header" id="session-header-2">Session 2 + In-person Poster Session 2</div>
+<div class="session-header" id="session-header-2">Oral Session 2 + In-person Poster Session 2</div>
 <div class="session session-expandable session-papers" id="session-2a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">2A: Interpretability</a>
@@ -310,7 +310,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="session session-plenary"><span class="session-title">Plenary Best Paper Session + Land Acknowledgment</span><span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span></div>
 <div class="day" id="day-2">Tuesday, July 12, 2022</div>
 <div class="session-box" id="session-box-3">
-<div class="session-header" id="session-header-3">Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1</div>
+<div class="session-header" id="session-header-3">Oral Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1</div>
 <div class="session session-expandable session-papers" id="session-3a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">3A: Language Generation</a>
@@ -395,7 +395,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-4">
-<div class="session-header" id="session-header-4">Session 4 + In-person Poster Session 3 + SRW Oral Session 1</div>
+<div class="session-header" id="session-header-4">Oral Session 4 + In-person Poster Session 3 + SRW Oral Session 1</div>
 <div class="session session-expandable session-papers" id="session-4a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">4A: Interpretability and Analysis of Models for NLP 1</a>
@@ -521,7 +521,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Lunch + Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session-box" id="session-box-5">
-<div class="session-header" id="session-header-5">Session 5 + Industry Oral Session 2 + SRW Poster Session</div>
+<div class="session-header" id="session-header-5">Oral Session 5 + Industry Oral Session 2 + SRW Poster Session</div>
 <div class="session session-expandable session-papers" id="session-5a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">5A: Ethics, Bias, Fairness 1</a>
@@ -616,7 +616,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span></div>
 <div class="session-box" id="session-box-6">
-<div class="session-header" id="session-header-6">Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + In-person Industry/Demo Poster Session</div>
+<div class="session-header" id="session-header-6">Oral Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + Industry/Demo In-person Poster Session</div>
 <div class="session session-expandable session-papers" id="session-6a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">6A: Language Grounding to Vision 2</a>
@@ -694,7 +694,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-expandable session-posters" id="session-poster-4">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">6F: Industry/Demo Poster Session </a>
+<div id="expander"></div><a href="#" class="session-title">6F: Industry/Demo In-person Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <div class="poster-session-details"><table class="poster-table">
@@ -750,7 +750,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="day" id="day-3">Wednesday, July 13, 2022</div>
 <div class="session-box" id="session-box-7">
-<div class="session-header" id="session-header-7">Session 7 + Virtual Poster Q&A Session</div>
+<div class="session-header" id="session-header-7">Oral Session 7 + Virtual Poster Q&A Session</div>
 <div class="session session-expandable session-papers" id="session-7a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">7A: Interpretability and Analysis of Models for NLP 2</a>
@@ -832,7 +832,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span></div>
 <div class="session-box" id="session-box-8">
-<div class="session-header" id="session-header-8">Session 8 + Virtual Poster Q&A Session</div>
+<div class="session-header" id="session-header-8">Oral Session 8 + Virtual Poster Q&A Session</div>
 <div class="session session-expandable session-papers" id="session-8a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">8A: Interpretability and Analysis of Models for NLP 3</a>
@@ -914,7 +914,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-9">
-<div class="session-header" id="session-header-9">Session 9 + Findings Poster Session 1</div>
+<div class="session-header" id="session-header-9">Oral Session 9 + Findings In-person Poster Session 1</div>
 <div class="session session-expandable session-papers" id="session-9a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">9A: Language Generation</a>
@@ -989,10 +989,65 @@ As soon as we have information about who is presenting a Findings paper, we will
 </table>
 </div>
 </div>
+<div class="session session-expandable session-posters" id="session-poster-5">
+<div class="expander-wrapper">
+<div id="expander"></div><a href="#" class="session-title">9F: Findings In-person Poster Session 1 </a>
+</div>
+<span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<div class="poster-session-details"><table class="poster-table">
+<tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
+<tr id="poster" poster-id="188"><td><span class="poster-title">Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity. </span><em>Valentin Hofmann, Xiaowen Dong, Janet B. Pierrehumbert, Hinrich Schuetze</em></td></tr>
+<tr id="poster" poster-id="633"><td><span class="poster-title">HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea. </span><em>Haneul Yoo, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh</em></td></tr>
+<tr><td><span class="poster-type">Dialogue and Interactive systems</span></td></tr>
+<tr id="poster" poster-id="265"><td><span class="poster-title">Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems. </span><em>Azlaan Mustafa Samad, Kshitij Mishra, Mauajama Firdaus, Asif Ekbal</em></td></tr>
+<tr id="poster" poster-id="414"><td><span class="poster-title">Target-Guided Dialogue Response Generation Using Commonsense and Data Augmentation. </span><em>Prakhar Gupta, Harsh Jhamtani, Jeffrey Bigham</em></td></tr>
+<tr id="poster" poster-id="717"><td><span class="poster-title">Balancing Multi-Domain Corpora Learning for Open-Domain Response Generation. </span><em>Yujie Xing, Jinglun Cai, Nils Barlaug, Peng Liu, Jon Atle Gulla</em></td></tr>
+<tr id="poster" poster-id="778"><td><span class="poster-title">Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances. </span><em>Wongyu Kim, Youbin Ahn, Donghyun Kim, Kyong-Ho Lee</em></td></tr>
+<tr id="poster" poster-id="819"><td><span class="poster-title">Context-Aware Language Modeling for Goal-Oriented Dialogue Systems. </span><em>Charlie Victor Snell, Sherry Yang, Justin Fu, Yi Su, Sergey Levine</em></td></tr>
+<tr><td><span class="poster-type">Discourse and Pragmatics</span></td></tr>
+<tr id="poster" poster-id="787"><td><span class="poster-title">Improve Discourse Dependency Parsing with Contextualized Representations. </span><em>Yifei Zhou, Yansong Feng</em></td></tr>
+<tr><td><span class="poster-type">Efficient methods in NLP</span></td></tr>
+<tr id="poster" poster-id="427"><td><span class="poster-title">Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention. </span><em>Yifan Chen, Devamanyu Hazarika, Mahdi Namazifar, Yang Liu, Di Jin, Dilek Hakkani-Tur</em></td></tr>
+<tr id="poster" poster-id="669"><td><span class="poster-title">Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models. </span><em>Joseph McDonald, Baolin Li, Nathan C. Frey, Devesh Tiwari, Vijay Gadepally, Siddharth Samsi</em></td></tr>
+<tr><td><span class="poster-type">Ethics, Bias, and Fairness</span></td></tr>
+<tr id="poster" poster-id="1045"><td><span class="poster-title">Cross-Domain Classification of Moral Values. </span><em>Enrico Liscio, Alin Eugen Dondera, Andrei Geadau, Catholijn M Jonker, Pradeep Kumar Murukannaiah</em></td></tr>
+<tr id="poster" poster-id="189"><td><span class="poster-title">On Measuring Social Biases in Prompt-Based Multi-Task Learning. </span><em>Afra Feyza Akyürek, Sejin Paik, Muhammed Yusuf Kocyigit, Seda Akbiyik, Serife Leman Runyun, Derry Wijaya</em></td></tr>
+<tr><td><span class="poster-type">Interpretability and Analysis of Models for NLP</span></td></tr>
+<tr id="poster" poster-id="136"><td><span class="poster-title">Few-Shot Self-Rationalization with Natural Language Prompts. </span><em>Ana Marasovic, Iz Beltagy, Doug Downey, Matthew E Peters</em></td></tr>
+<tr id="poster" poster-id="171"><td><span class="poster-title">Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner. </span><em>Danilo Neves Ribeiro, Shen Wang, Xiaofei Ma, Rui Dong, Xiaokai Wei, Henghui Zhu, Xinchi Chen, Peng Xu, zhiheng huang, Andrew Arnold, Dan Roth</em></td></tr>
+<tr id="poster" poster-id="601"><td><span class="poster-title">Identifying and Mitigating Spurious Correlations for Improving Robustness in NLP Models. </span><em>Tianlu Wang, Rohit Sridhar, Diyi Yang, Xuezhi Wang</em></td></tr>
+<tr id="poster" poster-id="625"><td><span class="poster-title">Exploring the Universal Vulnerability of Prompt-based Learning Paradigm. </span><em>Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, Zhiyuan Liu</em></td></tr>
+<tr id="poster" poster-id="755"><td><span class="poster-title">On the Limitations of Dataset Balancing: The Lost Battle Against Spurious Correlations. </span><em>Roy Schwartz, Gabriel Stanovsky</em></td></tr>
+<tr><td><span class="poster-type">Machine Learning for NLP: Language Modeling and Sequence to Sequence Models</span></td></tr>
+<tr id="poster" poster-id="219"><td><span class="poster-title">Entity Cloze By Date: What LMs Know About Unseen Entities. </span><em>Yasumasa Onoe, Michael JQ Zhang, Eunsol Choi, Greg Durrett</em></td></tr>
+<tr id="poster" poster-id="24"><td><span class="poster-title">Masked Measurement Prediction: Learning to Jointly Predict Quantities and Units from Textual Context. </span><em>Daniel Spokoyny, Ivan Lee, Zhao Jin, Taylor Berg-Kirkpatrick</em></td></tr>
+<tr id="poster" poster-id="299"><td><span class="poster-title">Learning Rich Representation of Keyphrases from Text. </span><em>Mayank Kulkarni, Debanjan Mahata, Ravneet Singh Arora, Rajarshi Bhowmik</em></td></tr>
+<tr id="poster" poster-id="485"><td><span class="poster-title">Temporal Attention for Language Models. </span><em>Guy D. Rosin, Kira Radinsky</em></td></tr>
+<tr id="poster" poster-id="79"><td><span class="poster-title">Lacuna Reconstruction: Self-Supervised Pre-Training for Low-Resource Historical Document Transcription. </span><em>Nikolai Vogler, Jonathan Parkes Allen, Matthew Thomas Miller, Taylor Berg-Kirkpatrick</em></td></tr>
+<tr><td><span class="poster-type">Multilinguality</span></td></tr>
+<tr id="poster" poster-id="138"><td><span class="poster-title">DOCmT5: Document-Level Pretraining of Multilingual Language Models. </span><em>Chia-Hsuan Lee, Aditya Siddhant, Viresh Ratnakar, Melvin Johnson</em></td></tr>
+<tr id="poster" poster-id="63"><td><span class="poster-title">How to Translate Your Samples and Choose Your Shots? Analyzing Translate-train & Few-shot Cross-lingual Transfer. </span><em>Iman Jundi, Gabriella Lapesa</em></td></tr>
+<tr id="poster" poster-id="691"><td><span class="poster-title">Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer. </span><em>Haoran Xu, Kenton Murray</em></td></tr>
+<tr><td><span class="poster-type">Question Answering</span></td></tr>
+<tr id="poster" poster-id="323"><td><span class="poster-title">MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving. </span><em>Zhenwen Liang, Jipeng Zhang, Lei Wang, Wei QIN, Yunshi Lan, Jie Shao, Xiangliang Zhang</em></td></tr>
+<tr id="poster" poster-id="626"><td><span class="poster-title">Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering. </span><em>Jeonghwan Kim, Junmo Kang, Kyung-min Kim, Giwon Hong, Sung-Hyon Myaeng</em></td></tr>
+<tr id="poster" poster-id="649"><td><span class="poster-title">METGEN: A Module-Based Entailment Tree Generation Framework for Answer Explanation. </span><em>Ruixin Hong, Hongming Zhang, Xintong Yu, Changshui Zhang</em></td></tr>
+<tr id="poster" poster-id="682"><td><span class="poster-title">Challenges in Generalization in Open Domain Question Answering. </span><em>Linqing Liu, Patrick Lewis, Sebastian Riedel, Pontus Stenetorp</em></td></tr>
+<tr id="poster" poster-id="88"><td><span class="poster-title">PerKGQA: Question Answering over Personalized Knowledge Graphs. </span><em>Ritam Dutt, Kasturi Bhattacharjee, Rashmi Gangadharaiah, Dan Roth, Carolyn Rose</em></td></tr>
+<tr><td><span class="poster-type">Semantics: Lexical Semantics</span></td></tr>
+<tr id="poster" poster-id="886"><td><span class="poster-title">TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning. </span><em>Yixuan Su, Fangyu Liu, Zaiqiao Meng, Tian Lan, Lei Shu, Ehsan Shareghi, Nigel Collier</em></td></tr>
+<tr><td><span class="poster-type">Semantics: Sentence-level Semantics and Textual Inference</span></td></tr>
+<tr id="poster" poster-id="176"><td><span class="poster-title">A Question-Answer Driven Approach to Reveal Affirmative Interpretations from Verbal Negations. </span><em>Md Mosharaf Hossain, Luke Holman, Anusha Kakileti, Tiffany Iris Kao, Nathan Raul Brito, Aaron Abraham Mathews, Eduardo Blanco</em></td></tr>
+<tr id="poster" poster-id="33"><td><span class="poster-title">SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models. </span><em>Jingfeng Yang, Haoming Jiang, Qingyu Yin, Danqing Zhang, Bing Yin, Diyi Yang</em></td></tr>
+<tr><td><span class="poster-type">Sentiment Analysis and Stylistic Analysis</span></td></tr>
+<tr id="poster" poster-id="426"><td><span class="poster-title">POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection. </span><em>Yujian Liu, Xinliang Frederick Zhang, David Wegsman, Nicholas Beauchamp, Lu Wang</em></td></tr>
+</table>
+</div>
+</div>
 </div>
 <div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session-box" id="session-box-10">
-<div class="session-header" id="session-header-10">Session 10 + Findings Poster Session 2</div>
+<div class="session-header" id="session-header-10">Oral Session 10 + Findings In-person Poster Session 2</div>
 <div class="session session-expandable session-papers" id="session-10a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">10A: Ethics, Bias, Fairness 2</a>
@@ -1068,6 +1123,60 @@ As soon as we have information about who is presenting a Findings paper, we will
 </table>
 </div>
 </div>
+<div class="session session-expandable session-posters" id="session-poster-6">
+<div class="expander-wrapper">
+<div id="expander"></div><a href="#" class="session-title">10F: Findings In-person Poster Session 2 </a>
+</div>
+<span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<div class="poster-session-details"><table class="poster-table">
+<tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
+<tr id="poster" poster-id="121-special"><td><span class="poster-title">One Size Does Not Fit All: The Case for Personalised Word Complexity Models. </span><em>Sian Gooding, Manuel Tragut</em></td></tr>
+<tr id="poster" poster-id="83-special"><td><span class="poster-title">Aligning Generative Language Models with Human Values. </span><em>Ruibo Liu, Ge Zhang, Xinyu Feng, Soroush Vosoughi</em></td></tr>
+<tr><td><span class="poster-type">Information Extraction</span></td></tr>
+<tr id="poster" poster-id="125"><td><span class="poster-title">Extracting Temporal Event Relation with Syntax-guided Graph Transformer. </span><em>SHUAICHENG ZHANG, Qiang Ning, Lifu Huang</em></td></tr>
+<tr id="poster" poster-id="208"><td><span class="poster-title">StATIK: Structure and Text for Inductive Knowledge Graph Completion. </span><em>Elan Sopher Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Murali Annavaram, Aram Galstyan, Greg Ver Steeg</em></td></tr>
+<tr id="poster" poster-id="252"><td><span class="poster-title">Permutation Invariant Strategy Using Transformer Encoders for Table Understanding. </span><em>Sarthak Dash, Sugato Bagchi, Nandana Mihindukulasooriya, Alfio Gliozzo</em></td></tr>
+<tr id="poster" poster-id="306"><td><span class="poster-title">Self-Training with Differentiable Teacher. </span><em>Simiao Zuo, Yue Yu, Chen Liang, Haoming Jiang, Siawpeng Er, Chao Zhang, Tuo Zhao, Hongyuan Zha</em></td></tr>
+<tr id="poster" poster-id="425"><td><span class="poster-title">Low-resource Entity Set Expansion: A Comprehensive Study on User-generated Text. </span><em>Yutong Shao, Nikita Bhutani, Sajjadur Rahman, Estevam Hruschka</em></td></tr>
+<tr id="poster" poster-id="578"><td><span class="poster-title">Zero-shot Entity Linking with Less Data. </span><em>G P Shrivatsa Bhargav, Dinesh Khandelwal, Saswati Dana, Dinesh Garg, Pavan Kapanipathi, Salim Roukos, Alexander Gray, L Venkata Subramaniam</em></td></tr>
+<tr id="poster" poster-id="668"><td><span class="poster-title">Event Detection for Suicide Understanding. </span><em>Luis Fernando Guzman-Nateras, Viet Dac Lai, Amir Pouran Ben Veyseh, Franck Dernoncourt, Thien Huu Nguyen</em></td></tr>
+<tr id="poster" poster-id="864"><td><span class="poster-title">Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning. </span><em>Oscar Sainz, Itziar Gonzalez-Dios, Oier Lopez de Lacalle, Bonan Min, Eneko Agirre</em></td></tr>
+<tr><td><span class="poster-type">Information Retrieval and Text Mining</span></td></tr>
+<tr id="poster" poster-id="140"><td><span class="poster-title">Literature-Augmented Clinical Outcome Prediction. </span><em>Aakanksha Naik, Sravanthi Parasa, Sergey Feldman, Lucy Lu Wang, Tom Hope</em></td></tr>
+<tr id="poster" poster-id="397"><td><span class="poster-title">Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training. </span><em>Yifan Gao, Qingyu Yin, zheng li, Rui Meng, Tong Zhao, Bing Yin, Irwin King, Michael Lyu</em></td></tr>
+<tr><td><span class="poster-type">Language Generation</span></td></tr>
+<tr id="poster" poster-id="707"><td><span class="poster-title">Controllable Sentence Simplification via Operation Classification. </span><em>Liam Cripwell, Joël Legrand, Claire Gardent</em></td></tr>
+<tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
+<tr id="poster" poster-id="328"><td><span class="poster-title">Probing the Role of Positional Information in Vision-Language Models. </span><em>Philipp J. Rösch, Jindřich Libovický</em></td></tr>
+<tr id="poster" poster-id="444"><td><span class="poster-title">Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions. </span><em>Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka</em></td></tr>
+<tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
+<tr id="poster" poster-id="19"><td><span class="poster-title">PubHealthTab: A Public Health Table-based Dataset for Evidence-based Fact Checking. </span><em>Mubashara Akhtar, Oana Cocarascu, Elena Simperl</em></td></tr>
+<tr id="poster" poster-id="314"><td><span class="poster-title">MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. </span><em>Gullal Singh Cheema, Sherzod Hakimov, Abdul Sittar, Eric Müller-Budack, Christian Otto, Ralph Ewerth</em></td></tr>
+<tr id="poster" poster-id="57"><td><span class="poster-title">In-BoXBART: Get Instructions into Biomedical Multi-Task Learning. </span><em>Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, Chitta Baral</em></td></tr>
+<tr id="poster" poster-id="78"><td><span class="poster-title">SemAttack: Natural Textual Attacks via Different Semantic Spaces. </span><em>Boxin Wang, Chejian Xu, Xiangyu Liu, Yu Cheng, Bo Li</em></td></tr>
+<tr id="poster" poster-id="782"><td><span class="poster-title">A Dog Is Passing Over The Jet? A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation. </span><em>Jaehyung Seo, Seounghoon Lee, Chanjun Park, Yoonna Jang, Hyeonseok Moon, Sugyeong Eo, Seonmin Koo, Heuiseok Lim</em></td></tr>
+<tr><td><span class="poster-type">Machine Translation</span></td></tr>
+<tr id="poster" poster-id="209"><td><span class="poster-title">CoCoA-MT: A Dataset and Benchmark for Contrastive Controlled MT with Application to Formality. </span><em>Maria Nadejde, Anna Currey, Benjamin Hsu, Xing Niu, Marcello Federico, Georgiana Dinu</em></td></tr>
+<tr id="poster" poster-id="476"><td><span class="poster-title">BitextEdit: Automatic Bitext Editing for Improved Low-Resource Machine Translation. </span><em>Eleftheria Briakou, Sida Wang, Luke Zettlemoyer, Marjan Ghazvininejad</em></td></tr>
+<tr><td><span class="poster-type">NLP Applications</span></td></tr>
+<tr id="poster" poster-id="119"><td><span class="poster-title">Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback. </span><em>Niket Tandon, Aman Madaan, Peter Clark, Yiming Yang</em></td></tr>
+<tr id="poster" poster-id="122"><td><span class="poster-title">TEAM:  A multitask learning based Taxonomy Expansion approach for Attach and Merge. </span><em>Bornali Phukon, Anasua Mitra, Ranbir Singh Sanasam, Priyankoo Sarmah</em></td></tr>
+<tr id="poster" poster-id="173"><td><span class="poster-title">Multimodal Intent Discovery from Livestream Videos. </span><em>Adyasha Maharana, Quan Hung Tran, Franck Dernoncourt, Seunghyun Yoon, Trung Bui, Walter W Chang, Mohit Bansal</em></td></tr>
+<tr id="poster" poster-id="216"><td><span class="poster-title">Opponent Modeling in Negotiation Dialogues by Related Data Adaptation. </span><em>Kushal Chawla, Gale Lucas, Jonathan May, Jonathan Gratch</em></td></tr>
+<tr id="poster" poster-id="259"><td><span class="poster-title">Learning to Embed Multi-Modal Contexts for Situated Conversational Agents. </span><em>Haeju Lee, Oh Joon Kwon, Yunseon Choi, Minho Park, Ran Han, Yoonhyung Kim, Jinhyeon Kim, Youngjune Lee, Haebin Shin, Kangwook Lee, Kee-Eung Kim</em></td></tr>
+<tr id="poster" poster-id="34"><td><span class="poster-title">MultiVerS: Improving scientific claim verification with weak supervision and full-document context. </span><em>David Wadden, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi</em></td></tr>
+<tr id="poster" poster-id="35"><td><span class="poster-title">An Item Response Theory Framework for Persuasion. </span><em>Anastassia Kornilova, Vladimir Eidelman, Daniel Argyle</em></td></tr>
+<tr id="poster" poster-id="44"><td><span class="poster-title">Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks. </span><em>Zhao Meng, Yihan Dong, Mrinmaya Sachan, Roger Wattenhofer</em></td></tr>
+<tr id="poster" poster-id="725"><td><span class="poster-title">Towards Job-Transition-Tag Graph for a Better Job Title Representation Learning. </span><em>Jun ZHU, CELINE HUDELOT</em></td></tr>
+<tr><td><span class="poster-type">Speech</span></td></tr>
+<tr id="poster" poster-id="667"><td><span class="poster-title">BehancePR: A Punctuation Restoration Dataset for Livestreaming Video Transcript. </span><em>Viet Dac Lai, Amir Pouran Ben Veyseh, Franck Dernoncourt, Thien Huu Nguyen</em></td></tr>
+<tr><td><span class="poster-type">Summarization</span></td></tr>
+<tr id="poster" poster-id="327"><td><span class="poster-title">Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking. </span><em>Hwanhee Lee, Kang Min Yoo, Joonsuk Park, Hwaran Lee, Kyomin Jung</em></td></tr>
+<tr id="poster" poster-id="508"><td><span class="poster-title">Efficient Few-Shot Fine-Tuning for Opinion Summarization. </span><em>Arthur Brazinskas, Ramesh Nallapati, Mohit Bansal, Markus Dreyer</em></td></tr>
+<tr id="poster" poster-id="651"><td><span class="poster-title">Make The Most of Prior Data: A Solution for Interactive Text Summarization with Preference Feedback. </span><em>Duy-Hung Nguyen, Nguyen Viet Dung Nghiem, Bao-Sinh Nguyen, Tien Dung Le, Shahab Sabahi, Minh-Tien Nguyen, Hung Le</em></td></tr>
+</table>
+</div>
+</div>
 </div>
 <div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span></div>
 <div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
@@ -1075,7 +1184,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="day" id="day-4">Virtual Posters (to be scheduled to Q&A sessions)</div>
 <div class="session-box" id="session-box-11">
 <div class="session-header" id="session-header-11">Virtual Posters</div>
-<div class="session session-expandable session-posters" id="session-poster-5">
+<div class="session session-expandable session-posters" id="session-poster-7">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">X: Virtual Posters </a>
 </div>

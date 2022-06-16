@@ -126,12 +126,10 @@
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Sentiment Analysis and Stylistic Analysis"}
 @ Speech
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Speech"}
-@ Phonology
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Phonology"}
 
 ! 12:15--14:15 Lunch + Business Meeting
 
-+ 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW Poster Session
++ 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session
 
 = Session 5A: Ethics, Bias, Fairness 1
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 1"}
@@ -145,6 +143,8 @@
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
 = Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
+= Session 5G: SRW In-person Poster Session
+{"Session Name": "Poster session 3", "Track": "Student Research Workshop"}
 
 ! 15:45--16:15 Break
 

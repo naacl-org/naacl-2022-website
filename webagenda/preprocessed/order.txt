@@ -304,11 +304,10 @@
 120
 @ Speech
 693
-@ Phonology
 
 ! 12:15--14:15 Lunch + Business Meeting
 
-+ 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW Poster Session
++ 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session
 
 = Session 5A: Ethics, Bias, Fairness 1
 867
@@ -352,6 +351,29 @@
 91-industry
 119-industry
 32-industry
+= Session 5G: SRW In-person Poster Session
+13-srw
+15-srw
+17-srw
+25-srw
+26-srw
+31-srw
+32-srw
+39-srw
+40-srw
+50-srw
+52-srw
+53-srw
+55-srw
+63-srw
+71-srw
+72-srw
+73-srw
+78-srw
+83-srw
+91-srw
+97-srw
+98-srw
 
 ! 15:45--16:15 Break
 
@@ -693,7 +715,6 @@
 = Session X: Virtual Posters
 200
 549
-36-special
 298
 734
 316
@@ -827,3 +848,22 @@
 399
 731
 635
+22-srw
+84-srw
+86-srw
+33-srw
+54-srw
+60-srw
+48-srw
+77-srw
+76-srw
+23-srw
+49-srw
+37-srw
+29-srw
+59-srw
+88-srw
+16-srw
+94-srw
+90-srw
+42-srw

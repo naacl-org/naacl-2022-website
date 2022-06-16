@@ -722,3 +722,50 @@ paper_id	track	title	authors
 29-demo	Demo	 PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit	Hui Zhang, Tian Yuan, Junkun Chen, Xintong Li, Renjie Zheng, Yuxin Huang, Xiaojie Chen, Enlei Gong, Zeyu Chen, Xiaoguang Hu, Dianhai Yu, Yanjun Ma, Liang Huang
 30-demo	Demo	 DadmaTools: Natural Language Processing Toolkit for Persian Language	Romina Etezadi, Mohammad Karrabi, Najmeh Zare, Mohamad Bagher Sajadi, Mohammad Taher Pilehvar
 32-demo	Demo	 FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction	Minh Van Nguyen, Nghia Trung Ngo, Bonan Min, Thien Huu Nguyen
+1-srw	Student Research Workshop	Heterogeneous-Graph Reasoning and Fine-Grained Aggregation for Fact Checking	Hongbin Lin
+13-srw	Student Research Workshop	Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention	Ayush K Chakravarthy, Jacob Labe Russin, Randall O'Reilly
+15-srw	Student Research Workshop	Grounding in social media: An approach to building a chit-chat dialogue model	Ritvik Choudhary, Daisuke Kawahara
+16-srw	Student Research Workshop	Towards Unsupervised Speech Synthesis	Alexander H. Liu, Cheng-I Lai, James R. Glass
+17-srw	Student Research Workshop	ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization	Mengsay Loem, Sho Takase, Masahiro Kaneko, Naoaki Okazaki
+19-srw	Student Research Workshop	Regularized Training of Nearest Neighbor Language Models	Jean-Francois Ton, Walter Talbott, Shuangfei Zhai, Joshua M. Susskind
+22-srw	Student Research Workshop	Again, Dozens of Refugees Drowned: A Computational Study of Political Framing Evoked by Presuppositions	Qi Yu
+23-srw	Student Research Workshop	Methods for Estimating and Improving Robustness of Language Models	Michal Stefanik
+24-srw	Student Research Workshop	Retrieval-augmented Generation across Heterogeneous Knowledge	Wenhao Yu
+25-srw	Student Research Workshop	Neural Retriever and Go Beyond: A Thesis Proposal	Man Luo
+26-srw	Student Research Workshop	Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation	Xiruo Ding, Kevin Lybarger, Justin Tauscher, Trevor Cohen
+29-srw	Student Research Workshop	Understanding Long Document with Different Position-Aware Attentions	Hai Pham, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang
+30-srw	Student Research Workshop	Towards Gender Biased Language Classification: A Case Study with British English Archival Metadata Descriptions	Lucy Havens
+31-srw	Student Research Workshop	What "Drives" the Use of Metaphorical Language? Negative Insights from Abstractness, Affect, Discourse Coherence and Contextualized Word Representations	Prisca Piccirilli, Sabine Schulte im Walde
+32-srw	Student Research Workshop	Generate, Evaluate, and Select: A Dialogue System with a Response Evaluator for Diversity-Aware Response Generation	Ryoma Sakaeda, Daisuke Kawahara
+33-srw	Student Research Workshop	Impact of Training Instance Selection on Domain-Specific Entity Extraction using BERT	Eileen Salhofer, Xing Lan Liu, Roman Kern
+37-srw	Student Research Workshop	Analysing the Correlation between Lexical Ambiguity and Translation Quality in a Multimodal Setting using WordNet	Ali Hatami, Paul Buitelaar, Mihael Arcan
+39-srw	Student Research Workshop	Building a Personalized Dialogue System with Prompt-Tuning	Tomohito Kasahara, Daisuke Kawahara, Nguyen Tung, Shengzhe Li, Kenta Shinzato, Toshinori Sato
+40-srw	Student Research Workshop	MM-GATBT: Enriching Multimodal Representation Using Graph Attention Network	Seung Byum Seo, Hyoungwook Nam, Payam Delgosha
+42-srw	Student Research Workshop	Simulating Feature Structures with Simple Types	Valentin D. Richard
+47-srw	Student Research Workshop	Investigating the effectiveness of various speaker embeddings for multi-speaker end-to-end speech synthesis system using small-sized speech data	Sheng-Yao Wang, Yi-Chin Huang
+48-srw	Student Research Workshop	Dr. Livingstone, I presume? Polishing of foreign character identification in literary texts	Aleksandra Konovalova, Antonio Toral, Kristiina Taivalkoski-Shilov
+49-srw	Student Research Workshop	Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation	Xiaomeng Pan, Hongfei Wang, Teruaki Oka, Mamoru Komachi
+50-srw	Student Research Workshop	ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation	Long Phan, Hieu Tran, Hieu Nguyen, Trieu H. Trinh
+52-srw	Student Research Workshop	Compositional Generalization in Grounded Language Learning via Induced Model Sparsity	Sam Spilsbury, Alexander Ilin
+53-srw	Student Research Workshop	How do people talk about images? A study on open-domain conversations with images.	Yi-Pei Chen, Nobuyuki Shimizu, Takashi Miyazaki, Hideki Nakayama
+54-srw	Student Research Workshop	Text Style Transfer for Bias Mitigation using Masked Language Modeling	Ewoenam Kwaku Tokpo, Toon Calders
+55-srw	Student Research Workshop	Preschool Children Speech Recognition for Early Childhood Intervention: Motivation and Challenges	Satwik Dutta, Dwight W. Irvin, John H. L. Hansen
+59-srw	Student Research Workshop	Eliciting Complex Relational Knowledge From Masked Language Models	Arun Sundaresan, Ming Hsu, Zhihao Zhang
+60-srw	Student Research Workshop	Differentially Private Instance Encoding against Privacy Attacks	Shangyu Xie, Yuan Hong
+63-srw	Student Research Workshop	 A Simple Approach to Jointly Rank Passages and Select Relevant Sentences in the OBQA Context	Man Luo, Shuguang Chen, Chitta Baral
+71-srw	Student Research Workshop	Multimodal Modeling of Task-Mediated Confusion	Camille Mince, Skye Rhomberg, Cecilia Alm, Reynold Bailey, Alex Ororbia
+72-srw	Student Research Workshop	Machine Narrative Comprehension in Fictional Characters Personality Prediction Task	Yisi Sang, Xiangyang Mou, Mo Yu, Dakuo Wang, Jing Li, Jeffrey Stanton
+73-srw	Student Research Workshop	Divide & Conquer for Entailment-aware Multi-hop Evidence Retrieval	Fan Luo, Mihai Surdeanu
+76-srw	Student Research Workshop	Probe-Less Probing of BERT's Layer-Wise Linguistic Knowledge with Masked Word Prediction	Tatsuya Aoyama, Nathan Schneider
+77-srw	Student Research Workshop	CSSS: A Novel Candidate Summary Selection Strategy for Summary-level Extractive Summarization	Shuai Gong, Zhenfang Zhu, Wenqing Wu, Zhen Zhao, Dianyuan Zhang
+78-srw	Student Research Workshop	Multimodal large language models for inclusive collaboration learning tasks	Armanda Lewis
+83-srw	Student Research Workshop	Neural Networks in a Product of Hyperbolic Spaces	Jun Takeuchi, Noriki Nishida, Hideki Nakayama
+84-srw	Student Research Workshop	Explicit Use of Topicality in Dialogue Response Generation	Takumi Yoshikoshi, Hayato Atarashi, Takashi Kodama, Sadao Kurohashi
+86-srw	Student Research Workshop	Automating Human Evaluation of Dialogue Systems	Sujan Reddy A
+87-srw	Student Research Workshop	Strong Heuristics for Named Entity Linking	Marko Čuljak, Andreas Spitz, Robert West, Akhil Arora
+88-srw	Student Research Workshop	Static and Dynamic Speaker Modeling based on Graph Neural Network for Emotion Recognition in Conversation	Prakhar Saxena, Yin Jou Huang, Sadao Kurohashi
+90-srw	Student Research Workshop	Few-shot fine-tuning SOTA summarization models for medical dialogues	David Fraile Navarro, Mark Dras, Shlomo Berkovsky
+91-srw	Student Research Workshop	Unifying Parsing and Tree-Structured Models for Generating Sentence Semantic Representations	Antoine Simoulin, Benoit Crabbé
+94-srw	Student Research Workshop	Multiformer: A Head-Configurable Transformer-Based Model for Direct Speech Translation	Gerard Sant, Gerard I. Gállego, Belen Alastruey, Marta Ruiz Costa-jussà
+97-srw	Student Research Workshop	Defending Compositionality in Emergent Languages	Michal Auersperger, Pavel Pecina
+98-srw	Student Research Workshop	Exploring the Effect of Dialect Mismatched Language Models in Telugu Automatic Speech Recognition	Aditya Yadavalli, Ganesh Sai Mirishkar, Anil Vuppala

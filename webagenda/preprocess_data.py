@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 """
 Extract raw data and generate the files needed for generate.py.
 """
@@ -7,6 +6,7 @@ Extract raw data and generate the files needed for generate.py.
 import csv
 import json
 import logging
+import re
 
 from pathlib import Path
 
@@ -16,7 +16,7 @@ _THIS_DIR = Path(__file__).absolute().parent
 # Input files
 _ORDER_OUTLINE_ = _THIS_DIR / 'raw' / 'order-outline.txt'
 _RAW_PAPER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - reformatted version.tsv'
-_RAW_POSTER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster in-person sessions.tsv'
+_RAW_POSTER_IN_PERSON_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster in-person sessions.tsv'
 _RAW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Posters virtual.tsv'
 _RAW_FINDINGS_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Findings in-person.tsv'
 _RAW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_main.tsv'
@@ -25,6 +25,9 @@ _INDUSTRY_ORAL_1 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session1.
 _INDUSTRY_ORAL_2 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session2.csv'
 _INDUSTRY_POSTER = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_posters.csv'
 _DEMO_POSTER = _THIS_DIR / 'raw' / 'demos.tsv'
+_SRW_POSTER_IN_PERSON_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - SRW Poster in-person sessions.tsv'
+_SRW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - Posters virtual.tsv'
+_SRW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'SRW Accepted papers info for detailed program - Accepted_papers_main.tsv'
 # Output files
 _ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
 _METADATA = _THIS_DIR / 'preprocessed' / 'metadata.tsv'
@@ -66,6 +69,20 @@ class RawSchedule:
                 new_records.append({
                     'Session Name': session_name,
                     'Paper ID': paper_id + '-demo'})
+        logging.info('Read %d records from %s', len(new_records), path)
+        self.records += new_records
+
+    def read_srw_tsv(self, path, extra_info=None):
+        new_records = []
+        with open(path) as fin:
+            reader = csv.DictReader(fin, dialect=csv.excel_tab)
+            for row in reader:
+                record = {key: value.strip() for (key, value) in row.items() if key}
+                if extra_info:
+                    record.update(extra_info)
+                record['Paper ID'] = (
+                        re.match(r'SRW_(\d+)', record['Paper ID']).group(1) + '-srw')
+                new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
@@ -140,6 +157,21 @@ class RawMetadata:
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
+    def read_srw_tsv(self, path):
+        new_records = []
+        with open(path) as fin:
+            reader = csv.DictReader(fin, dialect=csv.excel_tab)
+            for row in reader:
+                paper_id = re.match(r'SRW_(\d+)', row['Number']).group(1) + '-srw'
+                new_records.append({
+                    'paper_id': paper_id,
+                    'track': row['Track'],
+                    'title': row['Title'],
+                    'authors': row['Authors'],
+                    })
+        logging.info('Read %d metadata records from %s', len(new_records), path)
+        self.records += new_records
+
     def check_duplicates(self):
         paper_id_to_record = {}
         for record in self.records:
@@ -183,13 +215,15 @@ def main():
 
     # Read data
     raw_schedule.read_tsv(_RAW_PAPER_SCHEDULE)
-    raw_schedule.read_tsv(_RAW_POSTER_SCHEDULE, extra_info={'Format': 'in-person'})
+    raw_schedule.read_tsv(_RAW_POSTER_IN_PERSON_SCHEDULE, extra_info={'Format': 'in-person'})
     raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
     raw_schedule.read_tsv(_RAW_FINDINGS_SCHEDULE)
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1')
     raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2')
     raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster')
     raw_schedule.read_demo_tsv(_DEMO_POSTER, 'Demo Poster')
+    raw_schedule.read_srw_tsv(_SRW_POSTER_IN_PERSON_SCHEDULE)
+    raw_schedule.read_srw_tsv(_SRW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
     raw_schedule.check_duplicates()
 
     raw_metadata.read_main_tsv(_RAW_PAPER_DETAILS)
@@ -198,6 +232,7 @@ def main():
     raw_metadata.read_industry_csv(_INDUSTRY_ORAL_2)
     raw_metadata.read_industry_csv(_INDUSTRY_POSTER)
     raw_metadata.read_demo_tsv(_DEMO_POSTER)
+    raw_metadata.read_srw_tsv(_SRW_PAPER_DETAILS)
     raw_metadata.check_duplicates()
 
     # Process the `order` file

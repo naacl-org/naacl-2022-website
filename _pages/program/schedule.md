@@ -521,7 +521,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Lunch + Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session-box" id="session-box-5">
-<div class="session-header" id="session-header-5">Oral Session 5 + Industry Oral Session 2 + SRW Poster Session</div>
+<div class="session-header" id="session-header-5">Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session</div>
 <div class="session session-expandable session-papers" id="session-5a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">5A: Ethics, Bias, Fairness 1</a>
@@ -613,6 +613,37 @@ As soon as we have information about who is presenting a Findings paper, we will
 </table>
 </div>
 </div>
+<div class="session session-expandable session-posters" id="session-poster-4">
+<div class="expander-wrapper">
+<div id="expander"></div><a href="#" class="session-title">5G: SRW In-person Poster Session </a>
+</div>
+<span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<div class="poster-session-details"><table class="poster-table">
+<tr id="poster" poster-id="13-srw"><td><span class="poster-title">[SRW] Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention. </span><em>Ayush K Chakravarthy, Jacob Labe Russin, Randall O'Reilly</em></td></tr>
+<tr id="poster" poster-id="15-srw"><td><span class="poster-title">[SRW] Grounding in social media: An approach to building a chit-chat dialogue model. </span><em>Ritvik Choudhary, Daisuke Kawahara</em></td></tr>
+<tr id="poster" poster-id="17-srw"><td><span class="poster-title">[SRW] ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. </span><em>Mengsay Loem, Sho Takase, Masahiro Kaneko, Naoaki Okazaki</em></td></tr>
+<tr id="poster" poster-id="25-srw"><td><span class="poster-title">[SRW] Neural Retriever and Go Beyond: A Thesis Proposal. </span><em>Man Luo</em></td></tr>
+<tr id="poster" poster-id="26-srw"><td><span class="poster-title">[SRW] Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation. </span><em>Xiruo Ding, Kevin Lybarger, Justin Tauscher, Trevor Cohen</em></td></tr>
+<tr id="poster" poster-id="31-srw"><td><span class="poster-title">[SRW] What "Drives" the Use of Metaphorical Language? Negative Insights from Abstractness, Affect, Discourse Coherence and Contextualized Word Representations. </span><em>Prisca Piccirilli, Sabine Schulte im Walde</em></td></tr>
+<tr id="poster" poster-id="32-srw"><td><span class="poster-title">[SRW] Generate, Evaluate, and Select: A Dialogue System with a Response Evaluator for Diversity-Aware Response Generation. </span><em>Ryoma Sakaeda, Daisuke Kawahara</em></td></tr>
+<tr id="poster" poster-id="39-srw"><td><span class="poster-title">[SRW] Building a Personalized Dialogue System with Prompt-Tuning. </span><em>Tomohito Kasahara, Daisuke Kawahara, Nguyen Tung, Shengzhe Li, Kenta Shinzato, Toshinori Sato</em></td></tr>
+<tr id="poster" poster-id="40-srw"><td><span class="poster-title">[SRW] MM-GATBT: Enriching Multimodal Representation Using Graph Attention Network. </span><em>Seung Byum Seo, Hyoungwook Nam, Payam Delgosha</em></td></tr>
+<tr id="poster" poster-id="50-srw"><td><span class="poster-title">[SRW] ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation. </span><em>Long Phan, Hieu Tran, Hieu Nguyen, Trieu H. Trinh</em></td></tr>
+<tr id="poster" poster-id="52-srw"><td><span class="poster-title">[SRW] Compositional Generalization in Grounded Language Learning via Induced Model Sparsity. </span><em>Sam Spilsbury, Alexander Ilin</em></td></tr>
+<tr id="poster" poster-id="53-srw"><td><span class="poster-title">[SRW] How do people talk about images? A study on open-domain conversations with images.. </span><em>Yi-Pei Chen, Nobuyuki Shimizu, Takashi Miyazaki, Hideki Nakayama</em></td></tr>
+<tr id="poster" poster-id="55-srw"><td><span class="poster-title">[SRW] Preschool Children Speech Recognition for Early Childhood Intervention: Motivation and Challenges. </span><em>Satwik Dutta, Dwight W. Irvin, John H. L. Hansen</em></td></tr>
+<tr id="poster" poster-id="63-srw"><td><span class="poster-title">[SRW] A Simple Approach to Jointly Rank Passages and Select Relevant Sentences in the OBQA Context. </span><em>Man Luo, Shuguang Chen, Chitta Baral</em></td></tr>
+<tr id="poster" poster-id="71-srw"><td><span class="poster-title">[SRW] Multimodal Modeling of Task-Mediated Confusion. </span><em>Camille Mince, Skye Rhomberg, Cecilia Alm, Reynold Bailey, Alex Ororbia</em></td></tr>
+<tr id="poster" poster-id="72-srw"><td><span class="poster-title">[SRW] Machine Narrative Comprehension in Fictional Characters Personality Prediction Task. </span><em>Yisi Sang, Xiangyang Mou, Mo Yu, Dakuo Wang, Jing Li, Jeffrey Stanton</em></td></tr>
+<tr id="poster" poster-id="73-srw"><td><span class="poster-title">[SRW] Divide & Conquer for Entailment-aware Multi-hop Evidence Retrieval. </span><em>Fan Luo, Mihai Surdeanu</em></td></tr>
+<tr id="poster" poster-id="78-srw"><td><span class="poster-title">[SRW] Multimodal large language models for inclusive collaboration learning tasks. </span><em>Armanda Lewis</em></td></tr>
+<tr id="poster" poster-id="83-srw"><td><span class="poster-title">[SRW] Neural Networks in a Product of Hyperbolic Spaces. </span><em>Jun Takeuchi, Noriki Nishida, Hideki Nakayama</em></td></tr>
+<tr id="poster" poster-id="91-srw"><td><span class="poster-title">[SRW] Unifying Parsing and Tree-Structured Models for Generating Sentence Semantic Representations. </span><em>Antoine Simoulin, Benoit Crabbé</em></td></tr>
+<tr id="poster" poster-id="97-srw"><td><span class="poster-title">[SRW] Defending Compositionality in Emergent Languages. </span><em>Michal Auersperger, Pavel Pecina</em></td></tr>
+<tr id="poster" poster-id="98-srw"><td><span class="poster-title">[SRW] Exploring the Effect of Dialect Mismatched Language Models in Telugu Automatic Speech Recognition. </span><em>Aditya Yadavalli, Ganesh Sai Mirishkar, Anil Vuppala</em></td></tr>
+</table>
+</div>
+</div>
 </div>
 <div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span></div>
 <div class="session-box" id="session-box-6">
@@ -692,7 +723,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </table>
 </div>
 </div>
-<div class="session session-expandable session-posters" id="session-poster-4">
+<div class="session session-expandable session-posters" id="session-poster-5">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">6F: Industry/Demo In-person Poster Session </a>
 </div>
@@ -989,7 +1020,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </table>
 </div>
 </div>
-<div class="session session-expandable session-posters" id="session-poster-5">
+<div class="session session-expandable session-posters" id="session-poster-6">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">9F: Findings In-person Poster Session 1 </a>
 </div>
@@ -1122,7 +1153,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </table>
 </div>
 </div>
-<div class="session session-expandable session-posters" id="session-poster-6">
+<div class="session session-expandable session-posters" id="session-poster-7">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">10F: Findings In-person Poster Session 2 </a>
 </div>
@@ -1183,7 +1214,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="day" id="day-4">Virtual Posters (to be scheduled to Q&A sessions)</div>
 <div class="session-box" id="session-box-11">
 <div class="session-header" id="session-header-11">Virtual Posters</div>
-<div class="session session-expandable session-posters" id="session-poster-7">
+<div class="session session-expandable session-posters" id="session-poster-8">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">X: Virtual Posters </a>
 </div>
@@ -1191,7 +1222,6 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="poster-session-details"><table class="poster-table">
 <tr id="poster" poster-id="200"><td><span class="poster-title">Socially Aware Bias Measurements for Hindi Language Representations. </span><em>Vijit Malik, Sunipa Dev, Akihiro Nishi, Nanyun Peng, Kai-Wei Chang</em></td></tr>
 <tr id="poster" poster-id="549"><td><span class="poster-title">Triggerless Backdoor Attack for NLP Tasks with Clean Labels. </span><em>Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan</em></td></tr>
-<tr id="poster" poster-id="36-special"><td><span class="poster-title">Do Deep Neural Nets Display Human-like Attention in Short Answer Scoring?. </span><em>Zijie Zeng, XINYU LI, Dragan Gasevic, Guanliang Chen</em></td></tr>
 <tr id="poster" poster-id="298"><td><span class="poster-title">SKILL: Structured Knowledge Infusion for Large Language Models. </span><em>Fedor Moiseev, Zhe Dong, Enrique Alfonseca, Martin Jaggi</em></td></tr>
 <tr id="poster" poster-id="734"><td><span class="poster-title">Is Neural Topic Modelling Better than Clustering? An Empirical Study on Clustering with Contextual Embeddings for Topics. </span><em>Zihan Zhang, Meng Fang, Ling Chen, Mohammad Reza Namazi Rad</em></td></tr>
 <tr id="poster" poster-id="316"><td><span class="poster-title">Implicit n-grams Induced by Recurrence. </span><em>Xiaobing Sun, Wei Lu</em></td></tr>
@@ -1325,6 +1355,25 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="poster" poster-id="399"><td><span class="poster-title">FAtNet: Cost-Effective Approach Towards Mitigating the Linguistic Bias in Speaker Verification Systems. </span><em>Divya V Sharma, Arun Balaji Buduru</em></td></tr>
 <tr id="poster" poster-id="731"><td><span class="poster-title">BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog. </span><em>Haipeng Sun, Junwei Bao, Youzheng Wu, Xiaodong He</em></td></tr>
 <tr id="poster" poster-id="635"><td><span class="poster-title">SeaD: End-to-end Text-to-SQL Generation with Schema-aware Denoising. </span><em>Kuan Xu, Yongbo Wang, Yongliang Wang, Zihao Wang, Zujie Wen, Yang Dong</em></td></tr>
+<tr id="poster" poster-id="22-srw"><td><span class="poster-title">[SRW] Again, Dozens of Refugees Drowned: A Computational Study of Political Framing Evoked by Presuppositions. </span><em>Qi Yu</em></td></tr>
+<tr id="poster" poster-id="84-srw"><td><span class="poster-title">[SRW] Explicit Use of Topicality in Dialogue Response Generation. </span><em>Takumi Yoshikoshi, Hayato Atarashi, Takashi Kodama, Sadao Kurohashi</em></td></tr>
+<tr id="poster" poster-id="86-srw"><td><span class="poster-title">[SRW] Automating Human Evaluation of Dialogue Systems. </span><em>Sujan Reddy A</em></td></tr>
+<tr id="poster" poster-id="33-srw"><td><span class="poster-title">[SRW] Impact of Training Instance Selection on Domain-Specific Entity Extraction using BERT. </span><em>Eileen Salhofer, Xing Lan Liu, Roman Kern</em></td></tr>
+<tr id="poster" poster-id="54-srw"><td><span class="poster-title">[SRW] Text Style Transfer for Bias Mitigation using Masked Language Modeling. </span><em>Ewoenam Kwaku Tokpo, Toon Calders</em></td></tr>
+<tr id="poster" poster-id="60-srw"><td><span class="poster-title">[SRW] Differentially Private Instance Encoding against Privacy Attacks. </span><em>Shangyu Xie, Yuan Hong</em></td></tr>
+<tr id="poster" poster-id="48-srw"><td><span class="poster-title">[SRW] Dr. Livingstone, I presume? Polishing of foreign character identification in literary texts. </span><em>Aleksandra Konovalova, Antonio Toral, Kristiina Taivalkoski-Shilov</em></td></tr>
+<tr id="poster" poster-id="77-srw"><td><span class="poster-title">[SRW] CSSS: A Novel Candidate Summary Selection Strategy for Summary-level Extractive Summarization. </span><em>Shuai Gong, Zhenfang Zhu, Wenqing Wu, Zhen Zhao, Dianyuan Zhang</em></td></tr>
+<tr id="poster" poster-id="76-srw"><td><span class="poster-title">[SRW] Probe-Less Probing of BERT's Layer-Wise Linguistic Knowledge with Masked Word Prediction. </span><em>Tatsuya Aoyama, Nathan Schneider</em></td></tr>
+<tr id="poster" poster-id="23-srw"><td><span class="poster-title">[SRW] Methods for Estimating and Improving Robustness of Language Models. </span><em>Michal Stefanik</em></td></tr>
+<tr id="poster" poster-id="49-srw"><td><span class="poster-title">[SRW] Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation. </span><em>Xiaomeng Pan, Hongfei Wang, Teruaki Oka, Mamoru Komachi</em></td></tr>
+<tr id="poster" poster-id="37-srw"><td><span class="poster-title">[SRW] Analysing the Correlation between Lexical Ambiguity and Translation Quality in a Multimodal Setting using WordNet. </span><em>Ali Hatami, Paul Buitelaar, Mihael Arcan</em></td></tr>
+<tr id="poster" poster-id="29-srw"><td><span class="poster-title">[SRW] Understanding Long Document with Different Position-Aware Attentions. </span><em>Hai Pham, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang</em></td></tr>
+<tr id="poster" poster-id="59-srw"><td><span class="poster-title">[SRW] Eliciting Complex Relational Knowledge From Masked Language Models. </span><em>Arun Sundaresan, Ming Hsu, Zhihao Zhang</em></td></tr>
+<tr id="poster" poster-id="88-srw"><td><span class="poster-title">[SRW] Static and Dynamic Speaker Modeling based on Graph Neural Network for Emotion Recognition in Conversation. </span><em>Prakhar Saxena, Yin Jou Huang, Sadao Kurohashi</em></td></tr>
+<tr id="poster" poster-id="16-srw"><td><span class="poster-title">[SRW] Towards Unsupervised Speech Synthesis. </span><em>Alexander H. Liu, Cheng-I Lai, James R. Glass</em></td></tr>
+<tr id="poster" poster-id="94-srw"><td><span class="poster-title">[SRW] Multiformer: A Head-Configurable Transformer-Based Model for Direct Speech Translation. </span><em>Gerard Sant, Gerard I. Gállego, Belen Alastruey, Marta Ruiz Costa-jussà</em></td></tr>
+<tr id="poster" poster-id="90-srw"><td><span class="poster-title">[SRW] Few-shot fine-tuning SOTA summarization models for medical dialogues. </span><em>David Fraile Navarro, Mark Dras, Shlomo Berkovsky</em></td></tr>
+<tr id="poster" poster-id="42-srw"><td><span class="poster-title">[SRW] Simulating Feature Structures with Simple Types. </span><em>Valentin D. Richard</em></td></tr>
 </table>
 </div>
 </div>

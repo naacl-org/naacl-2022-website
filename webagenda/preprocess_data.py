@@ -117,6 +117,16 @@ class RawSchedule:
             if not record.get('used'):
                 logging.warning('Unused schedule record: {}'.format(record))
 
+    def record_to_order_line(self, record):
+        order_line = record['Paper ID']
+        metadata = {}
+        if record.get('Paper Awards'):
+            metadata['award'] = record['Paper Awards'].replace(' ', '_')
+        if metadata:
+            order_line += ' ## ' + ' '.join(
+                    '%{} {}'.format(key, value) for (key, value) in metadata.items())
+        return order_line
+
 
 class RawMetadata:
 
@@ -253,7 +263,8 @@ def main():
             if line[0] == '{':
                 # Search for matching papers
                 for record in raw_schedule.search(json.loads(line)):
-                    fout.write('{}\n'.format(record['Paper ID'].replace(' ', '_')))
+                    order_line = raw_schedule.record_to_order_line(record)
+                    print(order_line, file=fout)
                     raw_metadata.mark_used(record['Paper ID'])
             else:
                 fout.write(line)

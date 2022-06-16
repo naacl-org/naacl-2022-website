@@ -608,6 +608,8 @@ class WebItem(Item):
                 item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
             if video_icons and self.video_url:
                 item_html += '&nbsp;<i class="far fa-file-video video-icon" data="{}" title="Video"></i>'.format(self.video_url)
+            if self.extended_metadata.get('award'):
+                item_html += '&nbsp;<i class="fa fa-award" title="Paper Award"></i>'
             item_html += '</td></tr>'
             generated_html.append(item_html)
 

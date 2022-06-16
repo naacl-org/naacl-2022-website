@@ -35,7 +35,7 @@
 750
 469
 922
-817
+817 ## %award Award
 = Session 1E: Dialogue
 627
 618
@@ -185,9 +185,9 @@
 ! 16:00--16:30 Break
 
 = 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment
-70-special
-90-special
-142
+70-special ## %award Award
+90-special ## %award Award
+142 ## %award Award
 
 * Tuesday, July 12, 2022
 
@@ -397,7 +397,7 @@
 220
 863
 = Session 6C: Multilinguality
-878
+878 ## %award Award
 676
 662
 481
@@ -540,7 +540,7 @@
 + 10:45--12:15 Oral Session 9 + Findings In-person Poster Session 1
 
 = Session 9A: Language Generation
-686
+686 ## %award Award
 634
 126
 955
@@ -561,7 +561,7 @@
 = Session 9D: Language Resources & Evaluation 3
 699
 371
-26
+26 ## %award Award
 1011
 818
 3519-tacl

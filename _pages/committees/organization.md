@@ -318,6 +318,12 @@ toc_sticky: true
    institution="Allen Institute for AI"
 %}
 {% include bio-box
+   name="Hyunwoo Kim"
+   picture="/assets/images/committee/books.jpg"
+   site="https://hyunw.kim/"
+   institution="Seoul National University & Allen Institute for AI"
+%}
+{% include bio-box
    name="Ximing Lu"
    picture="/assets/images/committee/books.jpg"
    site="https://scholar.google.com/citations?user=ssYPSmkAAAAJ&hl=en"

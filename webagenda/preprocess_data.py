@@ -44,6 +44,7 @@ class RawSchedule:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
                 record = {key: value.strip() for (key, value) in row.items() if key}
+                record['Source'] = path.name
                 if extra_info:
                     record.update(extra_info)
                 new_records.append(record)
@@ -55,9 +56,12 @@ class RawSchedule:
         with open(path) as fin:
             reader = csv.DictReader(fin)
             for row in reader:
-                new_records.append({
+                record = {
                     'Session Name': session_name,
-                    'Paper ID': row['number'] + '-industry'})
+                    'Paper ID': row['number'] + '-industry',
+                    'Source': path.name,
+                    }
+                new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
@@ -66,9 +70,12 @@ class RawSchedule:
         with open(path) as fin:
             for line in fin:
                 paper_id, title, authors = line.rstrip('\n').split('\t')
-                new_records.append({
+                record = {
                     'Session Name': session_name,
-                    'Paper ID': paper_id + '-demo'})
+                    'Paper ID': paper_id + '-demo',
+                    'Source': path.name,
+                    }
+                new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
@@ -78,10 +85,11 @@ class RawSchedule:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
                 record = {key: value.strip() for (key, value) in row.items() if key}
-                if extra_info:
-                    record.update(extra_info)
                 record['Paper ID'] = (
                         re.match(r'SRW_(\d+)', record['Paper ID']).group(1) + '-srw')
+                record['Source'] = path.name
+                if extra_info:
+                    record.update(extra_info)
                 new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
@@ -125,6 +133,7 @@ class RawMetadata:
                     'track': row['Track'],
                     'title': row['Title'],
                     'authors': row['Authors'],
+                    'source': path.name,
                     })
         logging.info('Read %d metadata records from %s', len(new_records), path)
         self.records += new_records
@@ -139,6 +148,7 @@ class RawMetadata:
                     'track': 'Industry',
                     'title': row['title'],
                     'authors': row['authors'].replace('|', ', '),
+                    'source': path.name,
                     })
         logging.info('Read %d metadata records from %s', len(new_records), path)
         self.records += new_records
@@ -153,6 +163,7 @@ class RawMetadata:
                     'track': 'Demo',
                     'title': title,
                     'authors': authors,
+                    'source': path.name,
                     })
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
@@ -168,6 +179,7 @@ class RawMetadata:
                     'track': row['Track'],
                     'title': row['Title'],
                     'authors': row['Authors'],
+                    'source': path.name,
                     })
         logging.info('Read %d metadata records from %s', len(new_records), path)
         self.records += new_records

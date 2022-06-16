@@ -470,9 +470,9 @@ class WebSession(Session):
 
             generated_html.append('<div class="session session-plenary session-expandable session-papers-best">')
             generated_html.append('<div class="expander-wrapper">')
-            generated_html.append('<div id="expander"></div><a href="#" class="session-title">{}</a></div>'.format(self.title))
+            generated_html.append('<div id="expander"></div><a href="#" class="session-title">{}</a>'.format(self.title))
             generated_html.append('</div>')
-            generated_html.apepnd('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
+            generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
                 generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
             generated_html.append('<div class="paper-session-details"><table class="paper-table">')

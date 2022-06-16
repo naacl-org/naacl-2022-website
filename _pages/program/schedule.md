@@ -307,7 +307,18 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Best Paper Session + Land Acknowledgment</span><span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span></div>
+<div class="session session-plenary session-expandable session-papers-best">
+<div class="expander-wrapper">
+<div id="expander"></div><a href="#" class="session-title">Plenary Best Paper Session + Land Acknowledgment</a>
+</div>
+<span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span>
+<div class="paper-session-details"><table class="paper-table">
+<tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
+<tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
+<tr id="paper" paper-id="142"><td id="paper-time"></td><td><span class="paper-title">NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics. </span><em>Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi</em></td></tr>
+</table>
+</div>
+</div>
 <div class="day" id="day-2">Tuesday, July 12, 2022</div>
 <div class="session-box" id="session-box-3">
 <div class="session-header" id="session-header-3">Oral Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1</div>
@@ -578,7 +589,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="111-special"><td id="paper-time"></td><td><span class="paper-title">User-Centric Gender Rewriting. </span><em>Bashar Alhafni, Nizar Habash, Houda Bouamor</em></td></tr>
 <tr id="paper" paper-id="93-special"><td id="paper-time"></td><td><span class="paper-title">Explaining Why: How Instructions and User Interfaces Impact Annotator Rationales When Labeling Text Data. </span><em>Jamar L. Sullivan Jr., Will Brackenbury, Andrew McNutt, Kevin Bryson, Kwam Byll, Yuxin Chen, Michael Littman, Chenhao Tan, Blase Ur</em></td></tr>
 <tr id="paper" paper-id="87-special"><td id="paper-time"></td><td><span class="paper-title">An Exploration of Post-Editing Effectiveness in Text Summarization. </span><em>Vivian Lai, Alison Smith-Renner, Ke Zhang, Ruijia Cheng, Wenjuan Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
-<tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
+<tr id="paper" paper-id="65-special"><td id="paper-time"></td><td><span class="paper-title">The Why and The How: A Survey on Natural Language Interaction in Visualization. </span><em>Henrik Voigt, Ozge Alacam, Monique Meuschke, Kai Lawonn, Sina Zarrieß</em></td></tr>
 </table>
 </div>
 </div>
@@ -892,12 +903,12 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <div class="session session-expandable session-papers" id="session-8c">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">8C: Human-Centered NLP 2</a>
+<div id="expander"></div><a href="#" class="session-title">8C: Machine Learning & Human-Centered NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8c-deselector">Remove All</a><table class="paper-table">
-<tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
-<tr id="paper" paper-id="65-special"><td id="paper-time"></td><td><span class="paper-title">The Why and The How: A Survey on Natural Language Interaction in Visualization. </span><em>Henrik Voigt, Ozge Alacam, Monique Meuschke, Kai Lawonn, Sina Zarrieß</em></td></tr>
+<tr id="paper" paper-id="3601-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. </span><em>Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor</em></td></tr>
+<tr id="paper" paper-id="3593-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Heterogeneous Supervised Topic Models. </span><em>Dhanya Sridhar, Hal Daumé III, David Meir Blei</em></td></tr>
 <tr id="paper" paper-id="34-special"><td id="paper-time"></td><td><span class="paper-title">Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks. </span><em>Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet B. Pierrehumbert</em></td></tr>
 <tr id="paper" paper-id="134-special"><td id="paper-time"></td><td><span class="paper-title">On the Machine Learning of Ethical Judgments from Natural Language. </span><em>Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams</em></td></tr>
 </table>
@@ -955,7 +966,6 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="686"><td id="paper-time"></td><td><span class="paper-title">FRUIT: Faithfully Reflecting Updated Information in Text. </span><em>Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang</em></td></tr>
 <tr id="paper" paper-id="634"><td id="paper-time"></td><td><span class="paper-title">Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. </span><em>Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang</em></td></tr>
 <tr id="paper" paper-id="126"><td id="paper-time"></td><td><span class="paper-title">Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation. </span><em>Jinyi Hu, Xiaoyuan Yi, Wenhao Li, Maosong Sun, Xing Xie</em></td></tr>
-<tr id="paper" paper-id="142"><td id="paper-time"></td><td><span class="paper-title">NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics. </span><em>Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi</em></td></tr>
 <tr id="paper" paper-id="955"><td id="paper-time"></td><td><span class="paper-title">Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation. </span><em>Dingcheng Li, Zheng Chen, Eunah Cho, Jie Hao, Xiaohu Liu, Xing Fan, Chenlei Guo, Yang Liu</em></td></tr>
 <tr id="paper" paper-id="673"><td id="paper-time"></td><td><span class="paper-title">Zero-shot Sonnet Generation with Discourse-level Planning and Aesthetics Features. </span><em>Yufei Tian, Nanyun Peng</em></td></tr>
 </table>
@@ -1071,6 +1081,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="poster" poster-id="33"><td><span class="poster-title">SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models. </span><em>Jingfeng Yang, Haoming Jiang, Qingyu Yin, Danqing Zhang, Bing Yin, Diyi Yang</em></td></tr>
 <tr><td><span class="poster-type">Sentiment Analysis and Stylistic Analysis</span></td></tr>
 <tr id="poster" poster-id="426"><td><span class="poster-title">POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection. </span><em>Yujian Liu, Xinliang Frederick Zhang, David Wegsman, Nicholas Beauchamp, Lu Wang</em></td></tr>
+<tr id="poster" poster-id="404"><td><span class="poster-title">A Survey on Stance Detection for Mis- and Disinformation Identification. </span><em>Momchil Hardalov, Arnav Arora, Preslav Nakov, Isabelle Augenstein</em></td></tr>
 </table>
 </div>
 </div>

@@ -74,7 +74,8 @@
 
 ! 16:00--16:30 Break
 
-! 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment 
+= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment
+{"Day": "Day 1", "Session Name": "Best paper"}
 
 * Tuesday, July 12, 2022
 
@@ -191,8 +192,8 @@
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Interpretability and Analysis of Models for NLP 3"}
 = Session 8B: Computational Social Science and Cultural Analytics
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Computational Social Science and Cultural Analytics"}
-= Session 8C: Human-Centered NLP 2
-{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Human-Centered NLP 2"}
+= Session 8C: Machine Learning & Human-Centered NLP 2
+{"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning & Human-Centered NLP 2"}
 = Session 8D: Machine Translation 3
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Translation 3"}
 = Session 8E: Dialogue and Interactive Systems 3

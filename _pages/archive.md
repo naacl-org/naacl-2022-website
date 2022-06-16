@@ -11,6 +11,11 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Jun 6, 2022 | The early [registration](/registration/) deadline has been extended to June 10, 2022.
+| May 19, 2022 | [Blogpost](/blog/caregivers/): Caring for the Caregivers at NAACL 2022 (childcare subsidy request deadline: May 24)
+| May 17, 2022 | Updated the [Registration](/registration/) page.
+| Apr 28, 2022 | Updated the [Venue](/venue/) and [Visa Information](/visa-info/) pages.
+| Apr 20, 2022 | [Blogpost](/blog/poster-talk-accessibility-quality-inclusivity/) by D&I chairs on Poster and Talk Accessibility, Quality, and Inclusivity.
 | Apr 19, 2022 | Call for [D&I subsidies and volunteer awards](/blog/subsidies/) have been announced.
 | Apr 12, 2022 | [Call for structured socials](/blog/structured-social/) is announced.
 | Apr 20, 2022 | [Camera-ready instructions](/blog/camera-ready) are available. 

@@ -13,21 +13,31 @@ toc_sticky: true
 .speaker-images img {
   border-radius: 50%;
 }
+th .extra {
+  font-size: 80%;
+}
 </style>
 
 ## Schedule
 
 **Date:** July 10, 2022
 
+| | Morning sessions: 9:00--12:30<br><span class="extra">Extra Q&A sessions: 8:00--8:45 and 12:30--13:00</span>
+| -- | -- |
 | [T1](#t1) | Text Generation with Text-Editing Models
 | [T2](#t2) | Self-supervised Representation Learning for Speech Processing
 | [T3](#t3) | New Frontiers of Information Extraction
+
+| | Afternoon sessions: 14:00--17:30<br><span class="extra">Extra Q&A sessions: 13:30--14:00 and 18:00--18:45</span>
+| -- | -- |
 | [T4](#t4) | Human-Centered Evaluation of Explanations
 | [T5](#t5) | Multimodal Machine Learning
 | [T6](#t6) | Contrastive Data and Learning for Natural Language Processing
 
-Session times and venues are being finalized.
-There will be extra Q&A sessions (45-minute slots) for remote attendees who cannot connect synchronously to tutorials.
+All times are Pacific Daylight Time (<strong>GMT-7</strong>).
+
+Tutorials will be delivered live in a hybrid mode. Room assignments and Zoom links for the tutorials, and for their extra live Q&A sessions, will be in the conference handbook and on the website for virtual attendance, which will link to materials including videos.
+Remote attendees who cannot connect synchronously to tutorials can attend the extra Q&A sessions.
 
 ## T1: Text Generation with Text-Editing Models
 {: #t1}
@@ -56,6 +66,10 @@ Shankar Kumar,
 {: .speaker-images}
 
 [Speaker bios](/program/tutorials/bios-t1/){: .btn .btn--info}
+
+**Time:** 9:00--12:30
+
+**Extra Q&A sessions:** 8:00--8:45 and 12:30--13:00
 
 **Category:** Cutting-edge
 
@@ -96,6 +110,10 @@ pressing challenges in the field of text generation.
 
 [Speaker bios](/program/tutorials/bios-t2/){: .btn .btn--info}
 
+**Time:** 9:00--12:30
+
+**Extra Q&A sessions:** 8:00--8:45 and 12:30--13:00
+
 **Category:** Cutting-edge
 
 Although Deep Learning models have revolutionized the speech and audio processing field, they forced building specialist models for individual tasks and application scenarios. Deep neural models also bottlenecked dialects and languages with limited labeled data.
@@ -120,6 +138,10 @@ Self-supervised representation learning methods promise a single universal model
 {: .speaker-images}
 
 [Speaker bios](/program/tutorials/bios-t3/){: .btn .btn--info}
+
+**Time:** 9:00--12:30
+
+**Extra Q&A sessions:** 8:00--8:45 and 12:30--13:00
 
 **Category:** Cutting-edge
 
@@ -149,6 +171,10 @@ In this tutorial, we will systematically review several lines of frontier resear
 
 [Speaker bios](/program/tutorials/bios-t4/){: .btn .btn--info}
 
+**Time:** 14:00--17:30
+
+**Extra Q&A sessions:** 13:30--14:00 and 18:00--18:45
+
 **Category:** Introductory
 
 The NLP community are increasingly interested in providing explanations for NLP models to help people make sense of model behavior and potentially improve human interaction with models. In addition to computational challenges in generating these explanations, evaluations of the generated explanations require human-centered perspectives and approaches. This tutorial will provide an overview of human-centered evaluations of explanations. First, we will give a brief introduction to the psychological foundation of explanations as well as types of NLP model explanations and their corresponding presentation, to provide the necessary background. We will then present a taxonomy of human-centered evaluation of explanations and dive into depth in the two categories: 1) evaluation with human-subject studies and 2) evaluation based on human-annotated explanations. We will conclude by discussing future directions. We will also adopt a flipped format to maximize the interactive components for the live audience.
@@ -166,6 +192,10 @@ The NLP community are increasingly interested in providing explanations for NLP 
 {: .speaker-images}
 
 [Speaker bios](/program/tutorials/bios-t5/){: .btn .btn--info}
+
+**Time:** 14:00--17:30
+
+**Extra Q&A sessions:** 13:30--14:00 and 18:00--18:45
 
 **Category:** Cutting-edge
 
@@ -188,6 +218,10 @@ This tutorial builds upon the annual course on multimodal machine learning taugh
 {: .speaker-images}
 
 [Speaker bios](/program/tutorials/bios-t6/){: .btn .btn--info}
+
+**Time:** 14:00--17:30
+
+**Extra Q&A sessions:** 13:30--14:00 and 18:00--18:45
 
 **Category:** Cutting-edge
 

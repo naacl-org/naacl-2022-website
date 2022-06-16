@@ -1,136 +1,237 @@
-Day	Session Name	Paper ID	Track	Session start time
-		200	Ethics	
-		549	Ethics	
-		298	Information Retrieval	
-		734	Information Retrieval	
-		316	Interpretability and Analysis of Models for NLP	
-		678	Interpretability and Analysis of Models for NLP	
-		99	Language Grounding to Vision	
-		286	Language Grounding to Vision	
-		1038	Language Grounding to Vision	
-		83	Machine Translation	
-		110	Machine Translation	
-		340	Machine Translation	
-		493	Machine Translation	
-		632	Machine Translation	
-		747	Machine Translation	
-		350	Multilinguality	
-		15	NLP Application	
-		108	NLP Application	
-		280	NLP Application	
-		338	NLP Application	
-		595	NLP Application	
-		1020	NLP Application	
-		205	Dialogue and Interactive Systems	
-		334	Dialogue and Interactive Systems	
-		786	Dialogue and Interactive Systems	
-		789	Dialogue and Interactive Systems	
-		849	Dialogue and Interactive Systems	
-		871	Dialogue and Interactive Systems	
-		913	Dialogue and Interactive Systems	
-		435	Efficient Methods in NLP	
-		815	Efficient Methods in NLP	
-		876	Efficient Methods in NLP	
-		116	Information Extraction	
-		284	Information Extraction	
-		389	Information Extraction	
-		433	Information Extraction	
-		536	Information Extraction	
-		537	Information Extraction	
-		572	Information Extraction	
-		597	Information Extraction	
-		612	Information Extraction	
-		718	Information Extraction	
-		769	Information Extraction	
-		888	Information Extraction	
-		269	Machine Learning	
-		326	Machine Learning	
-		446	Machine Learning	
-		671	Machine Learning	
-		705	Machine Learning	
-		807	Machine Learning	
-		854	Machine Learning	
-		1049	Machine Learning	
-		422	Summarization	
-		983	Summarization	
-		562	Discourse and Pragmatics	
-		53	Language Resources	
-		283	Language Resources	
-		544	Language Resources	
-		168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	
-		810	Phonology	
-		43	Question Answering	
-		70	Question Answering	
-		320	Question Answering	
-		362	Question Answering	
-		509	Question Answering	
-		741	Question Answering	
-		331	Semantics: Sentence-level Semantics and Textual Inference	
-		390	Semantics: Sentence-level Semantics and Textual Inference	
-		839	Semantics: Sentence-level Semantics and Textual Inference	
-		49	Sentiment Analysis and Stylistic Analysis	
-		303	Sentiment Analysis and Stylistic Analysis	
-		801	Sentiment Analysis and Stylistic Analysis	
-		1007	Language Grounding to Vision, Robotics and Beyond	
-		1014	Language Grounding to Vision, Robotics and Beyond	
-		1028	Language Resources and Evaluation	
-		128	Ethics, Bias, and Fairness	
-		147	Information Extraction	
-		180	NLP Applications	
-		181	Language Grounding to Vision, Robotics and Beyond	
-		194	Dialogue and Interactive systems	
-		203	Syntax: Tagging, Chunking, and Parsing	
-		213	Language Grounding to Vision, Robotics and Beyond	
-		214	Language Resources and Evaluation	
-		223	Summarization	
-		225	Dialogue and Interactive systems	
-		236	Efficient methods in NLP	
-		237	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
-		258	Language Resources and Evaluation	
-		268	Efficient methods in NLP	
-		296	Efficient methods in NLP	
-		300	Semantics: Lexical Semantics	
-		343	NLP Applications	
-		347	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
-		357	Interpretability and Analysis of Models for NLP	
-		36-special	Special Theme	
-		365	Dialogue and Interactive systems	
-		374	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
-		386	Efficient methods in NLP	
-		392	Speech	
-		410	Language Generation	
-		415	Language Resources and Evaluation	
-		417	Efficient methods in NLP	
-		421	Dialogue and Interactive systems	
-		436	NLP Applications	
-		45-special	Special Theme	
-		693	NLP Applications	
-		526	Computational Social Science and Cultural Analytics	
-		542	Information Extraction	
-		554	Efficient methods in NLP	
-		559	Language Resources and Evaluation	
-		564	Summarization	
-		575	Sentiment Analysis and Stylistic Analysis	
-		603	Question Answering	
-		604	Computational Social Science and Cultural Analytics	
-		619	Machine Translation	
-		624	Question Answering	
-		641	Language Grounding to Vision, Robotics and Beyond	
-		658	Information Extraction	
-		696	Dialogue and Interactive systems	
-		702	Question Answering	
-		72	Question Answering	
-		726	Information Retrieval and Text Mining	
-		738	Multilinguality	
-		791	Sentiment Analysis and Stylistic Analysis	
-		798	Information Retrieval and Text Mining	
-		82	Multilinguality	
-		879	Machine Translation	
-		893	Information Extraction	
-		900	Computational Social Science and Cultural Analytics	
-		916	Language Generation	
-		93	Dialogue and Interactive systems	
-		771	Information Extraction	
-		399	Speech	
-		731	Dialogue and Interactive systems	
-		635	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	
+Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and time
+2	Virtual Poster Q&A Session 2	2	900	Computational Social Science and Cultural Analytics	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	778	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	849	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	941	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	133	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	37	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	225	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	838	Dialogue and Interactive systems	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	435	Efficient methods in NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	554	Efficient methods in NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	815	Efficient methods in NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	236	Efficient methods in NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	268	Efficient methods in NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	386	Efficient methods in NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	128	Ethics, Bias, and Fairness	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	433	Information Extraction	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	502	Information Extraction	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	630	Information Extraction	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	952	Information Extraction	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	734	Information Retrieval and Text Mining	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	52	Information Retrieval and Text Mining	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	659	Information Retrieval and Text Mining	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	316	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	438	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	113	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	410	Language Generation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	273	Language Generation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	660	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	529	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	812	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	9	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	214	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	407	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	688	Language Resources and Evaluation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	619	Machine Translation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	109	Machine Translation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	260	Machine Translation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	340	Machine Translation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	4	632	Machine Translation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	595	NLP Applications	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	108	NLP Applications	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	98	NLP Applications	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	180	NLP Applications	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	810	Phonology, Morphology and Word Segmentation	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	300	Semantics: Lexical Semantics	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	331	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	839	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	29	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	390	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	794	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	224	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	663	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	802	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	5	857	Semantics: Sentence-level Semantics and Textual Inference	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	49	Sentiment Analysis and Stylistic Analysis	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	492	Sentiment Analysis and Stylistic Analysis	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	657	Sentiment Analysis and Stylistic Analysis	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	3	513	Sentiment Analysis and Stylistic Analysis	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	36-special	Special Theme	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	52-special	Special Theme	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	2	392	Speech	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	59	Summarization	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	324	Summarization	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	983	Summarization	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 2	1	480	Summarization	16:15	Tues 16:15
+2	Virtual Poster Q&A Session 1	6	235	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	871	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	93	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	428	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	156	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	205	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	334	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	421	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	913	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	194	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	365	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	421	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	696	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	731	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	789	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	786	Dialogue and Interactive systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	84-srw	Dialogue and Interactive Systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	6	86-srw	Dialogue and Interactive Systems	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	536	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	718	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	888	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	284	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	389	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	572	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	612	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	768	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	769	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	147	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	542	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	658	Information Extraction	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	298	Information Retrieval and Text Mining	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	780	Information Retrieval and Text Mining	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	726	Information Retrieval and Text Mining	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	7	798	Information Retrieval and Text Mining	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	716	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	899	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	357	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	302	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	678	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	76-srw	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	705	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	217	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	963	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	967	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	976	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	269	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	326	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	446	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	807	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	1049	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	635	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	24	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	253	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	237	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	347	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	374	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	671	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	921	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	179	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	9	842	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	482	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	493	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	4	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	747	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	83	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	110	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	879	Machine Translation	8:00	Tues 8:00
+2	Virtual Poster Q&A Session 1	8	37-srw	Machine Translation	8:00	Tues 8:00
+3	Virtual Poster Q&A Session 3	10	351	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	42	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	852	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	975	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	604	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	526	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	22-srw	Computational Social Science and Cultural Analytics	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	876	Efficient methods in NLP	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	296	Efficient methods in NLP	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	775	Efficient methods in NLP	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	33-srw	Efficient methods in NLP	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	549	Ethics, Bias, and Fairness	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	54-srw	Ethics, Bias, and Fairness	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	60-srw	Ethics, Bias, and Fairness	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	238	Language Generation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	916	Language Generation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	23-srw	Language Generation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	821	Language Grounding to Vision, Robotics and Beyond	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	641	Language Grounding to Vision, Robotics and Beyond	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	1028	Language Resources and Evaluation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	258	Language Resources and Evaluation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	544	Language Resources and Evaluation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	283	Language Resources and Evaluation	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	854	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	1020	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	280	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	338	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	915	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	436	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	466	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	15	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	343	NLP Applications	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	702	Question Answering	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	603	Question Answering	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	449	Question Answering	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	70	Question Answering	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	509	Question Answering	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	11	59-srw	Question Answering	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	971	Semantics: Sentence-level Semantics and Textual Inference	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	791	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	801	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	575	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	303	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	88-srw	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	45-special	Special Theme	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	5-special	Special Theme	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	399	Speech	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	693	Speech	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	16-srw	Speech	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	12	94-srw	Speech	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	203	Syntax: Tagging, Chunking, and Parsing	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 3	10	42-srw	Syntax: Tagging, Chunking, and Parsing	8:00	Wed 8:00
+3	Virtual Poster Q&A Session 4	14	562	Discourse and Pragmatics	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	417	Efficient methods in NLP	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	236	Efficient methods in NLP	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	653	Ethics, Bias, and Fairness	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	128	Ethics, Bias, and Fairness	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	200	Ethics, Bias, and Fairness	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	163	Information Extraction	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	116	Information Extraction	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	597	Information Extraction	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	537	Information Extraction	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	48-srw	Information Extraction	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	77-srw	Information Extraction	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	1014	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	181	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	1038	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	1007	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	213	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	99	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	286	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	49-srw	Language Resources	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	53	Language Resources and Evaluation	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	415	Language Resources and Evaluation	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	559	Language Resources and Evaluation	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	82	Multilinguality	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	756	Multilinguality	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	738	Multilinguality	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	263	Multilinguality	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	15	350	Multilinguality	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	478	NLP Applications	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	656	NLP Applications	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	29-srw	NLP Applications	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	320	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	528	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	741	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	850	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	43	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	624	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	362	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	72	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	212	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	761	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	806	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	222	Question Answering	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	487	Semantics: Sentence-level Semantics and Textual Inference	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	14	953	Semantics: Sentence-level Semantics and Textual Inference	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	564	Summarization	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	564	Summarization	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	223	Summarization	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	422	Summarization	9:15	Wed 9:15
+3	Virtual Poster Q&A Session 4	13	90-srw	Summarization	9:15	Wed 9:15

@@ -14,7 +14,7 @@ secondary_excerpt: "July 10--15, 2022"
 .notice--warning del { color: #888; }
 </style>
 
-**[Registration](/registration/) is now open.** The early registration deadline is ~~June 4~~ **June 10**, 2022, 11:59 PM (Eastern Time).
+**[Registration](/registration/) is now open.** The late registration deadline is June 26, 2022, 09:00 Eastern Time.
 {: .text-center .notice--warning}
 
 The [main conference schedule](/program/schedule/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.

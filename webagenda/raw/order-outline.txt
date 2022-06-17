@@ -19,24 +19,7 @@
 = Session 1E: Dialogue
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
 = Session 1F: In-person Poster Session 1
-@ Computational Social Science and Cultural Analytics
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Computational Social Science and Cultural Analytics"}
-@ Ethics
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Ethics"}
-@ Information Retrieval
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Information Retrieval"}
-@ Interpretability and Analysis of Models for NLP
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Interpretability and Analysis of Models for NLP"}
-@ Language Grounding to Vision
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Language Grounding to Vision"}
-@ Machine Translation
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Machine Translation"}
-@ Multilinguality
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Multilinguality"}
-@ NLP Application
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "NLP Application"}
-@ Human-Centered NLP
-{"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Track": "Human-Centered NLP"}
+{"Session Name": "Poster session 1", "_group_by": "Track"}
 
 ! 12:15--13:15 Lunch
 
@@ -57,20 +40,7 @@
 = Session 2E: NLP Applications 1
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
 = Session 2F: In-person Poster Session 2
-@ Dialogue and Interactive Systems
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Dialogue and Interactive Systems"}
-@ Efficient Methods in NLP
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Efficient Methods in NLP"}
-@ Language Generation
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Language Generation"}
-@ Information Extraction
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Information Extraction"}
-@ Machine Learning
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Machine Learning"}
-@ Summarization
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Summarization"}
-@ Syntax: Tagging, Chunking and Parsing
-{"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Track": "Syntax: Tagging, Chunking and Parsing"}
+{"Session Name": "Poster session 2", "_group_by": "Track"}
 
 ! 16:00--16:30 Break
 
@@ -115,20 +85,7 @@
 = Session 4E: Dialogue and Interactive Systems 1
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
 = Session 4F: In-person Poster Session 3
-@ Discourse and Pragmatics
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Discourse and Pragamtics"}
-@ Language Resources
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Language Resources"}
-@ Linguistic Theories, Cognitive Modeling and Psycholinguistics
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Linguistic Theories, Cognitive Modeling and Psycholinguistics"}
-@ Question Answering
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Question Answering"}
-@ Semantics: Sentence-level Semantics and Textual Inference
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Semantics: Sentence-level Semantics and Textual Inference"}
-@ Sentiment Analysis and Stylistic Analysis
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Sentiment Analysis and Stylistic Analysis"}
-@ Speech
-{"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Track": "Speech"}
+{"Session Name": "Poster session 3", "_group_by": "Track"}
 
 ! 12:15--14:15 Lunch + Business Meeting
 
@@ -147,7 +104,7 @@
 = Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
 = Session 5G: SRW In-person Poster Session
-{"Session Name": "Poster session 3", "Track": "Student Research Workshop"}
+{"Session Name": "SRW Poster Session", "Track": "Student Research Workshop"}
 
 ! 15:45--16:15 Break
 
@@ -224,30 +181,7 @@
 = Session 9E: NLP Applications 4
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "NLP Applications 4"}
 = Session 9F: Findings In-person Poster Session 1
-@ Computational Social Science and Cultural Analytics
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Computational Social Science and Cultural Analytics"}
-@ Dialogue and Interactive systems
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Dialogue and Interactive systems"}
-@ Discourse and Pragmatics
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Discourse and Pragmatics"}
-@ Efficient methods in NLP
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Efficient methods in NLP"}
-@ Ethics, Bias, and Fairness
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Ethics, Bias, and Fairness"}
-@ Interpretability and Analysis of Models for NLP
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Interpretability and Analysis of Models for NLP"}
-@ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Machine Learning for NLP: Language Modeling and Sequence to Sequence Models"}
-@ Multilinguality
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Multilinguality"}
-@ Question Answering
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Question Answering"}
-@ Semantics: Lexical Semantics
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Semantics: Lexical Semantics"}
-@ Semantics: Sentence-level Semantics and Textual Inference
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Semantics: Sentence-level Semantics and Textual Inference"}
-@ Sentiment Analysis and Stylistic Analysis
-{"Day": "Day 3", "Session start time": "10:45", "Session Name": "Findings poster session 1", "Track": "Sentiment Analysis and Stylistic Analysis"}
+{"Session Name": "Findings poster session 1", "_group_by": "Track"}
 
 ! 12:15--14:15 Lunch
 
@@ -264,26 +198,7 @@
 = Session 10E: Question Answering 2
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Question Answering 2"}
 = Session 10F: Findings In-person Poster Session 2
-@ Human-Centered NLP
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Special Theme"}
-@ Information Extraction
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Information Extraction"}
-@ Information Retrieval and Text Mining
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Information Retrieval and Text Mining"}
-@ Language Generation
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Language Generation"}
-@ Language Grounding to Vision, Robotics and Beyond
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Language Grounding to Vision, Robotics and Beyond"}
-@ Language Resources and Evaluation
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Language Resources and Evaluation"}
-@ Machine Translation
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Machine Translation"}
-@ NLP Applications
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "NLP Applications"}
-@ Speech
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Speech"}
-@ Summarization
-{"Day": "Day 3", "Session start time": "14:15", "Session Name": "Findings poster session 2", "Track": "Summarization"}
+{"Session Name": "Findings poster session 2", "_group_by": "Track"}
 
 ! 15:45--16:15 Break
 

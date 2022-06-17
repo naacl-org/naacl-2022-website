@@ -140,6 +140,10 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="653"><td><span class="poster-title">Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution. </span><em>Connor Baumler, Rachel Rudinger</em></td></tr>
 <tr id="poster" poster-id="520"><td><span class="poster-title">Using Natural Sentence Prompts for Understanding Biases in Language Models. </span><em>Sarah Alnegheimish, Alicia Guo, Yi Sun</em></td></tr>
 <tr id="poster" poster-id="128"><td><span class="poster-title">Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification. </span><em>Xiaolei Huang</em></td></tr>
+<tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
+<tr id="poster" poster-id="52-special"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
+<tr id="poster" poster-id="99-special"><td><span class="poster-title">Machine-in-the-Loop Rewriting for Creative Image Captioning. </span><em>Vishakh Padmakumar, He He</em></td></tr>
+<tr id="poster" poster-id="5-special"><td><span class="poster-title">What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research. </span><em>Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke</em></td></tr>
 <tr><td><span class="poster-type">Information Retrieval</span></td></tr>
 <tr id="poster" poster-id="52"><td><span class="poster-title">Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds. </span><em>Yu Zhang, Yu Meng, Xuan Wang, Sheng Wang, Jiawei Han</em></td></tr>
 <tr id="poster" poster-id="829"><td><span class="poster-title">Learning Cross-Lingual IR from an English Retriever. </span><em>Yulong Li, Martin Franz, Md Arafat Sultan, Bhavani Iyer, Young-Suk Lee, Avirup Sil</em></td></tr>
@@ -172,10 +176,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="656"><td><span class="poster-title">TWEETSPIN: Fine-grained Propaganda Detection in Social Media Using Multi-View Representations. </span><em>Prashanth Vijayaraghavan, Soroush Vosoughi</em></td></tr>
 <tr id="poster" poster-id="478"><td><span class="poster-title">A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony. </span><em>Tulika Saha, Saichethan Miriyala Reddy, Anindya Sundar Das, Sriparna Saha, Pushpak Bhattacharyya</em></td></tr>
 <tr id="poster" poster-id="98"><td><span class="poster-title">Cross-document Misinformation Detection based on Event Graph Reasoning. </span><em>Xueqing Wu, Kung-Hsiang Huang, Yi Fung, Heng Ji</em></td></tr>
-<tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
-<tr id="poster" poster-id="52-special"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
-<tr id="poster" poster-id="99-special"><td><span class="poster-title">Machine-in-the-Loop Rewriting for Creative Image Captioning. </span><em>Vishakh Padmakumar, He He</em></td></tr>
-<tr id="poster" poster-id="5-special"><td><span class="poster-title">What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research. </span><em>Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke</em></td></tr>
 </table>
 </div>
 </div>
@@ -281,17 +281,17 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr><td><span class="poster-type">Efficient Methods in NLP</span></td></tr>
 <tr id="poster" poster-id="14"><td><span class="poster-title">LEA: Meta Knowledge-Driven Self-Attentive Document Embedding for Few-Shot Text Classification. </span><em>Seungki Hong, Tae Young Jang</em></td></tr>
 <tr id="poster" poster-id="775"><td><span class="poster-title">Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval. </span><em>Siyu Ren, Kenny Q. Zhu</em></td></tr>
-<tr><td><span class="poster-type">Language Generation</span></td></tr>
-<tr id="poster" poster-id="273"><td><span class="poster-title">Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts. </span><em>Rujun Han, Hong Chen, Yufei Tian, Nanyun Peng</em></td></tr>
-<tr id="poster" poster-id="238"><td><span class="poster-title">Cross-Domain Detection of GPT-2-Generated Technical Text. </span><em>Juan Diego Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan</em></td></tr>
-<tr id="poster" poster-id="257"><td><span class="poster-title">Learning to Selectively Learn for Weakly Supervised Paraphrase Generation with Model-based Reinforcement Learning. </span><em>Haiyan Yin, Dingcheng Li, Ping Li</em></td></tr>
-<tr id="poster" poster-id="202"><td><span class="poster-title">AmbiPun: Generating Humorous Puns with Ambiguous Context. </span><em>Anirudh Mittal, Yufei Tian, Nanyun Peng</em></td></tr>
 <tr><td><span class="poster-type">Information Extraction</span></td></tr>
 <tr id="poster" poster-id="403"><td><span class="poster-title">Event Schema Induction with Double Graph Autoencoders. </span><em>Xiaomeng Jin, Manling Li, Heng Ji</em></td></tr>
 <tr id="poster" poster-id="502"><td><span class="poster-title">Unified Semantic Typing with Meaningful Label Inference. </span><em>James Y. Huang, Bangzheng Li, Jiashu Xu, Muhao Chen</em></td></tr>
 <tr id="poster" poster-id="630"><td><span class="poster-title">Crossroads, Buildings and Neighborhoods: A Dataset for Fine-grained Location Recognition. </span><em>Pei Chen, Haotian Xu, Cheng Zhang, Ruihong Huang</em></td></tr>
 <tr id="poster" poster-id="163"><td><span class="poster-title">CompactIE: Compact Facts in Open Information Extraction. </span><em>Farima Fatahi Bayat, Nikita Bhutani, H. Jagadish</em></td></tr>
 <tr id="poster" poster-id="952"><td><span class="poster-title">Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction. </span><em>Liyan Xu, Jinho D. Choi</em></td></tr>
+<tr><td><span class="poster-type">Language Generation</span></td></tr>
+<tr id="poster" poster-id="273"><td><span class="poster-title">Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts. </span><em>Rujun Han, Hong Chen, Yufei Tian, Nanyun Peng</em></td></tr>
+<tr id="poster" poster-id="238"><td><span class="poster-title">Cross-Domain Detection of GPT-2-Generated Technical Text. </span><em>Juan Diego Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan</em></td></tr>
+<tr id="poster" poster-id="257"><td><span class="poster-title">Learning to Selectively Learn for Weakly Supervised Paraphrase Generation with Model-based Reinforcement Learning. </span><em>Haiyan Yin, Dingcheng Li, Ping Li</em></td></tr>
+<tr id="poster" poster-id="202"><td><span class="poster-title">AmbiPun: Generating Humorous Puns with Ambiguous Context. </span><em>Anirudh Mittal, Yufei Tian, Nanyun Peng</em></td></tr>
 <tr><td><span class="poster-type">Machine Learning</span></td></tr>
 <tr id="poster" poster-id="217"><td><span class="poster-title">Inducing and Using Alignments for Transition-based AMR Parsing. </span><em>Andrew Drozdov, Jiawei Zhou, Radu Florian, Andrew McCallum, Tahira Naseem, Yoon Kim, Ramon Fernandez Astudillo</em></td></tr>
 <tr id="poster" poster-id="976"><td><span class="poster-title">Consistency Training with Virtual Adversarial Discrete Perturbation. </span><em>Jungsoo Park, Gyuwan Kim, Jaewoo Kang</em></td></tr>

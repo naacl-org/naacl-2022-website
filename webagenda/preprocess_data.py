@@ -24,7 +24,6 @@ _RAW_FINDINGS_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detai
 _INDUSTRY_ALL = _THIS_DIR / 'raw' / 'Detailed Schedule - Industry.tsv'
 _DEMO_POSTER = _THIS_DIR / 'raw' / 'Detailed Schedule - Demos.tsv'
 _SRW_POSTER_IN_PERSON_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - SRW Poster in-person sessions.tsv'
-_SRW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - Posters virtual.tsv'
 _SRW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'SRW Accepted papers info for detailed program - Accepted_papers_main.tsv'
 # Output files
 _ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
@@ -63,7 +62,7 @@ class RawSchedule:
 
     def search(self, query):
         for record in self.records:
-            if all(record.get(key) == query[key] for key in query):
+            if all(record.get(key) == query[key] for key in query if not key.startswith('_')):
                 if record.get('used'):
                     logging.warning('Reappearing schedule record: {}'.format(record))
                 record['used'] = True
@@ -73,16 +72,6 @@ class RawSchedule:
         for record in self.records:
             if not record.get('used'):
                 logging.warning('Unused schedule record: {}'.format(record))
-
-    def record_to_order_line(self, record):
-        order_line = record['Paper ID']
-        metadata = {}
-        if record.get('Paper Awards'):
-            metadata['award'] = record['Paper Awards'].replace(' ', '_')
-        if metadata:
-            order_line += ' ## ' + ' '.join(
-                    '%{} {}'.format(key, value) for (key, value) in metadata.items())
-        return order_line
 
 
 class RawMetadata:
@@ -99,11 +88,11 @@ class RawMetadata:
                 paper_id = re.sub(r'SRW_(\d+)', r'\1-srw', paper_id)    # TODO: Remove this hack
                 track = track_override or row.get('Track')
                 new_records.append({
+                    'source': path.name,
                     'paper_id': paper_id,
                     'track': track,
                     'title': row['Title'],
                     'authors': row['Authors'],
-                    'source': path.name,
                     })
         logging.info('Read %d metadata records from %s', len(new_records), path)
         self.records += new_records
@@ -142,6 +131,30 @@ class RawMetadata:
         logging.info('Wrote %d metadata records to %s', len(self.records), path)
 
 
+def dump_records(query, matching_records, fout):
+    # Grouped records
+    if '_group_by' in query:
+        subquery = dict(query)
+        del subquery['_group_by']
+        key_to_records = {}
+        for record in matching_records:
+            key_to_records.setdefault(record[query['_group_by']], []).append(record)
+        for key in sorted(key_to_records):
+            print(f'@ {key}', file=fout)
+            dump_records(subquery, key_to_records[key], fout)
+        return
+    # Normal records
+    for record in matching_records:
+        order_line = record['Paper ID']
+        metadata = {}
+        if record.get('Paper Awards'):
+            metadata['award'] = record['Paper Awards'].replace(' ', '_')
+        if metadata:
+            order_line += ' ## ' + ' '.join(
+                    '%{} {}'.format(key, value) for (key, value) in metadata.items())
+        print(order_line, file=fout)
+
+
 def main():
     # set up the logging
     logging.basicConfig(format='%(levelname)s - %(message)s', level=logging.INFO)
@@ -170,10 +183,10 @@ def main():
     with open(_ORDER_OUTLINE_) as fin, open(_ORDER_PREPROCESSED, 'w') as fout:
         for line in fin:
             if line[0] == '{':
-                # Search for matching papers
-                for record in raw_schedule.search(json.loads(line)):
-                    order_line = raw_schedule.record_to_order_line(record)
-                    print(order_line, file=fout)
+                query = json.loads(line)
+                matching_records = list(raw_schedule.search(query))
+                dump_records(query, matching_records, fout)
+                for record in matching_records:
                     raw_metadata.mark_used(record)
             else:
                 fout.write(line)

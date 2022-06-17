@@ -79,7 +79,7 @@
 
 * Tuesday, July 12, 2022
 
-+ 8:00--9:00 Oral Session 3 + Virtual Poster Q&A Session + Industry Oral Session 1
++ 8:00--9:00 Oral Session 3 + Industry Oral Session 1 + Virtual Poster Q&A Session 1
 
 = Session 3A: Language Generation
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Generation"}
@@ -93,6 +93,8 @@
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "NLP Applications 2"}
 = Session 3F: Industry Oral Session 1 ## %chair1 Kasturi Bhattacharjee
 {"Session Name": "Industry Oral 1"}
+= Session 3G: Virtual Poster Q&A Session 1
+{"Session Name": "Virtual Poster Q&A Session 1"}
 
 ! 9:00--9:15 Break
 
@@ -149,7 +151,7 @@
 
 ! 15:45--16:15 Break
 
-+ 16:15--17:45 Oral Session 6 + Virtual Poster Q&A Session + SRW Oral Session 2 + Industry/Demo In-person Poster Session
++ 16:15--17:45 Oral Session 6 + SRW Oral Session 2 + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2
 
 = Session 6A: Language Grounding to Vision 2
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Language Grounding to Vision 2"}
@@ -166,10 +168,12 @@
 {"Session Name": "Industry Poster"}
 @ Demo Track Posters
 {"Session Name": "Demo Poster"}
+= Session 6G: Virtual Poster Q&A Session 2
+{"Session Name": "Virtual Poster Q&A Session 2"}
 
 * Wednesday, July 13, 2022
 
-+ 8:00--9:00 Oral Session 7 + Virtual Poster Q&A Session
++ 8:00--9:00 Oral Session 7 + Virtual Poster Q&A Session 3
 
 = Session 7A: Interpretability and Analysis of Models for NLP 2
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Interpretability and Analysis of Models for NLP 2"}
@@ -183,10 +187,12 @@
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Dialogue and Interactive Systems 2"}
 = Session 7F: Machine Learning for NLP 2
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Learning for NLP 2"}
+= Session 7G: Virtual Poster Q&A Session 3
+{"Session Name": "Virtual Poster Q&A Session 3"}
 
 ! 9:00--9:15 Break
 
-+ 9:15--10:15 Oral Session 8 + Virtual Poster Q&A Session
++ 9:15--10:15 Oral Session 8 + Virtual Poster Q&A Session 4
 
 = Session 8A: Interpretability and Analysis of Models for NLP 3
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Interpretability and Analysis of Models for NLP 3"}
@@ -200,6 +206,8 @@
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Dialogue and Interactive Systems 3"}
 = Session 8F: Machine Learning for NLP 3
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
+= Session 7G: Virtual Poster Q&A Session 4
+{"Session Name": "Virtual Poster Q&A Session 4"}
 
 ! 10:15--10:45 Break
 
@@ -282,9 +290,3 @@
 ! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a>
 
 ! 17:15--17:45 Closing Session
-
-* Virtual Posters (to be scheduled to Q&A sessions)
-
-+ 0:00--0:00 Virtual Posters
-= Session X: Virtual Posters
-{"Format": "virtual"}

@@ -21,6 +21,7 @@ to accommodate the final mode of presentation (virtual or in-person) chosen by t
 To foster discussion, virtual poster Q&A sessions will be organized in small Zoom rooms that bring together posters on similar themes.
 
 All times are Pacific Daylight Time (<strong>GMT-7</strong>).
+**Icons:** <i class="fa fa-user"></i> = Session Chair; <i class="fa fa-award"></i> = Paper Award.
 </div>
 
 <div id="popupInstructionsDiv" markdown="1">
@@ -29,5 +30,4 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 * Hover over the time for any session to see its day and date as a tooltip.
 * Click on a paper or poster to toggle its selection. You can select more than one paper for a time slot.
 * Click the **"Download PDF"** button at the bottom to download your customized PDF.
-* Icon glossary: <i class="fa fa-user"></i> = Session Chair, <i class="fa fa-award"></i> = Paper Award, <i class="far fa-file-pdf"></i> = PDF, <i class="far fa-file-video"></i> = Video.
 </div>

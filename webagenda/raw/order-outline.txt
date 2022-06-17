@@ -18,7 +18,7 @@
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Efficient Methods in NLP 1"}
 = Session 1E: Dialogue
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
-= Session 1F: Poster Session 1
+= Session 1F: In-person Poster Session 1
 @ Computational Social Science and Cultural Analytics
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Poster session 1", "Format": "in-person", "Track": "Computational Social Science and Cultural Analytics"}
 @ Ethics
@@ -56,7 +56,7 @@
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Machine Translation 1"}
 = Session 2E: NLP Applications 1
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
-= Session 2F: Poster Session 2
+= Session 2F: In-person Poster Session 2
 @ Dialogue and Interactive Systems
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Poster session 2", "Format": "in-person", "Track": "Dialogue and Interactive Systems"}
 @ Efficient Methods in NLP
@@ -112,7 +112,7 @@
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Language Grounding to Vision 1"}
 = Session 4E: Dialogue and Interactive Systems 1
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
-= Session 4F: Poster Session 3
+= Session 4F: In-person Poster Session 3
 @ Discourse and Pragmatics
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Poster session 3", "Format": "in-person", "Track": "Discourse and Pragamtics"}
 @ Language Resources

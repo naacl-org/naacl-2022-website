@@ -54,21 +54,6 @@ class WebAgenda(Agenda):
                       '</thead>',
                       '<tbody></tbody>',
                       '</table>',
-                      '<div id="introParagraph">',
-                      '<h1>Main Conference Schedule</h1>'
-                      '<p>On this page, you can choose the sessions (and individual papers/posters) of your choice and generate a PDF of your customized schedule. ',
-                      'For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. ',
-                      'For help, simply type "?"" while on the page or click on the "Help" button.</p>',
-                      '<p>The overall schedule structure is final, but the assignment of papers to sessions and order of papers within sessions might still be modified ',
-                      'to accommodate the final mode of presentation (virtual or in-person) chosen by the authors.</p>',
-                      '<p><strong>Regarding Virtual Poster Q&A Sessions:</strong> ',
-                      'To foster discussion, virtual poster Q&A sessions will be organized in small Zoom rooms that bring together posters on similar themes. ',
-                      'Details will be posted soon.</p>',
-                      '<p><strong>Regarding Findings Papers:</strong> The program gives the times for the Findings paper sessions (in-person poster + virtual poster Q&A sessions).',
-                      'As soon as we have information about who is presenting a Findings paper, we will add it to the program. ',
-                      '(Authors of Findings papers should have received an email on June 2 with a link to a form to fill in to let us know about their intention.)</p>',
-                      '<p>All times are Pacific Daylight Time (<strong>GMT-7</strong>).</p>',
-                      '</div>',
                       '<p class="text-center">',
                       '<a href="#" id="help-button" class="btn btn--small btn--twitter">Help</a>',
                       '<a href="#" id="toggle-all-button" class="btn btn--small btn--twitter">Expand All Sessions ↓</a>',
@@ -603,13 +588,15 @@ class WebItem(Item):
 
             # generate the rest of the HTML along with optional icons
             time_text = '{}&ndash;{}'.format(self.start, self.end) if self.start and self.end else ''
-            item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, time_text, self.title, self.authors)
+            item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}</td>'.format(self.id_, time_text)
+            item_html += '<td>'
+            if self.extended_metadata.get('award'):
+                item_html += '<i class="fa fa-award" title="Paper Award"></i>&nbsp;'
+            item_html += '<span class="paper-title">{}. </span><em>{}</em>'.format(self.title, self.authors)
             if pdf_icons and self.pdf_url:
                 item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
             if video_icons and self.video_url:
                 item_html += '&nbsp;<i class="far fa-file-video video-icon" data="{}" title="Video"></i>'.format(self.video_url)
-            if self.extended_metadata.get('award'):
-                item_html += '&nbsp;<i class="fa fa-award" title="Paper Award"></i>'
             item_html += '</td></tr>'
             generated_html.append(item_html)
 

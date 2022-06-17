@@ -40,9 +40,6 @@ plenarySessionHash = {};
 includePlenaryInSchedule = true;
 helpShown = false;
 
-/* the help text to show */
-var instructions = "<div id=\"popupInstructionsDiv\"><div id=\"title\">Help</div><div id=\"popupInstructions\"><ul><li>Click on a the \"<strong>+</strong>\" button or the title of a session to toggle it. Click the <strong>\"Expand All Sessions ↓\"</strong> button to expand <em>all</em> sessions in one go. Click again to collapse them. </li> <li>Click on a tutorial/paper/poster to toggle its selection. </li> <li>You can select more than one paper for a time slot. </li> <li>Icon glossary: <i class=\"far fa-file-pdf\"></i> = PDF, <i class=\"far fa-file-video\"></i> = Video, <i class=\"fa fa-user\"></i> = Session Chair. </li> <li>Click the <strong>\"Download PDF\"</strong> button at the bottom to download your customized PDF. </li> <li>To expand parallel sessions simultaneously, hold Shift and click on any of them. </li> <li>On non-mobile devices, hovering on a paper for a time slot highlights it in yellow and its conflicting papers in red. Hovering on papers already selected for a time slot (or their conflicts) highlights them in green. </li> <li>Hover over the time for any session to see its day and date as a tooltip.</li> <li>While saving the generated PDF on mobile devices, its name cannot be changed.</li> </ul></div></div>";
-
 /* function to pad with zeros */
 function padTime(str) {
     return String('0' + str).slice(-2);
@@ -542,7 +539,10 @@ $(document).ready(function() {
     $(document).keypress(function(event) {
         if (doWhichKey(event) == 63 && !helpShown) {
             helpShown = true;
-            alertify.alert('', instructions, function(event) { helpShown = false;}).set('transition', 'fade');
+            alertify.alert(
+              'Help', document.getElementById('popupInstructionsDiv'),
+              function(event) { helpShown = false; })
+            .set({transition: 'fade', padding: false});
         }
     });
 
@@ -552,7 +552,10 @@ $(document).ready(function() {
             event.stopPropagation();
             event.preventDefault();
             helpShown = true;
-            alertify.alert('', instructions, function(event) { helpShown = false;}).set('transition', 'fade');
+            alertify.alert(
+              'Help', document.getElementById('popupInstructionsDiv'),
+              function(event) { helpShown = false; })
+            .set({transition: 'fade', padding: false});
         }
     });
 

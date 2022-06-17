@@ -8,26 +8,36 @@ after_footer_scripts:
   - /assets/js/schedule.js
 ---
 
+<div id="introParagraph" markdown="1">
+# Main Conference Schedule
+On this page, you can choose the sessions (and individual papers/posters) of your choice and generate a PDF of your customized schedule.
+For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser.
+For help, simply type "?" while on the page or click on the "Help" button.
+
+The overall schedule structure is final, but the assignment of papers to sessions and order of papers within sessions might still be modified
+to accommodate the final mode of presentation (virtual or in-person) chosen by the authors.
+
+**Regarding Virtual Poster Q&A Sessions:**
+To foster discussion, virtual poster Q&A sessions will be organized in small Zoom rooms that bring together posters on similar themes.
+
+All times are Pacific Daylight Time (<strong>GMT-7</strong>).
+</div>
+
+<div id="popupInstructionsDiv" markdown="1">
+* Click on the **"+"** button or the title of a session to toggle it. Click the **"Expand All Sessions ↓"** button to expand *all* sessions in one go. Click again to collapse them.
+* To expand parallel sessions simultaneously, Hold **Shift** and click on any of them.
+* Hover over the time for any session to see its day and date as a tooltip.
+* Click on a paper or poster to toggle its selection. You can select more than one paper for a time slot.
+* Click the **"Download PDF"** button at the bottom to download your customized PDF.
+* Icon glossary: <i class="fa fa-user"></i> = Session Chair, <i class="fa fa-award"></i> = Paper Award, <i class="far fa-file-pdf"></i> = PDF, <i class="far fa-file-video"></i> = Video.
+</div>
+
 <link rel="stylesheet" href="/assets/css/alertify.min.css" id="alertifyCSS">
 <table id="hidden-program-table">
 <thead>
 <tr><th>time</th><th>location</th><th>info</th></tr></thead>
 <tbody></tbody>
 </table>
-<div id="introParagraph">
-<h1>Main Conference Schedule</h1><p>On this page, you can choose the sessions (and individual papers/posters) of your choice and generate a PDF of your customized schedule. 
-For the best experience, use a non-mobile device with a resolution of at least 1920x1080 and a full-screen browser. 
-For help, simply type "?"" while on the page or click on the "Help" button.</p>
-<p>The overall schedule structure is final, but the assignment of papers to sessions and order of papers within sessions might still be modified 
-to accommodate the final mode of presentation (virtual or in-person) chosen by the authors.</p>
-<p><strong>Regarding Virtual Poster Q&A Sessions:</strong> 
-To foster discussion, virtual poster Q&A sessions will be organized in small Zoom rooms that bring together posters on similar themes. 
-Details will be posted soon.</p>
-<p><strong>Regarding Findings Papers:</strong> The program gives the times for the Findings paper sessions (in-person poster + virtual poster Q&A sessions).
-As soon as we have information about who is presenting a Findings paper, we will add it to the program. 
-(Authors of Findings papers should have received an email on June 2 with a link to a form to fill in to let us know about their intention.)</p>
-<p>All times are Pacific Daylight Time (<strong>GMT-7</strong>).</p>
-</div>
 <p class="text-center">
 <a href="#" id="help-button" class="btn btn--small btn--twitter">Help</a>
 <a href="#" id="toggle-all-button" class="btn btn--small btn--twitter">Expand All Sessions ↓</a>
@@ -95,7 +105,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <tr id="paper" paper-id="750"><td id="paper-time"></td><td><span class="paper-title">On Transferability of Prompt Tuning for Natural Language Processing. </span><em>Yusheng Su, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou</em></td></tr>
 <tr id="paper" paper-id="469"><td id="paper-time"></td><td><span class="paper-title">Sparse Distillation: Speeding Up Text Classification by Using Bigger Student Models. </span><em>Qinyuan Ye, Madian Khabsa, Mike Lewis, Sinong Wang, Xiang Ren, Aaron Jaech</em></td></tr>
 <tr id="paper" paper-id="922"><td id="paper-time"></td><td><span class="paper-title">Sketching as a Tool for Understanding and Accelerating Self-attention for Long Sequences. </span><em>Yifan Chen, Qi Zeng, Dilek Hakkani-Tur, Di Jin, Heng Ji, Yun Yang</em></td></tr>
-<tr id="paper" paper-id="817"><td id="paper-time"></td><td><span class="paper-title">FNet: Mixing Tokens with Fourier Transforms. </span><em>James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
+<tr id="paper" paper-id="817"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">FNet: Mixing Tokens with Fourier Transforms. </span><em>James Lee-Thorp, Joshua Ainslie, Ilya Eckstein, Santiago Ontanon</em></td></tr>
 </table>
 </div>
 </div>
@@ -313,9 +323,9 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span>
 <div class="paper-session-details"><table class="paper-table">
-<tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
-<tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
-<tr id="paper" paper-id="142"><td id="paper-time"></td><td><span class="paper-title">NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics. </span><em>Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
+<tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
+<tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
+<tr id="paper" paper-id="142"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics. </span><em>Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah Smith, Yejin Choi</em></td></tr>
 </table>
 </div>
 </div>
@@ -695,7 +705,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6c-deselector">Remove All</a><table class="paper-table">
-<tr id="paper" paper-id="878"><td id="paper-time"></td><td><span class="paper-title">A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank. </span><em>Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
+<tr id="paper" paper-id="878"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank. </span><em>Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky</em></td></tr>
 <tr id="paper" paper-id="676"><td id="paper-time"></td><td><span class="paper-title">When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer. </span><em>Ameet Deshpande, Partha Talukdar, Karthik R Narasimhan</em></td></tr>
 <tr id="paper" paper-id="662"><td id="paper-time"></td><td><span class="paper-title">Lifting the Curse of Multilinguality by Pre-training Modular Transformers. </span><em>Jonas Pfeiffer, Naman Goyal, Xi Victoria Lin, Xian Li, James Cross, Sebastian Riedel, Mikel Artetxe</em></td></tr>
 <tr id="paper" paper-id="481"><td id="paper-time"></td><td><span class="paper-title">Combating the Curse of Multilinguality in Cross-Lingual WSD by Aligning Sparse Contextualized Word Representations. </span><em>Gábor Berend</em></td></tr>
@@ -963,7 +973,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9a-deselector">Remove All</a><table class="paper-table">
-<tr id="paper" paper-id="686"><td id="paper-time"></td><td><span class="paper-title">FRUIT: Faithfully Reflecting Updated Information in Text. </span><em>Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
+<tr id="paper" paper-id="686"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">FRUIT: Faithfully Reflecting Updated Information in Text. </span><em>Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang</em></td></tr>
 <tr id="paper" paper-id="634"><td id="paper-time"></td><td><span class="paper-title">Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. </span><em>Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang</em></td></tr>
 <tr id="paper" paper-id="126"><td id="paper-time"></td><td><span class="paper-title">Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation. </span><em>Jinyi Hu, Xiaoyuan Yi, Wenhao Li, Maosong Sun, Xing Xie</em></td></tr>
 <tr id="paper" paper-id="955"><td id="paper-time"></td><td><span class="paper-title">Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation. </span><em>Dingcheng Li, Zheng Chen, Eunah Cho, Jie Hao, Xiaohu Liu, Xing Fan, Chenlei Guo, Yang Liu</em></td></tr>
@@ -1008,7 +1018,7 @@ As soon as we have information about who is presenting a Findings paper, we will
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="699"><td id="paper-time"></td><td><span class="paper-title">Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants. </span><em>Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela</em></td></tr>
 <tr id="paper" paper-id="371"><td id="paper-time"></td><td><span class="paper-title">MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting. </span><em>Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo</em></td></tr>
-<tr id="paper" paper-id="26"><td id="paper-time"></td><td><span class="paper-title">NewsEdits: A News Article Revision Dataset and a Novel Document-Level Reasoning Challenge. </span><em>Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng</em>&nbsp;<i class="fa fa-award" title="Paper Award"></i></td></tr>
+<tr id="paper" paper-id="26"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">NewsEdits: A News Article Revision Dataset and a Novel Document-Level Reasoning Challenge. </span><em>Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng</em></td></tr>
 <tr id="paper" paper-id="1011"><td id="paper-time"></td><td><span class="paper-title">Explaining Dialogue Evaluation Metrics using Adversarial Behavioral Analysis. </span><em>Baber Khalid, SUNGJIN LEE</em></td></tr>
 <tr id="paper" paper-id="818"><td id="paper-time"></td><td><span class="paper-title">Answer Consolidation: Formulation and Benchmarking. </span><em>Wenxuan Zhou, Qiang Ning, Heba Elfardy, Kevin Small, Muhao Chen</em></td></tr>
 <tr id="paper" paper-id="3519-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation. </span><em>Zoey Liu, Emily Prud’hommeau</em></td></tr>

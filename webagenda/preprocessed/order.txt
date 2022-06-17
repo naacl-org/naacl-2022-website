@@ -49,7 +49,7 @@
 852
 351
 975
-@ Ethics
+@ Ethics, Bias, and Fairness
 330
 653
 520
@@ -58,7 +58,7 @@
 52-special
 99-special
 5-special
-@ Information Retrieval
+@ Information Retrieval and Text Mining
 52
 829
 780
@@ -73,7 +73,7 @@
 437
 302
 3207-tacl
-@ Language Grounding to Vision
+@ Language Grounding to Vision, Robotics and Beyond
 672
 821
 @ Machine Translation
@@ -85,7 +85,7 @@
 756
 263
 2-cl
-@ NLP Application
+@ NLP Applications
 915
 656
 478
@@ -161,13 +161,14 @@
 238
 257
 202
-@ Machine Learning
+@ Machine Learning for NLP: Classification and Structured Prediction Models
 217
 976
 967
 344
 963
 489
+@ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
 253
 3
 921
@@ -178,7 +179,7 @@
 324
 59
 480
-@ Syntax: Tagging, Chunking and Parsing
+@ Syntax: Tagging, Chunking, and Parsing
 246
 1-cl
 
@@ -346,7 +347,7 @@
 639
 249
 = Session 4F: In-person Poster Session 3
-@ Language Resources
+@ Language Resources and Evaluation
 887
 660
 812
@@ -552,7 +553,7 @@
 37
 225
 838
-@ Efficient methods in NLP
+@ Efficient Methods in NLP
 435
 554
 815
@@ -669,7 +670,7 @@
 604
 526
 22-srw
-@ Efficient methods in NLP
+@ Efficient Methods in NLP
 876
 296
 775
@@ -765,7 +766,7 @@
 = Session 7G: Virtual Poster Q&A Session 4
 @ Discourse and Pragmatics
 562
-@ Efficient methods in NLP
+@ Efficient Methods in NLP
 417
 236
 @ Ethics, Bias, and Fairness
@@ -787,9 +788,8 @@
 213
 99
 286
-@ Language Resources
-49-srw
 @ Language Resources and Evaluation
+49-srw
 53
 415
 559
@@ -875,7 +875,7 @@
 906
 @ Discourse and Pragmatics
 787
-@ Efficient methods in NLP
+@ Efficient Methods in NLP
 427
 669
 910

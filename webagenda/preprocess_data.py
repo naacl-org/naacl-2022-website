@@ -29,6 +29,59 @@ _SRW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'SRW Accepted papers info for detailed 
 _ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
 _METADATA = _THIS_DIR / 'preprocessed' / 'metadata.tsv'
 
+_TRACKS = [
+'Industry', 'Demo', 'Student Research Workshop',
+'Computational Social Science and Cultural Analytics',
+'Dialogue and Interactive Systems',
+'Discourse and Pragmatics',
+'Efficient Methods in NLP',
+'Ethics, Bias, and Fairness',
+'Human-Centered NLP',
+'Information Extraction',
+'Information Retrieval and Text Mining',
+'Interpretability and Analysis of Models for NLP',
+'Language Generation',
+'Language Grounding to Vision, Robotics and Beyond',
+'Language Resources and Evaluation',
+'Linguistic Theories, Cognitive Modeling and Psycholinguistics',
+'Machine Learning for NLP: Classification and Structured Prediction Models',
+'Machine Learning for NLP: Language Modeling and Sequence to Sequence Models',
+'Machine Translation',
+'Multilinguality',
+'NLP Applications',
+'Phonology, Morphology and Word Segmentation',
+'Question Answering',
+'Semantics: Lexical Semantics',
+'Semantics: Sentence-level Semantics and Textual Inference',
+'Sentiment Analysis and Stylistic Analysis',
+'Speech',
+'Summarization',
+'Syntax: Tagging, Chunking, and Parsing',
+]
+_TRACK_ALIASES = {
+    'Dialogue and Interactive systems': 'Dialogue and Interactive Systems',
+    'Efficient methods in NLP': 'Efficient Methods in NLP',
+    'Ethics': 'Ethics, Bias, and Fairness',
+    'Special Theme': 'Human-Centered NLP',
+    'Information Retrieval': 'Information Retrieval and Text Mining',
+    'Language Grounding to Vision': 'Language Grounding to Vision, Robotics and Beyond',
+    'Language Resources': 'Language Resources and Evaluation',
+    'Linguistic theories, Cognitive Modeling and Psycholinguistics':
+        'Linguistic Theories, Cognitive Modeling and Psycholinguistics',
+    'NLP Application': 'NLP Applications',
+    'Syntax: Tagging, Chunking and Parsing': 'Syntax: Tagging, Chunking, and Parsing',
+}
+
+
+def normalize_track(track, paper_id):
+    if not track:
+        return None
+    if track in _TRACK_ALIASES:
+        track = _TRACK_ALIASES[track]
+    if track not in _TRACKS:
+        logging.warning('Unrecognized track for %s: %s', paper_id, track)
+    return track
+
 
 class RawSchedule:
 
@@ -43,6 +96,7 @@ class RawSchedule:
                 record = {key: value.strip() for (key, value) in row.items() if key}
                 record['Source'] = path.name
                 record['Format'] = 'virtual' if virtual else 'in-person'
+                record['Track'] = normalize_track(record.get('Track'), record['Paper ID'])
                 new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
@@ -55,23 +109,23 @@ class RawSchedule:
                 # One exception: virtual + in-person
                 if [this_record.get('Format'), that_record.get('Format')].count('virtual') == 1:
                     continue
-                logging.warning('Repeated ID in raw schedule files: {}'.format(paper_id))
-                logging.warning('    {}'.format(that_record))
-                logging.warning('    {}'.format(this_record))
+                logging.warning('Repeated ID in raw schedule files: %s', paper_id)
+                logging.warning('    %s', that_record)
+                logging.warning('    %s', this_record)
             paper_id_to_records.setdefault(paper_id, []).append(this_record)
 
     def search(self, query):
         for record in self.records:
             if all(record.get(key) == query[key] for key in query if not key.startswith('_')):
                 if record.get('used'):
-                    logging.warning('Reappearing schedule record: {}'.format(record))
+                    logging.warning('Reappearing schedule record: %s', record)
                 record['used'] = True
                 yield record
 
     def report_unused(self):
         for record in self.records:
             if not record.get('used'):
-                logging.warning('Unused schedule record: {}'.format(record))
+                logging.warning('Unused schedule record: %s', record)
 
 
 class RawMetadata:
@@ -86,7 +140,7 @@ class RawMetadata:
             for row in reader:
                 paper_id = row.get('Number') or row.get('Paper ID')
                 paper_id = re.sub(r'SRW_(\d+)', r'\1-srw', paper_id)    # TODO: Remove this hack
-                track = track_override or row.get('Track')
+                track = normalize_track(track_override or row.get('Track'), paper_id)
                 new_records.append({
                     'source': path.name,
                     'paper_id': paper_id,
@@ -102,9 +156,9 @@ class RawMetadata:
         for this_record in self.records:
             paper_id = this_record['paper_id']
             for that_record in paper_id_to_records.get(paper_id, []):
-                logging.warning('Repeated ID in raw metadata files: {}'.format(paper_id))
-                logging.warning('    {}'.format(that_record))
-                logging.warning('    {}'.format(this_record))
+                logging.warning('Repeated ID in raw metadata files: %s', paper_id)
+                logging.warning('    %s', that_record)
+                logging.warning('    %s', this_record)
             paper_id_to_records.setdefault(paper_id, []).append(this_record)
 
     def mark_used(self, schedule_record):
@@ -112,12 +166,17 @@ class RawMetadata:
             if record['paper_id'] == schedule_record['Paper ID']:
                 record.setdefault('used', []).append(schedule_record.get('Format', 'in-person'))
                 if record['used'].count('in-person') > 1:
-                    logging.warning('Re-queried metadata record: {}'.format(record))
+                    logging.warning('Re-queried metadata record: %s', record)
+                if (record['track'] and schedule_record['Track'] and
+                        record['track'] != schedule_record['Track']):
+                    logging.warning('Mismatched track: %s', record['paper_id'])
+                    logging.warning('   Metadata: %s | Schedule: %s',
+                           record['track'], schedule_record['Track']) 
 
     def report_unused(self):
         for record in self.records:
             if not record.get('used'):
-                logging.warning('Unused metadata record: {}'.format(record))
+                logging.warning('Unused metadata record: %s', record)
 
     def dump_metadata(self, path):
         with open(path, 'w') as fout:

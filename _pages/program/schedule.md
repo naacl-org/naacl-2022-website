@@ -135,7 +135,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="852"><td><span class="poster-title">Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection. </span><em>Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein</em></td></tr>
 <tr id="poster" poster-id="351"><td><span class="poster-title">Combining Humor and Sarcasm for Improving Political Parody Detection. </span><em>Xiao Ao, Danae Sanchez Villegas, Daniel Preotiuc-Pietro, Nikolaos Aletras</em></td></tr>
 <tr id="poster" poster-id="975"><td><span class="poster-title">Conceptualizing Treatment Leakage in Text-based Causal Inference. </span><em>Adel Daoud, Connor Thomas Jerzak, Richard Johansson</em></td></tr>
-<tr><td><span class="poster-type">Ethics</span></td></tr>
+<tr><td><span class="poster-type">Ethics, Bias, and Fairness</span></td></tr>
 <tr id="poster" poster-id="330"><td><span class="poster-title">Measuring Fairness with Biased Rulers: A Comparative Study on Bias Metrics for Pre-trained Language Models. </span><em>Pieter Delobelle, Ewoenam Kwaku Tokpo, Toon Calders, Bettina Berendt</em></td></tr>
 <tr id="poster" poster-id="653"><td><span class="poster-title">Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution. </span><em>Connor Baumler, Rachel Rudinger</em></td></tr>
 <tr id="poster" poster-id="520"><td><span class="poster-title">Using Natural Sentence Prompts for Understanding Biases in Language Models. </span><em>Sarah Alnegheimish, Alicia Guo, Yi Sun</em></td></tr>
@@ -144,7 +144,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="52-special"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
 <tr id="poster" poster-id="99-special"><td><span class="poster-title">Machine-in-the-Loop Rewriting for Creative Image Captioning. </span><em>Vishakh Padmakumar, He He</em></td></tr>
 <tr id="poster" poster-id="5-special"><td><span class="poster-title">What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research. </span><em>Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke</em></td></tr>
-<tr><td><span class="poster-type">Information Retrieval</span></td></tr>
+<tr><td><span class="poster-type">Information Retrieval and Text Mining</span></td></tr>
 <tr id="poster" poster-id="52"><td><span class="poster-title">Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds. </span><em>Yu Zhang, Yu Meng, Xuan Wang, Sheng Wang, Jiawei Han</em></td></tr>
 <tr id="poster" poster-id="829"><td><span class="poster-title">Learning Cross-Lingual IR from an English Retriever. </span><em>Yulong Li, Martin Franz, Md Arafat Sultan, Bhavani Iyer, Young-Suk Lee, Avirup Sil</em></td></tr>
 <tr id="poster" poster-id="780"><td><span class="poster-title">Collective Relevance Labeling for Passage Retrieval. </span><em>Jihyuk Kim, Minsoo Kim, seung-won hwang</em></td></tr>
@@ -159,7 +159,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="437"><td><span class="poster-title">On the Diversity and Limits of Human Explanations. </span><em>Chenhao Tan</em></td></tr>
 <tr id="poster" poster-id="302"><td><span class="poster-title">Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models. </span><em>Karolina Stanczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</em></td></tr>
 <tr id="poster" poster-id="3207-tacl"><td><span class="poster-title">[TACL] Explanation-Based Human Debugging of NLP Models: A Survey. </span><em>Piyawat Lertvittayakumjorn, Francesca Toni</em></td></tr>
-<tr><td><span class="poster-type">Language Grounding to Vision</span></td></tr>
+<tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
 <tr id="poster" poster-id="672"><td><span class="poster-title">Exposing the Limits of Video-Text Models through Contrast Sets. </span><em>Jae Sung Park, Sheng Shen, Ali Farhadi, Trevor Darrell, Yejin Choi, Anna Rohrbach</em></td></tr>
 <tr id="poster" poster-id="821"><td><span class="poster-title">FOAM: A Follower-aware Speaker Model For Vision-and-Language Navigation. </span><em>Zi-Yi Dou, Nanyun Peng</em></td></tr>
 <tr><td><span class="poster-type">Machine Translation</span></td></tr>
@@ -171,7 +171,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="756"><td><span class="poster-title">Towards Debiasing Translation Artifacts. </span><em>KOEL DUTTA CHOWDHURY, Rricha Jalota, Cristina España-Bonet, Josef van Genabith</em></td></tr>
 <tr id="poster" poster-id="263"><td><span class="poster-title">Pretrained Models for Multilingual Federated Learning. </span><em>Orion Weller, Marc Marone, Vladimir Braverman, Dawn Lawrie, Benjamin Van Durme</em></td></tr>
 <tr id="poster" poster-id="2-cl"><td><span class="poster-title">[CL] Investigating Language Relationships in Multilingual Sentence Encoders through the Lens of Linguistic Typology. </span><em>Rochelle Choenni, Ekaterina Shutova</em></td></tr>
-<tr><td><span class="poster-type">NLP Application</span></td></tr>
+<tr><td><span class="poster-type">NLP Applications</span></td></tr>
 <tr id="poster" poster-id="915"><td><span class="poster-title">DynamicTOC: Persona-based Table of Contents for Consumption of Long Documents. </span><em>Himanshu Maheshwari, Nethraa Sivakumar, Shelly Jain, Tanvi Karandikar, Vinay Aggarwal, Navita Goyal, Sumit Shekhar</em></td></tr>
 <tr id="poster" poster-id="656"><td><span class="poster-title">TWEETSPIN: Fine-grained Propaganda Detection in Social Media Using Multi-View Representations. </span><em>Prashanth Vijayaraghavan, Soroush Vosoughi</em></td></tr>
 <tr id="poster" poster-id="478"><td><span class="poster-title">A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony. </span><em>Tulika Saha, Saichethan Miriyala Reddy, Anindya Sundar Das, Sriparna Saha, Pushpak Bhattacharyya</em></td></tr>
@@ -292,13 +292,14 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="238"><td><span class="poster-title">Cross-Domain Detection of GPT-2-Generated Technical Text. </span><em>Juan Diego Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan</em></td></tr>
 <tr id="poster" poster-id="257"><td><span class="poster-title">Learning to Selectively Learn for Weakly Supervised Paraphrase Generation with Model-based Reinforcement Learning. </span><em>Haiyan Yin, Dingcheng Li, Ping Li</em></td></tr>
 <tr id="poster" poster-id="202"><td><span class="poster-title">AmbiPun: Generating Humorous Puns with Ambiguous Context. </span><em>Anirudh Mittal, Yufei Tian, Nanyun Peng</em></td></tr>
-<tr><td><span class="poster-type">Machine Learning</span></td></tr>
+<tr><td><span class="poster-type">Machine Learning for NLP: Classification and Structured Prediction Models</span></td></tr>
 <tr id="poster" poster-id="217"><td><span class="poster-title">Inducing and Using Alignments for Transition-based AMR Parsing. </span><em>Andrew Drozdov, Jiawei Zhou, Radu Florian, Andrew McCallum, Tahira Naseem, Yoon Kim, Ramon Fernandez Astudillo</em></td></tr>
 <tr id="poster" poster-id="976"><td><span class="poster-title">Consistency Training with Virtual Adversarial Discrete Perturbation. </span><em>Jungsoo Park, Gyuwan Kim, Jaewoo Kang</em></td></tr>
 <tr id="poster" poster-id="967"><td><span class="poster-title">Contrastive Learning for Prompt-based Few-shot Language Learners. </span><em>Yiren Jian, Chongyang Gao, Soroush Vosoughi</em></td></tr>
 <tr id="poster" poster-id="344"><td><span class="poster-title">CIAug: Equipping Interpolative Augmentation with Curriculum Learning. </span><em>Ramit Sawhney, Ritesh Singh Soun, Shrey Pandit, Megh Thakkar, Sarvagya Malaviya, Yuval Pinter</em></td></tr>
 <tr id="poster" poster-id="963"><td><span class="poster-title">Embedding Hallucination for Few-shot Language Fine-tuning. </span><em>Yiren Jian, Chongyang Gao, Soroush Vosoughi</em></td></tr>
 <tr id="poster" poster-id="489"><td><span class="poster-title">Exploring the Role of Task Transferability in Large-Scale Multi-Task Learning. </span><em>Vishakh Padmakumar, Leonard Lausen, Miguel Ballesteros, Sheng Zha, He He, George Karypis</em></td></tr>
+<tr><td><span class="poster-type">Machine Learning for NLP: Language Modeling and Sequence to Sequence Models</span></td></tr>
 <tr id="poster" poster-id="253"><td><span class="poster-title">Efficient Hierarchical Domain Adaptation for Pretrained Language Models. </span><em>Alexandra Chronopoulou, Matthew E Peters, Jesse Dodge</em></td></tr>
 <tr id="poster" poster-id="3"><td><span class="poster-title">Learning Natural Language Generation with Truncated Reinforcement Learning. </span><em>Alice Martin, Guillaume Quispe, Charles Ollion, Sylvain Le Corff, Florian Strub, Olivier Pietquin</em></td></tr>
 <tr id="poster" poster-id="921"><td><span class="poster-title">On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model. </span><em>Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung</em></td></tr>
@@ -309,7 +310,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="324"><td><span class="poster-title">Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness. </span><em>Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai</em></td></tr>
 <tr id="poster" poster-id="59"><td><span class="poster-title">TSTR: Too Short to Represent, Summarize with Details!  Intro-Guided Extended Summary Generation. </span><em>Sajad Sotudeh, Nazli Goharian</em></td></tr>
 <tr id="poster" poster-id="480"><td><span class="poster-title">SueNes: A Weakly Supervised Approach to Evaluating Single-Document Summarization via Negative Sampling. </span><em>Forrest Sheng Bao, Ge Luo, Hebi Li, Minghui Qiu, Yinfei Yang, Youbiao He, Cen Chen</em></td></tr>
-<tr><td><span class="poster-type">Syntax: Tagging, Chunking and Parsing</span></td></tr>
+<tr><td><span class="poster-type">Syntax: Tagging, Chunking, and Parsing</span></td></tr>
 <tr id="poster" poster-id="246"><td><span class="poster-title">Sort by Structure: Language Model Ranking as Dependency Probing. </span><em>Max Müller-Eberstein, Rob van der Goot, Barbara Plank</em></td></tr>
 <tr id="poster" poster-id="1-cl"><td><span class="poster-title">[CL] The Impact of Edge Displacement Vaserstein Distance on UD Parsing Performance. </span><em>Mark Anderson, Carlos Gómez-Rodríguez</em></td></tr>
 </table>
@@ -584,7 +585,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
 <div class="poster-session-details"><table class="poster-table">
-<tr><td><span class="poster-type">Language Resources</span></td></tr>
+<tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="887"><td><span class="poster-title">SkillSpan: Hard and Soft Skill Extraction from English Job Postings. </span><em>Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank</em></td></tr>
 <tr id="poster" poster-id="660"><td><span class="poster-title">Transparent Human Evaluation for Image Captioning. </span><em>Jungo Kasai, Keisuke Sakaguchi, Lavinia Dunagan, Jacob Daniel Morrison, Ronan Le Bras, Yejin Choi, Noah Smith</em></td></tr>
 <tr id="poster" poster-id="812"><td><span class="poster-title">TVShowGuess: Character Comprehension in Stories as Speaker Guessing. </span><em>Yisi Sang, Xiangyang Mou, Mo Yu, Shunyu Yao, Jing Li, Jeffrey Stanton</em></td></tr>
@@ -901,7 +902,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="37"><td><span class="poster-title">Knowledge-Grounded Dialogue Generation with a Unified Knowledge Representation. </span><em>Yu Li, Baolin Peng, yelong shen, Yi Mao, Lars Liden, Zhou Yu, Jianfeng Gao</em></td></tr>
 <tr id="poster" poster-id="225"><td><span class="poster-title">A Versatile Adaptive Curriculum Learning Framework for Task-oriented Dialogue Policy Learning. </span><em>Yang Yang Zhao, Hua Qin, Wang Zhenyu, Changxi Zhu, Shihan Wang</em></td></tr>
 <tr id="poster" poster-id="838"><td><span class="poster-title">Show, Don't Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue. </span><em>Raghav Gupta, Harrison Lee, Jeffrey Zhao, Yuan Cao, Abhinav Rastogi, Yonghui Wu</em></td></tr>
-<tr><td><span class="poster-type">Efficient methods in NLP</span></td></tr>
+<tr><td><span class="poster-type">Efficient Methods in NLP</span></td></tr>
 <tr id="poster" poster-id="435"><td><span class="poster-title">Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem. </span><em>Ryoma Sato</em></td></tr>
 <tr id="poster" poster-id="554"><td><span class="poster-title">Pruning Adatperfusion with Lottery Ticket Hypothesis. </span><em>Jiarun Wu, Qingliang Chen, Zeguan Xiao, Yuliang Gu, Mengsi Sun</em></td></tr>
 <tr id="poster" poster-id="815"><td><span class="poster-title">Causal Distillation for Language Models. </span><em>Zhengxuan Wu, Atticus Geiger, Joshua Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah Goodman</em></td></tr>
@@ -1073,7 +1074,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="604"><td><span class="poster-title">Analyzing the Intensity of Complaints on Social Media. </span><em>MING FANG, Shi Zong, Jing Li, Xinyu Dai, Shujian Huang, Jiajun Chen</em></td></tr>
 <tr id="poster" poster-id="526"><td><span class="poster-title">DISARM: Detecting the Victims Targeted by Harmful Memes. </span><em>Shivam Sharma, Md Shad Akhtar, Preslav Nakov, Tanmoy Chakraborty</em></td></tr>
 <tr id="poster" poster-id="22-srw"><td><span class="poster-title">[SRW] Again, Dozens of Refugees Drowned: A Computational Study of Political Framing Evoked by Presuppositions. </span><em>Qi Yu</em></td></tr>
-<tr><td><span class="poster-type">Efficient methods in NLP</span></td></tr>
+<tr><td><span class="poster-type">Efficient Methods in NLP</span></td></tr>
 <tr id="poster" poster-id="876"><td><span class="poster-title">Exact Paired-Permutation Testing for Structured Test Statistics. </span><em>Ran Zmigrod, Tim Vieira, Ryan Cotterell</em></td></tr>
 <tr id="poster" poster-id="296"><td><span class="poster-title">Efficient Learning of Multiple NLP Tasks via Collective Weight Factorization on BERT. </span><em>Christos Charalampos Papadopoulos, Yannis Panagakis, Manolis Koubarakis, Mihalis Nicolaou</em></td></tr>
 <tr id="poster" poster-id="775"><td><span class="poster-title">Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval. </span><em>Siyu Ren, Kenny Q. Zhu</em></td></tr>
@@ -1224,7 +1225,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Discourse and Pragmatics</span></td></tr>
 <tr id="poster" poster-id="562"><td><span class="poster-title">Incorporating Centering Theory into Neural Coreference Resolution. </span><em>Haixia Chai, Michael Strube</em></td></tr>
-<tr><td><span class="poster-type">Efficient methods in NLP</span></td></tr>
+<tr><td><span class="poster-type">Efficient Methods in NLP</span></td></tr>
 <tr id="poster" poster-id="417"><td><span class="poster-title">ALLSH: Active Learning Guided by Local Sensitivity and Hardness. </span><em>Shujian Zhang, Chengyue Gong, Xingchao Liu, Pengcheng He, Weizhu Chen, Mingyuan Zhou</em></td></tr>
 <tr id="poster" poster-id="236"><td><span class="poster-title">LM-CORE: Language Models with Contextually Relevant External Knowledge. </span><em>Jivat Neet Kaur, Sumit Bhatia, Milan Aggarwal, Rachit Bansal, Balaji Krishnamurthy</em></td></tr>
 <tr><td><span class="poster-type">Ethics, Bias, and Fairness</span></td></tr>
@@ -1246,9 +1247,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="213"><td><span class="poster-title">CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations. </span><em>Jialu Li, Hao Tan, Mohit Bansal</em></td></tr>
 <tr id="poster" poster-id="99"><td><span class="poster-title">Disentangled Action Recognition with Knowledge Bases. </span><em>Zhekun Luo, Shalini Ghosh, Devin Guillory, Keizo Kato, Trevor Darrell, Huijuan Xu</em></td></tr>
 <tr id="poster" poster-id="286"><td><span class="poster-title">Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation. </span><em>Giscard Biamby, Grace Luo, Trevor Darrell, Anna Rohrbach</em></td></tr>
-<tr><td><span class="poster-type">Language Resources</span></td></tr>
-<tr id="poster" poster-id="49-srw"><td><span class="poster-title">[SRW] Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation. </span><em>Xiaomeng Pan, Hongfei Wang, Teruaki Oka, Mamoru Komachi</em></td></tr>
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
+<tr id="poster" poster-id="49-srw"><td><span class="poster-title">[SRW] Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation. </span><em>Xiaomeng Pan, Hongfei Wang, Teruaki Oka, Mamoru Komachi</em></td></tr>
 <tr id="poster" poster-id="53"><td><span class="poster-title">SwahBERT: Language Model of Swahili. </span><em>Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo</em></td></tr>
 <tr id="poster" poster-id="415"><td><span class="poster-title">BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. </span><em>Abhik Bhattacharjee, Tahmid Hasan, Wasi Uddin Ahmad, Kazi Samin Mubasshir, Md Saiful Islam, Anindya Iqbal, M. Sohel Rahman, Rifat Shahriyar</em></td></tr>
 <tr id="poster" poster-id="559"><td><span class="poster-title">EVI: Multilingual Spoken Dialogue Tasks and Dataset for Knowledge-Based Enrolment, Verification, and Identification. </span><em>Georgios P. Spithourakis, Ivan Vulić, Michał Lis, Inigo Casanueva, Paweł Budzianowski</em></td></tr>
@@ -1381,7 +1381,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="906"><td><span class="poster-title">KETOD: Knowledge-Enriched Task-Oriented Dialogue. </span><em>Zhiyu Chen, Bing Liu, Seungwhan Moon, Chinnadhurai Sankar, Paul A. Crook, William Yang Wang</em></td></tr>
 <tr><td><span class="poster-type">Discourse and Pragmatics</span></td></tr>
 <tr id="poster" poster-id="787"><td><span class="poster-title">Improve Discourse Dependency Parsing with Contextualized Representations. </span><em>Yifei Zhou, Yansong Feng</em></td></tr>
-<tr><td><span class="poster-type">Efficient methods in NLP</span></td></tr>
+<tr><td><span class="poster-type">Efficient Methods in NLP</span></td></tr>
 <tr id="poster" poster-id="427"><td><span class="poster-title">Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention. </span><em>Yifan Chen, Devamanyu Hazarika, Mahdi Namazifar, Yang Liu, Di Jin, Dilek Hakkani-Tur</em></td></tr>
 <tr id="poster" poster-id="669"><td><span class="poster-title">Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models. </span><em>Joseph McDonald, Baolin Li, Nathan C. Frey, Devesh Tiwari, Vijay Gadepally, Siddharth Samsi</em></td></tr>
 <tr id="poster" poster-id="910"><td><span class="poster-title">AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks. </span><em>Chin-Lun Fu, Zih-Ching Chen, Yun-Ru Lee, Hung-yi Lee</em></td></tr>

@@ -85,6 +85,10 @@ gold:
     image_path: /assets/images/logos/OpenAI.png
     alt: OpenAI
     title: OpenAI
+  - url: https://www.twosigma.com/
+    image_path: /assets/images/logos/TwoSigma.jpeg
+    alt: Two Sigma
+    title: Two Sigma
 silver:
   - url: https://www.asapp.com/
     image_path: /assets/images/logos/ASAPP.png

@@ -64,7 +64,7 @@
 = Session 3F: Industry Oral Session 1 ## %chair1 Kasturi Bhattacharjee
 {"Session Name": "Industry Oral 1"}
 = Session 3G: Virtual Poster Q&A Session 1
-{"Session Name": "Virtual Poster Q&A Session 1"}
+{"Session Name": "Virtual Poster Q&A Session 1", "_group_by": "Track"}
 
 ! 9:00--9:15 Break
 
@@ -126,7 +126,7 @@
 @ Demo Track Posters
 {"Session Name": "Demo Poster"}
 = Session 6G: Virtual Poster Q&A Session 2
-{"Session Name": "Virtual Poster Q&A Session 2"}
+{"Session Name": "Virtual Poster Q&A Session 2", "_group_by": "Track"}
 
 * Wednesday, July 13, 2022
 
@@ -145,7 +145,7 @@
 = Session 7F: Machine Learning for NLP 2
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Learning for NLP 2"}
 = Session 7G: Virtual Poster Q&A Session 3
-{"Session Name": "Virtual Poster Q&A Session 3"}
+{"Session Name": "Virtual Poster Q&A Session 3", "_group_by": "Track"}
 
 ! 9:00--9:15 Break
 
@@ -164,7 +164,7 @@
 = Session 8F: Machine Learning for NLP 3
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
 = Session 7G: Virtual Poster Q&A Session 4
-{"Session Name": "Virtual Poster Q&A Session 4"}
+{"Session Name": "Virtual Poster Q&A Session 4", "_group_by": "Track"}
 
 ! 10:15--10:45 Break
 

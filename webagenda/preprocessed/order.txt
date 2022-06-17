@@ -224,6 +224,7 @@
 50-industry
 71-industry
 = Session 3G: Virtual Poster Q&A Session 1
+@ Dialogue and Interactive Systems
 235
 871
 93
@@ -242,6 +243,7 @@
 786
 84-srw
 86-srw
+@ Information Extraction
 536
 718
 888
@@ -254,17 +256,21 @@
 147
 542
 658
+@ Information Retrieval and Text Mining
 298
 780
 726
 798
+@ Interpretability and Analysis of Models for NLP
 716
 899
 357
 302
 678
 76-srw
+@ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 168
+@ Machine Learning for NLP: Classification and Structured Prediction Models
 705
 217
 963
@@ -275,6 +281,7 @@
 446
 807
 1049
+@ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
 635
 24
 253
@@ -285,6 +292,7 @@
 921
 179
 842
+@ Machine Translation
 482
 493
 4
@@ -534,7 +542,9 @@
 30-demo
 32-demo
 = Session 6G: Virtual Poster Q&A Session 2
+@ Computational Social Science and Cultural Analytics
 900
+@ Dialogue and Interactive Systems
 778
 849
 941
@@ -542,25 +552,35 @@
 37
 225
 838
+@ Efficient methods in NLP
 435
 554
 815
 236
 268
 386
+@ Ethics, Bias, and Fairness
 128
+@ Human-Centered NLP
+36-special
+52-special
+@ Information Extraction
 433
 502
 630
 952
+@ Information Retrieval and Text Mining
 734
 52
 659
+@ Interpretability and Analysis of Models for NLP
 316
 438
 113
+@ Language Generation
 410
 273
+@ Language Resources and Evaluation
 660
 529
 812
@@ -568,17 +588,22 @@
 214
 407
 688
+@ Machine Translation
 619
 109
 260
 340
 632
+@ NLP Applications
 595
 108
 98
 180
+@ Phonology, Morphology and Word Segmentation
 810
+@ Semantics: Lexical Semantics
 300
+@ Semantics: Sentence-level Semantics and Textual Inference
 331
 839
 29
@@ -588,13 +613,14 @@
 663
 802
 857
+@ Sentiment Analysis and Stylistic Analysis
 49
 492
 657
 513
-36-special
-52-special
+@ Speech
 392
+@ Summarization
 59
 324
 983
@@ -635,6 +661,7 @@
 843
 757
 = Session 7G: Virtual Poster Q&A Session 3
+@ Computational Social Science and Cultural Analytics
 351
 42
 852
@@ -642,23 +669,33 @@
 604
 526
 22-srw
+@ Efficient methods in NLP
 876
 296
 775
 33-srw
+@ Ethics, Bias, and Fairness
 549
 54-srw
 60-srw
+@ Human-Centered NLP
+45-special
+5-special
+@ Language Generation
 238
 916
 23-srw
+@ Language Grounding to Vision, Robotics and Beyond
 821
 641
+@ Language Resources and Evaluation
 1028
 258
 544
 283
+@ Machine Learning for NLP: Classification and Structured Prediction Models
 854
+@ NLP Applications
 1020
 280
 338
@@ -667,24 +704,27 @@
 466
 15
 343
+@ Question Answering
 702
 603
 449
 70
 509
 59-srw
+@ Semantics: Sentence-level Semantics and Textual Inference
 971
+@ Sentiment Analysis and Stylistic Analysis
 791
 801
 575
 303
 88-srw
-45-special
-5-special
+@ Speech
 399
 693
 16-srw
 94-srw
+@ Syntax: Tagging, Chunking, and Parsing
 203
 42-srw
 
@@ -723,18 +763,23 @@
 503
 962
 = Session 7G: Virtual Poster Q&A Session 4
+@ Discourse and Pragmatics
 562
+@ Efficient methods in NLP
 417
 236
+@ Ethics, Bias, and Fairness
 653
 128
 200
+@ Information Extraction
 163
 116
 597
 537
 48-srw
 77-srw
+@ Language Grounding to Vision, Robotics and Beyond
 1014
 181
 1038
@@ -742,18 +787,23 @@
 213
 99
 286
+@ Language Resources
 49-srw
+@ Language Resources and Evaluation
 53
 415
 559
+@ Multilinguality
 82
 756
 738
 263
 350
+@ NLP Applications
 478
 656
 29-srw
+@ Question Answering
 320
 528
 741
@@ -766,8 +816,10 @@
 761
 806
 222
+@ Semantics: Sentence-level Semantics and Textual Inference
 487
 953
+@ Summarization
 564
 564
 223

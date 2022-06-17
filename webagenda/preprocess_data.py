@@ -21,10 +21,8 @@ _RAW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Posters 
 _RAW_FINDINGS_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Findings in-person.tsv'
 _RAW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_main.tsv'
 _RAW_FINDINGS_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_findings.tsv'
-_INDUSTRY_ORAL_1 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session1.csv'
-_INDUSTRY_ORAL_2 = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_oral_session2.csv'
-_INDUSTRY_POSTER = _THIS_DIR / 'raw' / 'NAACL_2022_Industry_Track_posters.csv'
-_DEMO_POSTER = _THIS_DIR / 'raw' / 'demos.tsv'
+_INDUSTRY_ALL = _THIS_DIR / 'raw' / 'Detailed Schedule - Industry.tsv'
+_DEMO_POSTER = _THIS_DIR / 'raw' / 'Detailed Schedule - Demos.tsv'
 _SRW_POSTER_IN_PERSON_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - SRW Poster in-person sessions.tsv'
 _SRW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - Posters virtual.tsv'
 _SRW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'SRW Accepted papers info for detailed program - Accepted_papers_main.tsv'
@@ -44,49 +42,6 @@ class RawSchedule:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
                 record = {key: value.strip() for (key, value) in row.items() if key}
-                record['Source'] = path.name
-                if extra_info:
-                    record.update(extra_info)
-                new_records.append(record)
-        logging.info('Read %d records from %s', len(new_records), path)
-        self.records += new_records
-
-    def read_industry_csv(self, path, session_name):
-        new_records = []
-        with open(path) as fin:
-            reader = csv.DictReader(fin)
-            for row in reader:
-                record = {
-                    'Session Name': session_name,
-                    'Paper ID': row['number'] + '-industry',
-                    'Source': path.name,
-                    }
-                new_records.append(record)
-        logging.info('Read %d records from %s', len(new_records), path)
-        self.records += new_records
-
-    def read_demo_tsv(self, path, session_name):
-        new_records = []
-        with open(path) as fin:
-            for line in fin:
-                paper_id, title, authors = line.rstrip('\n').split('\t')
-                record = {
-                    'Session Name': session_name,
-                    'Paper ID': paper_id + '-demo',
-                    'Source': path.name,
-                    }
-                new_records.append(record)
-        logging.info('Read %d records from %s', len(new_records), path)
-        self.records += new_records
-
-    def read_srw_tsv(self, path, extra_info=None):
-        new_records = []
-        with open(path) as fin:
-            reader = csv.DictReader(fin, dialect=csv.excel_tab)
-            for row in reader:
-                record = {key: value.strip() for (key, value) in row.items() if key}
-                record['Paper ID'] = (
-                        re.match(r'SRW_(\d+)', record['Paper ID']).group(1) + '-srw')
                 record['Source'] = path.name
                 if extra_info:
                     record.update(extra_info)
@@ -133,60 +88,17 @@ class RawMetadata:
     def __init__(self):
         self.records = []
 
-    def read_main_tsv(self, path):
+    def read_tsv(self, path, track_override=None):
         new_records = []
         with open(path) as fin:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
-                new_records.append({
-                    'paper_id': row['Number'],
-                    'track': row['Track'],
-                    'title': row['Title'],
-                    'authors': row['Authors'],
-                    'source': path.name,
-                    })
-        logging.info('Read %d metadata records from %s', len(new_records), path)
-        self.records += new_records
-
-    def read_industry_csv(self, path):
-        new_records = []
-        with open(path) as fin:
-            reader = csv.DictReader(fin)
-            for row in reader:
-                new_records.append({
-                    'paper_id': row['number'] + '-industry',
-                    'track': 'Industry',
-                    'title': row['title'],
-                    'authors': row['authors'].replace('|', ', '),
-                    'source': path.name,
-                    })
-        logging.info('Read %d metadata records from %s', len(new_records), path)
-        self.records += new_records
-
-    def read_demo_tsv(self, path):
-        new_records = []
-        with open(path) as fin:
-            for line in fin:
-                paper_id, title, authors = line.rstrip('\n').split('\t')
-                new_records.append({
-                    'paper_id': paper_id + '-demo',
-                    'track': 'Demo',
-                    'title': title,
-                    'authors': authors,
-                    'source': path.name,
-                    })
-        logging.info('Read %d records from %s', len(new_records), path)
-        self.records += new_records
-
-    def read_srw_tsv(self, path):
-        new_records = []
-        with open(path) as fin:
-            reader = csv.DictReader(fin, dialect=csv.excel_tab)
-            for row in reader:
-                paper_id = re.match(r'SRW_(\d+)', row['Number']).group(1) + '-srw'
+                paper_id = row.get('Number') or row.get('Paper ID')
+                paper_id = re.sub(r'SRW_(\d+)', r'\1-srw', paper_id)    # TODO: Remove this hack
+                track = track_override or row.get('Track')
                 new_records.append({
                     'paper_id': paper_id,
-                    'track': row['Track'],
+                    'track': track,
                     'title': row['Title'],
                     'authors': row['Authors'],
                     'source': path.name,
@@ -240,21 +152,17 @@ def main():
     raw_schedule.read_tsv(_RAW_POSTER_IN_PERSON_SCHEDULE, extra_info={'Format': 'in-person'})
     raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
     raw_schedule.read_tsv(_RAW_FINDINGS_SCHEDULE)
-    raw_schedule.read_industry_csv(_INDUSTRY_ORAL_1, 'Industry Oral 1')
-    raw_schedule.read_industry_csv(_INDUSTRY_ORAL_2, 'Industry Oral 2')
-    raw_schedule.read_industry_csv(_INDUSTRY_POSTER, 'Industry Poster')
-    raw_schedule.read_demo_tsv(_DEMO_POSTER, 'Demo Poster')
-    raw_schedule.read_srw_tsv(_SRW_POSTER_IN_PERSON_SCHEDULE)
-    raw_schedule.read_srw_tsv(_SRW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
+    raw_schedule.read_tsv(_INDUSTRY_ALL)
+    raw_schedule.read_tsv(_DEMO_POSTER)
+    raw_schedule.read_tsv(_SRW_POSTER_IN_PERSON_SCHEDULE)
+    raw_schedule.read_tsv(_SRW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
     raw_schedule.check_duplicates()
 
-    raw_metadata.read_main_tsv(_RAW_PAPER_DETAILS)
-    raw_metadata.read_main_tsv(_RAW_FINDINGS_DETAILS)
-    raw_metadata.read_industry_csv(_INDUSTRY_ORAL_1)
-    raw_metadata.read_industry_csv(_INDUSTRY_ORAL_2)
-    raw_metadata.read_industry_csv(_INDUSTRY_POSTER)
-    raw_metadata.read_demo_tsv(_DEMO_POSTER)
-    raw_metadata.read_srw_tsv(_SRW_PAPER_DETAILS)
+    raw_metadata.read_tsv(_RAW_PAPER_DETAILS)
+    raw_metadata.read_tsv(_RAW_FINDINGS_DETAILS)
+    raw_metadata.read_tsv(_INDUSTRY_ALL, track_override='Industry')
+    raw_metadata.read_tsv(_DEMO_POSTER, track_override='Demo')
+    raw_metadata.read_tsv(_SRW_PAPER_DETAILS)
     raw_metadata.check_duplicates()
 
     # Process the `order` file

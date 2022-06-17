@@ -36,28 +36,30 @@ class RawSchedule:
     def __init__(self):
         self.records = []
 
-    def read_tsv(self, path, extra_info=None):
+    def read_tsv(self, path, virtual=False):
         new_records = []
         with open(path) as fin:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
                 record = {key: value.strip() for (key, value) in row.items() if key}
                 record['Source'] = path.name
-                if extra_info:
-                    record.update(extra_info)
+                record['Format'] = 'virtual' if virtual else 'in-person'
                 new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
 
     def check_duplicates(self):
-        paper_id_to_record = {}
-        for record in self.records:
-            paper_id = record['Paper ID']
-            if paper_id in paper_id_to_record:
+        paper_id_to_records = {}
+        for this_record in self.records:
+            paper_id = this_record['Paper ID']
+            for that_record in paper_id_to_records.get(paper_id, []):
+                # One exception: virtual + in-person
+                if [this_record.get('Format'), that_record.get('Format')].count('virtual') == 1:
+                    continue
                 logging.warning('Repeated ID in raw schedule files: {}'.format(paper_id))
-                logging.warning('    {}'.format(paper_id_to_record[paper_id]))
-                logging.warning('    {}'.format(record))
-            paper_id_to_record[paper_id] = record
+                logging.warning('    {}'.format(that_record))
+                logging.warning('    {}'.format(this_record))
+            paper_id_to_records.setdefault(paper_id, []).append(this_record)
 
     def search(self, query):
         for record in self.records:
@@ -107,21 +109,21 @@ class RawMetadata:
         self.records += new_records
 
     def check_duplicates(self):
-        paper_id_to_record = {}
-        for record in self.records:
-            paper_id = record['paper_id']
-            if paper_id in paper_id_to_record:
+        paper_id_to_records = {}
+        for this_record in self.records:
+            paper_id = this_record['paper_id']
+            for that_record in paper_id_to_records.get(paper_id, []):
                 logging.warning('Repeated ID in raw metadata files: {}'.format(paper_id))
-                logging.warning('    {}'.format(paper_id_to_record[paper_id]))
-                logging.warning('    {}'.format(record))
-            paper_id_to_record[paper_id] = record
+                logging.warning('    {}'.format(that_record))
+                logging.warning('    {}'.format(this_record))
+            paper_id_to_records.setdefault(paper_id, []).append(this_record)
 
-    def mark_used(self, paper_id):
+    def mark_used(self, schedule_record):
         for record in self.records:
-            if record['paper_id'] == paper_id:
-                if record.get('used'):
+            if record['paper_id'] == schedule_record['Paper ID']:
+                record.setdefault('used', []).append(schedule_record.get('Format', 'in-person'))
+                if record['used'].count('in-person') > 1:
                     logging.warning('Re-queried metadata record: {}'.format(record))
-                record['used'] = True
 
     def report_unused(self):
         for record in self.records:
@@ -149,13 +151,12 @@ def main():
 
     # Read data
     raw_schedule.read_tsv(_RAW_PAPER_SCHEDULE)
-    raw_schedule.read_tsv(_RAW_POSTER_IN_PERSON_SCHEDULE, extra_info={'Format': 'in-person'})
-    raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
+    raw_schedule.read_tsv(_RAW_POSTER_IN_PERSON_SCHEDULE)
+    raw_schedule.read_tsv(_RAW_POSTER_VIRTUAL_SCHEDULE, virtual=True)
     raw_schedule.read_tsv(_RAW_FINDINGS_SCHEDULE)
     raw_schedule.read_tsv(_INDUSTRY_ALL)
     raw_schedule.read_tsv(_DEMO_POSTER)
     raw_schedule.read_tsv(_SRW_POSTER_IN_PERSON_SCHEDULE)
-    raw_schedule.read_tsv(_SRW_POSTER_VIRTUAL_SCHEDULE, extra_info={'Format': 'virtual'})
     raw_schedule.check_duplicates()
 
     raw_metadata.read_tsv(_RAW_PAPER_DETAILS)
@@ -173,7 +174,7 @@ def main():
                 for record in raw_schedule.search(json.loads(line)):
                     order_line = raw_schedule.record_to_order_line(record)
                     print(order_line, file=fout)
-                    raw_metadata.mark_used(record['Paper ID'])
+                    raw_metadata.mark_used(record)
             else:
                 fout.write(line)
     raw_schedule.report_unused()

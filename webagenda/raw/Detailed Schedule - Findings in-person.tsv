@@ -1,13 +1,15 @@
 Day	Session Name	Paper ID	Track	Session start time
 Day 3	Findings poster session 1	188	Computational Social Science and Cultural Analytics	10:45
 Day 3	Findings poster session 1	633	Computational Social Science and Cultural Analytics	10:45
-Day 3	Findings poster session 1	265	Dialogue and Interactive systems	10:45
-Day 3	Findings poster session 1	414	Dialogue and Interactive systems	10:45
-Day 3	Findings poster session 1	717	Dialogue and Interactive systems	10:45
-Day 3	Findings poster session 1	819	Dialogue and Interactive systems	10:45
+Day 3	Findings poster session 1	265	Dialogue and Interactive Systems	10:45
+Day 3	Findings poster session 1	414	Dialogue and Interactive Systems	10:45
+Day 3	Findings poster session 1	717	Dialogue and Interactive Systems	10:45
+Day 3	Findings poster session 1	819	Dialogue and Interactive Systems	10:45
+Day 3	Findings poster session 1	906	Dialogue and Interactive Systems	10:45
 Day 3	Findings poster session 1	787	Discourse and Pragmatics	10:45
 Day 3	Findings poster session 1	427	Efficient methods in NLP	10:45
 Day 3	Findings poster session 1	669	Efficient methods in NLP	10:45
+Day 3	Findings poster session 1	910	Efficient methods in NLP	10:45
 Day 3	Findings poster session 1	1045	Ethics, Bias, and Fairness	10:45
 Day 3	Findings poster session 1	189	Ethics, Bias, and Fairness	10:45
 Day 3	Findings poster session 1	136	Interpretability and Analysis of Models for NLP	10:45
@@ -20,9 +22,11 @@ Day 3	Findings poster session 1	24	Machine Learning for NLP: Language Modeling a
 Day 3	Findings poster session 1	299	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	10:45
 Day 3	Findings poster session 1	485	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	10:45
 Day 3	Findings poster session 1	79	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	10:45
+Day 3	Findings poster session 1	337	Machine Learning for NLP: Classification and Structured Prediction Models	10:45
 Day 3	Findings poster session 1	138	Multilinguality	10:45
 Day 3	Findings poster session 1	63	Multilinguality	10:45
 Day 3	Findings poster session 1	691	Multilinguality	10:45
+Day 3	Findings poster session 1	890	Multilinguality	10:45
 Day 3	Findings poster session 1	323	Question Answering	10:45
 Day 3	Findings poster session 1	626	Question Answering	10:45
 Day 3	Findings poster session 1	649	Question Answering	10:45
@@ -31,10 +35,12 @@ Day 3	Findings poster session 1	88	Question Answering	10:45
 Day 3	Findings poster session 1	886	Semantics: Lexical Semantics	10:45
 Day 3	Findings poster session 1	176	Semantics: Sentence-level Semantics and Textual Inference	10:45
 Day 3	Findings poster session 1	33	Semantics: Sentence-level Semantics and Textual Inference	10:45
+Day 3	Findings poster session 1	891	Semantics: Sentence-level Semantics and Textual Inference	10:45
 Day 3	Findings poster session 1	426	Sentiment Analysis and Stylistic Analysis	10:45
 Day 3	Findings poster session 1	404	Sentiment Analysis and Stylistic Analysis	10:45
 Day 3	Findings poster session 2	121-special	Human-Centered NLP	14:15
 Day 3	Findings poster session 2	83-special	Human-Centered NLP	14:15
+Day 3	Findings poster session 2	97-special	Human-Centered NLP	14:15
 Day 3	Findings poster session 2	667	Speech	14:15
 Day 3	Findings poster session 2	327	Summarization	14:15
 Day 3	Findings poster session 2	508	Summarization	14:15
@@ -47,6 +53,7 @@ Day 3	Findings poster session 2	425	Information Extraction	14:15
 Day 3	Findings poster session 2	578	Information Extraction	14:15
 Day 3	Findings poster session 2	668	Information Extraction	14:15
 Day 3	Findings poster session 2	864	Information Extraction	14:15
+Day 3	Findings poster session 2	923	Information Extraction	14:15
 Day 3	Findings poster session 2	140	Information Retrieval and Text Mining	14:15
 Day 3	Findings poster session 2	397	Information Retrieval and Text Mining	14:15
 Day 3	Findings poster session 2	707	Language Generation	14:15

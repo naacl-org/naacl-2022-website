@@ -867,16 +867,18 @@
 @ Computational Social Science and Cultural Analytics
 188
 633
-@ Dialogue and Interactive systems
+@ Dialogue and Interactive Systems
 265
 414
 717
 819
+906
 @ Discourse and Pragmatics
 787
 @ Efficient methods in NLP
 427
 669
+910
 @ Ethics, Bias, and Fairness
 1045
 189
@@ -886,6 +888,8 @@
 601
 625
 755
+@ Machine Learning for NLP: Classification and Structured Prediction Models
+337
 @ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
 219
 24
@@ -896,6 +900,7 @@
 138
 63
 691
+890
 @ Question Answering
 323
 626
@@ -907,6 +912,7 @@
 @ Semantics: Sentence-level Semantics and Textual Inference
 176
 33
+891
 @ Sentiment Analysis and Stylistic Analysis
 426
 404
@@ -954,6 +960,7 @@
 @ Human-Centered NLP
 121-special
 83-special
+97-special
 @ Information Extraction
 125
 208
@@ -963,6 +970,7 @@
 578
 668
 864
+923
 @ Information Retrieval and Text Mining
 140
 397

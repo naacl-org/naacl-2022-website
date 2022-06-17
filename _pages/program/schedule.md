@@ -430,7 +430,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="913"><td><span class="poster-title">Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances. </span><em>Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang</em></td></tr>
 <tr id="poster" poster-id="194"><td><span class="poster-title">Anti-Overestimation Dialogue Policy Learning for Task-Completion Dialogue System. </span><em>Chang Tian, Wenpeng Yin, Marie-Francine Moens</em></td></tr>
 <tr id="poster" poster-id="365"><td><span class="poster-title">Prompt Augmented Generative Replay via Supervised Contrastive Learning for Lifelong Intent Detection. </span><em>VAIBHAV VARSHNEY, Mayur Patidar, Rajat Kumar, Lovekesh Vig, Gautam Shroff</em></td></tr>
-<tr id="poster" poster-id="421"><td><span class="poster-title">D2U: Distance-to-Uniform Learning for Out-of-Scope Detection. </span><em>Eyup Halit Yilmaz, Cagri Toraman</em></td></tr>
 <tr id="poster" poster-id="696"><td><span class="poster-title">Learning to Execute Actions or Ask Clarification Questions. </span><em>Zhengxiang Shi, Yue Feng, Aldo Lipani</em></td></tr>
 <tr id="poster" poster-id="731"><td><span class="poster-title">BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog. </span><em>Haipeng Sun, Junwei Bao, Youzheng Wu, Xiaodong He</em></td></tr>
 <tr id="poster" poster-id="789"><td><span class="poster-title">AISFG: Abundant Information Slot Filling Generator. </span><em>Yang Yan, Junda Ye, Zhongbao Zhang, Liwen Wang</em></td></tr>
@@ -906,11 +905,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="435"><td><span class="poster-title">Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem. </span><em>Ryoma Sato</em></td></tr>
 <tr id="poster" poster-id="554"><td><span class="poster-title">Pruning Adatperfusion with Lottery Ticket Hypothesis. </span><em>Jiarun Wu, Qingliang Chen, Zeguan Xiao, Yuliang Gu, Mengsi Sun</em></td></tr>
 <tr id="poster" poster-id="815"><td><span class="poster-title">Causal Distillation for Language Models. </span><em>Zhengxuan Wu, Atticus Geiger, Joshua Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah Goodman</em></td></tr>
-<tr id="poster" poster-id="236"><td><span class="poster-title">LM-CORE: Language Models with Contextually Relevant External Knowledge. </span><em>Jivat Neet Kaur, Sumit Bhatia, Milan Aggarwal, Rachit Bansal, Balaji Krishnamurthy</em></td></tr>
 <tr id="poster" poster-id="268"><td><span class="poster-title">Attention Fusion: a light yet efficient late fusion mechanism for task adaptation in NLU. </span><em>Jin Cao, Chandana Satya Prakash, Wael Hamza</em></td></tr>
 <tr id="poster" poster-id="386"><td><span class="poster-title">Towards Computationally Feasible Deep Active Learning. </span><em>Akim Tsvigun, Artem Shelmanov, Gleb Kuzmin, Leonid Sanochkin, Daniil Larionov, Gleb Gennadjevich Gusev, Manvel Avetisian, Leonid Zhukov</em></td></tr>
-<tr><td><span class="poster-type">Ethics, Bias, and Fairness</span></td></tr>
-<tr id="poster" poster-id="128"><td><span class="poster-title">Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification. </span><em>Xiaolei Huang</em></td></tr>
 <tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
 <tr id="poster" poster-id="36-special"><td><span class="poster-title">Do Deep Neural Nets Display Human-like Attention in Short Answer Scoring?. </span><em>Zijie Zeng, XINYU LI, Dragan Gasevic, Guanliang Chen</em></td></tr>
 <tr id="poster" poster-id="52-special"><td><span class="poster-title">Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs. </span><em>Xu Wang, Simin Fan, Jessica Houghton, Lu Wang</em></td></tr>
@@ -1279,7 +1275,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="487"><td><span class="poster-title">Paragraph-based Transformer Pre-training for Multi-Sentence Inference. </span><em>Luca Di Liello, Siddhant Garg, Luca Soldaini, Alessandro Moschitti</em></td></tr>
 <tr id="poster" poster-id="953"><td><span class="poster-title">Few-Shot Semantic Parsing with Language Models Trained on Code. </span><em>Richard Shin, Benjamin Van Durme</em></td></tr>
 <tr><td><span class="poster-type">Summarization</span></td></tr>
-<tr id="poster" poster-id="564"><td><span class="poster-title">Post-Training Dialogue Summarization using Pseudo-Paraphrasing. </span><em>Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu</em></td></tr>
 <tr id="poster" poster-id="564"><td><span class="poster-title">Post-Training Dialogue Summarization using Pseudo-Paraphrasing. </span><em>Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu</em></td></tr>
 <tr id="poster" poster-id="223"><td><span class="poster-title">Data Augmentation for Low-Resource Dialogue Summarization. </span><em>Yongtai Liu, Joshua Maynez, Gonçalo Simões, Shashi Narayan</em></td></tr>
 <tr id="poster" poster-id="422"><td><span class="poster-title">Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio. </span><em>Yizhu Liu, Qi Jia, Kenny Q. Zhu</em></td></tr>

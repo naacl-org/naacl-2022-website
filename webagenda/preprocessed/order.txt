@@ -48,12 +48,10 @@
 42
 852
 351
-975
 @ Ethics, Bias, and Fairness
 330
 653
 520
-128
 @ Human-Centered NLP
 52-special
 99-special
@@ -76,11 +74,13 @@
 @ Language Grounding to Vision, Robotics and Beyond
 672
 821
+1038
 @ Machine Translation
 260
 482
 4
 109
+493
 @ Multilinguality
 756
 263
@@ -90,6 +90,7 @@
 656
 478
 98
+108
 
 ! 12:15--13:15 Lunch
 
@@ -141,7 +142,6 @@
 778
 228
 133
-421
 37
 941
 838
@@ -149,7 +149,6 @@
 8
 @ Efficient Methods in NLP
 14
-775
 @ Information Extraction
 403
 502
@@ -179,6 +178,7 @@
 324
 59
 480
+983
 @ Syntax: Tagging, Chunking, and Parsing
 246
 1-cl
@@ -363,7 +363,6 @@
 714
 2887-tacl
 @ Question Answering
-76
 806
 222
 761
@@ -757,7 +756,6 @@
 = Session 8C: Machine Learning & Human-Centered NLP 2
 3601-tacl
 3593-tacl
-34-special
 134-special
 = Session 8D: Machine Translation 3
 835
@@ -893,6 +891,8 @@
 427
 669
 910
+236
+299
 @ Ethics, Bias, and Fairness
 1045
 189
@@ -910,6 +910,7 @@
 299
 485
 79
+523
 @ Multilinguality
 138
 63
@@ -920,11 +921,14 @@
 626
 649
 682
+850
+518
 88
 @ Semantics: Lexical Semantics
 886
 @ Semantics: Sentence-level Semantics and Textual Inference
 176
+550
 33
 891
 @ Sentiment Analysis and Stylistic Analysis
@@ -1012,6 +1016,9 @@
 35
 44
 725
+293
+@ Phonology, Morphology and Word Segmentation
+325
 @ Speech
 667
 @ Summarization

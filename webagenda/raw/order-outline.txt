@@ -104,7 +104,7 @@
 = Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
 = Session 5G: SRW In-person Poster Session
-{"Session Name": "SRW Poster Session", "Track": "Student Research Workshop"}
+{"Session Name": "SRW Poster Session"}
 
 ! 15:45--16:15 Break
 

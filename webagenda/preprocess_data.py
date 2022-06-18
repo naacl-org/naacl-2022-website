@@ -15,7 +15,7 @@ _THIS_DIR = Path(__file__).absolute().parent
 # Change the hard-coded paths below
 # Input files
 _ORDER_OUTLINE_ = _THIS_DIR / 'raw' / 'order-outline.txt'
-_RAW_PAPER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - reformatted version.tsv'
+_RAW_PAPER_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - oral sessions csv reformatted version.tsv'
 _RAW_POSTER_IN_PERSON_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Poster in-person sessions.tsv'
 _RAW_POSTER_VIRTUAL_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Posters virtual.tsv'
 _RAW_FINDINGS_SCHEDULE = _THIS_DIR / 'raw' / 'Detailed Schedule - Findings in-person.tsv'
@@ -31,7 +31,7 @@ _ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
 _METADATA = _THIS_DIR / 'preprocessed' / 'metadata.tsv'
 
 _TRACKS = [
-'Industry', 'Demo', 'Student Research Workshop',
+'Industry', 'Demo',
 'Computational Social Science and Cultural Analytics',
 'Dialogue and Interactive Systems',
 'Discourse and Pragmatics',
@@ -63,13 +63,18 @@ _TRACK_ALIASES = {
     'Dialogue and Interactive systems': 'Dialogue and Interactive Systems',
     'Efficient methods in NLP': 'Efficient Methods in NLP',
     'Ethics': 'Ethics, Bias, and Fairness',
+    'Ethics, Bias and Fairness': 'Ethics, Bias, and Fairness',
     'Special Theme': 'Human-Centered NLP',
     'Information Retrieval': 'Information Retrieval and Text Mining',
     'Language Grounding to Vision': 'Language Grounding to Vision, Robotics and Beyond',
     'Language Resources': 'Language Resources and Evaluation',
     'Linguistic theories, Cognitive Modeling and Psycholinguistics':
         'Linguistic Theories, Cognitive Modeling and Psycholinguistics',
+    'Linguistic Theories, Cognitive Modeling and Pycholinguistics':
+        'Linguistic Theories, Cognitive Modeling and Psycholinguistics',
+    'Machine Translation and Multilinguality': 'Machine Translation',
     'NLP Application': 'NLP Applications',
+    'Speech and Multimodality': 'Speech',
     'Syntax: Tagging, Chunking and Parsing': 'Syntax: Tagging, Chunking, and Parsing',
 }
 
@@ -99,7 +104,8 @@ class RawSchedule:
                     continue
                 record['Source'] = path.name
                 record['Format'] = 'virtual' if virtual else 'in-person'
-                record['Track'] = normalize_track(record.get('Track'), record['Paper ID'])
+                track = record.get('Subtrack') or record.get('Track')
+                record['Track'] = normalize_track(track, record['Paper ID'])
                 new_records.append(record)
         logging.info('Read %d records from %s', len(new_records), path)
         self.records += new_records
@@ -143,7 +149,8 @@ class RawMetadata:
             for row in reader:
                 paper_id = row.get('Number') or row.get('Paper ID')
                 paper_id = re.sub(r'SRW_(\d+)', r'\1-srw', paper_id)    # TODO: Remove this hack
-                track = normalize_track(track_override or row.get('Track'), paper_id)
+                track = track_override or row.get('Subtrack') or row.get('Track')
+                track = normalize_track(track, paper_id)
                 new_records.append({
                     'source': path.name,
                     'paper_id': paper_id,

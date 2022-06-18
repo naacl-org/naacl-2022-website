@@ -432,6 +432,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="365"><td><span class="poster-title">Prompt Augmented Generative Replay via Supervised Contrastive Learning for Lifelong Intent Detection. </span><em>VAIBHAV VARSHNEY, Mayur Patidar, Rajat Kumar, Lovekesh Vig, Gautam Shroff</em></td></tr>
 <tr id="poster" poster-id="696"><td><span class="poster-title">Learning to Execute Actions or Ask Clarification Questions. </span><em>Zhengxiang Shi, Yue Feng, Aldo Lipani</em></td></tr>
 <tr id="poster" poster-id="731"><td><span class="poster-title">BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog. </span><em>Haipeng Sun, Junwei Bao, Youzheng Wu, Xiaodong He</em></td></tr>
+<tr id="poster" poster-id="680"><td><span class="poster-title">NLU++: A Multi-Label, Slot-Rich, Generalisable Dataset for Natural Language Understanding in Task-Oriented Dialogue. </span><em>Inigo Casanueva, Ivan Vulić, Georgios P. Spithourakis, Paweł Budzianowski</em></td></tr>
 <tr id="poster" poster-id="789"><td><span class="poster-title">AISFG: Abundant Information Slot Filling Generator. </span><em>Yang Yan, Junda Ye, Zhongbao Zhang, Liwen Wang</em></td></tr>
 <tr id="poster" poster-id="786"><td><span class="poster-title">Revisit Overconfidence for OOD Detection: Reassigned Contrastive Learning with Adaptive Class-dependent Threshold. </span><em>Yanan Wu, Keqing He, Yuanmeng Yan, QiXiang Gao, Zhiyuan Zeng, Fujia Zheng, Lulu Zhao, Huixing Jiang, Wei Wu, Weiran Xu</em></td></tr>
 <tr id="poster" poster-id="84-srw"><td><span class="poster-title">[SRW] Explicit Use of Topicality in Dialogue Response Generation. </span><em>Takumi Yoshikoshi, Hayato Atarashi, Takashi Kodama, Sadao Kurohashi</em></td></tr>
@@ -454,6 +455,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="780"><td><span class="poster-title">Collective Relevance Labeling for Passage Retrieval. </span><em>Jihyuk Kim, Minsoo Kim, seung-won hwang</em></td></tr>
 <tr id="poster" poster-id="726"><td><span class="poster-title">CL-ReLKT: Cross-lingual Language Knowledge Transfer for Multilingual Retrieval Question Answering. </span><em>Peerat Limkonchotiwat, Wuttikorn Ponwitayarat, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong</em></td></tr>
 <tr id="poster" poster-id="798"><td><span class="poster-title">Weakly Supervised Text Classification using Supervision Signals  from a Language Model. </span><em>Ziqian Zeng, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, Yangqiu Song</em></td></tr>
+<tr id="poster" poster-id="514"><td><span class="poster-title">Domain-matched Pre-training Tasks for Dense Retrieval. </span><em>Barlas Oguz, Kushal Lakhotia, Anchit Gupta, Patrick Lewis, Vladimir Karpukhin, Aleksandra Piktus, Xilun Chen, Sebastian Riedel, Scott Yih, Sonal Gupta, Yashar Mehdad</em></td></tr>
 <tr><td><span class="poster-type">Interpretability and Analysis of Models for NLP</span></td></tr>
 <tr id="poster" poster-id="716"><td><span class="poster-title">Residue-Based Natural Language Adversarial Attack Detection. </span><em>Vyas Raina, Mark Gales</em></td></tr>
 <tr id="poster" poster-id="899"><td><span class="poster-title">Models In a Spelling Bee: Language Models Implicitly Learn the Character Composition of Tokens. </span><em>Itay Itzhak, Omer Levy</em></td></tr>
@@ -484,6 +486,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="671"><td><span class="poster-title">Improving In-Context Few-Shot Learning via Self-Supervised Training. </span><em>Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov, Zornitsa Kozareva</em></td></tr>
 <tr id="poster" poster-id="921"><td><span class="poster-title">On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model. </span><em>Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung</em></td></tr>
 <tr id="poster" poster-id="179"><td><span class="poster-title">On Curriculum Learning for Commonsense Reasoning. </span><em>Adyasha Maharana, Mohit Bansal</em></td></tr>
+<tr id="poster" poster-id="19-srw"><td><span class="poster-title">[SRW] Regularized Training of Nearest Neighbor Language Models. </span><em>Jean-Francois Ton, Walter Talbott, Shuangfei Zhai, Joshua M. Susskind</em></td></tr>
 <tr id="poster" poster-id="842"><td><span class="poster-title">Learning to Generate Examples for Semantic Processing Tasks. </span><em>Danilo Croce, Simone Filice, Giuseppe Castellucci, Roberto Basili</em></td></tr>
 <tr><td><span class="poster-type">Machine Translation</span></td></tr>
 <tr id="poster" poster-id="482"><td><span class="poster-title">Cheat Codes to Quantify Missing Source Information in Neural Machine Translation. </span><em>Proyag Pal, Kenneth Heafield</em></td></tr>
@@ -502,7 +505,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-4">
-<div class="session-header" id="session-header-4">Oral Session 4 + In-person Poster Session 3 + SRW Oral Session 1</div>
+<div class="session-header" id="session-header-4">Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers</div>
 <div class="session session-expandable session-papers" id="session-4a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">4A: Interpretability and Analysis of Models for NLP 1</a>
@@ -731,6 +734,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="17-srw"><td><span class="poster-title">[SRW] ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization. </span><em>Mengsay Loem, Sho Takase, Masahiro Kaneko, Naoaki Okazaki</em></td></tr>
 <tr id="poster" poster-id="25-srw"><td><span class="poster-title">[SRW] Neural Retriever and Go Beyond: A Thesis Proposal. </span><em>Man Luo</em></td></tr>
 <tr id="poster" poster-id="26-srw"><td><span class="poster-title">[SRW] Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation. </span><em>Xiruo Ding, Kevin Lybarger, Justin Tauscher, Trevor Cohen</em></td></tr>
+<tr id="poster" poster-id="30-srw"><td><span class="poster-title">[SRW] Towards Gender Biased Language Classification: A Case Study with British English Archival Metadata Descriptions. </span><em>Lucy Havens</em></td></tr>
 <tr id="poster" poster-id="31-srw"><td><span class="poster-title">[SRW] What "Drives" the Use of Metaphorical Language? Negative Insights from Abstractness, Affect, Discourse Coherence and Contextualized Word Representations. </span><em>Prisca Piccirilli, Sabine Schulte im Walde</em></td></tr>
 <tr id="poster" poster-id="32-srw"><td><span class="poster-title">[SRW] Generate, Evaluate, and Select: A Dialogue System with a Response Evaluator for Diversity-Aware Response Generation. </span><em>Ryoma Sakaeda, Daisuke Kawahara</em></td></tr>
 <tr id="poster" poster-id="39-srw"><td><span class="poster-title">[SRW] Building a Personalized Dialogue System with Prompt-Tuning. </span><em>Tomohito Kasahara, Daisuke Kawahara, Nguyen Tung, Shengzhe Li, Kenta Shinzato, Toshinori Sato</em></td></tr>
@@ -745,6 +749,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="73-srw"><td><span class="poster-title">[SRW] Divide & Conquer for Entailment-aware Multi-hop Evidence Retrieval. </span><em>Fan Luo, Mihai Surdeanu</em></td></tr>
 <tr id="poster" poster-id="78-srw"><td><span class="poster-title">[SRW] Multimodal large language models for inclusive collaboration learning tasks. </span><em>Armanda Lewis</em></td></tr>
 <tr id="poster" poster-id="83-srw"><td><span class="poster-title">[SRW] Neural Networks in a Product of Hyperbolic Spaces. </span><em>Jun Takeuchi, Noriki Nishida, Hideki Nakayama</em></td></tr>
+<tr id="poster" poster-id="87-srw"><td><span class="poster-title">[SRW] Strong Heuristics for Named Entity Linking. </span><em>Marko Čuljak, Andreas Spitz, Robert West, Akhil Arora</em></td></tr>
 <tr id="poster" poster-id="91-srw"><td><span class="poster-title">[SRW] Unifying Parsing and Tree-Structured Models for Generating Sentence Semantic Representations. </span><em>Antoine Simoulin, Benoit Crabbé</em></td></tr>
 <tr id="poster" poster-id="97-srw"><td><span class="poster-title">[SRW] Defending Compositionality in Emergent Languages. </span><em>Michal Auersperger, Pavel Pecina</em></td></tr>
 <tr id="poster" poster-id="98-srw"><td><span class="poster-title">[SRW] Exploring the Effect of Dialect Mismatched Language Models in Telugu Automatic Speech Recognition. </span><em>Aditya Yadavalli, Ganesh Sai Mirishkar, Anil Vuppala</em></td></tr>
@@ -754,7 +759,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span></div>
 <div class="session-box" id="session-box-6">
-<div class="session-header" id="session-header-6">Oral Session 6 + SRW Oral Session 2 + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2</div>
+<div class="session-header" id="session-header-6">Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2</div>
 <div class="session session-expandable session-papers" id="session-6a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">6A: Language Grounding to Vision 2</a>
@@ -830,9 +835,23 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </table>
 </div>
 </div>
+<div class="session session-expandable session-papers" id="session-6f">
+<div class="expander-wrapper">
+<div id="expander"></div><a href="#" class="session-title">6F: SRW Thesis Proposals Session</a>
+</div>
+<span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<div class="paper-session-details"><a href="#" class="session-selector" id="session-6f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6f-deselector">Remove All</a><table class="paper-table">
+<tr id="paper" paper-id="23-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Methods for Estimating and Improving Robustness of Language Models. </span><em>Michal Stefanik</em></td></tr>
+<tr id="paper" paper-id="24-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Retrieval-augmented Generation across Heterogeneous Knowledge. </span><em>Wenhao Yu</em></td></tr>
+<tr id="paper" paper-id="25-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Neural Retriever and Go Beyond: A Thesis Proposal. </span><em>Man Luo</em></td></tr>
+<tr id="paper" paper-id="30-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Towards Gender Biased Language Classification: A Case Study with British English Archival Metadata Descriptions. </span><em>Lucy Havens</em></td></tr>
+<tr id="paper" paper-id="78-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Multimodal large language models for inclusive collaboration learning tasks. </span><em>Armanda Lewis</em></td></tr>
+</table>
+</div>
+</div>
 <div class="session session-expandable session-posters" id="session-poster-6">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">6F: Industry/Demo In-person Poster Session </a>
+<div id="expander"></div><a href="#" class="session-title">6G: Industry/Demo In-person Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <div class="poster-session-details"><table class="poster-table">
@@ -887,7 +906,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-expandable session-posters" id="session-poster-7">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">6G: Virtual Poster Q&A Session 2 </a>
+<div id="expander"></div><a href="#" class="session-title">6H: Virtual Poster Q&A Session 2 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <div class="poster-session-details"><table class="poster-table">
@@ -923,6 +942,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="316"><td><span class="poster-title">Implicit n-grams Induced by Recurrence. </span><em>Xiaobing Sun, Wei Lu</em></td></tr>
 <tr id="poster" poster-id="438"><td><span class="poster-title">Locally Aggregated Feature Attribution on Natural Language Model Understanding. </span><em>Sheng Zhang, Jin Wang, Haitao Jiang, Rui Song</em></td></tr>
 <tr id="poster" poster-id="113"><td><span class="poster-title">Reframing Human-AI Collaboration for Generating Free-Text Explanations. </span><em>Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi</em></td></tr>
+<tr id="poster" poster-id="521"><td><span class="poster-title">White-box Testing of NLP models with Mask Neuron Coverage. </span><em>Arshdeep Sekhon, Yangfeng Ji, Matthew Dwyer, Yanjun Qi</em></td></tr>
 <tr><td><span class="poster-type">Language Generation</span></td></tr>
 <tr id="poster" poster-id="410"><td><span class="poster-title">Syntax Controlled Knowledge Graph-to-Text Generation with Order and Semantic Consistency. </span><em>Jin Liu, chongfeng fan, zhou Fengyu, Huijuan Xu</em></td></tr>
 <tr id="poster" poster-id="273"><td><span class="poster-title">Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts. </span><em>Rujun Han, Hong Chen, Yufei Tian, Nanyun Peng</em></td></tr>
@@ -1076,6 +1096,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="775"><td><span class="poster-title">Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval. </span><em>Siyu Ren, Kenny Q. Zhu</em></td></tr>
 <tr id="poster" poster-id="33-srw"><td><span class="poster-title">[SRW] Impact of Training Instance Selection on Domain-Specific Entity Extraction using BERT. </span><em>Eileen Salhofer, Xing Lan Liu, Roman Kern</em></td></tr>
 <tr><td><span class="poster-type">Ethics, Bias, and Fairness</span></td></tr>
+<tr id="poster" poster-id="304"><td><span class="poster-title">An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes in Multilingual Masked Language Models. </span><em>Victor Steinborn, Philipp Dufter, Haris Jabbar, Hinrich Schuetze</em></td></tr>
 <tr id="poster" poster-id="549"><td><span class="poster-title">Triggerless Backdoor Attack for NLP Tasks with Clean Labels. </span><em>Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Yi Yang, Shangwei Guo, Chun Fan</em></td></tr>
 <tr id="poster" poster-id="54-srw"><td><span class="poster-title">[SRW] Text Style Transfer for Bias Mitigation using Masked Language Modeling. </span><em>Ewoenam Kwaku Tokpo, Toon Calders</em></td></tr>
 <tr id="poster" poster-id="60-srw"><td><span class="poster-title">[SRW] Differentially Private Instance Encoding against Privacy Attacks. </span><em>Shangyu Xie, Yuan Hong</em></td></tr>
@@ -1084,6 +1105,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="5-special"><td><span class="poster-title">What Makes a Good and Useful Summary? Incorporating Users in Automatic Summarization Research. </span><em>Maartje Ter Hoeve, Julia Kiseleva, Maarten de Rijke</em></td></tr>
 <tr><td><span class="poster-type">Language Generation</span></td></tr>
 <tr id="poster" poster-id="238"><td><span class="poster-title">Cross-Domain Detection of GPT-2-Generated Technical Text. </span><em>Juan Diego Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan</em></td></tr>
+<tr id="poster" poster-id="598"><td><span class="poster-title">Revisiting Generative Commonsense Reasoning: A Pre-Ordering Approach. </span><em>Chao Zhao, Faeze Brahman, Tenghao Huang, Snigdha Chaturvedi</em></td></tr>
 <tr id="poster" poster-id="916"><td><span class="poster-title">Learning from Bootstrapping and Stepwise Reinforcement Reward: A Semi-Supervised Framework for Text Style Transfer. </span><em>Zhengyuan Liu, Nancy F. Chen</em></td></tr>
 <tr id="poster" poster-id="23-srw"><td><span class="poster-title">[SRW] Methods for Estimating and Improving Robustness of Language Models. </span><em>Michal Stefanik</em></td></tr>
 <tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
@@ -1105,6 +1127,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="466"><td><span class="poster-title">Pathway2Text: Dataset and Method for Biomedical Pathway Description Generation. </span><em>Junwei Yang, Zequn Liu, Ming Zhang, Sheng Wang</em></td></tr>
 <tr id="poster" poster-id="15"><td><span class="poster-title">Enhancing Self-Attention with Knowledge-Assisted Attention Maps. </span><em>Jiangang Bai, Yujing Wang, Hong Sun, Ruonan Wu, Tianmeng Yang, Pengfei Tang, Defu Cao, Mingliang Zhang, Yunhai Tong, Yaming Yang, Jing Bai, Ruofei Zhang, Hao Sun, Wei Shen</em></td></tr>
 <tr id="poster" poster-id="343"><td><span class="poster-title">CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training. </span><em>Xin Wang, Yasheng Wang, Yao Wan, Jiawei Wang, Pingyi Zhou, Li Li, Hao Wu, Jin Liu</em></td></tr>
+<tr id="poster" poster-id="764"><td><span class="poster-title">D2GCLF: Document-to-Graph Classifier for Legal Document Classification. </span><em>Qiqi Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Ruofan Wang</em></td></tr>
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
 <tr id="poster" poster-id="702"><td><span class="poster-title">Capturing Conversational Interaction for Question Answering via Global History Reasoning. </span><em>Jin Qian, Bowei Zou, Mengxing Dong, Xiao Li, AiTi Aw, Yu Hong</em></td></tr>
 <tr id="poster" poster-id="603"><td><span class="poster-title">$Great~Truths~are ~Always ~Simple:$ A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models. </span><em>Jinhao Jiang, Kun Zhou, Ji-Rong Wen, Xin Zhao</em></td></tr>
@@ -1243,6 +1266,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="213"><td><span class="poster-title">CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations. </span><em>Jialu Li, Hao Tan, Mohit Bansal</em></td></tr>
 <tr id="poster" poster-id="99"><td><span class="poster-title">Disentangled Action Recognition with Knowledge Bases. </span><em>Zhekun Luo, Shalini Ghosh, Devin Guillory, Keizo Kato, Trevor Darrell, Huijuan Xu</em></td></tr>
 <tr id="poster" poster-id="286"><td><span class="poster-title">Twitter-COMMs: Detecting Climate, COVID, and Military Multimodal Misinformation. </span><em>Giscard Biamby, Grace Luo, Trevor Darrell, Anna Rohrbach</em></td></tr>
+<tr id="poster" poster-id="675"><td><span class="poster-title">What kinds of errors do reference resolution models make and what can we learn from them?. </span><em>Jorge Sánchez, Mauricio Mazuecos, Hernán Maina, Luciana Benotti</em></td></tr>
+<tr id="poster" poster-id="611"><td><span class="poster-title">Detecting Narrative Elements in Informational Text. </span><em>Effi Levi, Guy Mor, Tamir Sheafer, Shaul Rafael Shenhav</em></td></tr>
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="49-srw"><td><span class="poster-title">[SRW] Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation. </span><em>Xiaomeng Pan, Hongfei Wang, Teruaki Oka, Mamoru Komachi</em></td></tr>
 <tr id="poster" poster-id="53"><td><span class="poster-title">SwahBERT: Language Model of Swahili. </span><em>Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo</em></td></tr>
@@ -1259,10 +1284,10 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="656"><td><span class="poster-title">TWEETSPIN: Fine-grained Propaganda Detection in Social Media Using Multi-View Representations. </span><em>Prashanth Vijayaraghavan, Soroush Vosoughi</em></td></tr>
 <tr id="poster" poster-id="29-srw"><td><span class="poster-title">[SRW] Understanding Long Document with Different Position-Aware Attentions. </span><em>Hai Pham, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang</em></td></tr>
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
+<tr id="poster" poster-id="76"><td><span class="poster-title">Ask Me Anything in Your Native Language. </span><em>Nikita Sorokin, Dmitry Abulkhanov, Irina Piontkovskaya, Valentin Malykh</em></td></tr>
 <tr id="poster" poster-id="320"><td><span class="poster-title">OPERA: Operation-Pivoted Discrete Reasoning over Text. </span><em>Yongwei Zhou, Junwei Bao, Chaoqun Duan, Haipeng Sun, jiahui liang, Yifan Wang, Jing Zhao, Youzheng Wu, Xiaodong He, Tiejun Zhao</em></td></tr>
 <tr id="poster" poster-id="528"><td><span class="poster-title">Long Context Question Answering via Supervised Contrastive Learning. </span><em>Avi Caciularu, Ido Dagan, Jacob Goldberger, Arman Cohan</em></td></tr>
 <tr id="poster" poster-id="741"><td><span class="poster-title">Dynamic Multistep Reasoning based on Video Scene Graph for Video Question Answering. </span><em>JianGuo Mao, Wenbin Jiang, Xiangdong Wang, Zhifan Feng, Yajuan Lyu, Hong Liu, Yong Zhu</em></td></tr>
-<tr id="poster" poster-id="850"><td><span class="poster-title">CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training. </span><em>Patrick Huber, Armen Aghajanyan, Barlas Oguz, Dmytro Okhonko, Scott Yih, Sonal Gupta, Xilun Chen</em></td></tr>
 <tr id="poster" poster-id="43"><td><span class="poster-title">Cooperative Self-training of Machine Reading Comprehension. </span><em>Hongyin Luo, Shang-Wen Li, Mingye Gao, Seunghak Yu, James R. Glass</em></td></tr>
 <tr id="poster" poster-id="624"><td><span class="poster-title">Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base. </span><em>Minhao Zhang, Ruoyu Zhang, Yanzeng Li, Lei Zou</em></td></tr>
 <tr id="poster" poster-id="362"><td><span class="poster-title">TIE: Topological Information Enhanced Structural Reading Comprehension on Web Pages. </span><em>Zihan Zhao, Lu Chen, Ruisheng Cao, Hongshen Xu, Xingyu Chen, Kai Yu</em></td></tr>
@@ -1278,6 +1303,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="564"><td><span class="poster-title">Post-Training Dialogue Summarization using Pseudo-Paraphrasing. </span><em>Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu</em></td></tr>
 <tr id="poster" poster-id="223"><td><span class="poster-title">Data Augmentation for Low-Resource Dialogue Summarization. </span><em>Yongtai Liu, Joshua Maynez, Gonçalo Simões, Shashi Narayan</em></td></tr>
 <tr id="poster" poster-id="422"><td><span class="poster-title">Reference-free Summarization Evaluation via Semantic Correlation and Compression Ratio. </span><em>Yizhu Liu, Qi Jia, Kenny Q. Zhu</em></td></tr>
+<tr id="poster" poster-id="467"><td><span class="poster-title">Exploring Neural Models for Query-Focused Summarization. </span><em>Jesse Vig, Alexander Fabbri, Wojciech Maciej Kryscinski, Chien-Sheng Wu, Wenhao Liu</em></td></tr>
+<tr id="poster" poster-id="367"><td><span class="poster-title">OTExtSum: Extractive Text Summarisation with Optimal Transport. </span><em>Peggy Tang, Kun Hu, Rui Yan, Lei Zhang, Junbin Gao, Zhiyong Wang</em></td></tr>
 <tr id="poster" poster-id="90-srw"><td><span class="poster-title">[SRW] Few-shot fine-tuning SOTA summarization models for medical dialogues. </span><em>David Fraile Navarro, Mark Dras, Shlomo Berkovsky</em></td></tr>
 </table>
 </div>

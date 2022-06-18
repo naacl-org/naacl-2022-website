@@ -23,6 +23,7 @@ _RAW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed
 _RAW_FINDINGS_DETAILS = _THIS_DIR / 'raw' / 'Accepted papers main info for detailed program - Accepted_papers_findings.tsv'
 _INDUSTRY_ALL = _THIS_DIR / 'raw' / 'Detailed Schedule - Industry.tsv'
 _DEMO_POSTER = _THIS_DIR / 'raw' / 'Detailed Schedule - Demos.tsv'
+_SRW_THESIS_PROPOSALS = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - Day 2 formatted.tsv'
 _SRW_POSTER_IN_PERSON_SCHEDULE = _THIS_DIR / 'raw' / 'SRW Detailed Schedule - SRW Poster in-person sessions.tsv'
 _SRW_PAPER_DETAILS = _THIS_DIR / 'raw' / 'SRW Accepted papers info for detailed program - Accepted_papers_main.tsv'
 # Output files
@@ -94,6 +95,8 @@ class RawSchedule:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
             for row in reader:
                 record = {key: value.strip() for (key, value) in row.items() if key}
+                if not record['Paper ID']:
+                    continue
                 record['Source'] = path.name
                 record['Format'] = 'virtual' if virtual else 'in-person'
                 record['Track'] = normalize_track(record.get('Track'), record['Paper ID'])
@@ -228,6 +231,7 @@ def main():
     raw_schedule.read_tsv(_RAW_FINDINGS_SCHEDULE)
     raw_schedule.read_tsv(_INDUSTRY_ALL)
     raw_schedule.read_tsv(_DEMO_POSTER)
+    raw_schedule.read_tsv(_SRW_THESIS_PROPOSALS)
     raw_schedule.read_tsv(_SRW_POSTER_IN_PERSON_SCHEDULE)
     raw_schedule.check_duplicates()
 

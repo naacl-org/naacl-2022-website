@@ -22,6 +22,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 2	5	316	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main
 2	Virtual Poster Q&A Session 2	5	438	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main
 2	Virtual Poster Q&A Session 2	5	113	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main
+2	Virtual Poster Q&A Session 2	5	521	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	findings
 2	Virtual Poster Q&A Session 2	1	410	Language Generation	16:15	Tues 16:15	findings
 2	Virtual Poster Q&A Session 2	1	273	Language Generation	16:15	Tues 16:15	main
 2	Virtual Poster Q&A Session 2	4	660	Language Resources and Evaluation	16:15	Tues 16:15	main
@@ -75,6 +76,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 1	6	365	Dialogue and Interactive Systems	8:00	Tues 8:00	findings
 2	Virtual Poster Q&A Session 1	6	696	Dialogue and Interactive Systems	8:00	Tues 8:00	findings
 2	Virtual Poster Q&A Session 1	6	731	Dialogue and Interactive Systems	8:00	Tues 8:00	findings
+2	Virtual Poster Q&A Session 1	6	680	Dialogue and Interactive Systems	8:00	Tues 8:00	findings
 2	Virtual Poster Q&A Session 1	6	789	Dialogue and Interactive Systems	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	6	786	Dialogue and Interactive Systems	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	6	84-srw	Dialogue and Interactive Systems	8:00	Tues 8:00	srw
@@ -95,6 +97,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 1	7	780	Information Retrieval and Text Mining	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	7	726	Information Retrieval and Text Mining	8:00	Tues 8:00	findings
 2	Virtual Poster Q&A Session 1	7	798	Information Retrieval and Text Mining	8:00	Tues 8:00	findings
+2	Virtual Poster Q&A Session 1	7	514	Information Retrieval and Text Mining	8:00	Tues 8:00	findings
 2	Virtual Poster Q&A Session 1	8	716	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	8	899	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	8	357	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00	findings
@@ -102,7 +105,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 1	8	678	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	8	76-srw	Interpretability and Analysis of Models for NLP	8:00	Tues 8:00	srw
 2	Virtual Poster Q&A Session 1	8	168	Linguistic Theories, Cognitive Modeling and Psycholinguistics	8:00	Tues 8:00	main
-2	Virtual Poster Q&A Session 1	8	705	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00	main
+2	Virtual Poster Q&A Session 1	9	705	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	9	217	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	9	963	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	9	967	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00	main
@@ -121,6 +124,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 1	9	671	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	9	921	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	9	179	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	main
+2	Virtual Poster Q&A Session 1	9	19-srw	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	srw
 2	Virtual Poster Q&A Session 1	9	842	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	8	482	Machine Translation	8:00	Tues 8:00	main
 2	Virtual Poster Q&A Session 1	8	493	Machine Translation	8:00	Tues 8:00	main
@@ -141,10 +145,12 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 3	10	296	Efficient methods in NLP	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	10	775	Efficient methods in NLP	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	10	33-srw	Efficient methods in NLP	8:00	Wed 8:00	srw
+3	Virtual Poster Q&A Session 3	10	304	Ethics, Bias, and Fairness	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	10	549	Ethics, Bias, and Fairness	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	10	54-srw	Ethics, Bias, and Fairness	8:00	Wed 8:00	srw
 3	Virtual Poster Q&A Session 3	10	60-srw	Ethics, Bias, and Fairness	8:00	Wed 8:00	srw
 3	Virtual Poster Q&A Session 3	11	238	Language Generation	8:00	Wed 8:00	main
+3	Virtual Poster Q&A Session 3	11	598	Language Generation	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	916	Language Generation	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	23-srw	Language Generation	8:00	Wed 8:00	srw
 3	Virtual Poster Q&A Session 3	11	821	Language Grounding to Vision, Robotics and Beyond	8:00	Wed 8:00	main
@@ -162,6 +168,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 3	12	466	NLP Applications	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	12	15	NLP Applications	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	12	343	NLP Applications	8:00	Wed 8:00	findings
+3	Virtual Poster Q&A Session 3	12	764	NLP Applications	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	702	Question Answering	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	603	Question Answering	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	449	Question Answering	8:00	Wed 8:00	findings
@@ -201,6 +208,8 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	15	213	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	15	99	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	15	286	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	main
+3	Virtual Poster Q&A Session 4	15	675	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings
+3	Virtual Poster Q&A Session 4	15	611	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	14	49-srw	Language Resources	9:15	Wed 9:15	srw
 3	Virtual Poster Q&A Session 4	14	53	Language Resources and Evaluation	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	14	415	Language Resources and Evaluation	9:15	Wed 9:15	findings
@@ -213,10 +222,10 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	14	478	NLP Applications	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	14	656	NLP Applications	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	14	29-srw	NLP Applications	9:15	Wed 9:15	srw
+3	Virtual Poster Q&A Session 4	13	76	Question Answering	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	13	320	Question Answering	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	13	528	Question Answering	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	13	741	Question Answering	9:15	Wed 9:15	main
-3	Virtual Poster Q&A Session 4	13	850	Question Answering	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	13	43	Question Answering	9:15	Wed 9:15	main
 3	Virtual Poster Q&A Session 4	13	624	Question Answering	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	13	362	Question Answering	9:15	Wed 9:15	main
@@ -230,4 +239,11 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	13	564	Summarization	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	13	223	Summarization	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	13	422	Summarization	9:15	Wed 9:15	main
+3	Virtual Poster Q&A Session 4	13	467	Summarization	9:15	Wed 9:15	findings
+3	Virtual Poster Q&A Session 4	13	367	Summarization	9:15	Wed 9:15	findings
 3	Virtual Poster Q&A Session 4	13	90-srw	Summarization	9:15	Wed 9:15	srw
+							
+							
+				findings	72		
+				main	151		
+				srw	20		

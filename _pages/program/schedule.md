@@ -1191,6 +1191,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="3601-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. </span><em>Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor</em></td></tr>
 <tr id="paper" paper-id="3593-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Heterogeneous Supervised Topic Models. </span><em>Dhanya Sridhar, Hal Daumé III, David Meir Blei</em></td></tr>
+<tr id="paper" paper-id="34-special"><td id="paper-time"></td><td><span class="paper-title">Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks. </span><em>Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet B. Pierrehumbert</em></td></tr>
 <tr id="paper" paper-id="134-special"><td id="paper-time"></td><td><span class="paper-title">On the Machine Learning of Ethical Judgments from Natural Language. </span><em>Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams</em></td></tr>
 </table>
 </div>

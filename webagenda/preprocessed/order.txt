@@ -164,7 +164,6 @@
 217
 976
 967
-344
 963
 489
 @ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
@@ -560,6 +559,7 @@
 941
 133
 37
+204
 225
 838
 @ Efficient Methods in NLP
@@ -704,6 +704,7 @@
 544
 283
 @ Machine Learning for NLP: Classification and Structured Prediction Models
+344
 854
 @ NLP Applications
 1020
@@ -716,6 +717,7 @@
 343
 764
 @ Question Answering
+354
 702
 603
 449
@@ -1002,6 +1004,7 @@
 314
 57
 78
+214
 782
 @ Machine Translation
 209

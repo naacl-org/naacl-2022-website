@@ -5,6 +5,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 2	1	941	Dialogue and Interactive Systems	16:15	Tues 16:15	main
 2	Virtual Poster Q&A Session 2	1	133	Dialogue and Interactive Systems	16:15	Tues 16:15	main
 2	Virtual Poster Q&A Session 2	1	37	Dialogue and Interactive Systems	16:15	Tues 16:15	main
+2	Virtual Poster Q&A Session 2	1	204	Dialogue and Interactive Systems	16:15	Tues 16:15	findings
 2	Virtual Poster Q&A Session 2	1	225	Dialogue and Interactive Systems	16:15	Tues 16:15	findings
 2	Virtual Poster Q&A Session 2	1	838	Dialogue and Interactive Systems	16:15	Tues 16:15	main
 2	Virtual Poster Q&A Session 2	2	435	Efficient methods in NLP	16:15	Tues 16:15	main
@@ -159,6 +160,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 3	11	258	Language Resources and Evaluation	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	544	Language Resources and Evaluation	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	11	283	Language Resources and Evaluation	8:00	Wed 8:00	main
+3	Virtual Poster Q&A Session 3	12	344	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	12	854	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	12	1020	NLP Applications	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	12	280	NLP Applications	8:00	Wed 8:00	main
@@ -169,6 +171,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 3	12	15	NLP Applications	8:00	Wed 8:00	main
 3	Virtual Poster Q&A Session 3	12	343	NLP Applications	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	12	764	NLP Applications	8:00	Wed 8:00	findings
+3	Virtual Poster Q&A Session 3	11	354	Question Answering	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	702	Question Answering	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	603	Question Answering	8:00	Wed 8:00	findings
 3	Virtual Poster Q&A Session 3	11	449	Question Answering	8:00	Wed 8:00	findings
@@ -244,6 +247,6 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	13	90-srw	Summarization	9:15	Wed 9:15	srw
 							
 							
-				findings	72		
-				main	151		
+				findings	74		
+				main	152		
 				srw	20		

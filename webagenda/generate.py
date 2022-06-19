@@ -585,6 +585,8 @@ class WebItem(Item):
                 self.title = '[TACL] {}'.format(self.title)
             elif self.id_.endswith('-cl'):
                 self.title = '[CL] {}'.format(self.title)
+            elif self.extended_metadata.get('type'):
+                self.title = '[{}] {}'.format(self.extended_metadata.get('type'), self.title)
 
             # generate the rest of the HTML along with optional icons
             time_text = '{}&ndash;{}'.format(self.start, self.end) if self.start and self.end else ''
@@ -613,6 +615,8 @@ class WebItem(Item):
                 self.title = '[TACL] {}'.format(self.title)
             elif self.id_.endswith('-cl'):
                 self.title = '[CL] {}'.format(self.title)
+            elif self.extended_metadata.get('type'):
+                self.title = '[{}] {}'.format(self.extended_metadata.get('type'), self.title)
 
             # show the poster number if available
             if 'poster_number' in self.extended_metadata:

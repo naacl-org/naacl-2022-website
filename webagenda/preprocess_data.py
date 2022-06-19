@@ -142,7 +142,7 @@ class RawMetadata:
     def __init__(self):
         self.records = []
 
-    def read_tsv(self, path, track_override=None):
+    def read_tsv(self, path, track_override=None, extra_metadata=None):
         new_records = []
         with open(path) as fin:
             reader = csv.DictReader(fin, dialect=csv.excel_tab)
@@ -151,13 +151,16 @@ class RawMetadata:
                 paper_id = re.sub(r'SRW_(\d+)', r'\1-srw', paper_id)    # TODO: Remove this hack
                 track = track_override or row.get('Subtrack') or row.get('Track')
                 track = normalize_track(track, paper_id)
-                new_records.append({
+                record = {
                     'source': path.name,
                     'paper_id': paper_id,
                     'track': track,
                     'title': row['Title'],
                     'authors': row['Authors'],
-                    })
+                    }
+                if extra_metadata:
+                    record.update(extra_metadata)
+                new_records.append(record)
         logging.info('Read %d metadata records from %s', len(new_records), path)
         self.records += new_records
 
@@ -172,8 +175,10 @@ class RawMetadata:
             paper_id_to_records.setdefault(paper_id, []).append(this_record)
 
     def mark_used(self, schedule_record):
+        match = None
         for record in self.records:
             if record['paper_id'] == schedule_record['Paper ID']:
+                match = record
                 record.setdefault('used', []).append(schedule_record.get('Format', 'in-person'))
                 if record['used'].count('in-person') > 1:
                     logging.warning('Re-queried metadata record: %s', record)
@@ -182,6 +187,7 @@ class RawMetadata:
                     logging.warning('Mismatched track: %s', record['paper_id'])
                     logging.warning('   Metadata: %s | Schedule: %s',
                            record['track'], schedule_record['Track']) 
+        return match
 
     def report_unused(self):
         for record in self.records:
@@ -200,27 +206,30 @@ class RawMetadata:
         logging.info('Wrote %d metadata records to %s', len(self.records), path)
 
 
-def dump_records(query, matching_records, fout):
+def dump_records(query, schedule_metadata_pairs, fout):
     # Grouped records
     if '_group_by' in query:
         subquery = dict(query)
         del subquery['_group_by']
-        key_to_records = {}
-        for record in matching_records:
-            key_to_records.setdefault(record[query['_group_by']], []).append(record)
-        for key in sorted(key_to_records):
+        key_to_pairs = {}
+        for pair in schedule_metadata_pairs:
+            key = pair[0][query['_group_by']]
+            key_to_pairs.setdefault(key, []).append(pair)
+        for key in sorted(key_to_pairs):
             print(f'@ {key}', file=fout)
-            dump_records(subquery, key_to_records[key], fout)
+            dump_records(subquery, key_to_pairs[key], fout)
         return
     # Normal records
-    for record in matching_records:
-        order_line = record['Paper ID']
-        metadata = {}
-        if record.get('Paper Awards'):
-            metadata['award'] = record['Paper Awards'].replace(' ', '_')
-        if metadata:
+    for (schedule_record, metadata_record) in schedule_metadata_pairs:
+        order_line = schedule_record['Paper ID']
+        extra_info = {}
+        if schedule_record.get('Paper Awards'):
+            extra_info['award'] = schedule_record['Paper Awards'].replace(' ', '_')
+        if 'type' in metadata_record:
+            extra_info['type'] = metadata_record['type']
+        if extra_info:
             order_line += ' ## ' + ' '.join(
-                    '%{} {}'.format(key, value) for (key, value) in metadata.items())
+                    '%{} {}'.format(key, value) for (key, value) in extra_info.items())
         print(order_line, file=fout)
 
 
@@ -243,7 +252,7 @@ def main():
     raw_schedule.check_duplicates()
 
     raw_metadata.read_tsv(_RAW_PAPER_DETAILS)
-    raw_metadata.read_tsv(_RAW_FINDINGS_DETAILS)
+    raw_metadata.read_tsv(_RAW_FINDINGS_DETAILS, extra_metadata={'type': 'Findings'})
     raw_metadata.read_tsv(_INDUSTRY_ALL, track_override='Industry')
     raw_metadata.read_tsv(_DEMO_POSTER, track_override='Demo')
     raw_metadata.read_tsv(_SRW_PAPER_DETAILS)
@@ -254,10 +263,10 @@ def main():
         for line in fin:
             if line[0] == '{':
                 query = json.loads(line)
-                matching_records = list(raw_schedule.search(query))
-                dump_records(query, matching_records, fout)
-                for record in matching_records:
-                    raw_metadata.mark_used(record)
+                schedule_records = list(raw_schedule.search(query))
+                schedule_metadata_pairs = [(record, raw_metadata.mark_used(record))
+                        for record in schedule_records]
+                dump_records(query, schedule_metadata_pairs, fout)
             else:
                 fout.write(line)
     raw_schedule.report_unused()

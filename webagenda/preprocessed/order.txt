@@ -147,6 +147,8 @@
 838
 156
 8
+@ Discourse and Pragmatics
+562
 @ Efficient Methods in NLP
 14
 @ Information Extraction
@@ -225,84 +227,90 @@
 71-industry
 = Session 3G: Virtual Poster Q&A Session 1
 @ Dialogue and Interactive Systems
-235
-871
-93 ## %type Findings
-428
-156
-205
-334
-421
-913
-194 ## %type Findings
-365 ## %type Findings
-696 ## %type Findings
-731 ## %type Findings
-680 ## %type Findings
-789
-786
 84-srw
 86-srw
+156
+205
+235
+334
+421
+428
+786
+789
+871
+913
+696 ## %type Findings
+731 ## %type Findings
+828 ## %type Findings
+902 ## %type Findings
+89 ## %type Findings
+93 ## %type Findings
+194 ## %type Findings
+365 ## %type Findings
+680 ## %type Findings
 @ Information Extraction
-536
-718
-888
 284
 389
+536
 572
 612
-768 ## %type Findings
+718
 769
+888
 147 ## %type Findings
 542 ## %type Findings
 658 ## %type Findings
+768 ## %type Findings
+856 ## %type Findings
+872 ## %type Findings
+904 ## %type Findings
 @ Information Retrieval and Text Mining
 298
 780
+514 ## %type Findings
 726 ## %type Findings
 798 ## %type Findings
-514 ## %type Findings
 @ Interpretability and Analysis of Models for NLP
+76-srw
+302
+678
 716
 899
 357 ## %type Findings
-302
-678
-76-srw
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 168
 @ Machine Learning for NLP: Classification and Structured Prediction Models
-705
 217
-963
-967
-976
 269
 326
 446
+705
 807
+963
+967
+976
 1049
 @ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
-635 ## %type Findings
-24 ## %type Findings
+19-srw
+179
 253
+671
+842
+921
 237 ## %type Findings
 347 ## %type Findings
 374 ## %type Findings
-671
-921
-179
-19-srw
-842
+477 ## %type Findings
+635 ## %type Findings
 @ Machine Translation
-482
-493
+37-srw
 4
-747
 83
 110
+482
+493
+747
 879 ## %type Findings
-37-srw
 
 ! 9:00--9:15 Break
 
@@ -554,20 +562,20 @@
 @ Computational Social Science and Cultural Analytics
 900 ## %type Findings
 @ Dialogue and Interactive Systems
+37
+133
 778
+838
 849
 941
-133
-37
 204 ## %type Findings
 225 ## %type Findings
-838
 @ Efficient Methods in NLP
 435
-554 ## %type Findings
 815
 268 ## %type Findings
 386 ## %type Findings
+554 ## %type Findings
 @ Human-Centered NLP
 36-special
 52-special
@@ -577,62 +585,61 @@
 630
 952
 @ Information Retrieval and Text Mining
-734
 52
 659
+734
 @ Interpretability and Analysis of Models for NLP
+113
 316
 438
-113
 521 ## %type Findings
 @ Language Generation
-410 ## %type Findings
 273
+410 ## %type Findings
 @ Language Resources and Evaluation
-660
-529
-812
 9
-214 ## %type Findings
 407
+529
+660
 688
+812
 @ Machine Translation
-619 ## %type Findings
 109
 260
 340
 632
+619 ## %type Findings
 @ NLP Applications
-595
-108
 98
+108
+595
 180 ## %type Findings
 @ Phonology, Morphology and Word Segmentation
 810
 @ Semantics: Lexical Semantics
 300 ## %type Findings
 @ Semantics: Sentence-level Semantics and Textual Inference
-331
-839
 29
-390
-794
 224
+331
+390
 663
-802 ## %type Findings
+794
+839
 857
+802 ## %type Findings
 @ Sentiment Analysis and Stylistic Analysis
 49
 492
-657
 513
+657
 @ Speech
 392 ## %type Findings
 @ Summarization
 59
 324
-983
 480
+983
 
 * Wednesday, July 13, 2022
 
@@ -670,76 +677,86 @@
 757
 = Session 7G: Virtual Poster Q&A Session 3
 @ Computational Social Science and Cultural Analytics
-351
+22-srw
 42
+351
 852
 975
-604 ## %type Findings
 526 ## %type Findings
-22-srw
+604 ## %type Findings
+646 ## %type Findings
 @ Efficient Methods in NLP
+33-srw
+775
 876
 296 ## %type Findings
-775
-33-srw
+432 ## %type Findings
 @ Ethics, Bias, and Fairness
-304 ## %type Findings
-549
 54-srw
 60-srw
+549
+304 ## %type Findings
 @ Human-Centered NLP
-45-special ## %type Findings
 5-special
+45-special ## %type Findings
 @ Language Generation
+23-srw
 238
 598 ## %type Findings
 916 ## %type Findings
-23-srw
 @ Language Grounding to Vision, Robotics and Beyond
 821
+539 ## %type Findings
 641 ## %type Findings
 @ Language Resources and Evaluation
-1028 ## %type Findings
-258 ## %type Findings
-544
 283
+544
+258 ## %type Findings
+1028 ## %type Findings
 @ Machine Learning for NLP: Classification and Structured Prediction Models
 344
 854
 @ NLP Applications
-1020
+15
 280
 338
 915
+1020
+262 ## %type Findings
+343 ## %type Findings
 436 ## %type Findings
 466 ## %type Findings
-15
-343 ## %type Findings
 764 ## %type Findings
+1012 ## %type Findings
+1027 ## %type Findings
 @ Question Answering
-354 ## %type Findings
-702 ## %type Findings
-603 ## %type Findings
-449 ## %type Findings
+59-srw
 70
 509
-59-srw
+354 ## %type Findings
+411 ## %type Findings
+449 ## %type Findings
+603 ## %type Findings
+702 ## %type Findings
+805 ## %type Findings
 @ Semantics: Sentence-level Semantics and Textual Inference
 971
 @ Sentiment Analysis and Stylistic Analysis
-791 ## %type Findings
+88-srw
+303
 801
 575 ## %type Findings
-303
-88-srw
+791 ## %type Findings
 @ Speech
-399 ## %type Findings
-693
 16-srw
+47-srw
 94-srw
+693
+399 ## %type Findings
 @ Syntax: Tagging, Chunking, and Parsing
-203 ## %type Findings
 42-srw
+203 ## %type Findings
+313 ## %type Findings
 
 ! 9:00--9:15 Break
 
@@ -780,66 +797,70 @@
 562
 @ Efficient Methods in NLP
 417 ## %type Findings
-236 ## %type Findings
 @ Ethics, Bias, and Fairness
-653
 128
 200
+653
 @ Information Extraction
-163
-116
-597
-537
 48-srw
 77-srw
+116
+163
+537
+597
+102 ## %type Findings
+547 ## %type Findings
+935 ## %type Findings
 @ Language Grounding to Vision, Robotics and Beyond
-1014 ## %type Findings
-181 ## %type Findings
-1038
-1007 ## %type Findings
-213 ## %type Findings
 99
 286
+1038
+181 ## %type Findings
+213 ## %type Findings
 675 ## %type Findings
+1007 ## %type Findings
+1014 ## %type Findings
 @ Language Resources and Evaluation
-611 ## %type Findings
 49-srw
 53
 415 ## %type Findings
 559 ## %type Findings
+611 ## %type Findings
 @ Multilinguality
-82 ## %type Findings
-756
-738 ## %type Findings
 263
 350
+756
+82 ## %type Findings
+677 ## %type Findings
+738 ## %type Findings
 @ NLP Applications
+29-srw
 478
 656
-29-srw
 @ Question Answering
+43
 76
+212
+222
 320
+362
 528
 741
-43
-624 ## %type Findings
-362
-72 ## %type Findings
-212
 761
 806
-222
+72 ## %type Findings
+624 ## %type Findings
 @ Semantics: Sentence-level Semantics and Textual Inference
 487
 953
 @ Summarization
-564 ## %type Findings
-223 ## %type Findings
-422
-467 ## %type Findings
-367 ## %type Findings
 90-srw
+422
+223 ## %type Findings
+367 ## %type Findings
+467 ## %type Findings
+564 ## %type Findings
+909 ## %type Findings
 
 ! 10:15--10:45 Break
 
@@ -894,6 +915,7 @@
 427 ## %type Findings
 669 ## %type Findings
 910 ## %type Findings
+229 ## %type Findings
 236 ## %type Findings
 @ Ethics, Bias, and Fairness
 1045 ## %type Findings
@@ -904,6 +926,7 @@
 601 ## %type Findings
 625 ## %type Findings
 755 ## %type Findings
+683 ## %type Findings
 @ Machine Learning for NLP: Classification and Structured Prediction Models
 337 ## %type Findings
 @ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
@@ -991,15 +1014,18 @@
 668 ## %type Findings
 864 ## %type Findings
 923 ## %type Findings
+377 ## %type Findings
 @ Information Retrieval and Text Mining
 140 ## %type Findings
 397 ## %type Findings
 @ Language Generation
 707 ## %type Findings
+855 ## %type Findings
 @ Language Grounding to Vision, Robotics and Beyond
 328 ## %type Findings
 444 ## %type Findings
 @ Language Resources and Evaluation
+234 ## %type Findings
 19 ## %type Findings
 314 ## %type Findings
 57 ## %type Findings
@@ -1020,6 +1046,7 @@
 44 ## %type Findings
 725 ## %type Findings
 293 ## %type Findings
+804 ## %type Findings
 @ Phonology, Morphology and Word Segmentation
 325 ## %type Findings
 @ Speech

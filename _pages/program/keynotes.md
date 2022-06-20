@@ -58,9 +58,29 @@ The widespread adoption of neural models in NLP research and the fact that NLP a
 
 ### Panelist: Emily M. Bender, University of Washington
 
-[comment]: <> (![Emily M. Bender]&#40;/assets/images/keynotes/Emily_Bender.jpg&#41;{: .align-center})
+![Emily M. Bender](/assets/images/keynotes/EmilyMBender.jpg){: .align-center}
 
-[comment]: <> (...)
+[Emily M. Bender](https://faculty.washington.edu/ebender/) is a Professor of [Linguistics](https://linguistics.washington.edu/) at the University of Washington and the Faculty Director of UW's Professional Master's in Computational Linguistics. 
+Her research interests include computational semantics, multilingual grammar engineering, the interplay between linguistics and NLP, and societal impacts of language technology. 
+She is the author of two books which present linguistic concepts in a manner accessible to NLP practitioners: 
+[Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](http://dx.doi.org/10.2200/S00493ED1V01Y201303HLT020) (2013) and 
+[Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics](https://www.morganclaypool.com/doi/abs/10.2200/S00935ED1V02Y201907HLT043) (2019; with Alex Lascarides), 
+as well as the co-author of recent influential papers such as 
+[Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/) (ACL 2020) 
+and [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922) (FAcct 2021).
+
+#### Abstract: 
+
+NLP needs linguistics for a wide variety of reasons:
+
+* Because structural linguistic tells us about the difference between a sentence and a bag of words;
+* Because linguistic pragmatics tells us about how language is used for communication;
+* Because child language acquisition tells us about how people acquire language (hint: it's not about being exposed to enormous amounts of linguistic forms)
+* Because linguistic typology tells us about the range and shape of cross-linguistic variation
+* Because sociolinguistics helps us to reason about potential harms of language technology
+
+NLP is better for its partnership with linguistics, because linguistics grounds NLP as an application area where there is deep scholarship around the shape of the problems we solve and the social contexts our technology enters.
+
 
 ### Panelist: Dilek Hakkani-Tur, Amazon Alexa AI
 

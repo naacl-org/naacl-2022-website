@@ -1239,7 +1239,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-expandable session-posters" id="session-poster-9">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">7G: Virtual Poster Q&A Session 4 </a>
+<div id="expander"></div><a href="#" class="session-title">8G: Virtual Poster Q&A Session 4 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <div class="poster-session-details"><table class="poster-table">

@@ -775,7 +775,7 @@
 517
 503
 962
-= Session 7G: Virtual Poster Q&A Session 4
+= Session 8G: Virtual Poster Q&A Session 4
 @ Discourse and Pragmatics
 562
 @ Efficient Methods in NLP

@@ -165,7 +165,7 @@
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Dialogue and Interactive Systems 3"}
 = Session 8F: Machine Learning for NLP 3
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
-= Session 7G: Virtual Poster Q&A Session 4
+= Session 8G: Virtual Poster Q&A Session 4
 {"Session Name": "Virtual Poster Q&A Session 4", "_group_by": "Track"}
 
 ! 10:15--10:45 Break

@@ -109,9 +109,9 @@ as well as the co-author of recent influential papers such as
 [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/) (ACL 2020) 
 and [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922) (FAcct 2021).
 
-### Panelist: Dilek Hakkani-Tur, Amazon Alexa AI
+### Panelist: Dilek Hakkani-Tür, Amazon Alexa AI
 
-![Dilek Hakkani-Tur](/assets/images/keynotes/Dilek_Hakkani-Tur.jpg){: .align-center}
+![Dilek Hakkani-Tür](/assets/images/keynotes/Dilek_Hakkani-Tur.jpg){: .align-center}
 
 Dilek Hakkani-Tür is a senior principal scientist at Amazon Alexa AI, focusing on enabling natural dialogues with machines. Prior to joining Amazon, she was a researcher at Google, Microsoft Research, International Computer Science Institute at UC Berkeley and AT&T Labs-Research. Her research interests include conversational AI, natural language and speech processing, spoken dialogue systems, and machine learning for language processing. She received best paper awards for publications she co-authored on conversational systems from IEEE Signal Processing Society, ISCA and EURASIP. Recently, she served as a program chair for NAACL 2020, the editor-in-chief of IEEE Transactions on Audio, Speech, and Language Processing and an IEEE Distinguished Industry Speaker. She is a fellow of ISCA and IEEE.
 

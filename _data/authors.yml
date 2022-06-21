@@ -24,3 +24,8 @@ publicity-chairs:
   name        : "Publicity Chairs"
   bio         : "Nanyun (Violet) Peng, Emily Sheng, Sameer Singh"
   avatar      : "assets/images/logos/acl-logo-square.png"
+
+tutorial-chairs:
+  name        : "Tutorial Chairs"
+  bio         : "Miguel Ballesteros, Yulia Tsvetkov, Cecilia O. Alm"
+  avatar      : "assets/images/logos/acl-logo-square.png"

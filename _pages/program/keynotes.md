@@ -109,18 +109,6 @@ as well as the co-author of recent influential papers such as
 [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/) (ACL 2020) 
 and [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922) (FAcct 2021).
 
-#### Abstract: 
-
-NLP needs linguistics for a wide variety of reasons:
-
-* Because structural linguistic tells us about the difference between a sentence and a bag of words;
-* Because linguistic pragmatics tells us about how language is used for communication;
-* Because child language acquisition tells us about how people acquire language (hint: it's not about being exposed to enormous amounts of linguistic forms)
-* Because linguistic typology tells us about the range and shape of cross-linguistic variation
-* Because sociolinguistics helps us to reason about potential harms of language technology
-
-NLP is better for its partnership with linguistics, because linguistics grounds NLP as an application area where there is deep scholarship around the shape of the problems we solve and the social contexts our technology enters.
-
 ### Panelist: Dilek Hakkani-Tur, Amazon Alexa AI
 
 [comment]: <> (![Dilek Hakkani-Tur](/assets/images/keynotes/Dilek_Hakkani-Tur.jpg){: .align-center})

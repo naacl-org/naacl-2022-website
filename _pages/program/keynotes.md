@@ -111,9 +111,9 @@ and [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜]
 
 ### Panelist: Dilek Hakkani-Tur, Amazon Alexa AI
 
-[comment]: <> (![Dilek Hakkani-Tur](/assets/images/keynotes/Dilek_Hakkani-Tur.jpg){: .align-center})
+![Dilek Hakkani-Tur](/assets/images/keynotes/Dilek_Hakkani-Tur.jpg){: .align-center}
 
-[comment]: <> (...)
+Dilek Hakkani-Tür is a senior principal scientist at Amazon Alexa AI, focusing on enabling natural dialogues with machines. Prior to joining Amazon, she was a researcher at Google, Microsoft Research, International Computer Science Institute at UC Berkeley and AT&T Labs-Research. Her research interests include conversational AI, natural language and speech processing, spoken dialogue systems, and machine learning for language processing. She received best paper awards for publications she co-authored on conversational systems from IEEE Signal Processing Society, ISCA and EURASIP. Recently, she served as a program chair for NAACL 2020, the editor-in-chief of IEEE Transactions on Audio, Speech, and Language Processing and an IEEE Distinguished Industry Speaker. She is a fellow of ISCA and IEEE.
 
 ### Panelist: Chitta Baral, Arizona State University
 

@@ -606,7 +606,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="3319-tacl"><td><span class="poster-title">[TACL] Czech Grammar Error Correction with a Large and Diverse Corpus. </span><em>Jakub Náplava, Milan Straka, Jana Straková, Alexandr Rosen</em></td></tr>
 <tr><td><span class="poster-type">Linguistic Theories, Cognitive Modeling and Psycholinguistics</span></td></tr>
 <tr id="poster" poster-id="714"><td><span class="poster-title">A Computational Acquisition Model for Multimodal Word Categorization. </span><em>Uri Berger, Gabriel Stanovsky, Omri Abend, Lea Frermann</em></td></tr>
-<tr id="poster" poster-id="2887-tacl"><td><span class="poster-title">[TACL] He Thinks He Knows Better than the Doctors: BERT for Event Factuality Fails on Pragmatics. </span><em>Nanjiang Jiang, Marie-Catherine Hedwige de Marneffe</em></td></tr>
+<tr id="poster" poster-id="2887-tacl"><td><span class="poster-title">[TACL] He Thinks He Knows Better than the Doctors: BERT for Event Factuality Fails on Pragmatics. </span><em>Nanjiang Jiang, Marie-Catherine de Marneffe</em></td></tr>
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
 <tr id="poster" poster-id="806"><td><span class="poster-title">ProQA: Structural Prompt-based Pre-training for Unified Question Answering. </span><em>Wanjun Zhong, Yifan Gao, Ning Ding, Yujia Qin, Zhiyuan Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan</em></td></tr>
 <tr id="poster" poster-id="222"><td><span class="poster-title">DREAM: Improving Situational QA by First Elaborating the Situation. </span><em>Yuling Gu, Bhavana Dalvi, Peter Clark</em></td></tr>

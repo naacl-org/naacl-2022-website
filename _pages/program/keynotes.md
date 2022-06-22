@@ -92,9 +92,9 @@ The widespread adoption of neural models in NLP research and the fact that NLP a
 
 ### Moderator: Dan Roth, University of Pennsylvania & AWS AI Labs
 
-[comment]: <> (![Dan Roth](/assets/images/keynotes/Dan_Roth.jpg){: .align-center})
+![Dan Roth](/assets/images/keynotes/Dan_Roth.jpg){: .align-center}
 
-[comment]: <> (...)
+Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of CIS, UPenn, the NLP Lead at AWS AI, and a Fellow of the AAAS, ACM, AAAI, and ACL. In 2017 Roth received the John McCarthy Award. Roth has published broadly in ML, NLP, KRR, and learning theory, and has given keynote talks and tutorials in all ACL and AAAI major conferences. Roth was the Editor-in-Chief of JAIR until 2017, and the program chair of AAAI’11, ACL’03 and CoNLL’02.
 
 ### Panelist: Emily M. Bender, University of Washington
 
@@ -117,7 +117,9 @@ Dilek Hakkani-Tür is a senior principal scientist at Amazon Alexa AI, focusing 
 
 ### Panelist: Chitta Baral, Arizona State University
 
-[comment]: <> (![Chitta Baral](/assets/images/keynotes/Chitta_Baral.jpg){: .align-center})
+![Chitta Baral](/assets/images/keynotes/Chitta_Baral.jpg){: .align-center}
+
+Chitta Baral is a Professor in the School of Computing and AI at Arizona State University. His research interests include Knowledge Representation and Reasoning (KR & R),  Natural Language Understanding (NLU), Image/Video Understanding; and their applications to Molecular Biology, Health Informatics and Robotics. Chitta is the author of the book "Knowledge Representation, Reasoning and Declarative Problem Solving" and a past President of KR Inc. His current research focus is on leveraging decades of research in KR & R for better understanding of natural language and images/videos. Towards that end he has worked on a framework for translating natural language to formal representations (NL2KR); abducing missing knowledge and knowledge hunting; exploring NLU challenges where reasoning with knowledge, reasoning about actions, and commonsense reasoning are crucial;  exploring the use of natural language as a knowledge representation and instructional formalism; and exploring the role of reasoning and knowledge in enhancing generalizability, robustness, and few-shot learning.
 
 ### Panelist: Christopher D. Manning, Stanford University
 

@@ -75,13 +75,6 @@ toc: false
 
 ## Financial Accessibility Chairs
 {% include bio-box
-   name="Sasha Luccioni"
-   extrainfo="(she/her)"
-   picture="/assets/images/committee/sasha.jpg"
-   site="https://www.sashaluccioni.com/"
-   institution="Mila and HuggingFace"
-%}
-{% include bio-box
    name="Nedjma Djouhra Ousidhoum"
    extrainfo="(she/her)"
    picture="/assets/images/committee/nedjma.jpg"

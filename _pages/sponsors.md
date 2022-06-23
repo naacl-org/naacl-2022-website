@@ -20,7 +20,7 @@ diamond:
     alt: LivePerson
     title: LivePerson
   - url: https://about.facebook.com/meta/
-    image_path: /assets/images/logos/Meta.jpg
+    image_path: /assets/images/logos/Meta.png
     alt: Meta
     title: Meta
   - url: https://www.bloomberg.com/

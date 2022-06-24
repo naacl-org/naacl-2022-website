@@ -577,24 +577,24 @@ $(document).ready(function() {
         }
     });
 
-    /* if the location is an external one, open it in google maps */
-    $('span.session-external-location').on('click', function(event) {
-        var placeName = $(this).text().trim().replace(" ", "+");
-        window.open("https://www.google.com/maps?q=" + placeName, "_blank");
-        event.stopPropagation();
-    });
+    // /* if the location is an external one, open it in google maps */
+    // $('span.session-external-location').on('click', function(event) {
+    //     var placeName = $(this).text().trim().replace(" ", "+");
+    //     window.open("https://www.google.com/maps?q=" + placeName, "_blank");
+    //     event.stopPropagation();
+    // });
 
-    /* show the floorplan when any location is clicked */
-    $('span.session-location, span.inline-location').on('click', function(event) {
-        event.stopPropagation();
-    });
-    $('span.session-location, span.inline-location').magnificPopup({
-        items: {
-            src: '/assets/images/minneapolis/3d-floormap.png'
-        },
-        type: 'image',
-        fixedContentPos: 'auto'
-    });
+    // /* show the floorplan when any location is clicked */
+    // $('span.session-location, span.inline-location').on('click', function(event) {
+    //     event.stopPropagation();
+    // });
+    // $('span.session-location, span.inline-location').magnificPopup({
+    //     items: {
+    //         src: '/assets/images/minneapolis/3d-floormap.png'
+    //     },
+    //     type: 'image',
+    //     fixedContentPos: 'auto'
+    // });
 
     /* get all the tutorial sessions and save the day and location for each of them in a hash */
     $('.session-tutorials').each(function() {

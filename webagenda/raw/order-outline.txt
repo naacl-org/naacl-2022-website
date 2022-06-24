@@ -1,3 +1,7 @@
+* Sunday, July 10, 2022
+
+! 18:00--20:00 Welcome Reception
+
 * Monday, July 11, 2022
 
 ! 8:45--9:15 Welcome Session
@@ -129,6 +133,8 @@
 {"Session Name": "Demo Poster"}
 = Session 6H: Virtual Poster Q&A Session 2
 {"Session Name": "Virtual Poster Q&A Session 2", "_group_by": "Track"}
+
+! 19:00--22:00 Social Event ## %room Museum of Pop Culture (MoPOP)
 
 * Wednesday, July 13, 2022
 

@@ -43,7 +43,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <a href="#" id="toggle-all-button" class="btn btn--small btn--twitter">Expand All Sessions ↓</a>
 </p>
 <div class="schedule">
-<div class="day" id="day-1">Monday, July 11, 2022</div>
+<div class="day" id="day-1">Sunday, July 10, 2022</div>
+<div class="session session-plenary"><span class="session-title">Welcome Reception</span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span></div>
+<div class="day" id="day-2">Monday, July 11, 2022</div>
 <div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span></div>
 <div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
@@ -331,7 +333,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </table>
 </div>
 </div>
-<div class="day" id="day-2">Tuesday, July 12, 2022</div>
+<div class="day" id="day-3">Tuesday, July 12, 2022</div>
 <div class="session-box" id="session-box-3">
 <div class="session-header" id="session-header-3">Oral Session 3 + Industry Oral Session 1 + Virtual Poster Q&A Session 1</div>
 <div class="session session-expandable session-papers" id="session-3a">
@@ -1001,7 +1003,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="day" id="day-3">Wednesday, July 13, 2022</div>
+<div class="session session-plenary"><span class="session-title">Social Event</span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location btn btn--location">Museum of Pop Culture (MoPOP)</span></div>
+<div class="day" id="day-4">Wednesday, July 13, 2022</div>
 <div class="session-box" id="session-box-7">
 <div class="session-header" id="session-header-7">Oral Session 7 + Virtual Poster Q&A Session 3</div>
 <div class="session session-expandable session-papers" id="session-7a">

@@ -26,16 +26,22 @@ American city to fully vaccinate 70% of residents 12 and older. King County is n
 of 88% and is safely welcoming back visitors. Many large corporations and businesses are beginning to
 bring their workforce back to downtown, which will continue to enhance the visitor’s experience.
 
+Note that you may need to apply for a U.S. visa to enter the country. Please refer to [this page](/visa-info/) for more information.
+
+## Conference Venue
+
 Both as the conference headquarters hotel and the conference venue, the [**Hyatt Regency Seattle**](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) will be
 your home-away-from-home at:
 
-808 Howell Street, Seattle, Washington, United States, 98101 +1 206 973 1234
+> 808 Howell Street<br>
+> Seattle, Washington<br>
+> United States<br>
+> 98101<br>
+> +1 206 973 1234<br>
 
 Our downtown hotel is walking distance to Seattle’s most iconic attractions &amp; experiences. Venture
 farther &amp; immerse yourself in the Pacific Northwest’s incredible landscapes. You can find more about
 the area attractions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears/area-attractions).
-
-Note that you may need to apply for a U.S. visa to enter the country. Please refer to [this page](/visa-info/) for more information.
 
 ## Welcome Reception
 
@@ -63,6 +69,16 @@ social event.
 <img src="../../assets/images/mopop1.jpeg" alt="MoPop1" width="30%">
 <img src="../../assets/images/mopop2.jpeg" alt="MoPop2" width="30%">
 <img src="../../assets/images/mopop3.jpeg" alt="MoPop3" width="30%">
+
+## Meals
+
+A light Breakfast will be provided daily and can be found on levels 3 & 5 pre-function.
+
+Breaks --- Tea, coffee, pastries and snacks will be provided early morning, mid-morning and mid-afternoon and will be found in the Regency Ballroom on level 7 (on Sunday the location will be level 3 pre-function).
+
+Lunch is not provided, but there are plenty of cafes, restaurants and shops near by within walking distance as well as the hotel has a grab and go market open until 14:00.
+
+Dinner will only be provided during the Welcome Reception on Sunday evening (starting at 18:30) located on Level 5 pre-function and Tuesday evening at the social event at MoPop.
 
 ## Accommodation
 

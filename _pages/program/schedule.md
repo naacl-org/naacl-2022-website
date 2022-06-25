@@ -44,11 +44,14 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </p>
 <div class="schedule">
 <div class="day" id="day-1">Sunday, July 10, 2022</div>
+<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
 <div class="session session-plenary"><span class="session-title">Welcome Reception</span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span></div>
 <div class="day" id="day-2">Monday, July 11, 2022</div>
+<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
-<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
+<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Oral Session 1 + In-person Poster Session 1</div>
 <div class="session session-expandable session-papers" id="session-1a">
@@ -183,9 +186,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
+<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
 <div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span></div>
-<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span></div>
+<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span></div>
 <div class="session-box" id="session-box-2">
 <div class="session-header" id="session-header-2">Oral Session 2 + In-person Poster Session 2</div>
 <div class="session session-expandable session-papers" id="session-2a">
@@ -320,7 +323,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span></div>
+<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span></div>
 <div class="session session-plenary session-expandable session-papers-best">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">Plenary Best Paper Session + Land Acknowledgment</a>
@@ -334,6 +337,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="day" id="day-3">Tuesday, July 12, 2022</div>
+<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
 <div class="session-box" id="session-box-3">
 <div class="session-header" id="session-header-3">Oral Session 3 + Industry Oral Session 1 + Virtual Poster Q&A Session 1</div>
 <div class="session session-expandable session-papers" id="session-3a">
@@ -510,9 +514,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span></div>
+<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span></div>
 <div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
-<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
+<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers</div>
 <div class="session session-expandable session-papers" id="session-4a">
@@ -637,7 +641,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Lunch + Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Lunch + Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session-box" id="session-box-5">
 <div class="session-header" id="session-header-5">Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session</div>
 <div class="session session-expandable session-papers" id="session-5a">
@@ -765,7 +769,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span></div>
+<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span></div>
 <div class="session-box" id="session-box-6">
 <div class="session-header" id="session-header-6">Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2</div>
 <div class="session session-expandable session-papers" id="session-6a">
@@ -1003,8 +1007,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title">Social Event</span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location btn btn--location">Museum of Pop Culture (MoPOP)</span></div>
+<div class="session session-plenary"><span class="session-title">Social Event</span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location">Museum of Pop Culture (MoPOP)</span></div>
 <div class="day" id="day-4">Wednesday, July 13, 2022</div>
+<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
 <div class="session-box" id="session-box-7">
 <div class="session-header" id="session-header-7">Oral Session 7 + Virtual Poster Q&A Session 3</div>
 <div class="session session-expandable session-papers" id="session-7a">
@@ -1176,7 +1181,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span></div>
+<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span></div>
 <div class="session-box" id="session-box-8">
 <div class="session-header" id="session-header-8">Oral Session 8 + Virtual Poster Q&A Session 4</div>
 <div class="session session-expandable session-papers" id="session-8a">
@@ -1335,7 +1340,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span></div>
+<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span></div>
 <div class="session-box" id="session-box-9">
 <div class="session-header" id="session-header-9">Oral Session 9 + Findings In-person Poster Session 1</div>
 <div class="session session-expandable session-papers" id="session-9a">
@@ -1480,7 +1485,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session-box" id="session-box-10">
 <div class="session-header" id="session-header-10">Oral Session 10 + Findings In-person Poster Session 2</div>
 <div class="session session-expandable session-papers" id="session-10a">
@@ -1623,9 +1628,15 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
+<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
 <div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span></div>
+<div class="day" id="day-5">Thursday, July 14, 2022</div>
+<div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 18:00</span></div>
+<div class="day" id="day-6">Friday, July 15, 2022</div>
+<div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Friday, July 15, 2022">9:00 &ndash; 18:00</span></div>
 <div id="generatePDFForm">
 <div id="formContainer">
 <p><input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<label id="checkBoxLabel" for="includePlenaryCheckBox">Include plenary sessions in schedule</label></p>

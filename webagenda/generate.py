@@ -328,14 +328,13 @@ class WebSession(Session):
 
             # add the loation if we have any
             if self.location:
-                break_html += '<span class="btn btn--location session-location">{}</span>'.format(self.location)
+                break_html += '<span class="session-location">{}</span>'.format(self.location)
 
             # close the div and append to result
             break_html += '</div>'
             generated_html.append(break_html)
 
         elif self.type == 'plenary':
-
             # some plenary sessions might be in external locations
             # so handle that case if we encounter it
             if self.location.endswith('(external)'):
@@ -397,7 +396,7 @@ class WebSession(Session):
 
             # add location
             if self.location:
-              session_html += '<span class="{} btn btn--location">{}</span>'.format(location_type, self.location)
+              session_html += '<span class="{}">{}</span>'.format(location_type, self.location)
 
             # now add the actual abstract and the PDF and Video links
             # as icons if we have those URLs
@@ -429,7 +428,7 @@ class WebSession(Session):
             generated_html.append('</div>')
             generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
-                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+                generated_html.append('<span class="session-location">{}</span>'.format(self.location))
             generated_html.append('<div class="tutorial-session-details"><table class="tutorial-table">')
 
             # we know tutorial sessions have child items, so
@@ -459,7 +458,7 @@ class WebSession(Session):
             generated_html.append('</div>')
             generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
-                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+                generated_html.append('<span class="session-location">{}</span>'.format(self.location))
             generated_html.append('<div class="paper-session-details"><table class="paper-table">')
 
             # we know the best paper session has child items, so
@@ -481,7 +480,7 @@ class WebSession(Session):
             generated_html.append('</div>')
             generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
-                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+                generated_html.append('<span class="session-location">{}</span>'.format(self.location))
             generated_html.append('<div class="poster-session-details"><table class="poster-table">')
 
             # we know poster sessions have child items, so
@@ -503,7 +502,7 @@ class WebSession(Session):
             generated_html.append('</div>')
             generated_html.append('<span class="session-time" title="{}">{} &ndash; {}</span>'.format(str(day), self.start, self.end))
             if self.location:
-                generated_html.append('<span class="session-location btn btn--location">{}</span>'.format(self.location))
+                generated_html.append('<span class="session-location">{}</span>'.format(self.location))
             generated_html.append('<div class="paper-session-details"><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table">'.format(self.id_.lower(), self.id_.lower()))
             if self.chair:
                 generated_html.append('<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span></td></tr>'.format(self.chair))
@@ -638,7 +637,7 @@ class WebItem(Item):
             item_metadata = metadata.lookup(self.id_)
             self.title = item_metadata.title
             self.authors = authorlist_to_string(item_metadata.authors)
-            generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><span class="btn btn--location inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
+            generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><span class="inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
 
         # return the generated item HTML
         return generated_html

@@ -1,12 +1,18 @@
 * Sunday, July 10, 2022
 
+! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+
+! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a>
+
 ! 18:00--20:00 Welcome Reception
 
 * Monday, July 11, 2022
 
+! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+
 ! 8:45--9:15 Welcome Session
 
-! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman</a>
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a>
 
 ! 10:15--10:45 Break
 
@@ -52,6 +58,8 @@
 {"Day": "Day 1", "Session Name": "Best paper"}
 
 * Tuesday, July 12, 2022
+
+! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
 
 + 8:00--9:00 Oral Session 3 + Industry Oral Session 1 + Virtual Poster Q&A Session 1
 
@@ -138,6 +146,8 @@
 
 * Wednesday, July 13, 2022
 
+! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+
 + 8:00--9:00 Oral Session 7 + Virtual Poster Q&A Session 3
 
 = Session 7A: Interpretability and Analysis of Models for NLP 2
@@ -210,6 +220,18 @@
 
 ! 15:45--16:15 Break
 
-! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez</a>
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a>
 
 ! 17:15--17:45 Closing Session
+
+* Thursday, July 14, 2022
+
+! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+
+! 9:00--18:00 <a href="/program/workshops/">Workshops</a>
+
+* Friday, July 15, 2022
+
+! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+
+! 9:00--18:00 <a href="/program/workshops/">Workshops</a>

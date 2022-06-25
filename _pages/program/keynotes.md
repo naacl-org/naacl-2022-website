@@ -55,7 +55,7 @@ Dr. Friedman’s 2019 MIT Press book co-authored with David Hendry, Value Sensit
 ## Manuel Montes-y-Gómez
 {: #manuel-montes-y-gomez}
 
-![Manuel Montes-y-Gómez](/assets/images/keynotes/Manuel_Montes_y_Gomez.png){: .align-center}
+![Manuel Montes-y-Gómez](/assets/images/keynotes/Manuel_Montes_y_Gomez.jpg){: .align-center}
 
 **Title:** NLP in Mexican Spanish: One of many stories
 

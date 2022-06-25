@@ -18,6 +18,8 @@ th .extra {
 }
 </style>
 
+Please see [this blog post](/blog/welcome-to-tutorials/) for more information!
+
 ## Schedule
 
 **Date:** July 10, 2022

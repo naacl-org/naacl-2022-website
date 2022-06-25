@@ -9,9 +9,9 @@ categories:
 toc: false
 ---
 
-The NAACL tutorials will take place on July 10, 2022 with tutorials delivered by expert researchers on topics of importance for our rapidly evolving research community.
+The NAACL tutorials will take place on **July 10, 2022** with tutorials delivered by expert researchers on topics of importance for our rapidly evolving research community.
 
-The [call for tutorials](/calls/tutorials/) and the subsequent tutorial review and selection process was coordinated across four conferences. We thank the [tutorial chairs from ACL, COLING, and EMNLP](/calls/tutorials/#tutorial-chairs) for this joint experience, and also the additional external reviewers who participated in the review process.
+The [call for tutorials](/calls/tutorials/) and the subsequent tutorial review and selection process was coordinated across four conferences. We thank the [tutorial chairs from ACL, COLING, and EMNLP](/calls/tutorials/#tutorial-chairs) for this joint experience, and also the additional external reviewers who participated in the review process. At NAACL, the option to seek reproducibility badging was introduced for accepted tutorials, thanks to the reproducibility chairs.
 
 The [six tutorials](/program/tutorials/) selected for NAACL include one introductory tutorial and five cutting-edge tutorials. The introductory tutorial is dedicated to Human-Centered Evaluation of Explanations (T4). The cutting-edge tutorials are: (T1) Text Generation with Text-Editing Models, (T2) Self-supervised Representation Learning for Speech Processing, (T3) New Frontiers of Information Extraction, (T5) Multimodal Machine Learning, and (T6) Contrastive Data and Learning for Natural Language Processing. Prior to attending tutorials, you are welcome to review their recommended pre-readings.
 
@@ -29,13 +29,19 @@ Here is the schedule for the tutorial sessions on Sunday July 10 (Pacific Daylig
 | 15:30--16:00 | Coffee break
 | 16:00--17:30 | Afternoon tutorials, second part (T4, T5, T6)
  
-The extra Q&A sessions are scheduled for these 45-min. or 30-min. time slots on Sunday July 10 (Pacific Daylight Time): 
-* T1: 8:00--8:45 and 12:30--13:00
-* T2: 8:00--8:45 and 12:30--13:00
-* T3: 8:00--8:45 and 12:30--13:00
-* T4: 13:30--14:00 and 18:00--18:45
-* T5: 13:30--14:00 and 18:00--18:45
-* T6: 13:30--14:00 and 18:00--18:45
+The extra Q&A sessions are scheduled for these 45-minute or 30-minute time slots on Sunday July 10 (Pacific Daylight Time): 
+
+* T1, T2, and T3: 8:00--8:45 and 12:30--13:00
+* T4, T5, and T6: 13:30--14:00 and 18:00--18:45
+
+Tutorial locations (for both the main tutorials and extra Q&A sessions) are listed below:
+
+| T1 | Columbia A
+| T2 | Columbia C
+| T3 | Columbia D
+| T4 | Columbia D
+| T5 | Columbia C
+| T6 | Columbia A
 
 We are grateful to the tutorial instructors for all their efforts. They have gone above and beyond to deliver their tutorials in a hybrid mode at the conference. 
 

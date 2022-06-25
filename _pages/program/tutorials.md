@@ -73,6 +73,8 @@ Shankar Kumar,
 
 **Extra Q&A sessions:** 8:00--8:45 and 12:30--13:00
 
+**Location:** Columbia A
+
 **Category:** Cutting-edge
 
 Text-editing models have recently become a prominent alternative to seq2seq models for
@@ -116,6 +118,8 @@ pressing challenges in the field of text generation.
 
 **Extra Q&A sessions:** 8:00--8:45 and 12:30--13:00
 
+**Location:** Columbia C
+
 **Category:** Cutting-edge
 
 Although Deep Learning models have revolutionized the speech and audio processing field, they forced building specialist models for individual tasks and application scenarios. Deep neural models also bottlenecked dialects and languages with limited labeled data.
@@ -144,6 +148,8 @@ Self-supervised representation learning methods promise a single universal model
 **Time:** 9:00--12:30
 
 **Extra Q&A sessions:** 8:00--8:45 and 12:30--13:00
+
+**Location:** Columbia D
 
 **Category:** Cutting-edge
 
@@ -177,6 +183,8 @@ In this tutorial, we will systematically review several lines of frontier resear
 
 **Extra Q&A sessions:** 13:30--14:00 and 18:00--18:45
 
+**Location:** Columbia D
+
 **Category:** Introductory
 
 The NLP community are increasingly interested in providing explanations for NLP models to help people make sense of model behavior and potentially improve human interaction with models. In addition to computational challenges in generating these explanations, evaluations of the generated explanations require human-centered perspectives and approaches. This tutorial will provide an overview of human-centered evaluations of explanations. First, we will give a brief introduction to the psychological foundation of explanations as well as types of NLP model explanations and their corresponding presentation, to provide the necessary background. We will then present a taxonomy of human-centered evaluation of explanations and dive into depth in the two categories: 1) evaluation with human-subject studies and 2) evaluation based on human-annotated explanations. We will conclude by discussing future directions. We will also adopt a flipped format to maximize the interactive components for the live audience.
@@ -198,6 +206,8 @@ The NLP community are increasingly interested in providing explanations for NLP 
 **Time:** 14:00--17:30
 
 **Extra Q&A sessions:** 13:30--14:00 and 18:00--18:45
+
+**Location:** Columbia C
 
 **Category:** Cutting-edge
 
@@ -224,6 +234,8 @@ This tutorial builds upon the annual course on multimodal machine learning taugh
 **Time:** 14:00--17:30
 
 **Extra Q&A sessions:** 13:30--14:00 and 18:00--18:45
+
+**Location:** Columbia A
 
 **Category:** Cutting-edge
 

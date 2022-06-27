@@ -10,6 +10,8 @@ This policy is in force even if local regulations are less strict, but may be su
 Furthermore, the ACL strongly encourages attendees to be cautious with masking in indoor space outside the conference venue (e.g. on public transit or while eating away from the venue) to avoid bringing COVID to the venue. 
 This policy will be revisited annually by the ACL exec so as to be responsive to changing pandemic conditions.
 
+For questions or concerns, or to report illness, please either find **Yonatan Bisk** at the venue or contact the DEI committee at <naacl-2022-dei-chairs@googlegroups.com>
+
 [comment]: <> (**Measures in place at the venue**)
 
 ## Staying safe while attending NAACL 2022 in person

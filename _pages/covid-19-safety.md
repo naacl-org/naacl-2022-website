@@ -2,8 +2,6 @@
 title: COVID-19 Safety at NAACL 2022
 layout: single
 permalink: /covid-19-safety/
-sidebar:
-    nav: "participants"
 ---
 
 It is the policy of ACL conferences that attendees wear high-quality, well-fitting masks while attending indoor functions at ACL events, removing their masks only the minimal amount necessary to eat and drink. 

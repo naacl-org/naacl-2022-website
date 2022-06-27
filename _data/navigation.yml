@@ -15,6 +15,9 @@ main:
   - title: "Info for Participants"
     subnav: participants
 
+  - title: "COVID Safety"
+    url: /covid-19-safety/
+
   - title: "Registration"
     url: /registration/
 
@@ -113,8 +116,8 @@ participants:
         url: /venue/
       - title: "Visa Information"
         url: /visa-info/
-      - title: "COVID-19 Safety at NAACL 2022"
-        url: /covid-19-safety/
+#      - title: "COVID-19 Safety at NAACL 2022"
+#        url: /covid-19-safety/
 
 committees:
   - title: Committees

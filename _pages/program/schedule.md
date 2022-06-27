@@ -45,8 +45,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="schedule">
 <div class="day" id="day-1">Sunday, July 10, 2022</div>
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/program/tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
-<div class="session session-plenary"><span class="session-title">Welcome Reception</span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
+<div class="session session-plenary"><span class="session-title">Welcome Reception</span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer</span></div>
 <div class="day" id="day-2">Monday, July 11, 2022</div>
 <div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>

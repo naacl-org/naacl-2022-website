@@ -188,6 +188,20 @@ toc_sticky: true
    institution="ETH Zürich & University of Cambridge"
 %}
 
+{% include bio-box
+   name="Danilo Croce"
+   picture="/assets/images/committee/books.jpg"
+   site="http://art.uniroma2.it/croce/"
+   institution="University of Rome \"Tor Vergata\""
+%}
+
+{% include bio-box
+   name="Jordan Zhang"
+   picture="/assets/images/committee/books.jpg"
+   site=""
+   institution=""
+%}
+
 ## Ethics Chairs
 {% include bio-box
    name="Kai-Wei Chang"

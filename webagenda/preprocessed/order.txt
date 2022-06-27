@@ -2,7 +2,7 @@
 
 ! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
 
-! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a>
+! 9:00--17:30 <a href="/program/tutorials/">Tutorials</a>
 
 ! 18:00--20:00 Welcome Reception
 

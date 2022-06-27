@@ -49,9 +49,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="session session-plenary"><span class="session-title">Welcome Reception</span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span></div>
 <div class="day" id="day-2">Monday, July 11, 2022</div>
 <div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span></div>
-<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span></div>
+<div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Oral Session 1 + In-person Poster Session 1</div>
 <div class="session session-expandable session-papers" id="session-1a">
@@ -134,6 +134,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1F: In-person Poster Session 1 </a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="42"><td><span class="poster-title">Political Ideology and Polarization: A Multi-dimensional Approach. </span><em>Barea Sinno, Bernardo Oviedo, Katherine Atwell, Malihe Alikhani, Junyi Jessy Li</em></td></tr>
@@ -187,8 +188,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
-<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span></div>
-<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span></div>
+<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-2">
 <div class="session-header" id="session-header-2">Oral Session 2 + In-person Poster Session 2</div>
 <div class="session session-expandable session-papers" id="session-2a">
@@ -271,6 +272,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2F: In-person Poster Session 2 </a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Dialogue and Interactive Systems</span></td></tr>
 <tr id="poster" poster-id="235"><td><span class="poster-title">Towards a Progression-Aware Autonomous Dialogue Agent. </span><em>Abraham Sanders, Tomek Strzalkowski, Mei Si, Albert Chang, Deepanshu Dey, Jonas Braasch, Dakuo Wang</em></td></tr>
@@ -323,12 +325,13 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span></div>
+<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span><span class="session-location">Regency A & B</span></div>
 <div class="session session-plenary session-expandable session-papers-best">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">Plenary Best Paper Session + Land Acknowledgment</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span>
+<span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span>
 <div class="paper-session-details"><table class="paper-table">
 <tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
 <tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
@@ -514,9 +517,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span></div>
-<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span></div>
+<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers</div>
 <div class="session session-expandable session-papers" id="session-4a">
@@ -599,6 +602,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4F: In-person Poster Session 3 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="887"><td><span class="poster-title">SkillSpan: Hard and Soft Skill Extraction from English Job Postings. </span><em>Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank</em></td></tr>
@@ -641,7 +645,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Lunch + Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Lunch</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-plenary"><span class="session-title">Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span><span class="session-location">Columbia A</span></div>
 <div class="session-box" id="session-box-5">
 <div class="session-header" id="session-header-5">Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session</div>
 <div class="session session-expandable session-papers" id="session-5a">
@@ -740,6 +745,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5G: SRW In-person Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr id="poster" poster-id="13-srw"><td><span class="poster-title">[SRW] Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention. </span><em>Ayush K Chakravarthy, Jacob Labe Russin, Randall O'Reilly</em></td></tr>
 <tr id="poster" poster-id="15-srw"><td><span class="poster-title">[SRW] Grounding in social media: An approach to building a chit-chat dialogue model. </span><em>Ritvik Choudhary, Daisuke Kawahara</em></td></tr>
@@ -769,7 +775,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span></div>
+<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-6">
 <div class="session-header" id="session-header-6">Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2</div>
 <div class="session session-expandable session-papers" id="session-6a">
@@ -866,6 +872,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6G: Industry/Demo In-person Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Industry Track Posters</span></td></tr>
 <tr id="poster" poster-id="5-industry"><td><span class="poster-title">Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems. </span><em>Mohammad Kachuee, Jinseok Nam, Sarthak Ahuja, Jin-Myung Won, SUNGJIN LEE</em></td></tr>
@@ -1181,7 +1188,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span></div>
+<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-8">
 <div class="session-header" id="session-header-8">Oral Session 8 + Virtual Poster Q&A Session 4</div>
 <div class="session session-expandable session-papers" id="session-8a">
@@ -1340,7 +1347,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span></div>
+<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-9">
 <div class="session-header" id="session-header-9">Oral Session 9 + Findings In-person Poster Session 1</div>
 <div class="session session-expandable session-papers" id="session-9a">
@@ -1421,6 +1428,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9F: Findings In-person Poster Session 1 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="188"><td><span class="poster-title">[Findings] Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity. </span><em>Valentin Hofmann, Xiaowen Dong, Janet B. Pierrehumbert, Hinrich Schuetze</em></td></tr>
@@ -1568,6 +1576,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10F: Findings In-person Poster Session 2 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
 <tr id="poster" poster-id="121-special"><td><span class="poster-title">[Findings] One Size Does Not Fit All: The Case for Personalised Word Complexity Models. </span><em>Sian Gooding, Manuel Tragut</em></td></tr>
@@ -1628,9 +1637,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span></div>
-<div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span></div>
+<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
 <div class="day" id="day-5">Thursday, July 14, 2022</div>
 <div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 18:00</span></div>

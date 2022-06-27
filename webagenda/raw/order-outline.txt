@@ -10,11 +10,11 @@
 
 ! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
 
-! 8:45--9:15 Welcome Session
+! 8:45--9:15 Welcome Session ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a>
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 10:15--10:45 Break
+! 10:15--10:45 Break ## %room Regency A & B
 
 + 10:45--12:15 Oral Session 1 + In-person Poster Session 1
 
@@ -28,14 +28,14 @@
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Efficient Methods in NLP 1"}
 = Session 1E: Dialogue
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
-= Session 1F: In-person Poster Session 1
+= Session 1F: In-person Poster Session 1 ## %room Regency A & B
 {"Session Name": "Poster session 1", "_group_by": "Track"}
 
 ! 12:15--13:15 Lunch
 
-! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a>
+! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 14:15--14:30 Break
+! 14:15--14:30 Break ## %room Regency A & B
 
 + 14:30--16:00 Oral Session 2 + In-person Poster Session 2
 
@@ -49,12 +49,12 @@
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Machine Translation 1"}
 = Session 2E: NLP Applications 1
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
-= Session 2F: In-person Poster Session 2
+= Session 2F: In-person Poster Session 2 ## %room Regency A & B
 {"Session Name": "Poster session 2", "_group_by": "Track"}
 
-! 16:00--16:30 Break
+! 16:00--16:30 Break ## %room Regency A & B
 
-= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment
+= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 {"Day": "Day 1", "Session Name": "Best paper"}
 
 * Tuesday, July 12, 2022
@@ -78,11 +78,11 @@
 = Session 3G: Virtual Poster Q&A Session 1
 {"Session Name": "Virtual Poster Q&A Session 1", "_group_by": "Track"}
 
-! 9:00--9:15 Break
+! 9:00--9:15 Break ## %room Regency A & B
 
-! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a>
+! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 10:15--10:45 Break
+! 10:15--10:45 Break ## %room Regency A & B
 
 + 10:45--12:15 Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers
 
@@ -96,10 +96,12 @@
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Language Grounding to Vision 1"}
 = Session 4E: Dialogue and Interactive Systems 1
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
-= Session 4F: In-person Poster Session 3
+= Session 4F: In-person Poster Session 3 ## %room Regency A & B
 {"Session Name": "Poster session 3", "_group_by": "Track"}
 
-! 12:15--14:15 Lunch + Business Meeting
+! 12:15--14:15 Lunch
+
+! 12:15--14:15 Business Meeting ## %room Columbia A
 
 + 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session
 
@@ -115,10 +117,10 @@
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
 = Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
-= Session 5G: SRW In-person Poster Session
+= Session 5G: SRW In-person Poster Session ## %room Regency A & B
 {"Session Name": "SRW Poster Session"}
 
-! 15:45--16:15 Break
+! 15:45--16:15 Break ## %room Regency A & B
 
 + 16:15--17:45 Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2
 
@@ -134,7 +136,7 @@
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
 = Session 6F: SRW Thesis Proposals Session
 {"Day": "Day 2", "Session Name": "SRW Thesis Proposals"}
-= Session 6G: Industry/Demo In-person Poster Session
+= Session 6G: Industry/Demo In-person Poster Session ## %room Regency A & B
 @ Industry Track Posters
 {"Session Name": "Industry Poster"}
 @ Demo Track Posters
@@ -165,7 +167,7 @@
 = Session 7G: Virtual Poster Q&A Session 3
 {"Session Name": "Virtual Poster Q&A Session 3", "_group_by": "Track"}
 
-! 9:00--9:15 Break
+! 9:00--9:15 Break ## %room Regency A & B
 
 + 9:15--10:15 Oral Session 8 + Virtual Poster Q&A Session 4
 
@@ -184,7 +186,7 @@
 = Session 8G: Virtual Poster Q&A Session 4
 {"Session Name": "Virtual Poster Q&A Session 4", "_group_by": "Track"}
 
-! 10:15--10:45 Break
+! 10:15--10:45 Break ## %room Regency A & B
 
 + 10:45--12:15 Oral Session 9 + Findings In-person Poster Session 1
 
@@ -198,7 +200,7 @@
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Resources & Evaluation 3"}
 = Session 9E: NLP Applications 4
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "NLP Applications 4"}
-= Session 9F: Findings In-person Poster Session 1
+= Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B
 {"Session Name": "Findings poster session 1", "_group_by": "Track"}
 
 ! 12:15--14:15 Lunch
@@ -215,14 +217,14 @@
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Machine Learning 4"}
 = Session 10E: Question Answering 2
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Question Answering 2"}
-= Session 10F: Findings In-person Poster Session 2
+= Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
 {"Session Name": "Findings poster session 2", "_group_by": "Track"}
 
-! 15:45--16:15 Break
+! 15:45--16:15 Break ## %room Regency A & B
 
-! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a>
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 17:15--17:45 Closing Session
+! 17:15--17:45 Closing Session ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
 * Thursday, July 14, 2022
 

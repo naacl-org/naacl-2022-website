@@ -10,11 +10,11 @@
 
 ! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
 
-! 8:45--9:15 Welcome Session
+! 8:45--9:15 Welcome Session ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a>
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 10:15--10:45 Break
+! 10:15--10:45 Break ## %room Regency A & B
 
 + 10:45--12:15 Oral Session 1 + In-person Poster Session 1
 
@@ -53,7 +53,7 @@
 687
 3537-tacl
 364
-= Session 1F: In-person Poster Session 1
+= Session 1F: In-person Poster Session 1 ## %room Regency A & B
 @ Computational Social Science and Cultural Analytics
 42
 852
@@ -104,9 +104,9 @@
 
 ! 12:15--13:15 Lunch
 
-! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a>
+! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 14:15--14:30 Break
+! 14:15--14:30 Break ## %room Regency A & B
 
 + 14:30--16:00 Oral Session 2 + In-person Poster Session 2
 
@@ -145,7 +145,7 @@
 394
 647
 779
-= Session 2F: In-person Poster Session 2
+= Session 2F: In-person Poster Session 2 ## %room Regency A & B
 @ Dialogue and Interactive Systems
 235
 428
@@ -194,9 +194,9 @@
 246
 1-cl
 
-! 16:00--16:30 Break
+! 16:00--16:30 Break ## %room Regency A & B
 
-= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment
+= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 70-special ## %award Award
 90-special ## %award Award
 142 ## %award Award
@@ -324,11 +324,11 @@
 747
 879 ## %type Findings
 
-! 9:00--9:15 Break
+! 9:00--9:15 Break ## %room Regency A & B
 
-! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a>
+! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 10:15--10:45 Break
+! 10:15--10:45 Break ## %room Regency A & B
 
 + 10:45--12:15 Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers
 
@@ -367,7 +367,7 @@
 638
 639
 249
-= Session 4F: In-person Poster Session 3
+= Session 4F: In-person Poster Session 3 ## %room Regency A & B
 @ Language Resources and Evaluation
 887
 660
@@ -406,7 +406,9 @@
 @ Speech
 693
 
-! 12:15--14:15 Lunch + Business Meeting
+! 12:15--14:15 Lunch
+
+! 12:15--14:15 Business Meeting ## %room Columbia A
 
 + 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session
 
@@ -452,7 +454,7 @@
 91-industry
 119-industry
 32-industry
-= Session 5G: SRW In-person Poster Session
+= Session 5G: SRW In-person Poster Session ## %room Regency A & B
 13-srw
 15-srw
 17-srw
@@ -478,7 +480,7 @@
 97-srw
 98-srw
 
-! 15:45--16:15 Break
+! 15:45--16:15 Break ## %room Regency A & B
 
 + 16:15--17:45 Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2
 
@@ -523,7 +525,7 @@
 25-srw
 30-srw
 78-srw
-= Session 6G: Industry/Demo In-person Poster Session
+= Session 6G: Industry/Demo In-person Poster Session ## %room Regency A & B
 @ Industry Track Posters
 5-industry
 17-industry
@@ -774,7 +776,7 @@
 203 ## %type Findings
 313 ## %type Findings
 
-! 9:00--9:15 Break
+! 9:00--9:15 Break ## %room Regency A & B
 
 + 9:15--10:15 Oral Session 8 + Virtual Poster Q&A Session 4
 
@@ -878,7 +880,7 @@
 564 ## %type Findings
 909 ## %type Findings
 
-! 10:15--10:45 Break
+! 10:15--10:45 Break ## %room Regency A & B
 
 + 10:45--12:15 Oral Session 9 + Findings In-person Poster Session 1
 
@@ -915,7 +917,7 @@
 928
 510
 155
-= Session 9F: Findings In-person Poster Session 1
+= Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B
 @ Computational Social Science and Cultural Analytics
 188 ## %type Findings
 633 ## %type Findings
@@ -1015,7 +1017,7 @@
 451
 454
 3639-tacl
-= Session 10F: Findings In-person Poster Session 2
+= Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
 @ Human-Centered NLP
 121-special ## %type Findings
 83-special ## %type Findings
@@ -1072,11 +1074,11 @@
 508 ## %type Findings
 651 ## %type Findings
 
-! 15:45--16:15 Break
+! 15:45--16:15 Break ## %room Regency A & B
 
-! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a>
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
-! 17:15--17:45 Closing Session
+! 17:15--17:45 Closing Session ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
 
 * Thursday, July 14, 2022
 

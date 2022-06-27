@@ -49,7 +49,7 @@ please carefully consider the following if you are attending in person:
 
 * If you start to feel ill or test positive during the conference, please leave the venue immediately, and do not come to the venue anymore.
 
-* We will also have a point of contact (TBD) that people can report positive cases to and consult with.
+[comment]: <> (* We will also have a point of contact that people can report positive cases to and consult with.)
 
 [comment]: <> (* Regular handwashing is strongly encouraged and there are also hand sanitising stations around the venue.)
 

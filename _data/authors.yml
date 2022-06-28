@@ -29,3 +29,8 @@ tutorial-chairs:
   name        : "Tutorial Chairs"
   bio         : "Miguel Ballesteros, Yulia Tsvetkov, Cecilia O. Alm"
   avatar      : "assets/images/logos/acl-logo-square.png"
+
+industry-track-chairs:
+  name        : "Industry Track Chairs"
+  bio         : "Anastassia Loukina, Bonan Min, Rashmi Gangadharaiah"
+  avatar      : "assets/images/logos/acl-logo-square.png"

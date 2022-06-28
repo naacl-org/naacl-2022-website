@@ -27,6 +27,7 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 
 ## News
 
+| Jun 28, 2022 | [Blogpost](/blog/industry_track_welcome/): Welcome to NAACL 2022 Industry Track!
 | Jun 25, 2022 | Updated [tutorial](/program/tutorials/) locations
 | Jun 21, 2022 | [Blogpost](/blog/welcome-to-tutorials/): Welcome to the Tutorials Sessions of NAACL 2022!
 | Jun 16, 2022 | The [main conference schedule](/program/schedule/) is now complete. The [Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/) blogpost is updated.

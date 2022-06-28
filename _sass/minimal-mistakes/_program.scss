@@ -107,13 +107,8 @@ div.day {
 }
 
 div#introParagraph {
-    font-size: $type-size-6;
+    font-size: $type-size-5-half;
     padding: 1.5em;
-
-    @include breakpoint($medium) {
-        font-size: $type-size-5-half;
-    }
-
     i.fa-award {
         color: #ee5f5b;
     }
@@ -121,19 +116,13 @@ div#introParagraph {
 
 div#popupInstructionsDiv {
     display: none;
-    font-size: $type-size-6;
+    font-size: $type-size-5-half;
     text-align: left;
     padding: 0 2em;
     ul {
         padding-left: 15px;
         padding-top: 0px;
         padding-bottom: 0px;
-    }
-    @include breakpoint($medium) {
-        font-size: $type-size-5-half;
-        ul {
-            padding-left: 20px;
-        }
     }
 }
 
@@ -209,14 +198,14 @@ div.session {
     }
 
     .session-title {
-        font-size: $type-size-5-half;
+        font-size: $type-size-5;
         color: $text-color;
         text-decoration: none;
     }
 
     .session-time {
         display: block;
-        font-size: $type-size-6;
+        font-size: $type-size-5-half;
         font-style: italic;
     }
 
@@ -279,7 +268,7 @@ div.session {
 
     .session-location, .session-external-location {
         display: block;
-        font-size: $type-size-6;
+        font-size: $type-size-5-half;
         font-style: italic;
     }
 

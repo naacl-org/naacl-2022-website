@@ -31,8 +31,8 @@ Here is the schedule for the tutorial sessions on Sunday July 10 (Pacific Daylig
  
 The extra Q&A sessions are scheduled for these 45-minute or 30-minute time slots on Sunday July 10 (Pacific Daylight Time): 
 
-* T1, T2, and T3: 8:00--8:45 and 12:30--13:00
-* T4, T5, and T6: 13:30--14:00 and 18:00--18:45
+| T1, T2, T3 | 8:00--8:45 and 12:30--13:00
+| T4, T5, T6 | 13:30--14:00 and 18:00--18:45
 
 Tutorial locations (for both the main tutorials and extra Q&A sessions) are listed below:
 
@@ -42,6 +42,7 @@ Tutorial locations (for both the main tutorials and extra Q&A sessions) are list
 | T4 | Columbia D
 | T5 | Columbia C
 | T6 | Columbia A
+| Coffee breaks | Level 3 pre-function
 
 We are grateful to the tutorial instructors for all their efforts. They have gone above and beyond to deliver their tutorials in a hybrid mode at the conference. 
 

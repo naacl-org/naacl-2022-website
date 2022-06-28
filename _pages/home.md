@@ -17,7 +17,7 @@ secondary_excerpt: "July 10--15, 2022"
 **[Registration](/registration/) is now open.** The late registration deadline is June 26, 2022, 09:00 Eastern Time.
 {: .text-center .notice--warning}
 
-The [main conference schedule](/program/schedule/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
+The [conference schedule](/program/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
 {: .text-center .notice--success}
 
 [Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)<br>

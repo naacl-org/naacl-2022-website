@@ -4,7 +4,7 @@
 
 ! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a>
 
-! 18:00--20:00 Welcome Reception
+! 18:00--20:00 Welcome Reception ## %room Level 5 Foyer
 
 * Monday, July 11, 2022
 

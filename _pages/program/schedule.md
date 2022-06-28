@@ -18,7 +18,7 @@ The overall schedule structure is final, but the assignment of papers to session
 to accommodate the final mode of presentation (virtual or in-person) chosen by the authors.
 
 **Regarding Virtual Poster Q&A Sessions:**
-To foster discussion, virtual poster Q&A sessions will be organized in small Zoom rooms that bring together posters on similar themes.
+To foster discussion, virtual poster Q&A sessions will be organized into groups that bring together posters on similar themes.
 
 All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 **Icons:** <i class="fa fa-user"></i> = Session Chair; <i class="fa fa-award"></i> = Paper Award.

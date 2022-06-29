@@ -16,7 +16,7 @@ div.best-paper-box {
   border-radius: .5em;
   margin: 1em auto;
   padding: 1em;
-  background: #cadee42a;
+  background: #cadee41a;
 }
 p.best-paper-title {
   font-weight: bold;

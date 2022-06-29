@@ -11,6 +11,9 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Jun 16, 2022 | The [main conference schedule](/program/schedule/) is now complete. The [Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/) blogpost is updated.
+| Jun 16, 2022 | The schedule for the [tutorials](/program/tutorials/) (July 10) and extra Q&A sessions for tutorials has been finalized.
+| Jun 9, 2022 | [Blogpost](/blog/information-for-attendees-and-presenters/): Program Information for Attendees and Presenters
 | Jun 6, 2022 | The early [registration](/registration/) deadline has been extended to June 10, 2022.
 | May 19, 2022 | [Blogpost](/blog/caregivers/): Caring for the Caregivers at NAACL 2022 (childcare subsidy request deadline: May 24)
 | May 17, 2022 | Updated the [Registration](/registration/) page.

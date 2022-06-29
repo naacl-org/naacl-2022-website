@@ -14,7 +14,7 @@ secondary_excerpt: "July 10--15, 2022"
 .notice--warning del { color: #888; }
 </style>
 
-**[Registration](/registration/) is now open.** The late registration deadline is June 26, 2022, 09:00 Eastern Time.
+**[Registration](/registration/) is now open.** On-site registration begins June 26, 2022.<br><span style="font-size:85%">It is suggested to complete and pay for registration before arriving at the registration desk. Bring a copy of your registration confirmation to pick up your badge.</span>
 {: .text-center .notice--warning}
 
 The [conference schedule](/program/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
@@ -29,11 +29,7 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 
 | Jun 29, 2022 | [Blogpost](/blog/review-process/): Main Conference Review Process
 | Jun 28, 2022 | [Blogpost](/blog/industry_track_welcome/): Welcome to NAACL 2022 Industry Track!
-| Jun 25, 2022 | Updated [tutorial](/program/tutorials/) locations
 | Jun 21, 2022 | [Blogpost](/blog/welcome-to-tutorials/): Welcome to the Tutorials Sessions of NAACL 2022!
-| Jun 16, 2022 | The [main conference schedule](/program/schedule/) is now complete. The [Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/) blogpost is updated.
-| Jun 16, 2022 | The schedule for the [tutorials](/program/tutorials/) (July 10) and extra Q&A sessions for tutorials has been finalized.
-| Jun 9, 2022 | [Blogpost](/blog/information-for-attendees-and-presenters/): Program Information for Attendees and Presenters
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->
@@ -46,7 +42,6 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 .dates-table del { color: #888; }
 </style>
 
-| Early [registration](/registration/) deadline | Saturday | ~~June 4~~ **June 10**, 2022 (23:59 ET) |
 | Late [registration](/registration/) deadline | Sunday | June 26, 2022 (09:00 ET) |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}

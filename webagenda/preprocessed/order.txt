@@ -4,7 +4,7 @@
 
 ! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a>
 
-! 18:00--20:00 Welcome Reception ## %room Level 5 Foyer
+! 18:00--20:00 <a href="/venue/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer
 
 * Monday, July 11, 2022
 
@@ -655,7 +655,7 @@
 480
 983
 
-! 19:00--22:00 Social Event ## %room Museum of Pop Culture (MoPOP)
+! 19:00--22:00 <a href="/venue/#social-event">Social Event</a> ## %room Museum of Pop Culture (MoPOP)
 
 * Wednesday, July 13, 2022
 

@@ -12,7 +12,8 @@ sidebar:
 | July 11--13 | [**Main Conference**](/program/schedule/) (Main Conference Papers, Industry Track, System Demonstrations, Student Research Workshop) |
 | July 14--15 | [**Workshops**](/program/workshops/) |
 
-\
+See information about meals [here](/venue/#meals).
+
 Some of the hotel rooms are dedicated to certain functions for the entire time of the conference:
 
 - Quiet Room (703 Hoko)

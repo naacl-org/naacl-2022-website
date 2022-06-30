@@ -585,7 +585,7 @@ class Session(object):
         # if the string starts with '!', it's either a plenary session
         # or a break session
         if starting_char == '!':
-            session_type = 'break' if re.search(r'break|lunch|coffee', title.lower()) else 'plenary'
+            session_type = 'break' if re.search(r'registration|break|lunch|coffee', title.lower()) else 'plenary'
             id_ = ''
         # if the starting character is '=', it's a presentation
         # session with actual presentation items (paper/poster/tutorial)

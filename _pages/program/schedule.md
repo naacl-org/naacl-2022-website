@@ -44,21 +44,25 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </p>
 <div class="schedule">
 <div class="day" id="day-1">Sunday, July 10, 2022</div>
-<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
+<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span><span class="session-location">Columbia A & C & D</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/affinity/">Affinity Group Workshops</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/venue/#welcome-reception">Welcome Reception</a></span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer</span></div>
 <div class="day" id="day-2">Monday, July 11, 2022</div>
-<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Registration</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-1">
-<div class="session-header" id="session-header-1">Oral Session 1 + In-person Poster Session 1</div>
+<div class="session-header" id="session-header-1">Session 1</div>
 <div class="session session-expandable session-papers" id="session-1a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">1A: Language Generation</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="665"><td id="paper-time"></td><td><span class="paper-title">Learning to Transfer Prompts for Text Generation. </span><em>Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao</em></td></tr>
 <tr id="paper" paper-id="131"><td id="paper-time"></td><td><span class="paper-title">Long-term Control for Dialogue Generation: Methods and Evaluation. </span><em>Ramya Ramakrishnan, Hashan Buddhika Narangodage, Mauro Schilman, Kilian Q Weinberger, Ryan McDonald</em></td></tr>
@@ -74,6 +78,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1B: Summarization</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="486"><td id="paper-time"></td><td><span class="paper-title">AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization. </span><em>Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona T. Diab</em></td></tr>
 <tr id="paper" paper-id="494"><td id="paper-time"></td><td><span class="paper-title">QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization. </span><em>Alexander Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong</em></td></tr>
@@ -89,6 +94,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1C: Information Extraction</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="893"><td id="paper-time"></td><td><span class="paper-title">An Enhanced Span-based Decomposition Method for  Few-Shot Sequence Labeling. </span><em>Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui</em></td></tr>
 <tr id="paper" paper-id="905"><td id="paper-time"></td><td><span class="paper-title">Modeling Multi-Granularity Hierarchical Features for Relation Extraction. </span><em>Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li</em></td></tr>
@@ -104,6 +110,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1D: Efficient Methods in NLP 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="424"><td id="paper-time"></td><td><span class="paper-title">KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation. </span><em>Marzieh S. Tahaei, Ella Charlaix, Vahid Partovi Nia, Ali Ghodsi, Mehdi Rezagholizadeh</em></td></tr>
 <tr id="paper" paper-id="117"><td id="paper-time"></td><td><span class="paper-title">Meta Learning for Natural Language Processing: A Survey. </span><em>Hung-yi Lee, Shang-Wen Li, Thang Vu</em></td></tr>
@@ -119,6 +126,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1E: Dialogue</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="627"><td id="paper-time"></td><td><span class="paper-title">LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking. </span><em>Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He</em></td></tr>
 <tr id="paper" paper-id="618"><td id="paper-time"></td><td><span class="paper-title">Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting. </span><em>Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang</em></td></tr>
@@ -187,16 +195,17 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
-<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
+<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-2">
-<div class="session-header" id="session-header-2">Oral Session 2 + In-person Poster Session 2</div>
+<div class="session-header" id="session-header-2">Session 2</div>
 <div class="session session-expandable session-papers" id="session-2a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">2A: Interpretability</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="666"><td id="paper-time"></td><td><span class="paper-title">ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models. </span><em>Junyi Li, Tianyi Tang, Zheng Gong, Lixin Yang, Zhuohao Yu, Zhipeng Chen, Jingyuan Wang, Xin Zhao, Ji-Rong Wen</em></td></tr>
 <tr id="paper" paper-id="951"><td id="paper-time"></td><td><span class="paper-title">When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes. </span><em>Mycal Tucker, Tiwalayo Eisape, Peng Qian, Roger P. Levy, Julie Shah</em></td></tr>
@@ -212,6 +221,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2B: Semantics</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="831"><td id="paper-time"></td><td><span class="paper-title">Testing the Ability of Language Models to Interpret Figurative Language. </span><em>Emmy Liu, Chenxuan Cui, Kenneth Zheng, Graham Neubig</em></td></tr>
 <tr id="paper" paper-id="827"><td id="paper-time"></td><td><span class="paper-title">Compositional Task-Oriented Parsing as Abstractive Question Answering. </span><em>Wenting Zhao, Konstantine Arkoudas, Weiqi Sun, Claire Cardie</em></td></tr>
@@ -227,6 +237,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2C: Language Resources & Evaluation 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="670"><td id="paper-time"></td><td><span class="paper-title">Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand. </span><em>Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Daniel Morrison, Alexander Fabbri, Yejin Choi, Noah Smith</em></td></tr>
 <tr id="paper" paper-id="954"><td id="paper-time"></td><td><span class="paper-title">CORWA: A Citation-Oriented Related Work Annotation Dataset. </span><em>Xiangci Li, Biswadip Mandal, Jessica Ouyang</em></td></tr>
@@ -242,6 +253,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2D: Machine Translation 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="945"><td id="paper-time"></td><td><span class="paper-title">Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance. </span><em>Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan, Bernhard Schölkopf</em></td></tr>
 <tr id="paper" paper-id="450"><td id="paper-time"></td><td><span class="paper-title">On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation. </span><em>Kelly Marchisio, Markus Freitag, David Grangier</em></td></tr>
@@ -257,6 +269,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2E: NLP Applications 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="193"><td id="paper-time"></td><td><span class="paper-title">ScAN: Suicide Attempt and Ideation Events Dataset. </span><em>Bhanu Pratap Singh Rawat, Samuel Kovaly, Hong Yu, Wilfred Pigeon</em></td></tr>
 <tr id="paper" paper-id="883"><td id="paper-time"></td><td><span class="paper-title">DUCK: Rumour Detection on Social Media by Modelling User and  Comment Propagation Networks. </span><em>LIN TIAN, Xiuzhen Zhang, Jey Han Lau</em></td></tr>
@@ -325,13 +338,13 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span><span class="session-location">Regency A & B</span></div>
 <div class="session session-plenary session-expandable session-papers-best">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">Plenary Best Paper Session + Land Acknowledgment</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span>
-<span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span>
+<span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span>
 <div class="paper-session-details"><table class="paper-table">
 <tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em></td></tr>
 <tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em></td></tr>
@@ -340,14 +353,16 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="day" id="day-3">Tuesday, July 12, 2022</div>
-<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Registration</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Breakfast</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session-box" id="session-box-3">
-<div class="session-header" id="session-header-3">Oral Session 3 + Industry Oral Session 1 + Virtual Poster Q&A Session 1</div>
+<div class="session-header" id="session-header-3">Session 3</div>
 <div class="session session-expandable session-papers" id="session-3a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">3A: Language Generation</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="566"><td id="paper-time"></td><td><span class="paper-title">Low Resource Style Transfer via Domain Adaptive Meta Learning. </span><em>Xiangyang Li, Xiang Long, Yu Xia, Sujian Li</em></td></tr>
 <tr id="paper" paper-id="416"><td id="paper-time"></td><td><span class="paper-title">Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation. </span><em>Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu</em></td></tr>
@@ -361,6 +376,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3B: Semantics & Sentiment Analysis</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="3655-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Fact Checking with Insufficient Evidence. </span><em>Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein</em></td></tr>
 <tr id="paper" paper-id="892"><td id="paper-time"></td><td><span class="paper-title">A Double-Graph Based Framework for Frame Semantic Parsing. </span><em>Ce Zheng, Xudong Chen, Runxin Xu, Baobao Chang</em></td></tr>
@@ -374,6 +390,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3C: Language Resources & Evaluation 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="589"><td id="paper-time"></td><td><span class="paper-title">MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. </span><em>Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang</em></td></tr>
 <tr id="paper" paper-id="901"><td id="paper-time"></td><td><span class="paper-title">A Corpus for Understanding and Generating Moral Stories. </span><em>Jian Guan, Ziqi Liu, Minlie Huang</em></td></tr>
@@ -387,6 +404,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3D: Efficient Methods in NLP 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="1006"><td id="paper-time"></td><td><span class="paper-title">Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training. </span><em>Yuanxin Liu, Fandong Meng, Zheng Lin, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</em></td></tr>
 <tr id="paper" paper-id="746"><td id="paper-time"></td><td><span class="paper-title">Knowledge Inheritance for Pre-trained Language Models. </span><em>Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, Yusheng Su, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou</em></td></tr>
@@ -400,6 +418,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3E: NLP Applications 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="636"><td id="paper-time"></td><td><span class="paper-title">CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking. </span><em>Xuming Hu, Zhijiang Guo, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu</em></td></tr>
 <tr id="paper" paper-id="565"><td id="paper-time"></td><td><span class="paper-title">Progressive Class Semantic Matching for Semi-supervised Text Classification. </span><em>Haiming Xu, Lingqiao Liu, Ehsan M Abbasnejad</em></td></tr>
@@ -413,6 +432,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3F: Industry Oral Session 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kasturi Bhattacharjee</span></td></tr>
 <tr id="paper" paper-id="9-industry"><td id="paper-time"></td><td><span class="paper-title">CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning. </span><em>Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng</em></td></tr>
@@ -427,6 +447,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3G: Virtual Poster Q&A Session 1 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">702 - Clearwater</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Dialogue and Interactive Systems</span></td></tr>
 <tr id="poster" poster-id="84-srw"><td><span class="poster-title">[SRW] Explicit Use of Topicality in Dialogue Response Generation. </span><em>Takumi Yoshikoshi, Hayato Atarashi, Takashi Kodama, Sadao Kurohashi</em></td></tr>
@@ -517,16 +538,17 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-4">
-<div class="session-header" id="session-header-4">Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers</div>
+<div class="session-header" id="session-header-4">Session 4</div>
 <div class="session session-expandable session-papers" id="session-4a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">4A: Interpretability and Analysis of Models for NLP 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="841"><td id="paper-time"></td><td><span class="paper-title">Measure and Improve Robustness in NLP Models: A Survey. </span><em>Xuezhi Wang, Haohan Wang, Diyi Yang</em></td></tr>
 <tr id="paper" paper-id="840"><td id="paper-time"></td><td><span class="paper-title">Using Paraphrases to Study Properties of Contextual Embeddings. </span><em>Laura Burdick, Jonathan K Kummerfeld, Rada Mihalcea</em></td></tr>
@@ -542,6 +564,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4B: Summarization</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="591"><td id="paper-time"></td><td><span class="paper-title">NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias. </span><em>Nayeon Lee, Yejin Bang, Tiezheng YU, Andrea Madotto, Pascale Fung</em></td></tr>
 <tr id="paper" paper-id="776"><td id="paper-time"></td><td><span class="paper-title">Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization. </span><em>Jingyi You, Dongyuan Li, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura</em></td></tr>
@@ -557,6 +580,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4C: Information Retrieval</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="40"><td id="paper-time"></td><td><span class="paper-title">CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data. </span><em>Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang</em></td></tr>
 <tr id="paper" paper-id="465"><td id="paper-time"></td><td><span class="paper-title">GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval. </span><em>Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych</em></td></tr>
@@ -572,6 +596,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4D: Language Grounding to Vision 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="174"><td id="paper-time"></td><td><span class="paper-title">KAT: A Knowledge Augmented Transformer for Vision-and-Language. </span><em>Liangke Gui, Borui Wang, Qiuyuan Huang, Alexander G Hauptmann, Yonatan Bisk, Jianfeng Gao</em></td></tr>
 <tr id="paper" paper-id="527"><td id="paper-time"></td><td><span class="paper-title">Do Trajectories Encode Verb Meaning?. </span><em>Dylan Ebert, Chen Sun, Ellie Pavlick</em></td></tr>
@@ -587,6 +612,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4E: Dialogue and Interactive Systems 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="456"><td id="paper-time"></td><td><span class="paper-title">Learning to Express in Knowledge-Grounded Conversation. </span><em>Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan</em></td></tr>
 <tr id="paper" paper-id="926"><td id="paper-time"></td><td><span class="paper-title">Partner Personas Generation for Dialogue Response Generation. </span><em>Hongyuan Lu, Wai Lam, Hong Cheng, Helen M. Meng</em></td></tr>
@@ -645,15 +671,17 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Lunch</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-plenary"><span class="session-title">SRW Panel Discussion for Starting Researchers <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span><span class="session-location">Quinault</span></div>
+<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Lunch</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session session-plenary"><span class="session-title">Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span><span class="session-location">Columbia A</span></div>
 <div class="session-box" id="session-box-5">
-<div class="session-header" id="session-header-5">Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session</div>
+<div class="session-header" id="session-header-5">Session 5</div>
 <div class="session session-expandable session-papers" id="session-5a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">5A: Ethics, Bias, Fairness 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="867"><td id="paper-time"></td><td><span class="paper-title">What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review. </span><em>Terne Sasha Thorn Jakobsen, Anna Rogers</em></td></tr>
 <tr id="paper" paper-id="245"><td id="paper-time"></td><td><span class="paper-title">Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models. </span><em>Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, Linda Zou</em></td></tr>
@@ -669,6 +697,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5B: Sentiment Analysis & Stylistic Analysis</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="28"><td id="paper-time"></td><td><span class="paper-title">Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia. </span><em>Samee Omotayo Ibraheem, Gaoyue Zhou, John DeNero</em></td></tr>
 <tr id="paper" paper-id="981"><td id="paper-time"></td><td><span class="paper-title">CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation. </span><em>Joosung Lee, Wooin Lee</em></td></tr>
@@ -684,6 +713,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5C: Information Extraction 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="379"><td id="paper-time"></td><td><span class="paper-title">DEGREE: A Data-Efficient Generation-Based Event Extraction Model. </span><em>I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng</em></td></tr>
 <tr id="paper" paper-id="3721-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Text-based NP Enrichment. </span><em>Yanai Elazar, Victoria Basmov, Yoav Goldberg</em></td></tr>
@@ -699,6 +729,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5D: Human-Centered NLP 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="86-special"><td id="paper-time"></td><td><span class="paper-title">Mapping the Design Space of Human-AI Interaction in Text Summarization. </span><em>Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
 <tr id="paper" paper-id="53-special"><td id="paper-time"></td><td><span class="paper-title">Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications. </span><em>Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu</em></td></tr>
@@ -714,6 +745,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5E: NLP Applications 3</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="964"><td id="paper-time"></td><td><span class="paper-title">Cryptocurrency Bubble Detection: A New Stock Market Dataset, Financial Task & Hyperbolic Models. </span><em>Ramit Sawhney, Shivam Agarwal, Vivek Mittal, Paolo Rosso, Vikram Nanda, Sudheer Chava</em></td></tr>
 <tr id="paper" paper-id="277"><td id="paper-time"></td><td><span class="paper-title">Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays. </span><em>Rahul Kumar, Sandeep Mathias, Sriparna Saha, Pushpak Bhattacharyya</em></td></tr>
@@ -729,6 +761,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5F: Industry Oral Session 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sandesh Swamy</span></td></tr>
 <tr id="paper" paper-id="33-industry"><td id="paper-time"></td><td><span class="paper-title">Self-supervised Product Title Rewrite for Product Listing Ads. </span><em>Xue Zhao, Dayiheng Liu, Junwei Ding, Liang Yao, Mahone Yan, Huibo wang, Wenqing Yao</em></td></tr>
@@ -775,14 +808,15 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-6">
-<div class="session-header" id="session-header-6">Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2</div>
+<div class="session-header" id="session-header-6">Session 6</div>
 <div class="session session-expandable session-papers" id="session-6a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">6A: Language Grounding to Vision 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="391"><td id="paper-time"></td><td><span class="paper-title">All You May Need for VQA are Image Captions. </span><em>Soravit Changpinyo, Doron Kukliansy, Idan Szpektor, Xi Chen, Nan Ding, Radu Soricut</em></td></tr>
 <tr id="paper" paper-id="825"><td id="paper-time"></td><td><span class="paper-title">Imagination-Augmented Natural Language Understanding. </span><em>Yujie Lu, Wanrong Zhu, Xin Eric Wang, Miguel Eckstein, William Yang Wang</em></td></tr>
@@ -798,6 +832,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6B: Syntax: Tagging, Chunking and Parsing</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="0-cl"><td id="paper-time"></td><td><span class="paper-title">[CL] Tractable Parsing for CCGs of Bounded Degree. </span><em>Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta</em></td></tr>
 <tr id="paper" paper-id="990"><td id="paper-time"></td><td><span class="paper-title">Template-free Prompt Tuning for Few-shot NER. </span><em>Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang</em></td></tr>
@@ -813,6 +848,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6C: Multilinguality</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="878"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank. </span><em>Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky</em></td></tr>
 <tr id="paper" paper-id="676"><td id="paper-time"></td><td><span class="paper-title">When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer. </span><em>Ameet Deshpande, Partha Talukdar, Karthik R Narasimhan</em></td></tr>
@@ -828,6 +864,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6D: Machine Learning for NLP 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="966"><td id="paper-time"></td><td><span class="paper-title">DEMix Layers: Disentangling Domains for Modular Language Modeling. </span><em>Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah Smith, Luke Zettlemoyer</em></td></tr>
 <tr id="paper" paper-id="796"><td id="paper-time"></td><td><span class="paper-title">Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers. </span><em>Vivek Kumar, Rishabh Maheshwary, Vikram Pudi</em></td></tr>
@@ -843,6 +880,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6E: Question Answering 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="947"><td id="paper-time"></td><td><span class="paper-title">QuALITY: Question Answering with Long Input Texts, Yes!. </span><em>Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny L Ma, Jana Thompson, He He, Samuel R. Bowman</em></td></tr>
 <tr id="paper" paper-id="91"><td id="paper-time"></td><td><span class="paper-title">On the Robustness of Reading Comprehension Models to Entity Renaming. </span><em>Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren</em></td></tr>
@@ -858,6 +896,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6F: SRW Thesis Proposals Session</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6f-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="23-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Methods for Estimating and Improving Robustness of Language Models. </span><em>Michal Stefanik</em></td></tr>
 <tr id="paper" paper-id="24-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Retrieval-augmented Generation across Heterogeneous Knowledge. </span><em>Wenhao Yu</em></td></tr>
@@ -928,6 +967,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6H: Virtual Poster Q&A Session 2 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-location">702 - Clearwater</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="900"><td><span class="poster-title">[Findings] Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning. </span><em>Hongzhan Lin, Jing Ma, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen</em></td></tr>
@@ -1016,14 +1056,16 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-plenary"><span class="session-title"><a href="/venue/#social-event">Social Event</a></span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location">Museum of Pop Culture (MoPOP)</span></div>
 <div class="day" id="day-4">Wednesday, July 13, 2022</div>
-<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Registration</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session-box" id="session-box-7">
-<div class="session-header" id="session-header-7">Oral Session 7 + Virtual Poster Q&A Session 3</div>
+<div class="session-header" id="session-header-7">Session 7</div>
 <div class="session session-expandable session-papers" id="session-7a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">7A: Interpretability and Analysis of Models for NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="177"><td id="paper-time"></td><td><span class="paper-title">When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it. </span><em>Sebastian Schuster, Tal Linzen</em></td></tr>
 <tr id="paper" paper-id="577"><td id="paper-time"></td><td><span class="paper-title">Analyzing Encoded Concepts in Transformer Language Models. </span><em>Hassan Sajjad, Nadir Durrani, Fahim Dalvi, Firoj Alam, Abdul Rafae Khan, Jia Xu</em></td></tr>
@@ -1037,6 +1079,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7B: Summarization</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="719"><td id="paper-time"></td><td><span class="paper-title">From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization. </span><em>Yue Fang, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou</em></td></tr>
 <tr id="paper" paper-id="873"><td id="paper-time"></td><td><span class="paper-title">Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization. </span><em>Lulu Zhao, Fujia Zheng, Weihao Zeng, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu</em></td></tr>
@@ -1050,6 +1093,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7C: Information Extraction 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="771"><td id="paper-time"></td><td><span class="paper-title">Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting. </span><em>Linzhi Wu, Pengjun Xie, Jie Zhou, Meishan Zhang, Ma Chunping, Guangwei Xu, Min Zhang</em></td></tr>
 <tr id="paper" paper-id="700"><td id="paper-time"></td><td><span class="paper-title">GMN: Generative Multi-modal Network for Practical Document Information Extraction. </span><em>Haoyu Cao, Jiefeng Ma, Antai Guo, Yiqing Hu, Hao Liu, Deqiang Jiang, Yinsong Liu, Bo Ren</em></td></tr>
@@ -1063,6 +1107,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7D: Machine Translation 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="999"><td id="paper-time"></td><td><span class="paper-title">Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. </span><em>Chun Zeng, Jiangjie Chen, Tianyi Zhuang, Rui Xu, Hao Yang, Qin Ying, shimin tao, Yanghua Xiao</em></td></tr>
 <tr id="paper" paper-id="965"><td id="paper-time"></td><td><span class="paper-title">Nearest Neighbor Knowledge Distillation for Neural Machine Translation. </span><em>Zhixian Yang, Renliang Sun, Xiaojun Wan</em></td></tr>
@@ -1076,6 +1121,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7E: Dialogue and Interactive Systems 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="1001"><td id="paper-time"></td><td><span class="paper-title">Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation. </span><em>Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen</em></td></tr>
 <tr id="paper" paper-id="80"><td id="paper-time"></td><td><span class="paper-title">Diversifying Neural Dialogue Generation via Negative Distillation. </span><em>Yiwei Li, Shaoxiong Feng, Bin Sun, Kan Li</em></td></tr>
@@ -1089,6 +1135,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7F: Machine Learning for NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7f-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="993"><td id="paper-time"></td><td><span class="paper-title">LaMemo: Language Modeling with Look-Ahead Memory. </span><em>Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang</em></td></tr>
 <tr id="paper" paper-id="3765-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity. </span><em>Yiding Hao, Dana Angluin, Robert Evan Frank</em></td></tr>
@@ -1102,6 +1149,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7G: Virtual Poster Q&A Session 3 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
+<span class="session-location">702 - Clearwater</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="22-srw"><td><span class="poster-title">[SRW] Again, Dozens of Refugees Drowned: A Computational Study of Political Framing Evoked by Presuppositions. </span><em>Qi Yu</em></td></tr>
@@ -1188,14 +1236,15 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-8">
-<div class="session-header" id="session-header-8">Oral Session 8 + Virtual Poster Q&A Session 4</div>
+<div class="session-header" id="session-header-8">Session 8</div>
 <div class="session session-expandable session-papers" id="session-8a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">8A: Interpretability and Analysis of Models for NLP 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="994"><td id="paper-time"></td><td><span class="paper-title">Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs. </span><em>Ghazi Felhi, Joseph Le Roux, Djamé Seddah</em></td></tr>
 <tr id="paper" paper-id="1035"><td id="paper-time"></td><td><span class="paper-title">Time Waits for No One! Analysis and Challenges of Temporal Misalignment. </span><em>Kelvin Luu, Daniel Khashabi, Suchin Gururangan, Karishma Mandyam, Noah Smith</em></td></tr>
@@ -1209,6 +1258,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8B: Computational Social Science and Cultural Analytics</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="882"><td id="paper-time"></td><td><span class="paper-title">Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy. </span><em>Allison Lahnala, Charles Welch, Béla Neuendorf, Lucie Flek</em></td></tr>
 <tr id="paper" paper-id="255"><td id="paper-time"></td><td><span class="paper-title">Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate. </span><em>Hannah Rose Kirk, Bertie Vidgen, Paul Rottger, Tristan Thrush, Scott A. Hale</em></td></tr>
@@ -1222,6 +1272,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8C: Machine Learning & Human-Centered NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="3601-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. </span><em>Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor</em></td></tr>
 <tr id="paper" paper-id="3593-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Heterogeneous Supervised Topic Models. </span><em>Dhanya Sridhar, Hal Daumé III, David Meir Blei</em></td></tr>
@@ -1235,6 +1286,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8D: Machine Translation 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="835"><td id="paper-time"></td><td><span class="paper-title">SURF: Semantic-level Unsupervised Reward Function for Machine Translation. </span><em>Atijit Anuchitanukul, Julia Ive</em></td></tr>
 <tr id="paper" paper-id="870"><td id="paper-time"></td><td><span class="paper-title">Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information. </span><em>Niccolò Campolungo, Tommaso Pasini, Denis Emelin, Roberto Navigli</em></td></tr>
@@ -1248,6 +1300,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8E: Dialogue and Interactive Systems 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="97"><td id="paper-time"></td><td><span class="paper-title">Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization. </span><em>Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Y.S. Lam</em></td></tr>
 <tr id="paper" paper-id="1010"><td id="paper-time"></td><td><span class="paper-title">You Don’t Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers’ Private Personas. </span><em>Haoran Li, Yangqiu Song, Lixin Fan</em></td></tr>
@@ -1261,6 +1314,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8F: Machine Learning for NLP 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8f-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="679"><td id="paper-time"></td><td><span class="paper-title">Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts. </span><em>Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Sameer Singh, Yejin Choi</em></td></tr>
 <tr id="paper" paper-id="517"><td id="paper-time"></td><td><span class="paper-title">MetaICL: Learning to Learn In Context. </span><em>Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi</em></td></tr>
@@ -1274,6 +1328,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8G: Virtual Poster Q&A Session 4 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
+<span class="session-location">702 - Clearwater</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Discourse and Pragmatics</span></td></tr>
 <tr id="poster" poster-id="562"><td><span class="poster-title">Incorporating Centering Theory into Neural Coreference Resolution. </span><em>Haixia Chai, Michael Strube</em></td></tr>
@@ -1347,14 +1402,15 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
 <div class="session-box" id="session-box-9">
-<div class="session-header" id="session-header-9">Oral Session 9 + Findings In-person Poster Session 1</div>
+<div class="session-header" id="session-header-9">Session 9</div>
 <div class="session session-expandable session-papers" id="session-9a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">9A: Language Generation</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="686"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">FRUIT: Faithfully Reflecting Updated Information in Text. </span><em>Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang</em></td></tr>
 <tr id="paper" paper-id="634"><td id="paper-time"></td><td><span class="paper-title">Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. </span><em>Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang</em></td></tr>
@@ -1369,6 +1425,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9B: Speech & Phonology, Morphology</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="158"><td id="paper-time"></td><td><span class="paper-title">Textless Speech-to-Speech Translation on Real Data. </span><em>Ann Lee, Hongyu Gong, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Yossi Adi, Juan Pino, Jiatao Gu, Wei-Ning Hsu</em></td></tr>
 <tr id="paper" paper-id="772"><td id="paper-time"></td><td><span class="paper-title">Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages. </span><em>Ramy Eskander, Cass Lowry, Sujay Khandagale, Judith Lynn Klavans, Maria Polinsky, Smaranda Muresan</em></td></tr>
@@ -1383,6 +1440,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9C: Information Extraction 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="535"><td id="paper-time"></td><td><span class="paper-title">Improving Entity Disambiguation by Reasoning over a Knowledge Base. </span><em>Tom Ayoola, Joseph Fisher, Andrea Pierleoni</em></td></tr>
 <tr id="paper" paper-id="184"><td id="paper-time"></td><td><span class="paper-title">DocTime: A Document-level Temporal Dependency Graph Parser. </span><em>Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova, Dinesh Manocha, Rajiv Jain</em></td></tr>
@@ -1398,6 +1456,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9D: Language Resources & Evaluation 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="699"><td id="paper-time"></td><td><span class="paper-title">Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants. </span><em>Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela</em></td></tr>
 <tr id="paper" paper-id="371"><td id="paper-time"></td><td><span class="paper-title">MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting. </span><em>Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo</em></td></tr>
@@ -1413,6 +1472,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9E: NLP Applications 4</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="594"><td id="paper-time"></td><td><span class="paper-title">Efficient Constituency Tree based Encoding for Natural Language to Bash Translation. </span><em>Shikhar Bharadwaj, Shirish Shevade</em></td></tr>
 <tr id="paper" paper-id="398"><td id="paper-time"></td><td><span class="paper-title">Multi-Relational Graph Transformer for Automatic Short Answer Grading. </span><em>Rajat Agarwal, Varun Khurana, Karish Grover, Mukesh Mohania, Vikram Goyal</em></td></tr>
@@ -1493,14 +1553,15 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-break session-plenary" id="session-break-19"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session-box" id="session-box-10">
-<div class="session-header" id="session-header-10">Oral Session 10 + Findings In-person Poster Session 2</div>
+<div class="session-header" id="session-header-10">Session 10</div>
 <div class="session session-expandable session-papers" id="session-10a">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">10A: Ethics, Bias, Fairness 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10a-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="524"><td id="paper-time"></td><td><span class="paper-title">Selective Differential Privacy for Language Modeling. </span><em>Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu</em></td></tr>
 <tr id="paper" paper-id="511"><td id="paper-time"></td><td><span class="paper-title">Federated Learning with Noisy User Feedback. </span><em>Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, Rahul Gupta</em></td></tr>
@@ -1516,6 +1577,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10B: Semantics</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10b-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="515"><td id="paper-time"></td><td><span class="paper-title">Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization. </span><em>Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych</em></td></tr>
 <tr id="paper" paper-id="950"><td id="paper-time"></td><td><span class="paper-title">Maximum Bayes Smatch Ensemble Distillation for AMR Parsing. </span><em>Young-Suk Lee, Ramon Fernandez Astudillo, Hoang Thanh Lam, Tahira Naseem, Radu Florian, Salim Roukos</em></td></tr>
@@ -1531,6 +1593,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10C: Linguistic Theories, Cognitive Modeling, Discourse</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10c-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="875"><td id="paper-time"></td><td><span class="paper-title">Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. </span><em>Ruixiang Cui, Daniel Hershcovich, Anders Søgaard</em></td></tr>
 <tr id="paper" paper-id="826"><td id="paper-time"></td><td><span class="paper-title">What company do words keep? Revisiting the distributional semantics of J.R. Firth & Zellig Harris. </span><em>Mikael Brunila, Jack LaViolette</em></td></tr>
@@ -1546,6 +1609,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10D: Machine Learning 4</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10d-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="496"><td id="paper-time"></td><td><span class="paper-title">A Structured Span Selector. </span><em>Tianyu Liu, Yuchen Eleanor Jiang, Ryan Cotterell, Mrinmaya Sachan</em></td></tr>
 <tr id="paper" paper-id="846"><td id="paper-time"></td><td><span class="paper-title">Entity Linking via Explicit Mention-Mention Coreference Modeling. </span><em>Dhruv Agarwal, Rico Angell, Nicholas Monath, Andrew McCallum</em></td></tr>
@@ -1561,6 +1625,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10E: Question Answering 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
+<span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10e-deselector">Remove All</a><table class="paper-table">
 <tr id="paper" paper-id="506"><td id="paper-time"></td><td><span class="paper-title">Learning to Retrieve Passages without Supervision. </span><em>Ori Ram, Gal Shachaf, Omer Levy, Jonathan Berant, Amir Globerson</em></td></tr>
 <tr id="paper" paper-id="553"><td id="paper-time"></td><td><span class="paper-title">Interpretable Proof Generation via Iterative Backward Reasoning. </span><em>Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu</em></td></tr>
@@ -1637,15 +1702,17 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C/D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-break session-plenary" id="session-break-20"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
 <div class="day" id="day-5">Thursday, July 14, 2022</div>
-<div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 18:00</span></div>
+<div class="session session-break session-plenary" id="session-break-21"><span class="session-title">Registration</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-22"><span class="session-title">Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 17:30</span></div>
 <div class="day" id="day-6">Friday, July 15, 2022</div>
-<div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Registration and Breakfast</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 Foyer & Level 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Friday, July 15, 2022">9:00 &ndash; 18:00</span></div>
+<div class="session session-break session-plenary" id="session-break-23"><span class="session-title">Registration</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-24"><span class="session-title">Breakfast</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Friday, July 15, 2022">9:00 &ndash; 17:30</span></div>
 <div id="generatePDFForm">
 <div id="formContainer">
 <p><input type="checkbox" id="includePlenaryCheckBox" value="second_checkbox"/>&nbsp;&nbsp;<label id="checkBoxLabel" for="includePlenaryCheckBox">Include plenary sessions in schedule</label></p>

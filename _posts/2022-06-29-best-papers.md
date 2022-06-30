@@ -10,30 +10,6 @@ categories:
 toc: false
 ---
 
-<style>
-div.best-paper-box {
-  border: 1px solid #bbccdd88;
-  border-radius: .5em;
-  margin: 1em auto;
-  padding: 1em;
-  background: #cadee41a;
-}
-p.best-paper-title {
-  font-weight: bold;
-  margin-bottom: 0;
-  font-size: 120%;
-}
-p.best-paper-authors {
-}
-p.best-paper-category {
-  font-weight: bold;
-  font-style: italic;
-}
-p.best-paper-comment {
-  margin-bottom: 0;
-}
-</style>
-
 We are pleased to announce that the following papers will receive best paper and honorable mention awards at NAACL! 
 
 The Best Paper committee was composed of Thamar Solorio (Chair), Isabelle Augenstein, Gemma Bel Enguix, Alona Fyshe, Shafiq Joty and Emily Prud'hommeaux. We are thankful to them for carefully reading all the candidates nominated by the Senior Area Chairs, and selecting exciting papers that capture a broad range of contributions to the field.
@@ -102,3 +78,28 @@ We also recognize the following outstanding papers with an honorable mention (li
   category="Honorable mention for contributions to resources"
   comment="The paper proposes a dataset consisting of English and French language newspapers with their revision histories covering a span of 15 years. They study to what degree article updates are predictable, and show that this task has relevance in practice. Prior research has focused on article updates on Wikipedia, where changes are often small grammar corrections, whereas they show that news article updates mostly contain semantically new information. In addition to this new benchmark, a detailed analysis of the results and an additional human evaluation is offered. This new resource can boost research on automatically revising articles."
 %}
+
+<style>
+div.best-paper-box {
+  border: 1px solid #bbccdd88;
+  border-radius: .5em;
+  margin: 1em auto;
+  padding: 1em;
+  background: #cadee41a;
+}
+p.best-paper-title {
+  font-weight: bold;
+  margin-bottom: 0;
+  font-size: 120%;
+}
+p.best-paper-authors {
+}
+p.best-paper-category {
+  font-weight: bold;
+  font-style: italic;
+}
+p.best-paper-comment {
+  margin-bottom: 0;
+}
+</style>
+

@@ -1,239 +1,255 @@
 * Sunday, July 10, 2022
 
-! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer
 
-! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a>
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+
+! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D
+
+! 9:00--17:30 <a href="/program/affinity/">Affinity Group Workshops</a>
 
 ! 18:00--20:00 <a href="/venue/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer
 
 * Monday, July 11, 2022
 
-! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer
 
-! 8:45--9:15 Welcome Session ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
 
-! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+! 8:45--9:15 Welcome Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-+ 10:45--12:15 Oral Session 1 + In-person Poster Session 1
++ 10:45--12:15 Session 1
 
-= Session 1A: Language Generation
+= Session 1A: Language Generation ## %room Columbia A
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Language Generation"}
-= Session 1B: Summarization
+= Session 1B: Summarization ## %room Columbia C
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Summarization"}
-= Session 1C: Information Extraction
+= Session 1C: Information Extraction ## %room Columbia D
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Information Extraction"}
-= Session 1D: Efficient Methods in NLP 1
+= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Efficient Methods in NLP 1"}
-= Session 1E: Dialogue
+= Session 1E: Dialogue ## %room Elwha B
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
 = Session 1F: In-person Poster Session 1 ## %room Regency A & B
 {"Session Name": "Poster session 1", "_group_by": "Track"}
 
 ! 12:15--13:15 Lunch
 
-! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 
 ! 14:15--14:30 Break ## %room Regency A & B
 
-+ 14:30--16:00 Oral Session 2 + In-person Poster Session 2
++ 14:30--16:00 Session 2
 
-= Session 2A: Interpretability
+= Session 2A: Interpretability ## %room Columbia A
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Interpretability"}
-= Session 2B: Semantics
+= Session 2B: Semantics ## %room Columbia C
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Semantics"}
-= Session 2C: Language Resources & Evaluation 1
+= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Language Resources & Evaluation 1"}
-= Session 2D: Machine Translation 1
+= Session 2D: Machine Translation 1 ## %room Elwha A
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Machine Translation 1"}
-= Session 2E: NLP Applications 1
+= Session 2E: NLP Applications 1 ## %room Elwha B
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
 = Session 2F: In-person Poster Session 2 ## %room Regency A & B
 {"Session Name": "Poster session 2", "_group_by": "Track"}
 
 ! 16:00--16:30 Break ## %room Regency A & B
 
-= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 {"Day": "Day 1", "Session Name": "Best paper"}
 
 * Tuesday, July 12, 2022
 
-! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer
 
-+ 8:00--9:00 Oral Session 3 + Industry Oral Session 1 + Virtual Poster Q&A Session 1
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
 
-= Session 3A: Language Generation
++ 8:00--9:00 Session 3
+
+= Session 3A: Language Generation ## %room Columbia A
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Generation"}
-= Session 3B: Semantics & Sentiment Analysis
+= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Semantics & Sentiment Analysis"}
-= Session 3C: Language Resources & Evaluation 2
+= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Resources & Evaluation 2"}
-= Session 3D: Efficient Methods in NLP 2
+= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Efficient Methods in NLP 2"}
-= Session 3E: NLP Applications 2
+= Session 3E: NLP Applications 2 ## %room Elwha B
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "NLP Applications 2"}
-= Session 3F: Industry Oral Session 1 ## %chair1 Kasturi Bhattacharjee
+= Session 3F: Industry Oral Session 1 ## %room Quinault %chair1 Kasturi Bhattacharjee
 {"Session Name": "Industry Oral 1"}
-= Session 3G: Virtual Poster Q&A Session 1
+= Session 3G: Virtual Poster Q&A Session 1 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 1", "_group_by": "Track"}
 
 ! 9:00--9:15 Break ## %room Regency A & B
 
-! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-+ 10:45--12:15 Oral Session 4 + In-person Poster Session 3 + SRW Panel Discussion for Starting Researchers
++ 10:45--12:15 Session 4
 
-= Session 4A: Interpretability and Analysis of Models for NLP 1
+= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Interpretability and Analysis of Models for NLP 1"}
-= Session 4B: Summarization
+= Session 4B: Summarization ## %room Columbia C
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Summarization"}
-= Session 4C: Information Retrieval
+= Session 4C: Information Retrieval ## %room Columbia D
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Information Retrieval"}
-= Session 4D: Language Grounding to Vision 1
+= Session 4D: Language Grounding to Vision 1 ## %room Elwha A
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Language Grounding to Vision 1"}
-= Session 4E: Dialogue and Interactive Systems 1
+= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
 = Session 4F: In-person Poster Session 3 ## %room Regency A & B
 {"Session Name": "Poster session 3", "_group_by": "Track"}
+
+! 10:45--12:15 SRW Panel Discussion for Starting Researchers <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault
 
 ! 12:15--14:15 Lunch
 
 ! 12:15--14:15 Business Meeting ## %room Columbia A
 
-+ 14:15--15:45 Oral Session 5 + Industry Oral Session 2 + SRW In-person Poster Session
++ 14:15--15:45 Session 5
 
-= Session 5A: Ethics, Bias, Fairness 1
+= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 1"}
-= Session 5B: Sentiment Analysis & Stylistic Analysis
+= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Sentiment Analysis & Stylistic Analysis"}
-= Session 5C: Information Extraction 1
+= Session 5C: Information Extraction 1 ## %room Columbia D
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Information Extraction 1"}
-= Session 5D: Human-Centered NLP 1
+= Session 5D: Human-Centered NLP 1 ## %room Elwha A
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Human-Centered NLP 1"}
-= Session 5E: NLP Applications 3
+= Session 5E: NLP Applications 3 ## %room Elwha B
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
-= Session 5F: Industry Oral Session 2 ## %chair1 Sandesh Swamy
+= Session 5F: Industry Oral Session 2 ## %room Quinault %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
 = Session 5G: SRW In-person Poster Session ## %room Regency A & B
 {"Session Name": "SRW Poster Session"}
 
 ! 15:45--16:15 Break ## %room Regency A & B
 
-+ 16:15--17:45 Oral Session 6 + SRW Thesis Proposals Session + Industry/Demo In-person Poster Session + Virtual Poster Q&A Session 2
++ 16:15--17:45 Session 6
 
-= Session 6A: Language Grounding to Vision 2
+= Session 6A: Language Grounding to Vision 2 ## %room Columbia A 
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Language Grounding to Vision 2"}
-= Session 6B: Syntax: Tagging, Chunking and Parsing
+= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Syntax: Tagging, Chunking and Parsing"}
-= Session 6C: Multilinguality
+= Session 6C: Multilinguality ## %room Columbia D
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Multilinguality"}
-= Session 6D: Machine Learning for NLP 1
+= Session 6D: Machine Learning for NLP 1 ## %room Elwha A
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Machine Learning for NLP 1"}
-= Session 6E: Question Answering 1
+= Session 6E: Question Answering 1 ## %room Elwha B
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
-= Session 6F: SRW Thesis Proposals Session
+= Session 6F: SRW Thesis Proposals Session ## %room Quinault
 {"Day": "Day 2", "Session Name": "SRW Thesis Proposals"}
 = Session 6G: Industry/Demo In-person Poster Session ## %room Regency A & B
 @ Industry Track Posters
 {"Session Name": "Industry Poster"}
 @ Demo Track Posters
 {"Session Name": "Demo Poster"}
-= Session 6H: Virtual Poster Q&A Session 2
+= Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 2", "_group_by": "Track"}
 
 ! 19:00--22:00 <a href="/venue/#social-event">Social Event</a> ## %room Museum of Pop Culture (MoPOP)
 
 * Wednesday, July 13, 2022
 
-! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer
 
-+ 8:00--9:00 Oral Session 7 + Virtual Poster Q&A Session 3
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
 
-= Session 7A: Interpretability and Analysis of Models for NLP 2
++ 8:00--9:00 Session 7
+
+= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Interpretability and Analysis of Models for NLP 2"}
-= Session 7B: Summarization
+= Session 7B: Summarization ## %room Columbia C
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Summarization"}
-= Session 7C: Information Extraction 2
+= Session 7C: Information Extraction 2 ## %room Columbia D
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Information Extraction 2"}
-= Session 7D: Machine Translation 2
+= Session 7D: Machine Translation 2 ## %room Elwha A
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Translation 2"}
-= Session 7E: Dialogue and Interactive Systems 2
+= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Dialogue and Interactive Systems 2"}
-= Session 7F: Machine Learning for NLP 2
+= Session 7F: Machine Learning for NLP 2 ## %room Quinault
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Learning for NLP 2"}
-= Session 7G: Virtual Poster Q&A Session 3
+= Session 7G: Virtual Poster Q&A Session 3 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 3", "_group_by": "Track"}
 
 ! 9:00--9:15 Break ## %room Regency A & B
 
-+ 9:15--10:15 Oral Session 8 + Virtual Poster Q&A Session 4
++ 9:15--10:15 Session 8
 
-= Session 8A: Interpretability and Analysis of Models for NLP 3
+= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Interpretability and Analysis of Models for NLP 3"}
-= Session 8B: Computational Social Science and Cultural Analytics
+= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Computational Social Science and Cultural Analytics"}
-= Session 8C: Machine Learning & Human-Centered NLP 2
+= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning & Human-Centered NLP 2"}
-= Session 8D: Machine Translation 3
+= Session 8D: Machine Translation 3 ## %room Elwha A
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Translation 3"}
-= Session 8E: Dialogue and Interactive Systems 3
+= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Dialogue and Interactive Systems 3"}
-= Session 8F: Machine Learning for NLP 3
+= Session 8F: Machine Learning for NLP 3 ## %room Quinault
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
-= Session 8G: Virtual Poster Q&A Session 4
+= Session 8G: Virtual Poster Q&A Session 4 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 4", "_group_by": "Track"}
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-+ 10:45--12:15 Oral Session 9 + Findings In-person Poster Session 1
++ 10:45--12:15 Session 9
 
-= Session 9A: Language Generation
+= Session 9A: Language Generation ## %room Columbia A
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Generation"}
-= Session 9B: Speech & Phonology, Morphology
+= Session 9B: Speech & Phonology, Morphology ## %room Columbia C
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Speech & Phonology, Morphology"}
-= Session 9C: Information Extraction 3
+= Session 9C: Information Extraction 3 ## %room Columbia D
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Information Extraction 3"}
-= Session 9D: Language Resources & Evaluation 3
+= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Resources & Evaluation 3"}
-= Session 9E: NLP Applications 4
+= Session 9E: NLP Applications 4 ## %room Elwha B
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "NLP Applications 4"}
 = Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B
 {"Session Name": "Findings poster session 1", "_group_by": "Track"}
 
 ! 12:15--14:15 Lunch
 
-+ 14:15--15:45 Oral Session 10 + Findings In-person Poster Session 2
++ 14:15--15:45 Session 10
 
-= Session 10A: Ethics, Bias, Fairness 2
+= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 2"}
-= Session 10B: Semantics
+= Session 10B: Semantics ## %room Columbia C
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Semantics"}
-= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Linguistic Theories, Cognitive Modeling, Discourse"}
-= Session 10D: Machine Learning 4
+= Session 10D: Machine Learning 4 ## %room Elwha A
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Machine Learning 4"}
-= Session 10E: Question Answering 2
+= Session 10E: Question Answering 2 ## %room Elwha B
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Question Answering 2"}
 = Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
 {"Session Name": "Findings poster session 2", "_group_by": "Track"}
 
 ! 15:45--16:15 Break ## %room Regency A & B
 
-! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 
-! 17:15--17:45 Closing Session ## %room Columbia C/D (Overflow: Columbia A & 302 Beckler)
+! 17:15--17:45 Closing Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 
 * Thursday, July 14, 2022
 
-! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer
 
-! 9:00--18:00 <a href="/program/workshops/">Workshops</a>
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+
+! 9:00--17:30 <a href="/program/workshops/">Workshops</a>
 
 * Friday, July 15, 2022
 
-! 7:30--9:00 Registration and Breakfast ## %room Level 3 Foyer & Level 5 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer
 
-! 9:00--18:00 <a href="/program/workshops/">Workshops</a>
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+
+! 9:00--17:30 <a href="/program/workshops/">Workshops</a>

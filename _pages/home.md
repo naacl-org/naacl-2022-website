@@ -9,11 +9,6 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
-<style>
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
-.notice--warning del { color: #888; }
-</style>
-
 **[Registration](/registration/) is now open.** On-site registration begins June 26, 2022.<br><span style="font-size:85%">It is suggested to complete and pay for registration before arriving at the registration desk. Bring a copy of your registration confirmation to pick up your badge.</span>
 {: .text-center .notice--warning}
 
@@ -26,6 +21,11 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 {: .text-center .notice--info}
 
 ## News
+
+<style>
+.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+.notice--warning del { color: #888; }
+</style>
 
 | Jun 29, 2022 | [Blogpost](/blog/best-papers/): Announcing the NAACL 2022 Best Paper Awards!
 | Jun 29, 2022 | [Blogpost](/blog/review-process/): Main Conference Review Process

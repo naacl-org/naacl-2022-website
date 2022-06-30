@@ -82,7 +82,6 @@
 438
 395
 113
-899
 820
 437
 302
@@ -284,6 +283,9 @@
 856 ## %type Findings
 872 ## %type Findings
 904 ## %type Findings
+623 ## %type Findings
+628 ## %type Findings
+642 ## %type Findings
 @ Information Retrieval and Text Mining
 298
 780
@@ -297,6 +299,7 @@
 716
 899
 357 ## %type Findings
+763 ## %type Findings
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 168
 @ Machine Learning for NLP: Classification and Structured Prediction Models
@@ -322,6 +325,7 @@
 374 ## %type Findings
 477 ## %type Findings
 635 ## %type Findings
+385 ## %type Findings
 @ Machine Translation
 37-srw
 4
@@ -652,6 +656,7 @@
 839
 857
 802 ## %type Findings
+885 ## %type Findings
 @ Sentiment Analysis and Stylistic Analysis
 49
 492
@@ -721,6 +726,7 @@
 876
 296 ## %type Findings
 432 ## %type Findings
+105 ## %type Findings
 @ Ethics, Bias, and Fairness
 54-srw
 60-srw
@@ -734,6 +740,7 @@
 238
 598 ## %type Findings
 916 ## %type Findings
+837 ## %type Findings
 @ Language Grounding to Vision, Robotics and Beyond
 821
 539 ## %type Findings
@@ -891,6 +898,7 @@
 467 ## %type Findings
 564 ## %type Findings
 909 ## %type Findings
+813 ## %type Findings
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
@@ -939,6 +947,7 @@
 717 ## %type Findings
 819 ## %type Findings
 906 ## %type Findings
+32 ## %type Findings
 @ Discourse and Pragmatics
 787 ## %type Findings
 @ Efficient Methods in NLP
@@ -1031,10 +1040,13 @@
 3639-tacl
 = Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
 @ Human-Centered NLP
+82-special ## %type Findings
 121-special ## %type Findings
 83-special ## %type Findings
 97-special ## %type Findings
 @ Information Extraction
+581 ## %type Findings
+31 ## %type Findings
 125 ## %type Findings
 208 ## %type Findings
 252 ## %type Findings
@@ -1055,6 +1067,7 @@
 328 ## %type Findings
 444 ## %type Findings
 @ Language Resources and Evaluation
+77 ## %type Findings
 234 ## %type Findings
 19 ## %type Findings
 314 ## %type Findings
@@ -1065,6 +1078,7 @@
 @ Machine Translation
 209 ## %type Findings
 476 ## %type Findings
+441 ## %type Findings
 @ NLP Applications
 119 ## %type Findings
 122 ## %type Findings

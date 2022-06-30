@@ -10,7 +10,7 @@ categories:
 toc: false
 ---
 
-We are pleased to announce that the following papers will receive best paper and honorable mention awards at NAACL! 
+We are pleased to announce that the following papers will receive best paper and outstanding paper awards at NAACL!
 
 The Best Paper committee was composed of Thamar Solorio (Chair), Isabelle Augenstein, Gemma Bel Enguix, Alona Fyshe, Shafiq Joty and Emily Prud'hommeaux. We are thankful to them for carefully reading all the candidates nominated by the Senior Area Chairs, and selecting exciting papers that capture a broad range of contributions to the field.
 
@@ -30,14 +30,12 @@ We recognize the following papers with best papers awards (listed alphabetically
   comment="Since their introduction, transformers have been the basis of multiple advances in language modeling, owing in part to their learned attention weights.  However, transformers also come with an increased number of parameters and can take more compute power to train.  This paper replaces the self-attention layers in the transformer architecture with an unparameterized Fourier transform that mixes the input tokens.  These models train 80% faster on GPUs and 70% faster on TPUs than the comparable transformer models, while closely matching accuracy across many tasks.  This innovation also allows for longer input sequences, enabling future work on long range context effects.  The committee commends this team on their contributions to the efficiency of large language models."
 %}
 
-
 {% include best-paper-box
   title="FRUIT: Faithfully Reflecting Updated Information in Text"
   authors="Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang"
   category="Best new task paper (tied)"
   comment="This paper provides the community with an interesting and relevant new NLP challenge: that of updating information from a knowledge base given new evidence. As time passes a lot of the information statically stored becomes obsolete and in need of updating. An approach to automatically update dated information then is indeed welcomed in many real world applications. The paper presents the task, with a good motivation discussing the different challenges that are entailed by the new task, and that involve contrasting textual evidence to decide which pieces are outdated, as well as language generation to produce the new text. In addition to releasing the dataset created in the paper, to facilitate more research in this direction, the authors release their source code to allow others to recreate new datasets using the same set up as in this paper."
 %}
-
 
 {% include best-paper-box
   title="NeuroLogic A&#42;esque Decoding: Constrained Text Generation with Lookahead Heuristics"
@@ -46,7 +44,6 @@ We recognize the following papers with best papers awards (listed alphabetically
   comment="Language generation is, in its simplest form, a search problem in very high dimensional space.  This paper makes that connection clear by incorporating the classic search algorithm A&#42; into the language generation process.  A&#42; allows for a heuristic search that incorporates “lookahead” signals of future performance into token selection.  The authors perform a very thorough evaluation of their model across many tasks including question generation, machine translation, and story generation. They show large performance improvements over the typical beam search approach, and over their original NeuroLogic algorithm. This paper is an inspiring mixture of old and new."
 %}
 
-
 {% include best-paper-box
   title="User-Driven Research of Medical Note Generation Software"
   authors="Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov"
@@ -54,7 +51,7 @@ We recognize the following papers with best papers awards (listed alphabetically
   comment="This paper is a great example of user-centered design of an NLP system. Authors performed different user studies that covered the entire software lifecycle and this helped the research team to form a more robust understanding of system requirements but also the stakeholders. Moreover, the authors did not stop at the deployment step, but followed users after deploying the system for some time. The insights gathered through each user study prove critical for the design, development and deployment of an NLP system that is likely to result in increased adoption rates precisely because it pursued an empathic involvement of the intended users. The paper can be helpful for NLP researchers and practitioners that intend to deploy NLP systems."
 %}
 
-We also recognize the following outstanding papers with an honorable mention (listed alphabetically by title):
+We also recognize the following papers as outstanding papers (listed alphabetically by title):
 
 {% include best-paper-box
   title="Automatic Correction of Human Translations"
@@ -63,14 +60,12 @@ We also recognize the following outstanding papers with an honorable mention (li
   comment="(see above)"
 %}
 
-
 {% include best-paper-box
   title="Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank"
   authors="Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky"
   category="Honorable mention for contribution to methods"
   comment="This paper addresses an important but underexplored aspect of zero-shot cross-linguistic transfer learning, namely the degree to which the linguistic characteristics of pre-trained models impact downstream fine-tuning performance. The authors propose a novel framework for exploring this topic, along with several interesting metrics for characterizing the relationship between donor and recipient languages. One of the most provocative findings of this paper is that English, the language most commonly used to pretrain models, is often not the best choice. This result has the potential to dramatically shift the way NLP researchers approach tasks that involve cross-linguistic transfer learning."
 %}
-
 
 {% include best-paper-box
   title="NewsEdits: A Dataset of News Article Revision Histories and a Novel Document-Level Reasoning Challenge"

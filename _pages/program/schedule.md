@@ -166,7 +166,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="438"><td><span class="poster-title">Locally Aggregated Feature Attribution on Natural Language Model Understanding. </span><em>Sheng Zhang, Jin Wang, Haitao Jiang, Rui Song</em></td></tr>
 <tr id="poster" poster-id="395"><td><span class="poster-title">Simple Local Attentions Remain Competitive for Long-Context Tasks. </span><em>Wenhan Xiong, Barlas Oguz, Anchit Gupta, Xilun Chen, Diana Liskovich, Omer Levy, Scott Yih, Yashar Mehdad</em></td></tr>
 <tr id="poster" poster-id="113"><td><span class="poster-title">Reframing Human-AI Collaboration for Generating Free-Text Explanations. </span><em>Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi</em></td></tr>
-<tr id="poster" poster-id="899"><td><span class="poster-title">Models In a Spelling Bee: Language Models Implicitly Learn the Character Composition of Tokens. </span><em>Itay Itzhak, Omer Levy</em></td></tr>
 <tr id="poster" poster-id="820"><td><span class="poster-title">Informativeness and Invariance: Two Perspectives on Spurious Correlations in Natural Language. </span><em>Jacob Eisenstein</em></td></tr>
 <tr id="poster" poster-id="437"><td><span class="poster-title">On the Diversity and Limits of Human Explanations. </span><em>Chenhao Tan</em></td></tr>
 <tr id="poster" poster-id="302"><td><span class="poster-title">Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models. </span><em>Karolina Stanczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</em></td></tr>
@@ -487,6 +486,9 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="856"><td><span class="poster-title">[Findings] Learning Discriminative Representations for Open Relation Extraction with Instance Ranking and Label Calibration. </span><em>Shusen Wang, Bin Duan, Yanan Wu, Yajing Xu</em></td></tr>
 <tr id="poster" poster-id="872"><td><span class="poster-title">[Findings] RCL: Relation Contrastive Learning for Zero-Shot Relation Extraction. </span><em>Shusen Wang, Bosen Zhang, Yajing Xu, Yanan Wu, Bo Xiao</em></td></tr>
 <tr id="poster" poster-id="904"><td><span class="poster-title">[Findings] Zero-Shot Event Detection Based on Ordered Contrastive Learning and Prompt-Based Prediction. </span><em>Senhui Zhang, Tao Ji, Wendi Ji, Xiaoling Wang</em></td></tr>
+<tr id="poster" poster-id="623"><td><span class="poster-title">[Findings] Minimally-Supervised Relation Induction from Pre-trained Language Model. </span><em>Lu Sun, Yongliang Shen, Weiming Lu</em></td></tr>
+<tr id="poster" poster-id="628"><td><span class="poster-title">[Findings] Learn from Relation Information: Towards Prototype Representation Rectification for Few-Shot Relation Extraction. </span><em>Yang Liu, Jinpeng Hu, Xiang Wan, Tsung-Hui Chang</em></td></tr>
+<tr id="poster" poster-id="642"><td><span class="poster-title">[Findings] Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition. </span><em>Yingjie Gu, Xiaoye Qu, Zhefeng Wang, Yi ZHENG, Baoxing Huai, Nicholas Jing Yuan</em></td></tr>
 <tr><td><span class="poster-type">Information Retrieval and Text Mining</span></td></tr>
 <tr id="poster" poster-id="298"><td><span class="poster-title">SKILL: Structured Knowledge Infusion for Large Language Models. </span><em>Fedor Moiseev, Zhe Dong, Enrique Alfonseca, Martin Jaggi</em></td></tr>
 <tr id="poster" poster-id="780"><td><span class="poster-title">Collective Relevance Labeling for Passage Retrieval. </span><em>Jihyuk Kim, Minsoo Kim, seung-won hwang</em></td></tr>
@@ -500,6 +502,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="716"><td><span class="poster-title">Residue-Based Natural Language Adversarial Attack Detection. </span><em>Vyas Raina, Mark Gales</em></td></tr>
 <tr id="poster" poster-id="899"><td><span class="poster-title">Models In a Spelling Bee: Language Models Implicitly Learn the Character Composition of Tokens. </span><em>Itay Itzhak, Omer Levy</em></td></tr>
 <tr id="poster" poster-id="357"><td><span class="poster-title">[Findings] Phrase-level Textual Adversarial Attack with Label Preservation. </span><em>Yibin Lei, Yu Cao, Dianqi Li, Tianyi Zhou, Meng Fang, Mykola Pechenizkiy</em></td></tr>
+<tr id="poster" poster-id="763"><td><span class="poster-title">[Findings] Specializing Pre-trained Language Models for Better Relational Reasoning via Network Pruning. </span><em>Siyu Ren, Kenny Q. Zhu</em></td></tr>
 <tr><td><span class="poster-type">Linguistic Theories, Cognitive Modeling and Psycholinguistics</span></td></tr>
 <tr id="poster" poster-id="168"><td><span class="poster-title">Abstraction not Memory: BERT and the English Article System. </span><em>Harish Tayyar Madabushi, Dagmar Divjak, Petar Milin</em></td></tr>
 <tr><td><span class="poster-type">Machine Learning for NLP: Classification and Structured Prediction Models</span></td></tr>
@@ -525,6 +528,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="374"><td><span class="poster-title">[Findings] Speeding Up Entmax. </span><em>Maxat Tezekbayev, Vassilina Nikoulina, Matthias Gallé, Zhenisbek Assylbekov</em></td></tr>
 <tr id="poster" poster-id="477"><td><span class="poster-title">[Findings] MixQG: Neural Question Generation with Mixed Answer Types. </span><em>Lidiya Murakhovs'ka, Chien-Sheng Wu, Philippe Laban, Tong Niu, Wenhao Liu, Caiming Xiong</em></td></tr>
 <tr id="poster" poster-id="635"><td><span class="poster-title">[Findings] SeaD: End-to-end Text-to-SQL Generation with Schema-aware Denoising. </span><em>Kuan Xu, Yongbo Wang, Yongliang Wang, Zihao Wang, Zujie Wen, Yang Dong</em></td></tr>
+<tr id="poster" poster-id="385"><td><span class="poster-title">[Findings] DecBERT: Enhancing the Language Understanding of BERT with Causal Attention Masks. </span><em>Ziyang Luo, Yadong Xi, Jing Ma, Zhiwei Yang, Xiaoxi Mao, Changjie Fan, Rongsheng Zhang</em></td></tr>
 <tr><td><span class="poster-type">Machine Translation</span></td></tr>
 <tr id="poster" poster-id="37-srw"><td><span class="poster-title">[SRW] Analysing the Correlation between Lexical Ambiguity and Translation Quality in a Multimodal Setting using WordNet. </span><em>Ali Hatami, Paul Buitelaar, Mihael Arcan</em></td></tr>
 <tr id="poster" poster-id="4"><td><span class="poster-title">Language Model Augmented Monotonic Attention for Simultaneous Translation. </span><em>Sathish Reddy Indurthi, Mohd Abbas Zaidi, Beomseok Lee, Nikhil Kumar Lakumarapu, Sangha Kim</em></td></tr>
@@ -1038,6 +1042,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="839"><td><span class="poster-title">Does Pre-training Induce Systematic Inference? How Masked Language Models Acquire Commonsense Knowledge. </span><em>Ian Porada, Alessandro Sordoni, Jackie CK Cheung</em></td></tr>
 <tr id="poster" poster-id="857"><td><span class="poster-title">Partial-input baselines show that NLI models can ignore context, but they don't.. </span><em>Neha Srikanth, Rachel Rudinger</em></td></tr>
 <tr id="poster" poster-id="802"><td><span class="poster-title">[Findings] Analytical Reasoning of Text. </span><em>Wanjun Zhong, Siyuan Wang, Duyu Tang, Zenan Xu, Daya Guo, Yining Chen, Jiahai Wang, Jian Yin, Ming Zhou, Nan Duan</em></td></tr>
+<tr id="poster" poster-id="885"><td><span class="poster-title">[Findings] ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs. </span><em>Liang Chen, Peiyi Wang, Runxin Xu, Tianyu Liu, Zhifang Sui, Baobao Chang</em></td></tr>
 <tr><td><span class="poster-type">Sentiment Analysis and Stylistic Analysis</span></td></tr>
 <tr id="poster" poster-id="49"><td><span class="poster-title">A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction. </span><em>Shu Liu, Kaiwen Li, Zuhe Li</em></td></tr>
 <tr id="poster" poster-id="492"><td><span class="poster-title">Data Augmentation with Dual Training for Offensive Span Detection. </span><em>Nasim Nouri</em></td></tr>
@@ -1166,6 +1171,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="876"><td><span class="poster-title">Exact Paired-Permutation Testing for Structured Test Statistics. </span><em>Ran Zmigrod, Tim Vieira, Ryan Cotterell</em></td></tr>
 <tr id="poster" poster-id="296"><td><span class="poster-title">[Findings] Efficient Learning of Multiple NLP Tasks via Collective Weight Factorization on BERT. </span><em>Christos Charalampos Papadopoulos, Yannis Panagakis, Manolis Koubarakis, Mihalis Nicolaou</em></td></tr>
 <tr id="poster" poster-id="432"><td><span class="poster-title">[Findings] RAIL-KD: RAndom Intermediate Layer Mapping for Knowledge Distillation. </span><em>Md Akmal Haidar, NITHIN ANCHURI, Mehdi Rezagholizadeh, Abbas Ghaddar, Philippe Langlais, Pascal Poupart</em></td></tr>
+<tr id="poster" poster-id="105"><td><span class="poster-title">[Findings] PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting. </span><em>Zhen Zhang, Wei Zhu, Jinfan Zhang, Peng Wang, Rize Jin, Tae-Sun Chung</em></td></tr>
 <tr><td><span class="poster-type">Ethics, Bias, and Fairness</span></td></tr>
 <tr id="poster" poster-id="54-srw"><td><span class="poster-title">[SRW] Text Style Transfer for Bias Mitigation using Masked Language Modeling. </span><em>Ewoenam Kwaku Tokpo, Toon Calders</em></td></tr>
 <tr id="poster" poster-id="60-srw"><td><span class="poster-title">[SRW] Differentially Private Instance Encoding against Privacy Attacks. </span><em>Shangyu Xie, Yuan Hong</em></td></tr>
@@ -1179,6 +1185,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="238"><td><span class="poster-title">Cross-Domain Detection of GPT-2-Generated Technical Text. </span><em>Juan Diego Rodriguez, Todd Hay, David Gros, Zain Shamsi, Ravi Srinivasan</em></td></tr>
 <tr id="poster" poster-id="598"><td><span class="poster-title">[Findings] Revisiting Generative Commonsense Reasoning: A Pre-Ordering Approach. </span><em>Chao Zhao, Faeze Brahman, Tenghao Huang, Snigdha Chaturvedi</em></td></tr>
 <tr id="poster" poster-id="916"><td><span class="poster-title">[Findings] Learning from Bootstrapping and Stepwise Reinforcement Reward: A Semi-Supervised Framework for Text Style Transfer. </span><em>Zhengyuan Liu, Nancy F. Chen</em></td></tr>
+<tr id="poster" poster-id="837"><td><span class="poster-title">[Findings] Unsupervised Domain Adaptation for Question Generation with DomainData Selection and Self-training. </span><em>Peide Zhu, Claudia Hauff</em></td></tr>
 <tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
 <tr id="poster" poster-id="821"><td><span class="poster-title">FOAM: A Follower-aware Speaker Model For Vision-and-Language Navigation. </span><em>Zi-Yi Dou, Nanyun Peng</em></td></tr>
 <tr id="poster" poster-id="539"><td><span class="poster-title">[Findings] KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation. </span><em>Yongfei Liu, Chenfei Wu, Shao-Yen Tseng, Vasudev Lal, Xuming He, Nan Duan</em></td></tr>
@@ -1398,6 +1405,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="467"><td><span class="poster-title">[Findings] Exploring Neural Models for Query-Focused Summarization. </span><em>Jesse Vig, Alexander Fabbri, Wojciech Maciej Kryscinski, Chien-Sheng Wu, Wenhao Liu</em></td></tr>
 <tr id="poster" poster-id="564"><td><span class="poster-title">[Findings] Post-Training Dialogue Summarization using Pseudo-Paraphrasing. </span><em>Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Q. Zhu</em></td></tr>
 <tr id="poster" poster-id="909"><td><span class="poster-title">[Findings] TANet: Thread-Aware Pretraining for Abstractive Conversational Summarization. </span><em>Ze Yang, Christian WANG, Zhoujin Tian, Wei Wu, Zhoujun Li</em></td></tr>
+<tr id="poster" poster-id="813"><td><span class="poster-title">[Findings] Jointly Learning Guidance Induction and Faithful Summary Generation via Conditional Variational Autoencoders. </span><em>Wang Xu, Tiejun Zhao</em></td></tr>
 </table>
 </div>
 </div>
@@ -1499,6 +1507,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="717"><td><span class="poster-title">[Findings] Balancing Multi-Domain Corpora Learning for Open-Domain Response Generation. </span><em>Yujie Xing, Jinglun Cai, Nils Barlaug, Peng Liu, Jon Atle Gulla</em></td></tr>
 <tr id="poster" poster-id="819"><td><span class="poster-title">[Findings] Context-Aware Language Modeling for Goal-Oriented Dialogue Systems. </span><em>Charlie Victor Snell, Sherry Yang, Justin Fu, Yi Su, Sergey Levine</em></td></tr>
 <tr id="poster" poster-id="906"><td><span class="poster-title">[Findings] KETOD: Knowledge-Enriched Task-Oriented Dialogue. </span><em>Zhiyu Chen, Bing Liu, Seungwhan Moon, Chinnadhurai Sankar, Paul A. Crook, William Yang Wang</em></td></tr>
+<tr id="poster" poster-id="32"><td><span class="poster-title">[Findings] Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta-Information. </span><em>Bowen Yang, Cong Han, Yu Li, Lei Zuo, Zhou Yu</em></td></tr>
 <tr><td><span class="poster-type">Discourse and Pragmatics</span></td></tr>
 <tr id="poster" poster-id="787"><td><span class="poster-title">[Findings] Improve Discourse Dependency Parsing with Contextualized Representations. </span><em>Yifei Zhou, Yansong Feng</em></td></tr>
 <tr><td><span class="poster-type">Efficient Methods in NLP</span></td></tr>
@@ -1644,10 +1653,13 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-location">Regency A & B</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
+<tr id="poster" poster-id="82-special"><td><span class="poster-title">[Findings] Opportunities for Human-centered Evaluation of Machine Translation Systems. </span><em>Daniel J. Liebling, Katherine A Heller, Samantha Robertson, Wesley Deng</em></td></tr>
 <tr id="poster" poster-id="121-special"><td><span class="poster-title">[Findings] One Size Does Not Fit All: The Case for Personalised Word Complexity Models. </span><em>Sian Gooding, Manuel Tragut</em></td></tr>
 <tr id="poster" poster-id="83-special"><td><span class="poster-title">[Findings] Aligning Generative Language Models with Human Values. </span><em>Ruibo Liu, Ge Zhang, Xinyu Feng, Soroush Vosoughi</em></td></tr>
 <tr id="poster" poster-id="97-special"><td><span class="poster-title">[Findings] Design Challenges for a Multi-Perspective Search Engine. </span><em>Sihao Chen, Siyi Liu, Xander Uyttendaele, Yi Zhang, William Bruno, Dan Roth</em></td></tr>
 <tr><td><span class="poster-type">Information Extraction</span></td></tr>
+<tr id="poster" poster-id="581"><td><span class="poster-title">[Findings] GraphCache: Message Passing as Caching for Sentence-Level Relation Extraction. </span><em>Yiwei Wang, Muhao Chen, Wenxuan Zhou, Yujun Cai, Yuxuan Liang, Bryan Hooi</em></td></tr>
+<tr id="poster" poster-id="31"><td><span class="poster-title">[Findings] PromptGen: Automatically Generate Prompts using Generative Models. </span><em>Yue Zhang, Hongliang Fei, Dingcheng Li, Ping Li</em></td></tr>
 <tr id="poster" poster-id="125"><td><span class="poster-title">[Findings] Extracting Temporal Event Relation with Syntax-guided Graph Transformer. </span><em>SHUAICHENG ZHANG, Qiang Ning, Lifu Huang</em></td></tr>
 <tr id="poster" poster-id="208"><td><span class="poster-title">[Findings] StATIK: Structure and Text for Inductive Knowledge Graph Completion. </span><em>Elan Sopher Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Murali Annavaram, Aram Galstyan, Greg Ver Steeg</em></td></tr>
 <tr id="poster" poster-id="252"><td><span class="poster-title">[Findings] Permutation Invariant Strategy Using Transformer Encoders for Table Understanding. </span><em>Sarthak Dash, Sugato Bagchi, Nandana Mihindukulasooriya, Alfio Gliozzo</em></td></tr>
@@ -1668,6 +1680,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="328"><td><span class="poster-title">[Findings] Probing the Role of Positional Information in Vision-Language Models. </span><em>Philipp J. Rösch, Jindřich Libovický</em></td></tr>
 <tr id="poster" poster-id="444"><td><span class="poster-title">[Findings] Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions. </span><em>Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka</em></td></tr>
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
+<tr id="poster" poster-id="77"><td><span class="poster-title">[Findings] FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks. </span><em>Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, Rahul Gupta, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr</em></td></tr>
 <tr id="poster" poster-id="234"><td><span class="poster-title">[Findings] Challenging America: Modeling language in longer time scales. </span><em>Jakub Pokrywka, Filip Graliński, Krzysztof Jassem, Karol Kaczmarek, Krzysztof Jan Jurkiewicz, Piotr Wierzchon</em></td></tr>
 <tr id="poster" poster-id="19"><td><span class="poster-title">[Findings] PubHealthTab: A Public Health Table-based Dataset for Evidence-based Fact Checking. </span><em>Mubashara Akhtar, Oana Cocarascu, Elena Simperl</em></td></tr>
 <tr id="poster" poster-id="314"><td><span class="poster-title">[Findings] MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. </span><em>Gullal Singh Cheema, Sherzod Hakimov, Abdul Sittar, Eric Müller-Budack, Christian Otto, Ralph Ewerth</em></td></tr>
@@ -1678,6 +1691,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr><td><span class="poster-type">Machine Translation</span></td></tr>
 <tr id="poster" poster-id="209"><td><span class="poster-title">[Findings] CoCoA-MT: A Dataset and Benchmark for Contrastive Controlled MT with Application to Formality. </span><em>Maria Nadejde, Anna Currey, Benjamin Hsu, Xing Niu, Marcello Federico, Georgiana Dinu</em></td></tr>
 <tr id="poster" poster-id="476"><td><span class="poster-title">[Findings] BitextEdit: Automatic Bitext Editing for Improved Low-Resource Machine Translation. </span><em>Eleftheria Briakou, Sida Wang, Luke Zettlemoyer, Marjan Ghazvininejad</em></td></tr>
+<tr id="poster" poster-id="441"><td><span class="poster-title">[Findings] Learn To Remember: Transformer with Recurrent Memory for Document-Level Machine Translation. </span><em>Yukun Feng, Feng Li, Ziang Song, Boyuan Zheng, Philipp Koehn</em></td></tr>
 <tr><td><span class="poster-type">NLP Applications</span></td></tr>
 <tr id="poster" poster-id="119"><td><span class="poster-title">[Findings] Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback. </span><em>Niket Tandon, Aman Madaan, Peter Clark, Yiming Yang</em></td></tr>
 <tr id="poster" poster-id="122"><td><span class="poster-title">[Findings] TEAM:  A multitask learning based Taxonomy Expansion approach for Attach and Merge. </span><em>Bornali Phukon, Anasua Mitra, Ranbir Singh Sanasam, Priyankoo Sarmah</em></td></tr>

@@ -17,7 +17,7 @@ The following speakers have graciously accepted to give invited talks at NAACL 2
 
 **Title:** Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design
 
-**Time:** Monday, July 11, 9:15 – 10:15
+**Time:** Monday, July 11, 9:15--10:15
 
 **Abstract:**
 Tools and technologies are fundamental to the human condition. They do no less than
@@ -59,7 +59,7 @@ Dr. Friedman’s 2019 MIT Press book co-authored with David Hendry, Value Sensit
 
 **Title:** NLP in Mexican Spanish: One of many stories
 
-**Time:** Wednesday, July 13, 16:15 – 17:15
+**Time:** Wednesday, July 13, 16:15--17:15
 
 **Abstract:**
 Spanish is one of the most widely spoken languages in the world, however, the
@@ -86,7 +86,7 @@ He has been visiting professor at the Polytechnic University of Valencia (Spain)
 ## Panel: The Place of Linguistics and Symbolic Structures
 {: #panel-linguistics-symbolic-structures}
 
-**Time:** Tuesday, July 12, 9:15 – 10:15
+**Time:** Tuesday, July 12, 9:15--10:15
 
 The widespread adoption of neural models in NLP research and the fact that NLP applications increasingly mediate people’s lives have prompted many discussions about what productive research directions might look like for our community. Since NAACL is a meeting of a chapter of the Association for Computational Linguistics, we would like to highlight specifically the role that linguistics and symbolic structures can play (or not) in shaping these research directions.
 
@@ -130,7 +130,7 @@ Christopher Manning is a professor of linguistics and computer science at Stanfo
 ## Panel: Careers in NLP Panel
 {: #panel-careers-in-nlp}
 
-**Time:** Monday, July 11, 13:15 – 14:15
+**Time:** Monday, July 11, 13:15--14:15
 
 The Careers in NLP Panel is a standing feature of NAACL Industry Track. The panel is addressed to graduate students and junior researchers as well as their supervisors and mentors, although all NAACL participants are welcomed. The panellists will discuss the diversity of career paths in NLP: from more research-oriented NLP scientist roles to careers in product. 
 
@@ -163,3 +163,11 @@ Thamar Solorio is a  Professor of Computer Science at the University of Houston 
 ![Luke Zettlemoyer](/assets/images/keynotes/Luke_Zettlemoyer.jpg){: .align-center}
 
 Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, and a Research Scientist at Meta. His research focuses on empirical methods for natural language semantics, and involves designing machine learning algorithms, introducing new tasks and datasets, and, most recently, studying how to best develop self-supervision signals for pre-training. His honors include being named an ACL Fellow as well as winning a PECASE award, an Allen Distinguished Investigator award, and multiple best paper awards. 
+
+
+## SRW Panel Discussion for Starting Researchers
+{: #panel-starting-researchers}
+
+**Time:** Tuesday, July 12, 10:45--12:15
+
+How do you choose promising research questions? How do you build and manage collaborations? In this panel discussion you will hear from experienced NLP researchers about these topics and more. You will also have the opportunity to ask questions. The panel discussion is targeted at early-year PhD students, Masters students, and others who are near the beginning of their research careers.

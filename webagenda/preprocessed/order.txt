@@ -418,7 +418,7 @@
 @ Speech
 693
 
-! 10:45--12:15 SRW Panel Discussion for Starting Researchers <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault
+! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault
 
 ! 12:15--14:15 Lunch
 

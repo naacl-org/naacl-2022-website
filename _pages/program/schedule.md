@@ -675,7 +675,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title">SRW Panel Discussion for Starting Researchers <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span><span class="session-location">Quinault</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span><span class="session-location">Quinault</span></div>
 <div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Lunch</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session session-plenary"><span class="session-title">Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span><span class="session-location">Columbia A</span></div>
 <div class="session-box" id="session-box-5">

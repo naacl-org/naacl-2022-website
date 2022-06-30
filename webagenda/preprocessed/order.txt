@@ -539,7 +539,7 @@
 25-srw
 30-srw
 78-srw
-= Session 6G: Industry/Demo In-person Poster Session ## %room Regency A & B
+= Session 6G: Industry/Demo Poster Session ## %room Regency A & B
 @ Industry Track Posters
 5-industry
 17-industry

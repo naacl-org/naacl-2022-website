@@ -146,7 +146,7 @@
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
 = Session 6F: SRW Thesis Proposals Session ## %room Quinault
 {"Day": "Day 2", "Session Name": "SRW Thesis Proposals"}
-= Session 6G: Industry/Demo In-person Poster Session ## %room Regency A & B
+= Session 6G: Industry/Demo Poster Session ## %room Regency A & B
 @ Industry Track Posters
 {"Session Name": "Industry Poster"}
 @ Demo Track Posters

@@ -912,7 +912,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-expandable session-posters" id="session-poster-6">
 <div class="expander-wrapper">
-<div id="expander"></div><a href="#" class="session-title">6G: Industry/Demo In-person Poster Session </a>
+<div id="expander"></div><a href="#" class="session-title">6G: Industry/Demo Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Regency A & B</span>

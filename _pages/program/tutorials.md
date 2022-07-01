@@ -67,7 +67,7 @@ Shankar Kumar,
 ![Aliaksei Severyn](/assets/images/tutorials/Aliaksei_Severyn.jpg)
 {: .speaker-images}
 
-[Speaker bios](/program/tutorials/bios-t1/){: .btn .btn--info}
+[Speaker Bios](/program/tutorials/bios-t1/){: .btn .btn--info}
 
 **Time:** 9:00--12:30
 
@@ -112,7 +112,7 @@ pressing challenges in the field of text generation.
 ![Katrin Kirchhoff](/assets/images/tutorials/Kirchhoff_Katrin.jpg)
 {: .speaker-images}
 
-[Speaker bios](/program/tutorials/bios-t2/){: .btn .btn--info}
+[Speaker Bios](/program/tutorials/bios-t2/){: .btn .btn--info}
 
 **Time:** 9:00--12:30
 
@@ -143,7 +143,7 @@ Self-supervised representation learning methods promise a single universal model
 ![Dan Roth](/assets/images/tutorials/Dan_Roth.jpg)
 {: .speaker-images}
 
-[Speaker bios](/program/tutorials/bios-t3/){: .btn .btn--info}
+[Speaker Bios](/program/tutorials/bios-t3/){: .btn .btn--info}
 
 **Time:** 9:00--12:30
 
@@ -177,7 +177,7 @@ In this tutorial, we will systematically review several lines of frontier resear
 ![Chenhao Tan](/assets/images/tutorials/Chenhao_Tan.jpg)
 {: .speaker-images}
 
-[Speaker bios](/program/tutorials/bios-t4/){: .btn .btn--info}
+[Speaker Bios](/program/tutorials/bios-t4/){: .btn .btn--info}
 
 **Time:** 14:00--17:30
 
@@ -201,7 +201,7 @@ The NLP community are increasingly interested in providing explanations for NLP 
 ![Amir Zadeh](/assets/images/tutorials/Amir_Zadeh.jpg)
 {: .speaker-images}
 
-[Speaker bios](/program/tutorials/bios-t5/){: .btn .btn--info}
+[Speaker Bios](/program/tutorials/bios-t5/){: .btn .btn--info}
 
 **Time:** 14:00--17:30
 
@@ -229,7 +229,7 @@ This tutorial builds upon the annual course on multimodal machine learning taugh
 ![Rebecca J. Passonneau](/assets/images/tutorials/Rebecca_Passonneau.jpg)
 {: .speaker-images}
 
-[Speaker bios](/program/tutorials/bios-t6/){: .btn .btn--info}
+[Speaker Bios](/program/tutorials/bios-t6/){: .btn .btn--info}
 
 **Time:** 14:00--17:30
 

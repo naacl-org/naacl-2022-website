@@ -127,6 +127,10 @@ bronze:
     image_path: /assets/images/logos/UCSC.png
     alt: UC Santa Cruz
     title: UC Santa Cruz
+  - url: https://aixplain.com/
+    image_path: /assets/images/logos/aiXplain.png
+    alt: aiXplain
+    title: aiXplain
 di_champion:
   - url: https://www.microsoft.com/
     image_path: /assets/images/logos/Microsoft.png

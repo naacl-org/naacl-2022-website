@@ -45,7 +45,7 @@ We would like to highlight the following items to make slides inclusive:
 
 1. Be kind regarding requests to repeat or verbalize any content on your slides (especially equations) out loud.
 2. When welcoming, referring to, or interacting with your audience:
-    1. Do not use: guys, ladies and gentlemen, boys and girls, men and women, brothers and sisters, her or she, sir/madam. Instead, use: esteemed guests, that person, friends and colleagues, students, siblings, everyone, the participants, faculty members.
+    1. Do not use: guys, ladies and gentlemen, men and women, sir/madam. Instead, use: folks, friends and colleagues, all, everyone, participants.
     2. Do not assume the pronouns of any audience member or publicly ask audience members for their pronouns. Instead, use: [singular “they”](https://apastyle.apa.org/style-grammar-guidelines/grammar/singular-they)  to refer to audience members.
 3. Avoid any ableist or othering language, such as “Oh, I’m dumb!”, “I’m blind”, “I’m deaf”, “I’m so OCD about these things.”, “I hope everyone can see this.”, etc. This language alienates and harms disabled and neurodivergent folks.
 4. If possible, permit attendees to download an accessible version of your slides so that they can interact with it (e.g. increase the font size, run a screenreader, etc.)

@@ -56,7 +56,7 @@ To our knowledge, no other corpora that aims at detecting heteronormativity in E
 
 **Author Bio:** <span style="font-family:'Comic Sans MS', cursive, sans-serif; ">Juan Vásquez</span> is a 2nd-year MsC student in Computer Science with specialization in Artificial Intelligence at IIMAS, UNAM. His research focuses on very interested in D&I in AI, data engineering, design of explainable algorithms, and applied AI for the understanding of social phenomena.
 
- __The author is available for Ph.D opportunities!__ 
+ __The author is available for PhD opportunities!__ 
 
 **Research Interests:** interpretability
 
@@ -218,7 +218,7 @@ While neural networks demonstrate a remarkable ability to model linguistic conte
 
 **Author Bio:** <span style="font-family:'Comic Sans MS', cursive, sans-serif; ">Gaoyue Zhou</span> is a first-year MS in Robotics student at CMU Robotics Institute. Previously, she did her undergraduate in Computer Science and Applied Mathematics at UC Berkeley. During her time at Berkeley, she had the pleasure to work with Prof. Sergey Levine and Prof. John DeNero in the Berkeley Artificial Intelligence Research (BAIR) Lab.
 
- __The author is available for Ph.D opportunities!__ 
+ __The author is available for PhD opportunities!__ 
 
 **Research Interests:** interpretability; robotics and language; generalizability
 
@@ -284,7 +284,7 @@ Dialogue System that generate empathetic responses. When dialogues become long, 
 
 **Author Bio:** M.S. student of Yonsei University
 
- __The author is available for Ph.D opportunities!__ 
+ __The author is available for PhD opportunities!__ 
 
 **Research Interests:** NLP, Dialogue System
 
@@ -601,7 +601,7 @@ Desire is a strong wish to do or have something, which involves not only a lingu
 
 **Author Bio:** <span style="font-family:'Comic Sans MS', cursive, sans-serif; ">Ao Jia</span> is a undergraduate student in Beijing Institute of Technology. Their work intends to explore desire detection in NLP.
 
- __The author is available for Ph.D opportunities!__ 
+ __The author is available for PhD opportunities!__ 
 
 **Research Interests:** sentiment analysis
 

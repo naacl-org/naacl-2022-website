@@ -1,3 +1,13 @@
+---
+title: "A Taste of NAACL 2022"
+author: diversity-chairs
+author_profile: true
+tags:
+  announcement
+categories:
+  blog
+---
+
 <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
 
 # A Taste of NAACL 2022

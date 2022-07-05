@@ -38,7 +38,7 @@ We would like to highlight the following items to make slides inclusive:
 
 **For pre-recorded and live talks:**
 
-1. When beginning the talk, introduce yourself with your name and pronouns (if comfortable), and describe your appearance and background so that blind and visually-impaired individuals can picture the talk. For example, “My name is Arjun, I use they/them pronouns. I am a brown agender individual with short black hair and glasses. I am also wearing a blue shirt. There is a window and bookshelf behind me.” If applicable, every time you start talking after another person was just talking, say “This is [insert your name].” so that blind and visually-impaired folks may easily register who is talking.
+1. When beginning the talk, introduce yourself with your name and pronouns (if comfortable), and describe your appearance and background so that blind, visually-impaired, and virtual participants can picture the talk. For example, “My name is Arjun, I use they/them pronouns. I am a brown agender individual with short black hair and glasses. I am also wearing a blue shirt. There is a window and bookshelf behind me.” If applicable, every time you start talking after another person was just talking, say “This is [insert your name].” so that blind, visually-impaired, and virtual participants may easily register who is speaking.
 2. When speaking, do not assume that all audience members can see the slides: cover everything important in what you say, even if it's already on the slide.
 
 **For live talks:**

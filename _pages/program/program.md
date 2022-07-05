@@ -3,9 +3,10 @@ title: Conference Program Overview
 layout: single
 excerpt: "NAACL 2022 Conference Program"
 permalink: /program/
-toc: false
 sidebar:
     nav: program
+toc: true
+toc_sticky: true
 ---
 
 | July 10 | [**Tutorials**](/program/tutorials/) and [**Affinity Group Workshops**](/program/affinity/)
@@ -39,9 +40,17 @@ social event.
 <img src="../../assets/images/mopop2.jpeg" alt="MoPop2" width="30%">
 <img src="../../assets/images/mopop3.jpeg" alt="MoPop3" width="30%">
 
-<hr/>
+## Meals
 
-See information about meals [here](/venue/#meals).
+A light Breakfast will be provided daily and can be found on levels 3 & 5 pre-function.
+
+Breaks --- Tea, coffee, pastries and snacks will be provided early morning, mid-morning and mid-afternoon and will be found in the Regency Ballroom on level 7 (on Sunday the location will be level 3 pre-function).
+
+Lunch is not provided, but there are plenty of cafes, restaurants and shops near by within walking distance as well as the hotel has a grab and go market open until 14:00.
+
+Dinner will only be provided during the Welcome Reception on Sunday evening (starting at 18:30) located on Level 5 pre-function and Tuesday evening at the social event at MoPop.
+
+## Special rooms
 
 Some of the hotel rooms are dedicated to certain functions for the entire time of the conference:
 

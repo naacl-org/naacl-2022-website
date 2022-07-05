@@ -43,16 +43,6 @@ Our downtown hotel is walking distance to Seattle’s most iconic attractions &a
 farther &amp; immerse yourself in the Pacific Northwest’s incredible landscapes. You can find more about
 the area attractions [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears/area-attractions).
 
-## Meals
-
-A light Breakfast will be provided daily and can be found on levels 3 & 5 pre-function.
-
-Breaks --- Tea, coffee, pastries and snacks will be provided early morning, mid-morning and mid-afternoon and will be found in the Regency Ballroom on level 7 (on Sunday the location will be level 3 pre-function).
-
-Lunch is not provided, but there are plenty of cafes, restaurants and shops near by within walking distance as well as the hotel has a grab and go market open until 14:00.
-
-Dinner will only be provided during the Welcome Reception on Sunday evening (starting at 18:30) located on Level 5 pre-function and Tuesday evening at the social event at MoPop.
-
 ## Accommodation
 
 We have secured accommodation for participants at NAACL-HLT 2022 discounted rates at the Hyatt Regency Seattle 

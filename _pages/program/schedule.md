@@ -48,7 +48,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span><span class="session-location">Columbia A & C & D</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/affinity/">Affinity Group Workshops</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/venue/#welcome-reception">Welcome Reception</a></span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/#welcome-reception">Welcome Reception</a></span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer</span></div>
 <div class="day" id="day-2">Monday, July 11, 2022</div>
 <div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Registration</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
@@ -1059,7 +1059,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title"><a href="/venue/#social-event">Social Event</a></span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location">Museum of Pop Culture (MoPOP)</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/#social-event">Social Event</a></span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location">Museum of Pop Culture (MoPOP)</span></div>
 <div class="day" id="day-4">Wednesday, July 13, 2022</div>
 <div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Registration</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>

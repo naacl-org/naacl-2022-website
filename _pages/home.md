@@ -26,7 +26,7 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
-
+| July 5, 2022 | [Blogpost](/blog/taste-of-naacl/): A Taste of NAACL 2022
 | Jun 30, 2022 | [Blogpost](/blog/careers-in-nlp/): What would you like to know about careers in NLP?
 | Jun 29, 2022 | [Blogpost](/blog/best-papers/): Announcing the NAACL 2022 Best Paper Awards!
 | Jun 29, 2022 | [Blogpost](/blog/review-process/): Main Conference Review Process

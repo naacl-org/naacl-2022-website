@@ -43,13 +43,18 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <a href="#" id="toggle-all-button" class="btn btn--small btn--twitter">Expand All Sessions ↓</a>
 </p>
 <div class="schedule">
-<div class="day" id="day-1">Sunday, July 10, 2022</div>
+<div class="day" id="day-1">Saturday, July 9, 2022</div>
+<div class="session session-plenary"><span class="session-title">Queer in AI pre-conference social</span><span class="session-time" title="Saturday, July 9, 2022">7:00 &ndash; 10:00</span><span class="session-location"><a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Zoom registration Link</a></span></div>
+<div class="day" id="day-2">Sunday, July 10, 2022</div>
 <div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span><span class="session-location">Columbia A & C & D</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/program/affinity/">Affinity Group Workshops</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 11:00</span><span class="session-location"><a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Gather Town</a></span></div>
+<div class="session session-plenary"><span class="session-title"><a href="https://www.queerinai.com/naacl">Queer in AI workshop</a></span><span class="session-time" title="Sunday, July 10, 2022">11:00 &ndash; 17:00</span><span class="session-location">506 Samish and <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Virtual registration link</a></span></div>
+<div class="session session-plenary"><span class="session-title"><a href="https://www.latinxinai.org/naacl-2022">LatinX in AI workshop</a></span><span class="session-time" title="Sunday, July 10, 2022">11:00 &ndash; 17:00</span><span class="session-location">507 Hauk and <a href='https://www.eventbrite.com/e/latinx-in-ai-lxai-workshop-naacl-2022-tickets-262620453847'>Virtual registration link</a></span></div>
+<div class="session session-plenary"><span class="session-title"><a href="http://www.winlp.org/winlp-satellite-workshop-naacl-2022/">Widening NLP workshop</a></span><span class="session-time" title="Sunday, July 10, 2022">8:00 &ndash; 18:00</span><span class="session-location"><a href='https://www.eventbrite.com/e/widening-nlp-satellite-workshop-at-naacl-2022-tickets-345885913077'>Virtual registration link</a></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/#welcome-reception">Welcome Reception</a></span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer</span></div>
-<div class="day" id="day-2">Monday, July 11, 2022</div>
+<div class="day" id="day-3">Monday, July 11, 2022</div>
 <div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Registration</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
@@ -351,7 +356,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </table>
 </div>
 </div>
-<div class="day" id="day-3">Tuesday, July 12, 2022</div>
+<div class="session session-plenary"><span class="session-title">Queer in AI in-person social</span><span class="session-time" title="Monday, July 11, 2022">18:00 &ndash; 20:00</span><span class="session-location"><a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>The Pine Box (registration required to attend the social)</a></span></div>
+<div class="day" id="day-4">Tuesday, July 12, 2022</div>
 <div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Registration</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Breakfast</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session-box" id="session-box-3">
@@ -1061,7 +1067,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/#social-event">Social Event</a></span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location">Museum of Pop Culture (MoPOP)</span></div>
-<div class="day" id="day-4">Wednesday, July 13, 2022</div>
+<div class="day" id="day-5">Wednesday, July 13, 2022</div>
 <div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Registration</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session-box" id="session-box-7">
@@ -1721,11 +1727,11 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="session session-break session-plenary" id="session-break-20"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
 <div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
 <div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="day" id="day-5">Thursday, July 14, 2022</div>
+<div class="day" id="day-6">Thursday, July 14, 2022</div>
 <div class="session session-break session-plenary" id="session-break-21"><span class="session-title">Registration</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-22"><span class="session-title">Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 17:30</span></div>
-<div class="day" id="day-6">Friday, July 15, 2022</div>
+<div class="day" id="day-7">Friday, July 15, 2022</div>
 <div class="session session-break session-plenary" id="session-break-23"><span class="session-title">Registration</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-24"><span class="session-title">Breakfast</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Friday, July 15, 2022">9:00 &ndash; 17:30</span></div>

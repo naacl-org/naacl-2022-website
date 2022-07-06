@@ -33,14 +33,14 @@ All members of affinity group will be coming together at our GatherTown (accessi
 
 ## Queer in AI workshop
 
-[Queer in AI](https://www.queerinai.com/) was established by queer scientists in AI with the mission to make the AI community a safe and inclusive place that welcomes, supports, and values queer people. We work towards this aim by building a visible community of queer AI scientists through conference workshops, social meetups, conference poster sessions, mentoring programs, graduate application financial aid, and many other initiatives. Another crucial part of our mission is to raise awareness of queer issues in the general AI community and to encourage and highlight research on and solutions to these problems.
+[Queer in AI](https://www.queerinai.com/) was established by queer scientists in AI with the mission to make the AI community a safe and inclusive place that welcomes, supports, and values queer people. Queer in AI works towards this by building a visible community of queer AI scientists through conference workshops, social meetups, conference poster sessions, mentoring programs, financial aid programs, and many other initiatives. Another crucial part of Queer in AI's mission is to raise awareness of queer issues in the general AI community and to encourage and highlight research on these problems.
 
-You can apply for volunteering by participating in their slack. They have many different roles like helping with conference socials, mentoring people through grad school applications or curating our twitter account and youtube channel. They are especially looking for people to help with finance and sponsorship, and help organize our presence at future NLP conferences.
+You can volunteer by joining Queer in AI's Slack workspace. Queer in AI has many different roles like helping with conference socials, mentoring people during grad school application season, and managing our social media. Queer in AI is especially looking for people to help with finance and sponsorship, and to help organize Queer in AI's presence at future NLP conferences.
 
 Queer in AI program will include:
-1. Virtual social at 7 am PST, July 9
-2. Hybrid workshop from **11 am PST, July 10 at 506 Samish**
-3. In-person social at 6 pm PST at The Pine Box
+1. Virtual social at 14:00 UTC, July 9
+2. Hybrid workshop from **11 am PDT, July 10 at 506 Samish**
+3. In-person social at 6 pm PDT at The Pine Box
 
 For more details, visit their [conference website](https://www.queerinai.com/naacl).
 
@@ -48,7 +48,7 @@ For more details, visit their [conference website](https://www.queerinai.com/naa
 
 The LatinX in AI (LXAI) network serves many researchers around the globe. This time, LXAI organized the first NLP workshop aimed at LatinX to promote and increase the representation of the LatinX community in the NLP field. The LXNLP workshop includes paper presentations, a diverse set of keynotes (speakers come from academia, government, and industry), a panel discussion, and a social. For more information, please visit the [LXNLP website](latinxinai.org/naacl-2022).
 
-The in-person workshop for LatinX in AI will be on **July 10, 11.30 am PST at 507 Sauk**.
+The in-person workshop for LatinX in AI will be on **July 10, 11.30 am PDT at 507 Sauk**.
 
 ## Widening NLP workshop
 

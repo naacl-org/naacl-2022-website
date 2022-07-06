@@ -20,12 +20,16 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 *See also:* [Poster and Talk Accessibility, Quality, and Inclusivity](/blog/poster-talk-accessibility-quality-inclusivity/) for design recommendations.
 {: .text-center .notice--info}
 
+Consider registering for livetweeting NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
+{: .text-center .notice--info}
+
 ## News
 
 <style>
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| July 6, 2022 | [Blogpost](blog/affinity-workshops-welcome/): Welcome to Affinity Group Workshops!
 | July 5, 2022 | [Blogpost](/blog/taste-of-naacl/): A Taste of NAACL 2022
 | Jun 30, 2022 | [Blogpost](/blog/careers-in-nlp/): What would you like to know about careers in NLP?
 | Jun 29, 2022 | [Blogpost](/blog/best-papers/): Announcing the NAACL 2022 Best Paper Awards!

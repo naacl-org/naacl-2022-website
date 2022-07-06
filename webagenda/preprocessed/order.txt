@@ -342,6 +342,8 @@
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
+! 10:15--10:45 Structured Social: How to make your first conference experience nice ## %room Zoom
+
 + 10:45--12:15 Session 4
 
 = Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A
@@ -901,6 +903,8 @@
 813 ## %type Findings
 
 ! 10:15--10:45 Break ## %room Regency A & B
+
+! 10:15--10:45 Structured Social: Balancing professional and family commitments ## %room Zoom
 
 + 10:45--12:15 Session 9
 

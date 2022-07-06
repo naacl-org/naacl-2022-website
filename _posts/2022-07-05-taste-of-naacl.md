@@ -8,9 +8,6 @@ categories:
   blog
 ---
 
-<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-
-
 For NAACL 2022, the D&I committee has put together a sample of the exciting research that will be presented at the conference. Read along for all the details and follow the work of these authors: 
 
 ---
@@ -642,3 +639,7 @@ Desire is a strong wish to do or have something, which involves not only a lingu
 **Research Interests:** sentiment analysis
 
 ---
+
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+

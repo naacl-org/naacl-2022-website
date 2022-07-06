@@ -29,7 +29,7 @@ NAACL 2022 will additionally feature several D&I panels where affinity groups me
 
 ## Joint Affinity Group Workshop (9 AM - 11 AM PDT, July 10, Virtual)
 
-All members of affinity group will be coming together at our GatherTown (accessible to everyone, even to non-registrants) and presenting their work. The poster session will be only virtual which you can access [here](https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform).
+All members of affinity group will be coming together at our GatherTown (accessible to everyone, even to non-registrants) and presenting their work. The poster session will be only virtual which you can access [here](https://app.gather.town/app/GPUA8FVbHRuN0ePu/Joint%20Poster%20Session).
 
 ## Queer in AI workshop
 
@@ -66,7 +66,7 @@ The current schedule of the workshop is:
 
 More details are [available here](http://www.winlp.org/winlp-satellite-workshop-naacl-2022/) and please [register here to attend](https://www.eventbrite.com/e/widening-nlp-satellite-workshop-at-naacl-2022-tickets-345885913077).
 
-## North Aficans in NLP workshop
+## North Africans in NLP workshop
 
 The goal of this group is to create a sense of community among North African researchers in NLP and AI, to increase the visibility of North Africans within the NLProc community, to highlight their accomplishments, and to acknowledge and discuss the hardships faced by NLP researchers based in North Africa.
 

@@ -170,4 +170,4 @@ Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science 
 
 **Time:** Tuesday, July 12, 10:45--12:15
 
-How do you choose promising research questions? How do you build and manage collaborations? In this panel discussion you will hear from experienced NLP researchers about these topics and more. You will also have the opportunity to ask questions. The panel discussion is targeted at early-year PhD students, Masters students, and others who are near the beginning of their research careers.
+Have you found yourself wishing for a manual on "how to do research?" In this panel discussion, you will hear from experienced NLP researchers about topics including picking promising research questions, building collaborations, and ensuring your results are reproducible. All early-year PhD students, Masters students, and others who are near the beginning of their research careers are encouraged to attend. Please bring questions!

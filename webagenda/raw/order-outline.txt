@@ -1,3 +1,7 @@
+* Saturday, July 9, 2022
+
+! 7:00--10:00 Queer in AI pre-conference social  ## %room <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Zoom registration Link</a>
+
 * Sunday, July 10, 2022
 
 ! 7:30--18:00 Registration ## %room Level 3 Foyer
@@ -6,7 +10,13 @@
 
 ! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D
 
-! 9:00--17:30 <a href="/program/affinity/">Affinity Group Workshops</a>
+! 9:00--11:00 <a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a> ## %room <a href='https://app.gather.town/app/GPUA8FVbHRuN0ePu/Joint%20Poster%20Session'>Gather Town</a>
+
+! 11:00--17:00 <a href="https://www.queerinai.com/naacl">Queer in AI workshop</a> ## %room 506 Samish and <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Virtual registration link</a>
+
+! 11:00--17:00 <a href="https://www.latinxinai.org/naacl-2022">LatinX in AI workshop</a> ## %room 507 Hauk and <a href='https://www.eventbrite.com/e/latinx-in-ai-lxai-workshop-naacl-2022-tickets-262620453847'>Virtual registration link</a>
+
+! 8:00--18:00 <a href="http://www.winlp.org/winlp-satellite-workshop-naacl-2022/">Widening NLP workshop</a> ## %room <a href='https://www.eventbrite.com/e/widening-nlp-satellite-workshop-at-naacl-2022-tickets-345885913077'>Virtual registration link</a>
 
 ! 18:00--20:00 <a href="/program/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer
 
@@ -62,6 +72,8 @@
 
 = 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
 {"Day": "Day 1", "Session Name": "Best paper"}
+
+! 18:00--20:00 Queer in AI in-person social ## %room <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>The Pine Box (registration required to attend the social)</a>
 
 * Tuesday, July 12, 2022
 

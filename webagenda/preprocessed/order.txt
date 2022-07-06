@@ -10,7 +10,7 @@
 
 ! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D
 
-! 9:00--11:00 <a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a> ## %room <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Gather Town</a>
+! 9:00--11:00 <a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a> ## %room <a href='https://app.gather.town/app/GPUA8FVbHRuN0ePu/Joint%20Poster%20Session'>Gather Town</a>
 
 ! 11:00--17:00 <a href="https://www.queerinai.com/naacl">Queer in AI workshop</a> ## %room 506 Samish and <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Virtual registration link</a>
 

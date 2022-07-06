@@ -9,6 +9,9 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
+Consider registering for livetweeting NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
+{: .text-center .notice--info}
+
 **[Registration](/registration/) is now open.** On-site registration begins June 26, 2022.<br><span style="font-size:85%">It is suggested to complete and pay for registration before arriving at the registration desk. Bring a copy of your registration confirmation to pick up your badge.</span>
 {: .text-center .notice--warning}
 
@@ -18,9 +21,6 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 [Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)<br>
 *Note:* In-person posters have to be **portrait** (the poster boards are vertical: 4’ width × 8’ height).<br>
 *See also:* [Poster and Talk Accessibility, Quality, and Inclusivity](/blog/poster-talk-accessibility-quality-inclusivity/) for design recommendations.
-{: .text-center .notice--info}
-
-Consider registering for livetweeting NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
 {: .text-center .notice--info}
 
 ## News

@@ -11,7 +11,7 @@ import re
 from datetime import datetime
 from itertools import count
 
-_METADATA_REGEXP = re.compile(r'%([^\s]+)\s+([^%]+)')
+_METADATA_REGEXP = re.compile(r'%([^\s]+)\s+(.+?)(?=\s+%|$)')
 
 
 def parse_order_file_metadata(metadata_string):

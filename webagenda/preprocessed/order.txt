@@ -34,35 +34,35 @@
 
 + 10:45--12:15 Session 1
 
-= Session 1A: Language Generation ## %room Columbia A
+= Session 1A: Language Generation ## %room Columbia A %chair1 Saadia Gabriel
 665
 131
 551
 363
 895
 744
-= Session 1B: Summarization ## %room Columbia C
+= Session 1B: Summarization ## %room Columbia C %chair1 Jackie Cheung
 486
 494
 1050
 847
 608
 980
-= Session 1C: Information Extraction ## %room Columbia D
+= Session 1C: Information Extraction ## %room Columbia D %chair1 Alan Ritter
 893
 905
 681
 968
 534
 3561-tacl
-= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A
+= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A %chair1 Roy Schwarz
 424
 117
 750
 469
 922
 817 ## %award Award
-= Session 1E: Dialogue ## %room Elwha B
+= Session 1E: Dialogue ## %room Elwha B %chair1 Rashmi Gangadharaiah
 627
 618
 593
@@ -125,35 +125,35 @@
 
 + 14:30--16:00 Session 2
 
-= Session 2A: Interpretability ## %room Columbia A
+= Session 2A: Interpretability ## %room Columbia A %chair1 Sebastian Schuster
 666
 951
 948
 944
 859
 396
-= Session 2B: Semantics ## %room Columbia C
+= Session 2B: Semantics ## %room Columbia C %chair1 Jacob Eisenstein
 831
 827
 824
 822
 797
 766
-= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D
+= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D %chair1 Waleed Ammar
 670
 954
 973
 573
 475
 239
-= Session 2D: Machine Translation 1 ## %room Elwha A
+= Session 2D: Machine Translation 1 ## %room Elwha A %chair1 Jonathan May
 945
 450
 370
 289
 348
 3735-tacl
-= Session 2E: NLP Applications 1 ## %room Elwha B
+= Session 2E: NLP Applications 1 ## %room Elwha B %chair1 Preslav Nakov
 193
 883
 777
@@ -226,27 +226,27 @@
 
 + 8:00--9:00 Session 3
 
-= Session 3A: Language Generation ## %room Columbia A
+= Session 3A: Language Generation ## %room Columbia A %chair1 Nanyun Peng
 566
 416
 87
 1047
-= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C
+= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C %chair1 Eduardo Blanco
 3655-tacl
 892
 970
 294
-= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D
+= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D %chair1 Yogarshi Vyas
 589
 901
 457
 162
-= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A
+= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A %chair1 Emma Strubell
 1006
 746
 614
 698
-= Session 3E: NLP Applications 2 ## %room Elwha B
+= Session 3E: NLP Applications 2 ## %room Elwha B %chair1 Danqi Chen
 636
 565
 610
@@ -359,35 +359,35 @@
 
 + 10:45--12:15 Session 4
 
-= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A
+= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A %chair1 Siva Reddy
 841
 840
 704
 505
 484
 464
-= Session 4B: Summarization ## %room Columbia C
+= Session 4B: Summarization ## %room Columbia C %chair1 Greg Durrett
 591
 776
 490
 191
 346
 3477-tacl
-= Session 4C: Information Retrieval ## %room Columbia D
+= Session 4C: Information Retrieval ## %room Columbia D %chair1 Pedro Rodriguez
 40
 465
 580
 605
 690
 832
-= Session 4D: Language Grounding to Vision 1 ## %room Elwha A
+= Session 4D: Language Grounding to Vision 1 ## %room Elwha A %chair1 Parisa Kordjamshidi
 174
 527
 1043
 834
 318
 874
-= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B
+= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B %chair1 Joao Sedoc
 456
 926
 522
@@ -441,35 +441,35 @@
 
 + 14:15--15:45 Session 5
 
-= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A
+= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A %chair1 Kai-Wei Chang
 867
 245
 674
 1015
 568
 512
-= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C
+= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C %chair1 Narges Tabari
 28
 981
 785
 561
 488
 880
-= Session 5C: Information Extraction 1 ## %room Columbia D
+= Session 5C: Information Extraction 1 ## %room Columbia D %chair1 Luca Soldaini
 379
 3721-tacl
 991
 823
 988
 894
-= Session 5D: Human-Centered NLP 1 ## %room Elwha A
+= Session 5D: Human-Centered NLP 1 ## %room Elwha A %chair1 Marti Hearst
 86-special
 53-special
 111-special
 93-special
 87-special
 65-special
-= Session 5E: NLP Applications 3 ## %room Elwha B
+= Session 5E: NLP Applications 3 ## %room Elwha B %chair1 Jill Burstein
 964
 277
 1044
@@ -513,42 +513,42 @@
 
 + 16:15--17:45 Session 6
 
-= Session 6A: Language Grounding to Vision 2 ## %room Columbia A 
+= Session 6A: Language Grounding to Vision 2 ## %room Columbia A %chair1 Jesse Thomason
 391
 825
 946
 960
 836
 164
-= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C
+= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C %chair1 Miguel Ballesteros
 0-cl
 990
 516
 413
 220
 863
-= Session 6C: Multilinguality ## %room Columbia D
+= Session 6C: Multilinguality ## %room Columbia D %chair1 Antonis Anastasopoulos
 878 ## %award Award
 676
 662
 481
 256
 383
-= Session 6D: Machine Learning for NLP 1 ## %room Elwha A
+= Session 6D: Machine Learning for NLP 1 ## %room Elwha A %chair1 Wei Xu
 966
 796
 851
 920
 956
 932
-= Session 6E: Question Answering 1 ## %room Elwha B
+= Session 6E: Question Answering 1 ## %room Elwha B %chair1 Ashish Sabharwal
 947
 91
 169
 418
 898
 613
-= Session 6F: SRW Thesis Proposals Session ## %room Quinault
+= Session 6F: SRW Thesis Proposals Session ## %room Quinault %chair1 Daphne Ippolito
 23-srw
 24-srw
 25-srw
@@ -695,32 +695,32 @@
 
 + 8:00--9:00 Session 7
 
-= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A
+= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A %chair1 Gabriel Stanovsky
 177
 577
 226
 46
-= Session 7B: Summarization ## %room Columbia C
+= Session 7B: Summarization ## %room Columbia C %chair1 Jessica Ouyang
 719
 873
 985
 1024
-= Session 7C: Information Extraction 2 ## %room Columbia D
+= Session 7C: Information Extraction 2 ## %room Columbia D %chair1 Qiang Ning
 771
 700
 751
 1041
-= Session 7D: Machine Translation 2 ## %room Elwha A
+= Session 7D: Machine Translation 2 ## %room Elwha A %chair1 Kenneth Heafield
 999
 965
 907
 703
-= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B
+= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B %chair1 Zhou Yu
 1001
 80
 861
 519
-= Session 7F: Machine Learning for NLP 2 ## %room Quinault
+= Session 7F: Machine Learning for NLP 2 ## %room Quinault %chair1 Marjan Ghazvininejad
 993
 3765-tacl
 843
@@ -816,32 +816,32 @@
 
 + 9:15--10:15 Session 8
 
-= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A
+= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A %chair1 Yonatan Belinkov
 994
 1035
 1000
 853
-= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C
+= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C %chair1 Lu Wang
 882
 255
 1002
 1023
-= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D
+= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D %chair1 Cissi Alm
 3601-tacl
 3593-tacl
 34-special
 134-special
-= Session 8D: Machine Translation 3 ## %room Elwha A
+= Session 8D: Machine Translation 3 ## %room Elwha A %chair1 Graham Neubig
 835
 870
 884
 811
-= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B
+= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B %chair1 Jinho Choi
 97
 1010
 233
 833
-= Session 8F: Machine Learning for NLP 3 ## %room Quinault
+= Session 8F: Machine Learning for NLP 3 ## %room Quinault %chair1 Sopan Khosla
 679
 517
 503
@@ -923,33 +923,33 @@
 
 + 10:45--12:15 Session 9
 
-= Session 9A: Language Generation ## %room Columbia A
+= Session 9A: Language Generation ## %room Columbia A %chair1 Vinay Bannihatti Kumar
 686 ## %award Award
 634
 126
 955
 673
-= Session 9B: Speech & Phonology, Morphology ## %room Columbia C
+= Session 9B: Speech & Phonology, Morphology ## %room Columbia C %chair1 Brian Roark
 158
 772
 247
 129
 61
-= Session 9C: Information Extraction 3 ## %room Columbia D
+= Session 9C: Information Extraction 3 ## %room Columbia D %chair1 Ben Van Durme
 535
 184
 472
 574
 462
 845
-= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A
+= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A %chair1 Swabha Swayamdipta
 699
 371
 26 ## %award Award
 1011
 818
 3519-tacl
-= Session 9E: NLP Applications 4 ## %room Elwha B
+= Session 9E: NLP Applications 4 ## %room Elwha B %chair1 Mohit Iyyer
 594
 398
 958
@@ -1022,35 +1022,35 @@
 
 + 14:15--15:45 Session 10
 
-= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A
+= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A %chair1 Diyi Yang
 524
 511
 172
 774
 495
 151
-= Session 10B: Semantics ## %room Columbia C
+= Session 10B: Semantics ## %room Columbia C %chair1 Nathan Schneider
 515
 950
 606
 936
 483
 729
-= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D %chair1 Jacob Andreas
 875
 826
 684
 607
 471
 2
-= Session 10D: Machine Learning 4 ## %room Elwha A
+= Session 10D: Machine Learning 4 ## %room Elwha A %chair1 Kenton Lee
 496
 846
 959
 266
 308
 152
-= Session 10E: Question Answering 2 ## %room Elwha B
+= Session 10E: Question Answering 2 ## %room Elwha B %chair1 Avi Sil
 506
 553
 240

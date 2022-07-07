@@ -34,15 +34,15 @@
 
 + 10:45--12:15 Session 1
 
-= Session 1A: Language Generation ## %room Columbia A
+= Session 1A: Language Generation ## %room Columbia A %chair1 Saadia Gabriel
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Language Generation"}
-= Session 1B: Summarization ## %room Columbia C
+= Session 1B: Summarization ## %room Columbia C %chair1 Jackie Cheung
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Summarization"}
-= Session 1C: Information Extraction ## %room Columbia D
+= Session 1C: Information Extraction ## %room Columbia D %chair1 Alan Ritter
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Information Extraction"}
-= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A
+= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A %chair1 Roy Schwarz
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Efficient Methods in NLP 1"}
-= Session 1E: Dialogue ## %room Elwha B
+= Session 1E: Dialogue ## %room Elwha B %chair1 Rashmi Gangadharaiah
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
 = Session 1F: In-person Poster Session 1 ## %room Regency A & B
 {"Session Name": "Poster session 1", "_group_by": "Track"}
@@ -55,15 +55,15 @@
 
 + 14:30--16:00 Session 2
 
-= Session 2A: Interpretability ## %room Columbia A
+= Session 2A: Interpretability ## %room Columbia A %chair1 Sebastian Schuster
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Interpretability"}
-= Session 2B: Semantics ## %room Columbia C
+= Session 2B: Semantics ## %room Columbia C %chair1 Jacob Eisenstein
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Semantics"}
-= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D
+= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D %chair1 Waleed Ammar
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Language Resources & Evaluation 1"}
-= Session 2D: Machine Translation 1 ## %room Elwha A
+= Session 2D: Machine Translation 1 ## %room Elwha A %chair1 Jonathan May
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Machine Translation 1"}
-= Session 2E: NLP Applications 1 ## %room Elwha B
+= Session 2E: NLP Applications 1 ## %room Elwha B %chair1 Preslav Nakov
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
 = Session 2F: In-person Poster Session 2 ## %room Regency A & B
 {"Session Name": "Poster session 2", "_group_by": "Track"}
@@ -83,15 +83,15 @@
 
 + 8:00--9:00 Session 3
 
-= Session 3A: Language Generation ## %room Columbia A
+= Session 3A: Language Generation ## %room Columbia A %chair1 Nanyun Peng
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Generation"}
-= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C
+= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C %chair1 Eduardo Blanco
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Semantics & Sentiment Analysis"}
-= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D
+= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D %chair1 Yogarshi Vyas
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Resources & Evaluation 2"}
-= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A
+= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A %chair1 Emma Strubell
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Efficient Methods in NLP 2"}
-= Session 3E: NLP Applications 2 ## %room Elwha B
+= Session 3E: NLP Applications 2 ## %room Elwha B %chair1 Danqi Chen
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "NLP Applications 2"}
 = Session 3F: Industry Oral Session 1 ## %room Quinault %chair1 Kasturi Bhattacharjee
 {"Session Name": "Industry Oral 1"}
@@ -108,15 +108,15 @@
 
 + 10:45--12:15 Session 4
 
-= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A
+= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A %chair1 Siva Reddy
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Interpretability and Analysis of Models for NLP 1"}
-= Session 4B: Summarization ## %room Columbia C
+= Session 4B: Summarization ## %room Columbia C %chair1 Greg Durrett
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Summarization"}
-= Session 4C: Information Retrieval ## %room Columbia D
+= Session 4C: Information Retrieval ## %room Columbia D %chair1 Pedro Rodriguez
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Information Retrieval"}
-= Session 4D: Language Grounding to Vision 1 ## %room Elwha A
+= Session 4D: Language Grounding to Vision 1 ## %room Elwha A %chair1 Parisa Kordjamshidi
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Language Grounding to Vision 1"}
-= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B
+= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B %chair1 Joao Sedoc
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
 = Session 4F: In-person Poster Session 3 ## %room Regency A & B
 {"Session Name": "Poster session 3", "_group_by": "Track"}
@@ -129,15 +129,15 @@
 
 + 14:15--15:45 Session 5
 
-= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A
+= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A %chair1 Kai-Wei Chang
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 1"}
-= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C
+= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C %chair1 Narges Tabari
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Sentiment Analysis & Stylistic Analysis"}
-= Session 5C: Information Extraction 1 ## %room Columbia D
+= Session 5C: Information Extraction 1 ## %room Columbia D %chair1 Luca Soldaini
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Information Extraction 1"}
-= Session 5D: Human-Centered NLP 1 ## %room Elwha A
+= Session 5D: Human-Centered NLP 1 ## %room Elwha A %chair1 Marti Hearst
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Human-Centered NLP 1"}
-= Session 5E: NLP Applications 3 ## %room Elwha B
+= Session 5E: NLP Applications 3 ## %room Elwha B %chair1 Jill Burstein
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
 = Session 5F: Industry Oral Session 2 ## %room Quinault %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
@@ -148,17 +148,17 @@
 
 + 16:15--17:45 Session 6
 
-= Session 6A: Language Grounding to Vision 2 ## %room Columbia A 
+= Session 6A: Language Grounding to Vision 2 ## %room Columbia A %chair1 Jesse Thomason
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Language Grounding to Vision 2"}
-= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C
+= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C %chair1 Miguel Ballesteros
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Syntax: Tagging, Chunking and Parsing"}
-= Session 6C: Multilinguality ## %room Columbia D
+= Session 6C: Multilinguality ## %room Columbia D %chair1 Antonis Anastasopoulos
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Multilinguality"}
-= Session 6D: Machine Learning for NLP 1 ## %room Elwha A
+= Session 6D: Machine Learning for NLP 1 ## %room Elwha A %chair1 Wei Xu
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Machine Learning for NLP 1"}
-= Session 6E: Question Answering 1 ## %room Elwha B
+= Session 6E: Question Answering 1 ## %room Elwha B %chair1 Ashish Sabharwal
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
-= Session 6F: SRW Thesis Proposals Session ## %room Quinault
+= Session 6F: SRW Thesis Proposals Session ## %room Quinault %chair1 Daphne Ippolito
 {"Day": "Day 2", "Session Name": "SRW Thesis Proposals"}
 = Session 6G: Industry/Demo Poster Session ## %room Regency A & B
 @ Industry Track Posters
@@ -178,17 +178,17 @@
 
 + 8:00--9:00 Session 7
 
-= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A
+= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A %chair1 Gabriel Stanovsky
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Interpretability and Analysis of Models for NLP 2"}
-= Session 7B: Summarization ## %room Columbia C
+= Session 7B: Summarization ## %room Columbia C %chair1 Jessica Ouyang
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Summarization"}
-= Session 7C: Information Extraction 2 ## %room Columbia D
+= Session 7C: Information Extraction 2 ## %room Columbia D %chair1 Qiang Ning
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Information Extraction 2"}
-= Session 7D: Machine Translation 2 ## %room Elwha A
+= Session 7D: Machine Translation 2 ## %room Elwha A %chair1 Kenneth Heafield
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Translation 2"}
-= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B
+= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B %chair1 Zhou Yu
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Dialogue and Interactive Systems 2"}
-= Session 7F: Machine Learning for NLP 2 ## %room Quinault
+= Session 7F: Machine Learning for NLP 2 ## %room Quinault %chair1 Marjan Ghazvininejad
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Learning for NLP 2"}
 = Session 7G: Virtual Poster Q&A Session 3 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 3", "_group_by": "Track"}
@@ -197,17 +197,17 @@
 
 + 9:15--10:15 Session 8
 
-= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A
+= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A %chair1 Yonatan Belinkov
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Interpretability and Analysis of Models for NLP 3"}
-= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C
+= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C %chair1 Lu Wang
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Computational Social Science and Cultural Analytics"}
-= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D
+= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D %chair1 Cissi Alm
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning & Human-Centered NLP 2"}
-= Session 8D: Machine Translation 3 ## %room Elwha A
+= Session 8D: Machine Translation 3 ## %room Elwha A %chair1 Graham Neubig
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Translation 3"}
-= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B
+= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B %chair1 Jinho Choi
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Dialogue and Interactive Systems 3"}
-= Session 8F: Machine Learning for NLP 3 ## %room Quinault
+= Session 8F: Machine Learning for NLP 3 ## %room Quinault %chair1 Sopan Khosla
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
 = Session 8G: Virtual Poster Q&A Session 4 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 4", "_group_by": "Track"}
@@ -218,15 +218,15 @@
 
 + 10:45--12:15 Session 9
 
-= Session 9A: Language Generation ## %room Columbia A
+= Session 9A: Language Generation ## %room Columbia A %chair1 Vinay Bannihatti Kumar
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Generation"}
-= Session 9B: Speech & Phonology, Morphology ## %room Columbia C
+= Session 9B: Speech & Phonology, Morphology ## %room Columbia C %chair1 Brian Roark
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Speech & Phonology, Morphology"}
-= Session 9C: Information Extraction 3 ## %room Columbia D
+= Session 9C: Information Extraction 3 ## %room Columbia D %chair1 Ben Van Durme
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Information Extraction 3"}
-= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A
+= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A %chair1 Swabha Swayamdipta
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Resources & Evaluation 3"}
-= Session 9E: NLP Applications 4 ## %room Elwha B
+= Session 9E: NLP Applications 4 ## %room Elwha B %chair1 Mohit Iyyer
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "NLP Applications 4"}
 = Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B
 {"Session Name": "Findings poster session 1", "_group_by": "Track"}
@@ -235,15 +235,15 @@
 
 + 14:15--15:45 Session 10
 
-= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A
+= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A %chair1 Diyi Yang
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 2"}
-= Session 10B: Semantics ## %room Columbia C
+= Session 10B: Semantics ## %room Columbia C %chair1 Nathan Schneider
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Semantics"}
-= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D %chair1 Jacob Andreas
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Linguistic Theories, Cognitive Modeling, Discourse"}
-= Session 10D: Machine Learning 4 ## %room Elwha A
+= Session 10D: Machine Learning 4 ## %room Elwha A %chair1 Kenton Lee
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Machine Learning 4"}
-= Session 10E: Question Answering 2 ## %room Elwha B
+= Session 10E: Question Answering 2 ## %room Elwha B %chair1 Avi Sil
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Question Answering 2"}
 = Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
 {"Session Name": "Findings poster session 2", "_group_by": "Track"}

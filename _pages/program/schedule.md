@@ -69,6 +69,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Saadia Gabriel</span></td></tr>
 <tr id="paper" paper-id="665"><td id="paper-time"></td><td><span class="paper-title">Learning to Transfer Prompts for Text Generation. </span><em>Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao</em></td></tr>
 <tr id="paper" paper-id="131"><td id="paper-time"></td><td><span class="paper-title">Long-term Control for Dialogue Generation: Methods and Evaluation. </span><em>Ramya Ramakrishnan, Hashan Buddhika Narangodage, Mauro Schilman, Kilian Q Weinberger, Ryan McDonald</em></td></tr>
 <tr id="paper" paper-id="551"><td id="paper-time"></td><td><span class="paper-title">PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided MCTS Decoding. </span><em>Antoine Chaffin, Vincent Claveau, Ewa Kijak</em></td></tr>
@@ -85,6 +86,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jackie Cheung</span></td></tr>
 <tr id="paper" paper-id="486"><td id="paper-time"></td><td><span class="paper-title">AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization. </span><em>Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona T. Diab</em></td></tr>
 <tr id="paper" paper-id="494"><td id="paper-time"></td><td><span class="paper-title">QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization. </span><em>Alexander Fabbri, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong</em></td></tr>
 <tr id="paper" paper-id="1050"><td id="paper-time"></td><td><span class="paper-title">Re-Examining System-Level Correlations of Automatic Summarization Evaluation Metrics. </span><em>Daniel Deutsch, Rotem Dror, Dan Roth</em></td></tr>
@@ -101,6 +103,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Alan Ritter</span></td></tr>
 <tr id="paper" paper-id="893"><td id="paper-time"></td><td><span class="paper-title">An Enhanced Span-based Decomposition Method for  Few-Shot Sequence Labeling. </span><em>Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui</em></td></tr>
 <tr id="paper" paper-id="905"><td id="paper-time"></td><td><span class="paper-title">Modeling Multi-Granularity Hierarchical Features for Relation Extraction. </span><em>Xinnian Liang, Shuangzhi Wu, Mu Li, Zhoujun Li</em></td></tr>
 <tr id="paper" paper-id="681"><td id="paper-time"></td><td><span class="paper-title">Contrastive Representation Learning for Cross-Document Coreference Resolution of Events and Entities. </span><em>Benjamin Hsu, Graham Horwood</em></td></tr>
@@ -117,6 +120,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Roy Schwarz</span></td></tr>
 <tr id="paper" paper-id="424"><td id="paper-time"></td><td><span class="paper-title">KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation. </span><em>Marzieh S. Tahaei, Ella Charlaix, Vahid Partovi Nia, Ali Ghodsi, Mehdi Rezagholizadeh</em></td></tr>
 <tr id="paper" paper-id="117"><td id="paper-time"></td><td><span class="paper-title">Meta Learning for Natural Language Processing: A Survey. </span><em>Hung-yi Lee, Shang-Wen Li, Thang Vu</em></td></tr>
 <tr id="paper" paper-id="750"><td id="paper-time"></td><td><span class="paper-title">On Transferability of Prompt Tuning for Natural Language Processing. </span><em>Yusheng Su, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou</em></td></tr>
@@ -133,6 +137,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Rashmi Gangadharaiah</span></td></tr>
 <tr id="paper" paper-id="627"><td id="paper-time"></td><td><span class="paper-title">LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking. </span><em>Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He</em></td></tr>
 <tr id="paper" paper-id="618"><td id="paper-time"></td><td><span class="paper-title">Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting. </span><em>Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang</em></td></tr>
 <tr id="paper" paper-id="593"><td id="paper-time"></td><td><span class="paper-title">Enhance Incomplete Utterance Restoration by Joint Learning Token Extraction and Text Generation. </span><em>Shumpei Inoue, Tsungwei Liu, Son Hong Nguyen, Minh-Tien Nguyen</em></td></tr>
@@ -211,6 +216,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sebastian Schuster</span></td></tr>
 <tr id="paper" paper-id="666"><td id="paper-time"></td><td><span class="paper-title">ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models. </span><em>Junyi Li, Tianyi Tang, Zheng Gong, Lixin Yang, Zhuohao Yu, Zhipeng Chen, Jingyuan Wang, Xin Zhao, Ji-Rong Wen</em></td></tr>
 <tr id="paper" paper-id="951"><td id="paper-time"></td><td><span class="paper-title">When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes. </span><em>Mycal Tucker, Tiwalayo Eisape, Peng Qian, Roger P. Levy, Julie Shah</em></td></tr>
 <tr id="paper" paper-id="948"><td id="paper-time"></td><td><span class="paper-title">ExSum: From Local Explanations to Model Understanding. </span><em>Yilun Zhou, Marco Tulio Ribeiro, Julie Shah</em></td></tr>
@@ -227,6 +233,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jacob Eisenstein</span></td></tr>
 <tr id="paper" paper-id="831"><td id="paper-time"></td><td><span class="paper-title">Testing the Ability of Language Models to Interpret Figurative Language. </span><em>Emmy Liu, Chenxuan Cui, Kenneth Zheng, Graham Neubig</em></td></tr>
 <tr id="paper" paper-id="827"><td id="paper-time"></td><td><span class="paper-title">Compositional Task-Oriented Parsing as Abstractive Question Answering. </span><em>Wenting Zhao, Konstantine Arkoudas, Weiqi Sun, Claire Cardie</em></td></tr>
 <tr id="paper" paper-id="824"><td id="paper-time"></td><td><span class="paper-title">Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling. </span><em>Jakob Prange, Nathan Schneider, Lingpeng Kong</em></td></tr>
@@ -243,6 +250,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Waleed Ammar</span></td></tr>
 <tr id="paper" paper-id="670"><td id="paper-time"></td><td><span class="paper-title">Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand. </span><em>Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Daniel Morrison, Alexander Fabbri, Yejin Choi, Noah Smith</em></td></tr>
 <tr id="paper" paper-id="954"><td id="paper-time"></td><td><span class="paper-title">CORWA: A Citation-Oriented Related Work Annotation Dataset. </span><em>Xiangci Li, Biswadip Mandal, Jessica Ouyang</em></td></tr>
 <tr id="paper" paper-id="973"><td id="paper-time"></td><td><span class="paper-title">Shedding New Light on the Language of the Dark Web. </span><em>Youngjin Jin, Eugene Jang, Yongjae Lee, Seungwon Shin, Jin-Woo Chung</em></td></tr>
@@ -259,6 +267,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jonathan May</span></td></tr>
 <tr id="paper" paper-id="945"><td id="paper-time"></td><td><span class="paper-title">Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance. </span><em>Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan, Bernhard Schölkopf</em></td></tr>
 <tr id="paper" paper-id="450"><td id="paper-time"></td><td><span class="paper-title">On Systematic Style Differences between Unsupervised and Supervised MT and an Application for High-Resource Machine Translation. </span><em>Kelly Marchisio, Markus Freitag, David Grangier</em></td></tr>
 <tr id="paper" paper-id="370"><td id="paper-time"></td><td><span class="paper-title">The Devil is in the Details: On the Pitfalls of Vocabulary Selection in Neural Machine Translation. </span><em>Tobias Domhan, Eva Hasler, Ke Tran, Sony Trenous, Bill Byrne, Felix Hieber</em></td></tr>
@@ -275,6 +284,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Preslav Nakov</span></td></tr>
 <tr id="paper" paper-id="193"><td id="paper-time"></td><td><span class="paper-title">ScAN: Suicide Attempt and Ideation Events Dataset. </span><em>Bhanu Pratap Singh Rawat, Samuel Kovaly, Hong Yu, Wilfred Pigeon</em></td></tr>
 <tr id="paper" paper-id="883"><td id="paper-time"></td><td><span class="paper-title">DUCK: Rumour Detection on Social Media by Modelling User and  Comment Propagation Networks. </span><em>LIN TIAN, Xiuzhen Zhang, Jey Han Lau</em></td></tr>
 <tr id="paper" paper-id="777"><td id="paper-time"></td><td><span class="paper-title">Early Rumor Detection Using Neural Hawkes Process with a New Benchmark Dataset. </span><em>Fengzhu ZENG, Wei Gao</em></td></tr>
@@ -369,6 +379,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Nanyun Peng</span></td></tr>
 <tr id="paper" paper-id="566"><td id="paper-time"></td><td><span class="paper-title">Low Resource Style Transfer via Domain Adaptive Meta Learning. </span><em>Xiangyang Li, Xiang Long, Yu Xia, Sujian Li</em></td></tr>
 <tr id="paper" paper-id="416"><td id="paper-time"></td><td><span class="paper-title">Don't Take It Literally: An Edit-Invariant Sequence Loss for Text Generation. </span><em>Guangyi Liu, Zichao Yang, Tianhua Tao, Xiaodan Liang, Junwei Bao, Zhen Li, Xiaodong He, Shuguang Cui, Zhiting Hu</em></td></tr>
 <tr id="paper" paper-id="87"><td id="paper-time"></td><td><span class="paper-title">Towards Robust and Semantically Organised Latent Representations for Unsupervised Text Style Transfer. </span><em>Sharan Narasimhan, Suvodip Dey, Maunendra Sankar Desarkar</em></td></tr>
@@ -383,6 +394,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Eduardo Blanco</span></td></tr>
 <tr id="paper" paper-id="3655-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Fact Checking with Insufficient Evidence. </span><em>Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein</em></td></tr>
 <tr id="paper" paper-id="892"><td id="paper-time"></td><td><span class="paper-title">A Double-Graph Based Framework for Frame Semantic Parsing. </span><em>Ce Zheng, Xudong Chen, Runxin Xu, Baobao Chang</em></td></tr>
 <tr id="paper" paper-id="970"><td id="paper-time"></td><td><span class="paper-title">Identifying Implicitly Abusive Remarks about Identity Groups using a Linguistically Informed Approach. </span><em>Michael Wiegand, Elisabeth Eder, Josef Ruppenhofer</em></td></tr>
@@ -397,6 +409,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Yogarshi Vyas</span></td></tr>
 <tr id="paper" paper-id="589"><td id="paper-time"></td><td><span class="paper-title">MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. </span><em>Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang</em></td></tr>
 <tr id="paper" paper-id="901"><td id="paper-time"></td><td><span class="paper-title">A Corpus for Understanding and Generating Moral Stories. </span><em>Jian Guan, Ziqi Liu, Minlie Huang</em></td></tr>
 <tr id="paper" paper-id="457"><td id="paper-time"></td><td><span class="paper-title">End-to-End Chinese Speaker Identification. </span><em>Dian Yu, Ben Zhou, Dong Yu</em></td></tr>
@@ -411,6 +424,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Emma Strubell</span></td></tr>
 <tr id="paper" paper-id="1006"><td id="paper-time"></td><td><span class="paper-title">Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training. </span><em>Yuanxin Liu, Fandong Meng, Zheng Lin, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</em></td></tr>
 <tr id="paper" paper-id="746"><td id="paper-time"></td><td><span class="paper-title">Knowledge Inheritance for Pre-trained Language Models. </span><em>Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, Yusheng Su, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou</em></td></tr>
 <tr id="paper" paper-id="614"><td id="paper-time"></td><td><span class="paper-title">Towards Efficient NLP: A Standard Evaluation and A Strong Baseline. </span><em>Xiangyang Liu, Tianxiang Sun, JunLiang He, Jiawen Wu, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu</em></td></tr>
@@ -425,6 +439,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Danqi Chen</span></td></tr>
 <tr id="paper" paper-id="636"><td id="paper-time"></td><td><span class="paper-title">CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking. </span><em>Xuming Hu, Zhijiang Guo, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu</em></td></tr>
 <tr id="paper" paper-id="565"><td id="paper-time"></td><td><span class="paper-title">Progressive Class Semantic Matching for Semi-supervised Text Classification. </span><em>Haiming Xu, Lingqiao Liu, Ehsan M Abbasnejad</em></td></tr>
 <tr id="paper" paper-id="610"><td id="paper-time"></td><td><span class="paper-title">Unsupervised Paraphrasability Prediction for Compound Nominalizations. </span><em>John Sie Yuen Lee, Ho Hung Lim, Carol Webster</em></td></tr>
@@ -562,6 +577,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Siva Reddy</span></td></tr>
 <tr id="paper" paper-id="841"><td id="paper-time"></td><td><span class="paper-title">Measure and Improve Robustness in NLP Models: A Survey. </span><em>Xuezhi Wang, Haohan Wang, Diyi Yang</em></td></tr>
 <tr id="paper" paper-id="840"><td id="paper-time"></td><td><span class="paper-title">Using Paraphrases to Study Properties of Contextual Embeddings. </span><em>Laura Burdick, Jonathan K Kummerfeld, Rada Mihalcea</em></td></tr>
 <tr id="paper" paper-id="704"><td id="paper-time"></td><td><span class="paper-title">Can Rationalization Improve Robustness?. </span><em>Howard Chen, Jacqueline He, Karthik R Narasimhan, Danqi Chen</em></td></tr>
@@ -578,6 +594,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Greg Durrett</span></td></tr>
 <tr id="paper" paper-id="591"><td id="paper-time"></td><td><span class="paper-title">NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias. </span><em>Nayeon Lee, Yejin Bang, Tiezheng YU, Andrea Madotto, Pascale Fung</em></td></tr>
 <tr id="paper" paper-id="776"><td id="paper-time"></td><td><span class="paper-title">Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization. </span><em>Jingyi You, Dongyuan Li, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura</em></td></tr>
 <tr id="paper" paper-id="490"><td id="paper-time"></td><td><span class="paper-title">Interactive Query-Assisted Summarization via Deep Reinforcement Learning. </span><em>Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Ido Dagan, Yael Amsterdamer</em></td></tr>
@@ -594,6 +611,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Pedro Rodriguez</span></td></tr>
 <tr id="paper" paper-id="40"><td id="paper-time"></td><td><span class="paper-title">CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data. </span><em>Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang</em></td></tr>
 <tr id="paper" paper-id="465"><td id="paper-time"></td><td><span class="paper-title">GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval. </span><em>Kexin Wang, Nandan Thakur, Nils Reimers, Iryna Gurevych</em></td></tr>
 <tr id="paper" paper-id="580"><td id="paper-time"></td><td><span class="paper-title">Boosted Dense Retriever. </span><em>Patrick Lewis, Barlas Oguz, Wenhan Xiong, Fabio Petroni, Scott Yih, Sebastian Riedel</em></td></tr>
@@ -610,6 +628,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Parisa Kordjamshidi</span></td></tr>
 <tr id="paper" paper-id="174"><td id="paper-time"></td><td><span class="paper-title">KAT: A Knowledge Augmented Transformer for Vision-and-Language. </span><em>Liangke Gui, Borui Wang, Qiuyuan Huang, Alexander G Hauptmann, Yonatan Bisk, Jianfeng Gao</em></td></tr>
 <tr id="paper" paper-id="527"><td id="paper-time"></td><td><span class="paper-title">Do Trajectories Encode Verb Meaning?. </span><em>Dylan Ebert, Chen Sun, Ellie Pavlick</em></td></tr>
 <tr id="paper" paper-id="1043"><td id="paper-time"></td><td><span class="paper-title">Diagnosing Vision-and-Language Navigation: What Really Matters. </span><em>Wanrong Zhu, Yuankai Qi, Pradyumna Narayana, Kazoo Sone, Sugato Basu, Xin Eric Wang, Qi Wu, Miguel Eckstein, William Yang Wang</em></td></tr>
@@ -626,6 +645,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Joao Sedoc</span></td></tr>
 <tr id="paper" paper-id="456"><td id="paper-time"></td><td><span class="paper-title">Learning to Express in Knowledge-Grounded Conversation. </span><em>Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan</em></td></tr>
 <tr id="paper" paper-id="926"><td id="paper-time"></td><td><span class="paper-title">Partner Personas Generation for Dialogue Response Generation. </span><em>Hongyuan Lu, Wai Lam, Hong Cheng, Helen M. Meng</em></td></tr>
 <tr id="paper" paper-id="522"><td id="paper-time"></td><td><span class="paper-title">Robust Conversational Agents against Imperceptible Toxicity Triggers. </span><em>Ninareh Mehrabi, Ahmad Beirami, Fred Morstatter, Aram Galstyan</em></td></tr>
@@ -695,6 +715,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kai-Wei Chang</span></td></tr>
 <tr id="paper" paper-id="867"><td id="paper-time"></td><td><span class="paper-title">What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review. </span><em>Terne Sasha Thorn Jakobsen, Anna Rogers</em></td></tr>
 <tr id="paper" paper-id="245"><td id="paper-time"></td><td><span class="paper-title">Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models. </span><em>Yang Trista Cao, Anna Sotnikova, Hal Daumé III, Rachel Rudinger, Linda Zou</em></td></tr>
 <tr id="paper" paper-id="674"><td id="paper-time"></td><td><span class="paper-title">Benchmarking Intersectional Biases in NLP. </span><em>John P. Lalor, Yi Yang, Kendall Smith, Nicole Forsgren, Ahmed Abbasi</em></td></tr>
@@ -711,6 +732,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Narges Tabari</span></td></tr>
 <tr id="paper" paper-id="28"><td id="paper-time"></td><td><span class="paper-title">Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia. </span><em>Samee Omotayo Ibraheem, Gaoyue Zhou, John DeNero</em></td></tr>
 <tr id="paper" paper-id="981"><td id="paper-time"></td><td><span class="paper-title">CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation. </span><em>Joosung Lee, Wooin Lee</em></td></tr>
 <tr id="paper" paper-id="785"><td id="paper-time"></td><td><span class="paper-title">COGMEN: COntextualized GNN based Multimodal Emotion recognitioN. </span><em>Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Vikram Singh, Ashutosh Modi</em></td></tr>
@@ -727,6 +749,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Luca Soldaini</span></td></tr>
 <tr id="paper" paper-id="379"><td id="paper-time"></td><td><span class="paper-title">DEGREE: A Data-Efficient Generation-Based Event Extraction Model. </span><em>I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng</em></td></tr>
 <tr id="paper" paper-id="3721-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Text-based NP Enrichment. </span><em>Yanai Elazar, Victoria Basmov, Yoav Goldberg</em></td></tr>
 <tr id="paper" paper-id="991"><td id="paper-time"></td><td><span class="paper-title">Few-Shot Document-Level Relation Extraction. </span><em>Nicholas Popovic, Michael Färber</em></td></tr>
@@ -743,6 +766,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Marti Hearst</span></td></tr>
 <tr id="paper" paper-id="86-special"><td id="paper-time"></td><td><span class="paper-title">Mapping the Design Space of Human-AI Interaction in Text Summarization. </span><em>Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel R. Tetreault, Alejandro Jaimes</em></td></tr>
 <tr id="paper" paper-id="53-special"><td id="paper-time"></td><td><span class="paper-title">Deconstructing NLG Evaluation: Evaluation Practices, Assumptions, and Their Implications. </span><em>Kaitlyn Zhou, Su Lin Blodgett, Adam Trischler, Hal Daumé III, Kaheer Suleman, Alexandra Olteanu</em></td></tr>
 <tr id="paper" paper-id="111-special"><td id="paper-time"></td><td><span class="paper-title">User-Centric Gender Rewriting. </span><em>Bashar Alhafni, Nizar Habash, Houda Bouamor</em></td></tr>
@@ -759,6 +783,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jill Burstein</span></td></tr>
 <tr id="paper" paper-id="964"><td id="paper-time"></td><td><span class="paper-title">Cryptocurrency Bubble Detection: A New Stock Market Dataset, Financial Task & Hyperbolic Models. </span><em>Ramit Sawhney, Shivam Agarwal, Vivek Mittal, Paolo Rosso, Vikram Nanda, Sudheer Chava</em></td></tr>
 <tr id="paper" paper-id="277"><td id="paper-time"></td><td><span class="paper-title">Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays. </span><em>Rahul Kumar, Sandeep Mathias, Sriparna Saha, Pushpak Bhattacharyya</em></td></tr>
 <tr id="paper" paper-id="1044"><td id="paper-time"></td><td><span class="paper-title">Aligning to Social Norms and Values in Interactive Narratives. </span><em>Prithviraj Ammanabrolu, Liwei Jiang, Maarten Sap, Hannaneh Hajishirzi, Yejin Choi</em></td></tr>
@@ -830,6 +855,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jesse Thomason</span></td></tr>
 <tr id="paper" paper-id="391"><td id="paper-time"></td><td><span class="paper-title">All You May Need for VQA are Image Captions. </span><em>Soravit Changpinyo, Doron Kukliansy, Idan Szpektor, Xi Chen, Nan Ding, Radu Soricut</em></td></tr>
 <tr id="paper" paper-id="825"><td id="paper-time"></td><td><span class="paper-title">Imagination-Augmented Natural Language Understanding. </span><em>Yujie Lu, Wanrong Zhu, Xin Eric Wang, Miguel Eckstein, William Yang Wang</em></td></tr>
 <tr id="paper" paper-id="946"><td id="paper-time"></td><td><span class="paper-title">Visual Commonsense in Pretrained Unimodal and Multimodal Models. </span><em>Chenyu Zhang, Benjamin Van Durme, Zhuowan Li, Elias Stengel-Eskin</em></td></tr>
@@ -846,6 +872,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Miguel Ballesteros</span></td></tr>
 <tr id="paper" paper-id="0-cl"><td id="paper-time"></td><td><span class="paper-title">[CL] Tractable Parsing for CCGs of Bounded Degree. </span><em>Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta</em></td></tr>
 <tr id="paper" paper-id="990"><td id="paper-time"></td><td><span class="paper-title">Template-free Prompt Tuning for Few-shot NER. </span><em>Ruotian Ma, Xin Zhou, Tao Gui, Yiding Tan, Linyang Li, Qi Zhang, Xuanjing Huang</em></td></tr>
 <tr id="paper" paper-id="516"><td id="paper-time"></td><td><span class="paper-title">Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition. </span><em>Besnik Fetahu, Anjie Fang, Oleg Rokhlenko, Shervin Malmasi</em></td></tr>
@@ -862,6 +889,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Antonis Anastasopoulos</span></td></tr>
 <tr id="paper" paper-id="878"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank. </span><em>Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky</em></td></tr>
 <tr id="paper" paper-id="676"><td id="paper-time"></td><td><span class="paper-title">When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer. </span><em>Ameet Deshpande, Partha Talukdar, Karthik R Narasimhan</em></td></tr>
 <tr id="paper" paper-id="662"><td id="paper-time"></td><td><span class="paper-title">Lifting the Curse of Multilinguality by Pre-training Modular Transformers. </span><em>Jonas Pfeiffer, Naman Goyal, Xi Victoria Lin, Xian Li, James Cross, Sebastian Riedel, Mikel Artetxe</em></td></tr>
@@ -878,6 +906,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Wei Xu</span></td></tr>
 <tr id="paper" paper-id="966"><td id="paper-time"></td><td><span class="paper-title">DEMix Layers: Disentangling Domains for Modular Language Modeling. </span><em>Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah Smith, Luke Zettlemoyer</em></td></tr>
 <tr id="paper" paper-id="796"><td id="paper-time"></td><td><span class="paper-title">Practice Makes a Solver Perfect: Data Augmentation for Math Word Problem Solvers. </span><em>Vivek Kumar, Rishabh Maheshwary, Vikram Pudi</em></td></tr>
 <tr id="paper" paper-id="851"><td id="paper-time"></td><td><span class="paper-title">Quantifying Adaptability in Pre-trained Language Models with 500 Tasks. </span><em>Belinda Z. Li, Jane A. Yu, Madian Khabsa, Luke Zettlemoyer, Alon Y. Halevy, Jacob Andreas</em></td></tr>
@@ -894,6 +923,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Ashish Sabharwal</span></td></tr>
 <tr id="paper" paper-id="947"><td id="paper-time"></td><td><span class="paper-title">QuALITY: Question Answering with Long Input Texts, Yes!. </span><em>Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny L Ma, Jana Thompson, He He, Samuel R. Bowman</em></td></tr>
 <tr id="paper" paper-id="91"><td id="paper-time"></td><td><span class="paper-title">On the Robustness of Reading Comprehension Models to Entity Renaming. </span><em>Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, Xiang Ren</em></td></tr>
 <tr id="paper" paper-id="169"><td id="paper-time"></td><td><span class="paper-title">OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering. </span><em>Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen</em></td></tr>
@@ -910,6 +940,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
 <span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6f-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Daphne Ippolito</span></td></tr>
 <tr id="paper" paper-id="23-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Methods for Estimating and Improving Robustness of Language Models. </span><em>Michal Stefanik</em></td></tr>
 <tr id="paper" paper-id="24-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Retrieval-augmented Generation across Heterogeneous Knowledge. </span><em>Wenhao Yu</em></td></tr>
 <tr id="paper" paper-id="25-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Neural Retriever and Go Beyond: A Thesis Proposal. </span><em>Man Luo</em></td></tr>
@@ -1080,6 +1111,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Gabriel Stanovsky</span></td></tr>
 <tr id="paper" paper-id="177"><td id="paper-time"></td><td><span class="paper-title">When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it. </span><em>Sebastian Schuster, Tal Linzen</em></td></tr>
 <tr id="paper" paper-id="577"><td id="paper-time"></td><td><span class="paper-title">Analyzing Encoded Concepts in Transformer Language Models. </span><em>Hassan Sajjad, Nadir Durrani, Fahim Dalvi, Firoj Alam, Abdul Rafae Khan, Jia Xu</em></td></tr>
 <tr id="paper" paper-id="226"><td id="paper-time"></td><td><span class="paper-title">Probing via Prompting. </span><em>Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan</em></td></tr>
@@ -1094,6 +1126,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jessica Ouyang</span></td></tr>
 <tr id="paper" paper-id="719"><td id="paper-time"></td><td><span class="paper-title">From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization. </span><em>Yue Fang, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou</em></td></tr>
 <tr id="paper" paper-id="873"><td id="paper-time"></td><td><span class="paper-title">Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization. </span><em>Lulu Zhao, Fujia Zheng, Weihao Zeng, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu</em></td></tr>
 <tr id="paper" paper-id="985"><td id="paper-time"></td><td><span class="paper-title">DialSummEval: Revisiting Summarization Evaluation for Dialogues. </span><em>Mingqi Gao, Xiaojun Wan</em></td></tr>
@@ -1108,6 +1141,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Qiang Ning</span></td></tr>
 <tr id="paper" paper-id="771"><td id="paper-time"></td><td><span class="paper-title">Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting. </span><em>Linzhi Wu, Pengjun Xie, Jie Zhou, Meishan Zhang, Ma Chunping, Guangwei Xu, Min Zhang</em></td></tr>
 <tr id="paper" paper-id="700"><td id="paper-time"></td><td><span class="paper-title">GMN: Generative Multi-modal Network for Practical Document Information Extraction. </span><em>Haoyu Cao, Jiefeng Ma, Antai Guo, Yiqing Hu, Hao Liu, Deqiang Jiang, Yinsong Liu, Bo Ren</em></td></tr>
 <tr id="paper" paper-id="751"><td id="paper-time"></td><td><span class="paper-title">DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction. </span><em>MeiHan Tong, Bin Xu, Shuai Wang, Meihuan Han, Yixin Cao, Jiangqi Zhu, Siyu Chen, Lei Hou, Juanzi Li</em></td></tr>
@@ -1122,6 +1156,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kenneth Heafield</span></td></tr>
 <tr id="paper" paper-id="999"><td id="paper-time"></td><td><span class="paper-title">Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. </span><em>Chun Zeng, Jiangjie Chen, Tianyi Zhuang, Rui Xu, Hao Yang, Qin Ying, shimin tao, Yanghua Xiao</em></td></tr>
 <tr id="paper" paper-id="965"><td id="paper-time"></td><td><span class="paper-title">Nearest Neighbor Knowledge Distillation for Neural Machine Translation. </span><em>Zhixian Yang, Renliang Sun, Xiaojun Wan</em></td></tr>
 <tr id="paper" paper-id="907"><td id="paper-time"></td><td><span class="paper-title">Cross-modal Contrastive Learning for Speech Translation. </span><em>Rong Ye, Mingxuan Wang, Lei Li</em></td></tr>
@@ -1136,6 +1171,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Zhou Yu</span></td></tr>
 <tr id="paper" paper-id="1001"><td id="paper-time"></td><td><span class="paper-title">Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation. </span><em>Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen</em></td></tr>
 <tr id="paper" paper-id="80"><td id="paper-time"></td><td><span class="paper-title">Diversifying Neural Dialogue Generation via Negative Distillation. </span><em>Yiwei Li, Shaoxiong Feng, Bin Sun, Kan Li</em></td></tr>
 <tr id="paper" paper-id="861"><td id="paper-time"></td><td><span class="paper-title">Learning as Conversation: Dialogue Systems Reinforced for Information Acquisition. </span><em>Pengshan Cai, Hui Wan, Fei Liu, Mo Yu, hong yu, Sachindra Joshi</em></td></tr>
@@ -1150,6 +1186,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
 <span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7f-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Marjan Ghazvininejad</span></td></tr>
 <tr id="paper" paper-id="993"><td id="paper-time"></td><td><span class="paper-title">LaMemo: Language Modeling with Look-Ahead Memory. </span><em>Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang</em></td></tr>
 <tr id="paper" paper-id="3765-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity. </span><em>Yiding Hao, Dana Angluin, Robert Evan Frank</em></td></tr>
 <tr id="paper" paper-id="843"><td id="paper-time"></td><td><span class="paper-title">Symbolic Knowledge Distillation: from General Language Models to Commonsense Models. </span><em>Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi</em></td></tr>
@@ -1263,6 +1300,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Yonatan Belinkov</span></td></tr>
 <tr id="paper" paper-id="994"><td id="paper-time"></td><td><span class="paper-title">Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs. </span><em>Ghazi Felhi, Joseph Le Roux, Djamé Seddah</em></td></tr>
 <tr id="paper" paper-id="1035"><td id="paper-time"></td><td><span class="paper-title">Time Waits for No One! Analysis and Challenges of Temporal Misalignment. </span><em>Kelvin Luu, Daniel Khashabi, Suchin Gururangan, Karishma Mandyam, Noah Smith</em></td></tr>
 <tr id="paper" paper-id="1000"><td id="paper-time"></td><td><span class="paper-title">What do Toothbrushes do in the Kitchen? How Transformers Think our World is Structured. </span><em>Alexander Henlein, Alexander Mehler</em></td></tr>
@@ -1277,6 +1315,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Lu Wang</span></td></tr>
 <tr id="paper" paper-id="882"><td id="paper-time"></td><td><span class="paper-title">Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy. </span><em>Allison Lahnala, Charles Welch, Béla Neuendorf, Lucie Flek</em></td></tr>
 <tr id="paper" paper-id="255"><td id="paper-time"></td><td><span class="paper-title">Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-Based Hate. </span><em>Hannah Rose Kirk, Bertie Vidgen, Paul Rottger, Tristan Thrush, Scott A. Hale</em></td></tr>
 <tr id="paper" paper-id="1002"><td id="paper-time"></td><td><span class="paper-title">A Holistic Framework for Analyzing the COVID-19 Vaccine Debate. </span><em>Maria Leonor Pacheco, Tunazzina Islam, Monal Mahajan, Andrey Shor, Ming Yin, Lyle Ungar, Dan Goldwasser</em></td></tr>
@@ -1291,6 +1330,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Cissi Alm</span></td></tr>
 <tr id="paper" paper-id="3601-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. </span><em>Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor</em></td></tr>
 <tr id="paper" paper-id="3593-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Heterogeneous Supervised Topic Models. </span><em>Dhanya Sridhar, Hal Daumé III, David Meir Blei</em></td></tr>
 <tr id="paper" paper-id="34-special"><td id="paper-time"></td><td><span class="paper-title">Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks. </span><em>Paul Rottger, Bertie Vidgen, Dirk Hovy, Janet B. Pierrehumbert</em></td></tr>
@@ -1305,6 +1345,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Graham Neubig</span></td></tr>
 <tr id="paper" paper-id="835"><td id="paper-time"></td><td><span class="paper-title">SURF: Semantic-level Unsupervised Reward Function for Machine Translation. </span><em>Atijit Anuchitanukul, Julia Ive</em></td></tr>
 <tr id="paper" paper-id="870"><td id="paper-time"></td><td><span class="paper-title">Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information. </span><em>Niccolò Campolungo, Tommaso Pasini, Denis Emelin, Roberto Navigli</em></td></tr>
 <tr id="paper" paper-id="884"><td id="paper-time"></td><td><span class="paper-title">Jam or Cream First? Modeling Ambiguity in Neural Machine Translation with SCONES. </span><em>Felix Stahlberg, Shankar Kumar</em></td></tr>
@@ -1319,6 +1360,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jinho Choi</span></td></tr>
 <tr id="paper" paper-id="97"><td id="paper-time"></td><td><span class="paper-title">Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization. </span><em>Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Y.S. Lam</em></td></tr>
 <tr id="paper" paper-id="1010"><td id="paper-time"></td><td><span class="paper-title">You Don’t Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers’ Private Personas. </span><em>Haoran Li, Yangqiu Song, Lixin Fan</em></td></tr>
 <tr id="paper" paper-id="233"><td id="paper-time"></td><td><span class="paper-title">Unsupervised Slot Schema Induction for Task-oriented Dialog. </span><em>Dian Yu, Mingqiu Wang, Yuan Cao, Izhak Shafran, Laurent El Shafey, Hagen Soltau</em></td></tr>
@@ -1333,6 +1375,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
 <span class="session-location">Quinault</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8f-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sopan Khosla</span></td></tr>
 <tr id="paper" paper-id="679"><td id="paper-time"></td><td><span class="paper-title">Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts. </span><em>Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Sameer Singh, Yejin Choi</em></td></tr>
 <tr id="paper" paper-id="517"><td id="paper-time"></td><td><span class="paper-title">MetaICL: Learning to Learn In Context. </span><em>Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi</em></td></tr>
 <tr id="paper" paper-id="503"><td id="paper-time"></td><td><span class="paper-title">Learning To Retrieve Prompts for In-Context Learning. </span><em>Ohad Rubin, Jonathan Herzig, Jonathan Berant</em></td></tr>
@@ -1431,6 +1474,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Vinay Bannihatti Kumar</span></td></tr>
 <tr id="paper" paper-id="686"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">FRUIT: Faithfully Reflecting Updated Information in Text. </span><em>Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang</em></td></tr>
 <tr id="paper" paper-id="634"><td id="paper-time"></td><td><span class="paper-title">Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation. </span><em>Zhexin Zhang, Jiaxin Wen, Jian Guan, Minlie Huang</em></td></tr>
 <tr id="paper" paper-id="126"><td id="paper-time"></td><td><span class="paper-title">Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation. </span><em>Jinyi Hu, Xiaoyuan Yi, Wenhao Li, Maosong Sun, Xing Xie</em></td></tr>
@@ -1446,6 +1490,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Brian Roark</span></td></tr>
 <tr id="paper" paper-id="158"><td id="paper-time"></td><td><span class="paper-title">Textless Speech-to-Speech Translation on Real Data. </span><em>Ann Lee, Hongyu Gong, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Yossi Adi, Juan Pino, Jiatao Gu, Wei-Ning Hsu</em></td></tr>
 <tr id="paper" paper-id="772"><td id="paper-time"></td><td><span class="paper-title">Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages. </span><em>Ramy Eskander, Cass Lowry, Sujay Khandagale, Judith Lynn Klavans, Maria Polinsky, Smaranda Muresan</em></td></tr>
 <tr id="paper" paper-id="247"><td id="paper-time"></td><td><span class="paper-title">Quantifying Synthesis and Fusion and their Impact on Machine Translation. </span><em>Arturo Oncevay, Duygu Ataman, Niels van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva</em></td></tr>
@@ -1461,6 +1506,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Ben Van Durme</span></td></tr>
 <tr id="paper" paper-id="535"><td id="paper-time"></td><td><span class="paper-title">Improving Entity Disambiguation by Reasoning over a Knowledge Base. </span><em>Tom Ayoola, Joseph Fisher, Andrea Pierleoni</em></td></tr>
 <tr id="paper" paper-id="184"><td id="paper-time"></td><td><span class="paper-title">DocTime: A Document-level Temporal Dependency Graph Parser. </span><em>Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova, Dinesh Manocha, Rajiv Jain</em></td></tr>
 <tr id="paper" paper-id="472"><td id="paper-time"></td><td><span class="paper-title">SAIS: Supervising and Augmenting Intermediate Steps for Document-Level Relation Extraction. </span><em>Yuxin Xiao, Zecheng Zhang, Yuning Mao, Carl Yang, Jiawei Han</em></td></tr>
@@ -1477,6 +1523,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Swabha Swayamdipta</span></td></tr>
 <tr id="paper" paper-id="699"><td id="paper-time"></td><td><span class="paper-title">Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants. </span><em>Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela</em></td></tr>
 <tr id="paper" paper-id="371"><td id="paper-time"></td><td><span class="paper-title">MultiCite: Modeling realistic citations requires moving beyond the single-sentence single-label setting. </span><em>Anne Lauscher, Brandon Ko, Bailey Kuehl, Sophie Johnson, Arman Cohan, David Jurgens, Kyle Lo</em></td></tr>
 <tr id="paper" paper-id="26"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">NewsEdits: A News Article Revision Dataset and a Novel Document-Level Reasoning Challenge. </span><em>Alexander Spangher, Xiang Ren, Jonathan May, Nanyun Peng</em></td></tr>
@@ -1493,6 +1540,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Mohit Iyyer</span></td></tr>
 <tr id="paper" paper-id="594"><td id="paper-time"></td><td><span class="paper-title">Efficient Constituency Tree based Encoding for Natural Language to Bash Translation. </span><em>Shikhar Bharadwaj, Shirish Shevade</em></td></tr>
 <tr id="paper" paper-id="398"><td id="paper-time"></td><td><span class="paper-title">Multi-Relational Graph Transformer for Automatic Short Answer Grading. </span><em>Rajat Agarwal, Varun Khurana, Karish Grover, Mukesh Mohania, Vikram Goyal</em></td></tr>
 <tr id="paper" paper-id="958"><td id="paper-time"></td><td><span class="paper-title">ConfliBERT: A Pre-trained Language Model for Political Conflict and Violence. </span><em>Yibo Hu, MohammadSaleh Hosseini, Erick Skorupa Parolin, Javier Osorio, Latifur Khan, Patrick Brandt, Vito D'Orazio</em></td></tr>
@@ -1583,6 +1631,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Columbia A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10a-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Diyi Yang</span></td></tr>
 <tr id="paper" paper-id="524"><td id="paper-time"></td><td><span class="paper-title">Selective Differential Privacy for Language Modeling. </span><em>Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu</em></td></tr>
 <tr id="paper" paper-id="511"><td id="paper-time"></td><td><span class="paper-title">Federated Learning with Noisy User Feedback. </span><em>Rahul Sharma, Anil Ramakrishna, Ansel MacLaughlin, Anna Rumshisky, Jimit Majmudar, Clement Chung, Salman Avestimehr, Rahul Gupta</em></td></tr>
 <tr id="paper" paper-id="172"><td id="paper-time"></td><td><span class="paper-title">Provably Confidential Language Modelling. </span><em>Xuandong Zhao, Lei Li, Yu-Xiang Wang</em></td></tr>
@@ -1599,6 +1648,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Columbia C</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10b-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Nathan Schneider</span></td></tr>
 <tr id="paper" paper-id="515"><td id="paper-time"></td><td><span class="paper-title">Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization. </span><em>Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych</em></td></tr>
 <tr id="paper" paper-id="950"><td id="paper-time"></td><td><span class="paper-title">Maximum Bayes Smatch Ensemble Distillation for AMR Parsing. </span><em>Young-Suk Lee, Ramon Fernandez Astudillo, Hoang Thanh Lam, Tahira Naseem, Radu Florian, Salim Roukos</em></td></tr>
 <tr id="paper" paper-id="606"><td id="paper-time"></td><td><span class="paper-title">Curriculum: A Broad-Coverage Benchmark for Linguistic Phenomena in Natural Language Understanding. </span><em>Zeming Chen, Qiyue Gao</em></td></tr>
@@ -1615,6 +1665,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Columbia D</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10c-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jacob Andreas</span></td></tr>
 <tr id="paper" paper-id="875"><td id="paper-time"></td><td><span class="paper-title">Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. </span><em>Ruixiang Cui, Daniel Hershcovich, Anders Søgaard</em></td></tr>
 <tr id="paper" paper-id="826"><td id="paper-time"></td><td><span class="paper-title">What company do words keep? Revisiting the distributional semantics of J.R. Firth & Zellig Harris. </span><em>Mikael Brunila, Jack LaViolette</em></td></tr>
 <tr id="paper" paper-id="684"><td id="paper-time"></td><td><span class="paper-title">Learning the Ordering of Coordinate Compounds and Elaborate Expressions in Hmong, Lahu, and Chinese. </span><em>Chenxuan Cui, Katherine J. Zhang, David R Mortensen</em></td></tr>
@@ -1631,6 +1682,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Elwha A</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10d-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kenton Lee</span></td></tr>
 <tr id="paper" paper-id="496"><td id="paper-time"></td><td><span class="paper-title">A Structured Span Selector. </span><em>Tianyu Liu, Yuchen Eleanor Jiang, Ryan Cotterell, Mrinmaya Sachan</em></td></tr>
 <tr id="paper" paper-id="846"><td id="paper-time"></td><td><span class="paper-title">Entity Linking via Explicit Mention-Mention Coreference Modeling. </span><em>Dhruv Agarwal, Rico Angell, Nicholas Monath, Andrew McCallum</em></td></tr>
 <tr id="paper" paper-id="959"><td id="paper-time"></td><td><span class="paper-title">Automatic Multi-Label Prompting: Simple and Interpretable Few-Shot Classification. </span><em>Han Wang, Canwen Xu, Julian McAuley</em></td></tr>
@@ -1647,6 +1699,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
 <span class="session-location">Elwha B</span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10e-deselector">Remove All</a><table class="paper-table">
+<tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Avi Sil</span></td></tr>
 <tr id="paper" paper-id="506"><td id="paper-time"></td><td><span class="paper-title">Learning to Retrieve Passages without Supervision. </span><em>Ori Ram, Gal Shachaf, Omer Levy, Jonathan Berant, Amir Globerson</em></td></tr>
 <tr id="paper" paper-id="553"><td id="paper-time"></td><td><span class="paper-title">Interpretable Proof Generation via Iterative Backward Reasoning. </span><em>Hanhao Qu, Yu Cao, Jun Gao, Liang Ding, Ruifeng Xu</em></td></tr>
 <tr id="paper" paper-id="240"><td id="paper-time"></td><td><span class="paper-title">MultiSpanQA: A Dataset for Multi-Span Question Answering. </span><em>Haonan Li, Martin Tomko, Maria Vasardani, Timothy Baldwin</em></td></tr>

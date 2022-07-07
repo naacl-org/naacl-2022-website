@@ -544,6 +544,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="493"><td><span class="poster-title">Training Mixed-Domain Translation Models via Federated Learning. </span><em>Peyman Passban, Tanya Roosta, Rahul Gupta, Ankit Chadha, Clement Chung</em></td></tr>
 <tr id="poster" poster-id="747"><td><span class="poster-title">Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation. </span><em>Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang</em></td></tr>
 <tr id="poster" poster-id="879"><td><span class="poster-title">[Findings] Latent Group Dropout for Multilingual and Multidomain Machine Translation. </span><em>Minh-Quang PHAM, François Yvon, Josep Crego</em></td></tr>
+<tr id="poster" poster-id="911"><td><span class="poster-title">[Findings] Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation. </span><em>Huan Lin, Baosong Yang, Liang Yao, Dayiheng Liu, Haibo Zhang, jun xie, Min Zhang, Jinsong Su</em></td></tr>
 </table>
 </div>
 </div>
@@ -1193,6 +1194,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="598"><td><span class="poster-title">[Findings] Revisiting Generative Commonsense Reasoning: A Pre-Ordering Approach. </span><em>Chao Zhao, Faeze Brahman, Tenghao Huang, Snigdha Chaturvedi</em></td></tr>
 <tr id="poster" poster-id="916"><td><span class="poster-title">[Findings] Learning from Bootstrapping and Stepwise Reinforcement Reward: A Semi-Supervised Framework for Text Style Transfer. </span><em>Zhengyuan Liu, Nancy F. Chen</em></td></tr>
 <tr id="poster" poster-id="837"><td><span class="poster-title">[Findings] Unsupervised Domain Adaptation for Question Generation with DomainData Selection and Self-training. </span><em>Peide Zhu, Claudia Hauff</em></td></tr>
+<tr id="poster" poster-id="706"><td><span class="poster-title">[Findings] Learning Structural Information for Syntax-Controlled Paraphrase Generation. </span><em>Erguang Yang, Chenglin Bai, Deyi Xiong, Yujie Zhang, Yao Meng, Jinan Xu, Yufeng Chen</em></td></tr>
 <tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
 <tr id="poster" poster-id="821"><td><span class="poster-title">FOAM: A Follower-aware Speaker Model For Vision-and-Language Navigation. </span><em>Zi-Yi Dou, Nanyun Peng</em></td></tr>
 <tr id="poster" poster-id="539"><td><span class="poster-title">[Findings] KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation. </span><em>Yongfei Liu, Chenfei Wu, Shao-Yen Tseng, Vasudev Lal, Xuming He, Nan Duan</em></td></tr>
@@ -1218,6 +1220,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="764"><td><span class="poster-title">[Findings] D2GCLF: Document-to-Graph Classifier for Legal Document Classification. </span><em>Qiqi Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Ruofan Wang</em></td></tr>
 <tr id="poster" poster-id="1012"><td><span class="poster-title">[Findings] Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. </span><em>Yong Cao, Wei Li, Xianzhi Li, Min Chen, Guangyong Chen, Long Hu, Zhengdao Li, Kai Hwang</em></td></tr>
 <tr id="poster" poster-id="1027"><td><span class="poster-title">[Findings] Query2Particles: Knowledge Graph Reasoning with Particle Embeddings. </span><em>Jiaxin Bai, Zihao Wang, Hongming Zhang, Yangqiu Song</em></td></tr>
+<tr id="poster" poster-id="725"><td><span class="poster-title">[Findings] Towards Job-Transition-Tag Graph for a Better Job Title Representation Learning. </span><em>Jun ZHU, CELINE HUDELOT</em></td></tr>
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
 <tr id="poster" poster-id="59-srw"><td><span class="poster-title">[SRW] Eliciting Complex Relational Knowledge From Masked Language Models. </span><em>Arun Sundaresan, Ming Hsu, Zhihao Zhang</em></td></tr>
 <tr id="poster" poster-id="70"><td><span class="poster-title">Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding. </span><em>Hao Huang, Xiubo Geng, Guodong Long, Daxin Jiang</em></td></tr>
@@ -1687,6 +1690,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
 <tr id="poster" poster-id="328"><td><span class="poster-title">[Findings] Probing the Role of Positional Information in Vision-Language Models. </span><em>Philipp J. Rösch, Jindřich Libovický</em></td></tr>
 <tr id="poster" poster-id="444"><td><span class="poster-title">[Findings] Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions. </span><em>Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka</em></td></tr>
+<tr id="poster" poster-id="213"><td><span class="poster-title">[Findings] CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations. </span><em>Jialu Li, Hao Tan, Mohit Bansal</em></td></tr>
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="77"><td><span class="poster-title">[Findings] FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks. </span><em>Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, Rahul Gupta, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr</em></td></tr>
 <tr id="poster" poster-id="234"><td><span class="poster-title">[Findings] Challenging America: Modeling language in longer time scales. </span><em>Jakub Pokrywka, Filip Graliński, Krzysztof Jassem, Karol Kaczmarek, Krzysztof Jan Jurkiewicz, Piotr Wierzchon</em></td></tr>
@@ -1709,7 +1713,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="34"><td><span class="poster-title">[Findings] MultiVerS: Improving scientific claim verification with weak supervision and full-document context. </span><em>David Wadden, Kyle Lo, Lucy Lu Wang, Arman Cohan, Iz Beltagy, Hannaneh Hajishirzi</em></td></tr>
 <tr id="poster" poster-id="35"><td><span class="poster-title">[Findings] An Item Response Theory Framework for Persuasion. </span><em>Anastassia Kornilova, Vladimir Eidelman, Daniel Argyle</em></td></tr>
 <tr id="poster" poster-id="44"><td><span class="poster-title">[Findings] Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks. </span><em>Zhao Meng, Yihan Dong, Mrinmaya Sachan, Roger Wattenhofer</em></td></tr>
-<tr id="poster" poster-id="725"><td><span class="poster-title">[Findings] Towards Job-Transition-Tag Graph for a Better Job Title Representation Learning. </span><em>Jun ZHU, CELINE HUDELOT</em></td></tr>
 <tr id="poster" poster-id="293"><td><span class="poster-title">[Findings] The Limits of Word Level Differential Privacy. </span><em>Justus Mattern, Benjamin Weggenmann, Florian Kerschbaum</em></td></tr>
 <tr id="poster" poster-id="804"><td><span class="poster-title">[Findings] Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback. </span><em>Yunfan Hu, Zhaopeng Qiu, Xian Wu</em></td></tr>
 <tr><td><span class="poster-type">Phonology, Morphology and Word Segmentation</span></td></tr>

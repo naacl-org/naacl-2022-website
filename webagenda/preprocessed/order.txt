@@ -347,6 +347,7 @@
 493
 747
 879 ## %type Findings
+911 ## %type Findings
 
 ! 9:00--9:15 Break ## %room Regency A & B
 
@@ -755,6 +756,7 @@
 598 ## %type Findings
 916 ## %type Findings
 837 ## %type Findings
+706 ## %type Findings
 @ Language Grounding to Vision, Robotics and Beyond
 821
 539 ## %type Findings
@@ -780,6 +782,7 @@
 764 ## %type Findings
 1012 ## %type Findings
 1027 ## %type Findings
+725 ## %type Findings
 @ Question Answering
 59-srw
 70
@@ -1082,6 +1085,7 @@
 @ Language Grounding to Vision, Robotics and Beyond
 328 ## %type Findings
 444 ## %type Findings
+213 ## %type Findings
 @ Language Resources and Evaluation
 77 ## %type Findings
 234 ## %type Findings
@@ -1104,7 +1108,6 @@
 34 ## %type Findings
 35 ## %type Findings
 44 ## %type Findings
-725 ## %type Findings
 293 ## %type Findings
 804 ## %type Findings
 @ Phonology, Morphology and Word Segmentation

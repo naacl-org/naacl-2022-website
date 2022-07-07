@@ -23,7 +23,7 @@ diamond:
     image_path: /assets/images/logos/Meta.png
     alt: Meta
     title: Meta
-  - url: https://www.bloomberg.com/
+  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai?utm_medium=cto&utm_content=site-partner&utm_source=site-partner&utm_campaign=MKTG_2022TechEvent_NAACL&tactic=616846
     image_path: /assets/images/logos/Bloomberg.png
     alt: Bloomberg
     title: Bloomberg

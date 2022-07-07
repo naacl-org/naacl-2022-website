@@ -18,8 +18,7 @@ Consider registering for livetweeting NAACL papers and events [here](https://doc
 The [conference schedule](/program/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
 {: .text-center .notice--success}
 
-[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)<br>
-*Note:* In-person posters have to be **portrait** (the poster boards are vertical: 4’ width × 8’ height).<br>
+[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/) and [Presenters Checklist](/blog/presenters-checklist/)<br>
 *See also:* [Poster and Talk Accessibility, Quality, and Inclusivity](/blog/poster-talk-accessibility-quality-inclusivity/) for design recommendations.
 {: .text-center .notice--info}
 
@@ -29,6 +28,7 @@ The [conference schedule](/program/) and the list of [invited speakers and panel
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| July 7, 2022 | [Blogpost](/blog/welcome-to-structured-socials/): Welcome to Structured Socials!
 | July 7, 2022 | [Blogpost](/blog/presenters-checklist/): Presenters Checklist
 | July 6, 2022 | [Blogpost](/blog/affinity-workshops-welcome/): Welcome to Affinity Group Workshops!
 | July 5, 2022 | [Blogpost](/blog/taste-of-naacl/): A Taste of NAACL 2022

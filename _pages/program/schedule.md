@@ -567,7 +567,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
 <div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
 <div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Structured Social: How to make your first conference experience nice</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Zoom</span></div>
+<div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a></span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location"><a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Session 4</div>
 <div class="session session-expandable session-papers" id="session-4a">
@@ -1464,7 +1464,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Structured Social: Balancing professional and family commitments</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Zoom</span></div>
+<div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a></span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location"><a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
 <div class="session-box" id="session-box-9">
 <div class="session-header" id="session-header-9">Session 9</div>
 <div class="session session-expandable session-papers" id="session-9a">
@@ -1786,6 +1786,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="day" id="day-6">Thursday, July 14, 2022</div>
 <div class="session session-break session-plenary" id="session-break-21"><span class="session-title">Registration</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
 <div class="session session-break session-plenary" id="session-break-22"><span class="session-title">Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">Navigating grad school</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 10:00</span><span class="session-location"><a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 17:30</span></div>
 <div class="day" id="day-7">Friday, July 15, 2022</div>
 <div class="session session-break session-plenary" id="session-break-23"><span class="session-title">Registration</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>

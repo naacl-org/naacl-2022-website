@@ -355,7 +355,7 @@
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-! 10:15--10:45 Structured Social: How to make your first conference experience nice ## %room Zoom
+! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 4
 
@@ -919,7 +919,7 @@
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-! 10:15--10:45 Structured Social: Balancing professional and family commitments ## %room Zoom
+! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 9
 
@@ -1130,6 +1130,8 @@
 ! 7:30--18:00 Registration ## %room Level 3 Foyer
 
 ! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+
+! 9:00--10:00 Structured Social: <a href="/blog/welcome-to-structured-socials/">Navigating grad school</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 ! 9:00--17:30 <a href="/program/workshops/">Workshops</a>
 

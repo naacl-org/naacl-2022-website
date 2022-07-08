@@ -13,6 +13,8 @@ toc_sticky: true
 | July 11--13 | [**Main Conference**](/program/schedule/) (Main Conference Papers, Industry Track, System Demonstrations, Student Research Workshop) |
 | July 14--15 | [**Workshops**](/program/workshops/) |
 
+Other events: [**Structured Socials**](/blog/welcome-to-structured-socials/), [**Birds-of-a-Feather Meetups**](/blog/welcome-to-bofs/)
+
 ## Welcome Reception
 
 A Welcome Reception will be held on **Sunday, July 10** from 6:00pm to 8:00pm. Join us at the

@@ -8,6 +8,8 @@ sidebar:
     nav: program
 ---
 
+Please see [this blog post](/blog/affinity-workshops-welcome/) for more information!
+
 Following NAACL 2022 affinity group workshops will be held on **July 10**.
 
 1. [**Queer in AI**](https://www.queerinai.com/naacl): QInAI are calling for research papers on queer issues in natural language processing and linguistics. In addition, we are also interested in general research done by queer researchers. Accepted works will be linked to our website and invited to present at the NAACL 2022 Conference.

@@ -9,17 +9,22 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
-Consider registering for livetweeting NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
+On Tuesday 12 at 1pm (GMT-7) NAACL will hold its **2022 business meeting**, the first hybrid business meeting for NAACL.<br>
+<span style="font-size:85%">All attendees are welcome to participate (virtual: Underline main stage / in-person: Columbia A).
+If you want to ask a question in advance please post it <a href="https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_MvqggxivrMbrIg1IvnPW1bRkW09UNVdZOEZWTVBHS1BMQVhBOEtGUVo2UjhUOS4u">here</a>.</span>
+{: .text-center .notice--success}
+
+Consider registering for **livetweeting** NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
 {: .text-center .notice--info}
 
 **[Registration](/registration/) is now open.** On-site registration begins June 26, 2022.<br><span style="font-size:85%">It is suggested to complete and pay for registration before arriving at the registration desk. Bring a copy of your registration confirmation to pick up your badge.</span>
 {: .text-center .notice--warning}
 
-The [conference schedule](/program/) and the list of [invited speakers and panels](/program/keynotes-panels/) are now available.
+The **[conference schedule](/program/)** and the list of **[invited speakers and panels](/program/keynotes-panels/)** are now available.
 {: .text-center .notice--success}
 
-[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/) and [Presenters Checklist](/blog/presenters-checklist/)<br>
-*See also:* [Poster and Talk Accessibility, Quality, and Inclusivity](/blog/poster-talk-accessibility-quality-inclusivity/) for design recommendations.
+**[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)** and **[Presenters Checklist](/blog/presenters-checklist/)**<br>
+<span style="font-size:85%">*See also:* [Poster and Talk Accessibility, Quality, and Inclusivity](/blog/poster-talk-accessibility-quality-inclusivity/) for design recommendations.</span>
 {: .text-center .notice--info}
 
 ## News

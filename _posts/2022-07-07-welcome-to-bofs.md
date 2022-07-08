@@ -11,19 +11,19 @@ toc: false
 
 At NAACL 2022, we are continuing the tradition of conducting birds-of-a-feather (or BoF) meetups to help newbie researchers get in touch with other people working on the same areas. For people who haven’t attended such meetups before, here’s a quick primer! 
 
-### What do we hope to accomplish with BoFs?
+## What do we hope to accomplish with BoFs?
 
 * We want to provide junior researchers/people attending ACL for the first time a platform to discuss ideas and issues with other researchers in their areas of interest. This can be a good avenue for junior researchers to get feedback on ongoing ideas, learn about relevant ongoing projects at other groups/universities and develop a broader understanding of their field of interest.
 * We want to facilitate more exchange of research ideas, and enable collaborative discussions.
 
-### How are BoF sessions structured?
+## How are BoF sessions structured?
 
 * All BoF sessions are hybrid, and all NAACL registrants are welcome to attend in-person/online!
 * Each meetup will be led by 1-2 experienced researchers in that area. 
 * Anyone who wants to attend can join; prior signup is not needed. 
 * Links to join virtually would be available in your Underline schedule.
 
-### When are the BoF sessions happening?
+## When are the BoF sessions happening?
 
 |     | Topic                                | Day       | Time (PDT)   | Speaker                       | Room        |
 | --- | ------------------------------------ | --------- | ------------ | ----------------------------- | ----------- |
@@ -49,7 +49,7 @@ Though BoFs are currently scheduled for one hour, attendees can carry forward th
 
 If you have any questions about the information listed in the schedule, please get in touch with the [DEI Academic Inclusion Chairs](mailto:naacl2022mentoring@gmail.com). Please reach out to Underline for technical difficulties on the day of the session.
 
-### Additional Guidelines for Attendees
+## Additional Guidelines for Attendees
 
 * Please try to reach the room/zoom link (if virtual) for the session you are interested in 5 minutes early if feasible. This could help you catch any technical issues early, especially if you are participating virtually.
 * Your session leads will help with introducing yourself briefly. 

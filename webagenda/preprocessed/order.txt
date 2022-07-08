@@ -437,7 +437,7 @@
 
 ! 12:15--14:15 Lunch
 
-! 12:15--14:15 Business Meeting ## %room Columbia A
+! 13:00--14:15 Business Meeting ## %room Columbia A
 
 + 14:15--15:45 Session 5
 

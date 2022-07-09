@@ -172,6 +172,7 @@
 838
 156
 8
+913
 @ Discourse and Pragmatics
 562
 @ Efficient Methods in NLP
@@ -279,6 +280,10 @@
 194 ## %type Findings
 365 ## %type Findings
 680 ## %type Findings
+8
+32 ## %type Findings
+@ Efficient Methods in NLP
+14
 @ Information Extraction
 284
 389
@@ -298,12 +303,14 @@
 623 ## %type Findings
 628 ## %type Findings
 642 ## %type Findings
+403
 @ Information Retrieval and Text Mining
 298
 780
 514 ## %type Findings
 726 ## %type Findings
 798 ## %type Findings
+829
 @ Interpretability and Analysis of Models for NLP
 76-srw
 302
@@ -312,6 +319,9 @@
 899
 357 ## %type Findings
 763 ## %type Findings
+@ Language Generation
+202
+257
 @ Linguistic Theories, Cognitive Modeling and Psycholinguistics
 168
 @ Machine Learning for NLP: Classification and Structured Prediction Models
@@ -325,6 +335,7 @@
 967
 976
 1049
+489
 @ Machine Learning for NLP: Language Modeling and Sequence to Sequence Models
 19-srw
 179
@@ -338,6 +349,8 @@
 477 ## %type Findings
 635 ## %type Findings
 385 ## %type Findings
+3
+149
 @ Machine Translation
 37-srw
 4
@@ -348,6 +361,10 @@
 747
 879 ## %type Findings
 911 ## %type Findings
+@ Semantics: Sentence-level Semantics and Textual Inference
+22
+@ Syntax: Tagging, Chunking, and Parsing
+246
 
 ! 9:00--9:15 Break ## %room Regency A & B
 
@@ -613,20 +630,26 @@
 941
 204 ## %type Findings
 225 ## %type Findings
+228
 @ Efficient Methods in NLP
 435
 815
 268 ## %type Findings
 386 ## %type Findings
 554 ## %type Findings
+@ Ethics, Bias, and Fairness
+330
+520
 @ Human-Centered NLP
 36-special
 52-special
+99-special
 @ Information Extraction
 433
 502
 630
 952
+581 ## %type Findings
 @ Information Retrieval and Text Mining
 52
 659
@@ -636,9 +659,15 @@
 316
 438
 521 ## %type Findings
+395
+437
+820
+3207-tacl
 @ Language Generation
 273
 410 ## %type Findings
+@ Language Grounding to Vision, Robotics and Beyond
+672
 @ Language Resources and Evaluation
 9
 407
@@ -646,12 +675,20 @@
 660
 688
 812
+887
+368
+3319-tacl
+@ Linguistic Theories, Cognitive Modeling and Psycholinguistics
+714
+2887-tacl
 @ Machine Translation
 109
 260
 340
 632
 619 ## %type Findings
+@ Multilinguality
+2-cl
 @ NLP Applications
 98
 108
@@ -659,6 +696,8 @@
 180 ## %type Findings
 @ Phonology, Morphology and Word Segmentation
 810
+@ Question Answering
+2849-tacl
 @ Semantics: Lexical Semantics
 300 ## %type Findings
 @ Semantics: Sentence-level Semantics and Textual Inference
@@ -677,6 +716,7 @@
 492
 513
 657
+120
 @ Speech
 392 ## %type Findings
 @ Summarization
@@ -684,6 +724,8 @@
 324
 480
 983
+@ Syntax: Tagging, Chunking, and Parsing
+1-cl
 
 ! 19:00--22:00 <a href="/program/#social-event">Social Event</a> ## %room Museum of Pop Culture (MoPOP)
 
@@ -781,7 +823,6 @@
 466 ## %type Findings
 764 ## %type Findings
 1012 ## %type Findings
-1027 ## %type Findings
 725 ## %type Findings
 @ Question Answering
 59-srw
@@ -966,7 +1007,6 @@
 717 ## %type Findings
 819 ## %type Findings
 906 ## %type Findings
-32 ## %type Findings
 @ Discourse and Pragmatics
 787 ## %type Findings
 @ Efficient Methods in NLP
@@ -1064,7 +1104,6 @@
 83-special ## %type Findings
 97-special ## %type Findings
 @ Information Extraction
-581 ## %type Findings
 31 ## %type Findings
 125 ## %type Findings
 208 ## %type Findings
@@ -1110,6 +1149,7 @@
 44 ## %type Findings
 293 ## %type Findings
 804 ## %type Findings
+1027 ## %type Findings
 @ Phonology, Morphology and Word Segmentation
 325 ## %type Findings
 @ Speech

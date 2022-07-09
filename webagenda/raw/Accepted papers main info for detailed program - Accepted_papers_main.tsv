@@ -452,10 +452,10 @@ Number	Track	Title	Authors	Abstract
 3639-tacl		MuSiQue: Multi-hop Questions via Single-hop Question Composition	Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal	
 3655-tacl		Fact Checking with Insufficient Evidence	Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein	
 3477-tacl		A Multi-Level Optimization Framework for End-to-End Text Augmentation	Sai Ashish Somayajula, Linfeng Song, Pengtao Xie	
-0-cl	Syntax	Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta	
+0-cl		Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta	
 3319-tacl		Czech Grammar Error Correction with a Large and Diverse Corpus	Jakub Náplava, Milan Straka, Jana Straková, Alexandr Rosen	
 3207-tacl		Explanation-Based Human Debugging of NLP Models: A Survey	Piyawat Lertvittayakumjorn, Francesca Toni	
 2887-tacl		He Thinks He Knows Better than the Doctors: BERT for Event Factuality Fails on Pragmatics	Nanjiang Jiang, Marie-Catherine de Marneffe	
 2849-tacl		Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study	Xiangyang Mou, Chenghao Yang, Mo Yu, Bingsheng Yao, Xiaoxiao Guo, Saloni Potdar, Hui Su	
-1-cl	Syntax	The Impact of Edge Displacement Vaserstein Distance on UD Parsing Performance	Mark Anderson, Carlos Gómez-Rodríguez	
-2-cl	Typology	Investigating Language Relationships in Multilingual Sentence Encoders through the Lens of Linguistic Typology	Rochelle Choenni, Ekaterina Shutova	
+1-cl		The Impact of Edge Displacement Vaserstein Distance on UD Parsing Performance	Mark Anderson, Carlos Gómez-Rodríguez	
+2-cl		Investigating Language Relationships in Multilingual Sentence Encoders through the Lens of Linguistic Typology	Rochelle Choenni, Ekaterina Shutova	

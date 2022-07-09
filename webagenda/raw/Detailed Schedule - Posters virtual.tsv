@@ -76,6 +76,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 1	18	514	Information Retrieval and Text Mining	8:00	Tues 8:00	findings		7		
 2	Virtual Poster Q&A Session 1	18	726	Information Retrieval and Text Mining	8:00	Tues 8:00	findings		7		
 2	Virtual Poster Q&A Session 1	18	798	Information Retrieval and Text Mining	8:00	Tues 8:00	findings		7		
+2	Virtual Poster Q&A Session 1	18	829	Information Retrieval and Text Mining	8:00	Tues 8:00	main		7		
 2	Virtual Poster Q&A Session 1	18	237	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	findings		9		
 2	Virtual Poster Q&A Session 1	18	347	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	findings		9		
 2	Virtual Poster Q&A Session 1	18	374	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	findings		9		
@@ -110,6 +111,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 2	3	502	Information Extraction	16:15	Tues 16:15	main		3		
 2	Virtual Poster Q&A Session 2	3	630	Information Extraction	16:15	Tues 16:15	main		3		
 2	Virtual Poster Q&A Session 2	3	952	Information Extraction	16:15	Tues 16:15	main		3		
+2	Virtual Poster Q&A Session 2	3	581	Information Extraction	16:15	Tues 16:15	findings		3		
 2	Virtual Poster Q&A Session 2	3	52	Information Retrieval and Text Mining	16:15	Tues 16:15	main		3		
 2	Virtual Poster Q&A Session 2	3	659	Information Retrieval and Text Mining	16:15	Tues 16:15	main		3		
 2	Virtual Poster Q&A Session 2	3	734	Information Retrieval and Text Mining	16:15	Tues 16:15	main		3		
@@ -127,6 +129,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 2	Virtual Poster Q&A Session 2	4	660	Language Resources and Evaluation	16:15	Tues 16:15	main		4		
 2	Virtual Poster Q&A Session 2	4	688	Language Resources and Evaluation	16:15	Tues 16:15	main		4		
 2	Virtual Poster Q&A Session 2	4	812	Language Resources and Evaluation	16:15	Tues 16:15	main		4		
+2	Virtual Poster Q&A Session 2	4	887	Language Resources and Evaluation	16:15	Tues 16:15	main		4		
 2	Virtual Poster Q&A Session 2	4	109	Machine Translation	16:15	Tues 16:15	main		4		
 2	Virtual Poster Q&A Session 2	4	260	Machine Translation	16:15	Tues 16:15	main		4		
 2	Virtual Poster Q&A Session 2	4	340	Machine Translation	16:15	Tues 16:15	main		4		
@@ -191,7 +194,6 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 3	12	466	NLP Applications	8:00	Wed 8:00	findings		12		
 3	Virtual Poster Q&A Session 3	12	764	NLP Applications	8:00	Wed 8:00	findings		12		
 3	Virtual Poster Q&A Session 3	12	1012	NLP Applications	8:00	Wed 8:00	findings		12		
-3	Virtual Poster Q&A Session 3	12	1027	NLP Applications	8:00	Wed 8:00	findings		12		
 3	Virtual Poster Q&A Session 3	12	725	NLP Applications	8:00	Wed 8:00	findings		12		
 3	Virtual Poster Q&A Session 3	12	88-srw	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00	srw		12		
 3	Virtual Poster Q&A Session 3	12	303	Sentiment Analysis and Stylistic Analysis	8:00	Wed 8:00	main		12		
@@ -276,8 +278,38 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	16	564	Summarization	9:15	Wed 9:15	findings		13		
 3	Virtual Poster Q&A Session 4	16	909	Summarization	9:15	Wed 9:15	findings		13		
 3	Virtual Poster Q&A Session 4	16	813	Summarization	9:15	Wed 9:15	findings		13		
+2	Virtual Poster Q&A Session 1	19	3	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	8	Dialogue and Interactive systems	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	32	Dialogue and Interactive systems	8:00	Tues 8:00	findings				
+2	Virtual Poster Q&A Session 1	19	14	Efficient methods in NLP	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	22	Semantics: Sentence-level Semantics and Textual Inference	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	149	Machine Learning for NLP: Language Modeling and Sequence to Sequence Models	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	202	Language Generation	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	246	Syntax: Tagging, Chunking, and Parsing	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	257	Language Generation	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	403	Information Extraction	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 1	19	489	Machine Learning for NLP: Classification and Structured Prediction Models	8:00	Tues 8:00	main				
+2	Virtual Poster Q&A Session 2	20	99-special	Human-Centered NLP	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	120	Sentiment Analysis and Stylistic Analysis	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	228	Dialogue and Interactive systems	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	330	Ethics, Bias, and Fairness	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	368	Language Resources and Evaluation	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	395	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	437	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	520	Ethics, Bias, and Fairness	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	672	Language Grounding to Vision, Robotics and Beyond	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	714	Linguistic Theories, Cognitive Modeling and Psycholinguistics	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	820	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	1-cl	Syntax: Tagging, Chunking and Parsing	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	2-cl	Multilinguality	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	2849-tacl	Question Answering	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	2887-tacl	Linguistic Theories, Cognitive Modeling and Psycholinguistics	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	3207-tacl	Interpretability and Analysis of Models for NLP	16:15	Tues 16:15	main				
+2	Virtual Poster Q&A Session 2	20	3319-tacl	Language Resources	16:15	Tues 16:15	main				
 											
 											
-				findings	104						
-				main	152						
+											
+											
+				findings	105						
+				main	181						
 				srw	21						

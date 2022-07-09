@@ -33,6 +33,7 @@ The **[conference schedule](/program/)** and the list of **[invited speakers and
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| July 8, 2022 | The [conference handbook](/downloads/handbook.pdf) is now available.
 | July 7, 2022 | [Blogpost](/blog/welcome-to-bofs/): Welcome to Birds-of-a-Feather Meetups!
 | July 7, 2022 | [Blogpost](/blog/welcome-to-structured-socials/): Welcome to Structured Socials!
 | July 7, 2022 | [Blogpost](/blog/presenters-checklist/): Presenters Checklist

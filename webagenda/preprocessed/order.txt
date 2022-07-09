@@ -372,7 +372,7 @@
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
+! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 4
 
@@ -960,7 +960,7 @@
 
 ! 10:15--10:45 Break ## %room Regency A & B
 
-! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
+! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 9
 

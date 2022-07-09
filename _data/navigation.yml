@@ -38,6 +38,8 @@ program:
         url: /program/
       - title: "Main Conference Schedule"
         url: /program/schedule/
+      - title: "Conference Handbook (PDF)"
+        url: /downloads/handbook.pdf
       - title: "Invited Speakers and Panels"
         url: /program/keynotes-panels/
       - title: "Tutorials"
@@ -46,7 +48,7 @@ program:
         url: /program/affinity/
       - title: "Structured Socials"
         url: /blog/welcome-to-structured-socials/
-      - title: "Birds-of-a-Feather"
+      - title: "Birds-of-a-Feather Meetups"
         url: /blog/welcome-to-bofs/
       - title: "Workshops"
         url: /program/workshops/

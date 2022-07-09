@@ -15,6 +15,10 @@ toc_sticky: true
 
 Other events: [**Structured Socials**](/blog/welcome-to-structured-socials/), [**Birds-of-a-Feather Meetups**](/blog/welcome-to-bofs/)
 
+## Conference Handbook
+
+The conference handbook can be downloaded [here](/downloads/handbook.pdf).
+
 ## Welcome Reception
 
 A Welcome Reception will be held on **Sunday, July 10** from 6:00pm to 8:00pm. Join us at the

@@ -1,0 +1,1273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="naacl-2022-2022-north-american">
+    <titleInfo>
+        <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hannaneh</namePart>
+        <namePart type="family">Hajishirzi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Qiang</namePart>
+        <namePart type="family">Ning</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Avi</namePart>
+        <namePart type="family">Sil</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+        <publisher>Association for Computational Linguistics</publisher>
+        <place>
+            <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">naacl-2022-2022-north-american</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.0</url>
+    </location>
+</mods>
+<mods ID="kharitonov-etal-2022-textless">
+    <titleInfo>
+        <title>textless-lib: a Library for Textless Spoken Language Processing</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eugene</namePart>
+        <namePart type="family">Kharitonov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jade</namePart>
+        <namePart type="family">Copet</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kushal</namePart>
+        <namePart type="family">Lakhotia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tu</namePart>
+        <namePart type="given">Anh</namePart>
+        <namePart type="family">Nguyen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Paden</namePart>
+        <namePart type="family">Tomasello</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ann</namePart>
+        <namePart type="family">Lee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ali</namePart>
+        <namePart type="family">Elkahky</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wei-Ning</namePart>
+        <namePart type="family">Hsu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Abdelrahman</namePart>
+        <namePart type="family">Mohamed</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Emmanuel</namePart>
+        <namePart type="family">Dupoux</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yossi</namePart>
+        <namePart type="family">Adi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kharitonov-etal-2022-textless</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.1</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>1</start>
+            <end>9</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kyjanek-2022-web">
+    <titleInfo>
+        <title>Web-based Annotation Interface for Derivational Morphology</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Lukáš</namePart>
+        <namePart type="family">Kyjánek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kyjanek-2022-web</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.2</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>10</start>
+            <end>16</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="alecakir-etal-2022-turkishdelightnlp">
+    <titleInfo>
+        <title>TurkishDelightNLP: A Neural Turkish NLP Toolkit</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Huseyin</namePart>
+        <namePart type="family">Alecakir</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Necva</namePart>
+        <namePart type="family">Bölücü</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Burcu</namePart>
+        <namePart type="family">Can</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">alecakir-etal-2022-turkishdelightnlp</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.3</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>17</start>
+            <end>26</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sainz-etal-2022-zs4ie">
+    <titleInfo>
+        <title>ZS4IE: A toolkit for Zero-Shot Information Extraction with simple Verbalizations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Oscar</namePart>
+        <namePart type="family">Sainz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Haoling</namePart>
+        <namePart type="family">Qiu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oier</namePart>
+        <namePart type="family">Lacalle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Eneko</namePart>
+        <namePart type="family">Agirre</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bonan</namePart>
+        <namePart type="family">Min</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sainz-etal-2022-zs4ie</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.4</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>27</start>
+            <end>38</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="pichl-etal-2022-flowstorm">
+    <titleInfo>
+        <title>Flowstorm: Open-Source Platform with Hybrid Dialogue Architecture</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="family">Pichl</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Petr</namePart>
+        <namePart type="family">Marek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jakub</namePart>
+        <namePart type="family">Konrád</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Petr</namePart>
+        <namePart type="family">Lorenc</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ondrej</namePart>
+        <namePart type="family">Kobza</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tomáš</namePart>
+        <namePart type="family">Zajíček</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jan</namePart>
+        <namePart type="family">Šedivý</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pichl-etal-2022-flowstorm</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.5</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>39</start>
+            <end>45</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="malandri-etal-2022-contrastive">
+    <titleInfo>
+        <title>Contrastive Explanations of Text Classifiers as a Service</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Lorenzo</namePart>
+        <namePart type="family">Malandri</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fabio</namePart>
+        <namePart type="family">Mercorio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mario</namePart>
+        <namePart type="family">Mezzanzanica</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Navid</namePart>
+        <namePart type="family">Nobani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrea</namePart>
+        <namePart type="family">Seveso</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">malandri-etal-2022-contrastive</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.6</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>46</start>
+            <end>53</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="du-etal-2022-resin">
+    <titleInfo>
+        <title>RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Xinya</namePart>
+        <namePart type="family">Du</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zixuan</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sha</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pengfei</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hongwei</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tuan</namePart>
+        <namePart type="family">Lai</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xudong</namePart>
+        <namePart type="family">Lin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ziqi</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Iris</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ben</namePart>
+        <namePart type="family">Zhou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Haoyang</namePart>
+        <namePart type="family">Wen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Manling</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Darryl</namePart>
+        <namePart type="family">Hannan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jie</namePart>
+        <namePart type="family">Lei</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hyounghun</namePart>
+        <namePart type="family">Kim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rotem</namePart>
+        <namePart type="family">Dror</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Haoyu</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Regan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Qi</namePart>
+        <namePart type="family">Zeng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Qing</namePart>
+        <namePart type="family">Lyu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Charles</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Carl</namePart>
+        <namePart type="family">Edwards</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaomeng</namePart>
+        <namePart type="family">Jin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yizhu</namePart>
+        <namePart type="family">Jiao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ghazaleh</namePart>
+        <namePart type="family">Kazeminejad</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zhenhailong</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chris</namePart>
+        <namePart type="family">Callison-Burch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mohit</namePart>
+        <namePart type="family">Bansal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Carl</namePart>
+        <namePart type="family">Vondrick</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jiawei</namePart>
+        <namePart type="family">Han</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dan</namePart>
+        <namePart type="family">Roth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shih-Fu</namePart>
+        <namePart type="family">Chang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Martha</namePart>
+        <namePart type="family">Palmer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Heng</namePart>
+        <namePart type="family">Ji</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">du-etal-2022-resin</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.7</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>54</start>
+            <end>63</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="vacareanu-etal-2022-human">
+    <titleInfo>
+        <title>A Human-machine Interface for Few-shot Rule Synthesis for Information Extraction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Vacareanu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">George</namePart>
+        <namePart type="given">C.G.</namePart>
+        <namePart type="family">Barbosa</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Enrique</namePart>
+        <namePart type="family">Noriega-Atala</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gus</namePart>
+        <namePart type="family">Hahn-Powell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rebecca</namePart>
+        <namePart type="family">Sharp</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marco</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="family">Valenzuela-Escárcega</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mihai</namePart>
+        <namePart type="family">Surdeanu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">vacareanu-etal-2022-human</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.8</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>64</start>
+            <end>70</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="hu-etal-2022-setsum">
+    <titleInfo>
+        <title>SETSum: Summarization and Visualization of Student Evaluations of Teaching</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yinuo</namePart>
+        <namePart type="family">Hu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shiyue</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Viji</namePart>
+        <namePart type="family">Sathy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Abigail</namePart>
+        <namePart type="family">Panter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mohit</namePart>
+        <namePart type="family">Bansal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hu-etal-2022-setsum</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.9</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>71</start>
+            <end>89</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ding-etal-2022-towards-open">
+    <titleInfo>
+        <title>Towards Open-Domain Topic Classification</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hantian</namePart>
+        <namePart type="family">Ding</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jinrui</namePart>
+        <namePart type="family">Yang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yuqian</namePart>
+        <namePart type="family">Deng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hongming</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dan</namePart>
+        <namePart type="family">Roth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ding-etal-2022-towards-open</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.10</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>90</start>
+            <end>98</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="tuckute-etal-2022-sentspace">
+    <titleInfo>
+        <title>SentSpace: Large-Scale Benchmarking and Evaluation of Text using Cognitively Motivated Lexical, Syntactic, and Semantic Features</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Greta</namePart>
+        <namePart type="family">Tuckute</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aalok</namePart>
+        <namePart type="family">Sathe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mingye</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harley</namePart>
+        <namePart type="family">Yoder</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cory</namePart>
+        <namePart type="family">Shain</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Evelina</namePart>
+        <namePart type="family">Fedorenko</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">tuckute-etal-2022-sentspace</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.11</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>99</start>
+            <end>113</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="zhang-etal-2022-paddlespeech">
+    <titleInfo>
+        <title>PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hui</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tian</namePart>
+        <namePart type="family">Yuan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Junkun</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xintong</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Renjie</namePart>
+        <namePart type="family">Zheng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yuxin</namePart>
+        <namePart type="family">Huang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaojie</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Enlei</namePart>
+        <namePart type="family">Gong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zeyu</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaoguang</namePart>
+        <namePart type="family">Hu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dianhai</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yanjun</namePart>
+        <namePart type="family">Ma</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Liang</namePart>
+        <namePart type="family">Huang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">zhang-etal-2022-paddlespeech</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.12</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>114</start>
+            <end>123</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="etezadi-etal-2022-dadmatools">
+    <titleInfo>
+        <title>DadmaTools: Natural Language Processing Toolkit for Persian Language</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Romina</namePart>
+        <namePart type="family">Etezadi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mohammad</namePart>
+        <namePart type="family">Karrabi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Najmeh</namePart>
+        <namePart type="family">Zare</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mohamad</namePart>
+        <namePart type="given">Bagher</namePart>
+        <namePart type="family">Sajadi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mohammad</namePart>
+        <namePart type="given">Taher</namePart>
+        <namePart type="family">Pilehvar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">etezadi-etal-2022-dadmatools</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.13</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>124</start>
+            <end>130</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="nguyen-etal-2022-famie">
+    <titleInfo>
+        <title>FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Minh</namePart>
+        <namePart type="given">Van</namePart>
+        <namePart type="family">Nguyen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nghia</namePart>
+        <namePart type="family">Ngo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bonan</namePart>
+        <namePart type="family">Min</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Thien</namePart>
+        <namePart type="family">Nguyen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: System Demonstrations</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">nguyen-etal-2022-famie</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-demo.14</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>131</start>
+            <end>139</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

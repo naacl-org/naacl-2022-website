@@ -781,7 +781,7 @@ $(document).ready(function() {
     });
 
     /* when we mouse over a paper icon, do not do anything */
-    $('body').on('mouseover', 'table.paper-table tr#paper svg[class$="-icon"]', function(event) {
+    $('body').on('mouseover', 'table.paper-table tr#paper i[class$="-icon"]', function(event) {
         return false;
     });
 
@@ -932,7 +932,7 @@ $(document).ready(function() {
     });
 
     /* open the URL in a new window/tab when we click on the any icon - whether it is the keynote slides or the video - this icon can be in the abstract or even in the title if there is no abstract */            
-    $('body').on('click', 'div.session-abstract p svg[class$="-icon"],span.session-title svg[class$="-icon"]', function(event) {
+    $('body').on('click', 'div.session-abstract p i[class$="-icon"],span.session-title i[class$="-icon"]', function(event) {
         event.stopPropagation();
         event.preventDefault();
         var urlToOpen = $(this).attr('data');
@@ -943,7 +943,7 @@ $(document).ready(function() {
 
 
     /* open the anthology or video URL in a new window/tab when we click on the PDF or video icon respectively  */            
-    $('body').on('click', 'table.tutorial-table tr#tutorial svg[class$="-icon"],table.paper-table tr#paper svg[class$="-icon"],table.paper-table tr#best-paper svg[class$="-icon"],table.poster-table tr#poster svg[class$="-icon"]', function(event) {
+    $('body').on('click', 'table.tutorial-table tr#tutorial i[class$="-icon"],table.paper-table tr#paper i[class$="-icon"],table.paper-table tr#best-paper i[class$="-icon"],table.poster-table tr#poster i[class$="-icon"]', function(event) {
         event.stopPropagation();
         event.preventDefault();
         var urlToOpen = $(this).attr('data');

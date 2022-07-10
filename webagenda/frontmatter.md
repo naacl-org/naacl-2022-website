@@ -21,7 +21,7 @@ to accommodate the final mode of presentation (virtual or in-person) chosen by t
 To foster discussion, virtual poster Q&A sessions will be organized into groups that bring together posters on similar themes.
 
 All times are Pacific Daylight Time (<strong>GMT-7</strong>).
-**Icons:** <i class="fa fa-user"></i> = Session Chair; <i class="fa fa-award"></i> = Paper Award.
+**Icons:** <i class="fa fa-user"></i> = Session Chair; <i class="far fa-file-pdf"></i> = Link to PDF on ACL Anthology; <i class="fa fa-award"></i> = Paper Award.
 </div>
 
 <div id="popupInstructionsDiv" markdown="1">

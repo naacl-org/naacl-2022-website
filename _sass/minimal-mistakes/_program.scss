@@ -374,4 +374,11 @@ div.session {
     i.fa-award {
         color: #ee5f5b;
     }
+
+    i.fa-file-pdf:after {
+        content: "PDF";
+        font-family: $sans-serif;
+        margin-left: .2em;
+        text-decoration: underline;
+    }
 }

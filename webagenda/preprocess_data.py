@@ -44,6 +44,10 @@ from pathlib import Path
 
 from bs4 import BeautifulSoup
 
+
+################################
+# Data paths
+
 _THIS_DIR = Path(__file__).absolute().parent
 
 # Change the hard-coded paths below
@@ -68,6 +72,10 @@ _ANTHOLOGY_FINDINGS = _THIS_DIR / 'anthology' / '2022.findings-naacl.xml'
 # Output files
 _ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
 _METADATA = _THIS_DIR / 'preprocessed' / 'metadata.tsv'
+
+
+################################
+# Track normalization
 
 _TRACKS = [
 'Industry', 'Demo',
@@ -127,6 +135,24 @@ def normalize_track(track, paper_id):
         logging.warning('Unrecognized track for %s: %s', paper_id, track)
     return track
 
+
+################################
+# Title normalization
+
+_TITLE_SPECIAL_NORMALIZATIONS = {
+    '²': '2',       # Superscript Two
+    'ﬁ': 'fi',      #  Latin Small Ligature Fi
+}
+
+
+def normalize_title(title):
+    for k, v in _TITLE_SPECIAL_NORMALIZATIONS.items():
+        title = title.replace(k, v)
+    return re.sub(r'[^a-z0-9]', '', title.lower())
+
+
+################################
+# Data structures
 
 class RawSchedule:
 
@@ -233,15 +259,20 @@ class RawMetadata:
             if not record.get('used'):
                 logging.warning('Unused metadata record: %s', record)
 
+    def populate_urls_from_anthology(self, raw_anthology):
+        for record in self.records:
+            record['url'] = raw_anthology.lookup_url(record)
+
     def dump_metadata(self, path):
         with open(path, 'w') as fout:
-            print('paper_id\ttrack\ttitle\tauthors', file=fout)
+            print('paper_id\ttrack\ttitle\tauthors\tpdf_url', file=fout)
             for record in self.records:
-                print('{}\t{}\t{}\t{}'.format(
+                print('{}\t{}\t{}\t{}\t{}'.format(
                     record['paper_id'],
                     record['track'],
                     record['title'],
-                    record['authors']), file=fout)
+                    record['authors'],
+                    record.get('url') or ''), file=fout)
         logging.info('Wrote %d metadata records to %s', len(self.records), path)
 
 
@@ -255,13 +286,34 @@ class RawAnthology:
         with open(path) as fin:
             soup = BeautifulSoup(fin, 'xml')
             for paper in soup.find_all('mods'):
-                new_records.append({
+                record = {
                     'title': paper.titleInfo.title.text,
                     'url': paper.location.url.text,
-                    })
+                    }
+                record['title_key'] = normalize_title(record['title'])
+                new_records.append(record)
         logging.info('Read %d anthology records from %s', len(new_records), path)
         self.records += new_records
 
+    def lookup_url(self, metadata_record):
+        paper_id = metadata_record['paper_id']
+        title = metadata_record['title']
+        title_key = normalize_title(title)
+        url = None
+        for record in self.records:
+            if record['title_key'] == title_key:
+                if url is not None:
+                    logging.warning('Multiple potential URLs for %s: "%s"', paper_id, title)
+                    logging.warning('    %s', url)
+                    logging.warning('    %s', record['url'])
+                url = record['url']
+        if url is None:
+            logging.warning('URL not found for %s: "%s"', paper_id, title)
+        return url
+
+
+################################
+# Output formatting
 
 def dump_records(query, schedule_metadata_pairs, fout):
     # Grouped records
@@ -289,6 +341,9 @@ def dump_records(query, schedule_metadata_pairs, fout):
                     '%{} {}'.format(key, value) for (key, value) in extra_info.items())
         print(order_line, file=fout)
 
+
+################################
+# Main method
 
 def main():
     # set up the logging
@@ -335,6 +390,9 @@ def main():
                 fout.write(line)
     raw_schedule.report_unused()
     raw_metadata.report_unused()
+
+    # Attach URLs to metadata
+    raw_metadata.populate_urls_from_anthology(raw_anthology)
     raw_metadata.dump_metadata(_METADATA)
 
 

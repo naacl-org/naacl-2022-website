@@ -27,6 +27,7 @@ At NAACL 2022, we are continuing the tradition of conducting birds-of-a-feather 
 
 |     | Topic                                | Day       | Time (PDT)   | Speaker                       | Room        |
 | --- | ------------------------------------ | --------- | ------------ | ----------------------------- | ----------- |
+| --  | EMNLP 2022 Information Session       | Monday    | 11 am-noon   | Nizar Habash                  | 502 Cowlitz |
 | A1  | QA                                   | Monday    | 11 am-noon   | Luca Soldaini                 | 506 Samish  |
 | A2  | Multilinguality                      | Monday    | 3-4 pm       | Hila Gonen                    | 502 Cowlitz |
 | A3  | ML for NLP                           | Monday    | 3:30-4:30 pm | Jason Eisner                  | 502 Cowlitz |

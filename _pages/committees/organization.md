@@ -95,7 +95,7 @@ toc_sticky: true
 {% include bio-box
    name="Miguel Ballesteros"
    picture="/assets/images/committee/miguel_ballesteros.jpg"
-   site="http://miguelballesteros.com/"
+   site="http://miguelballesteros.github.io"
    institution="Amazon"
 %}
 {% include bio-box

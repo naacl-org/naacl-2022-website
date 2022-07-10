@@ -27,7 +27,7 @@ The **[conference schedule](/program/)** and the list of **[invited speakers and
 {: .text-center .notice--success}
 
 **[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)** and **[Presenters Checklist](/blog/presenters-checklist/)**<br>
-<span style="font-size:85%">*See also:* [Poster and Talk Accessibility, Quality, and Inclusivity](/blog/poster-talk-accessibility-quality-inclusivity/) for design recommendations.</span>
+To request last-minute changes to the presentation mode, see this [instructions](/blog/presenters-checklist/#last-minute-changes-to-presentation-mode).
 {: .text-center .notice--info}
 
 ## News

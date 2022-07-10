@@ -1,7 +1,7 @@
 # main links
 main:
-  #- title: "Virtual Conference Website"
-  #  url: "https://underline.io/events/122/reception"
+  - title: "Underline<div class=subtitle>Virtual<br>Conference<br>Website</div>"
+    url: "https://underline.io/events/325/reception"
 
   - title: "Program"
     subnav: program

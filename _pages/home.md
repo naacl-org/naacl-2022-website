@@ -9,6 +9,9 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
+The **[Underline virtual conference website](https://underline.io/events/325/reception)** (main conference, tutorial, and all workshops) is now live.
+{: .text-center .notice--warning}
+
 On Tuesday 12 at 1pm (GMT-7) NAACL will hold its **2022 business meeting**, the first hybrid business meeting for NAACL.<br>
 <span style="font-size:85%">All attendees are welcome to participate (virtual: Underline main stage / in-person: Columbia A).
 If you want to ask a question in advance please post it <a href="https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_MvqggxivrMbrIg1IvnPW1bRkW09UNVdZOEZWTVBHS1BMQVhBOEtGUVo2UjhUOS4u">here</a>.</span>

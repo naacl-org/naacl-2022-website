@@ -228,10 +228,11 @@ class ScheduleMetadata(object):
                 title = row['title'].strip().replace('{', '').replace('}', '')
                 authors = ScheduleMetadata.authors_string_to_list(row['authors'].strip())
                 abstract = row['abstract'].strip() if row.get('abstract') else None
+                pdf_url = row.get('pdf_url', '')
                 value = MetadataTuple(title=title,
                                       authors=authors,
                                       abstract=abstract,
-                                      pdf_url='',
+                                      pdf_url=pdf_url,
                                       video_url='')
                 key = '{}#{}'.format(row['paper_id'].strip().replace(' ', '_'), event)
                 non_anthology_dict[key] = value

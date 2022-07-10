@@ -1,0 +1,2780 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="naacl-2022-naacl">
+    <titleInfo>
+        <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anastassia</namePart>
+        <namePart type="family">Loukina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rashmi</namePart>
+        <namePart type="family">Gangadharaiah</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bonan</namePart>
+        <namePart type="family">Min</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+        <publisher>Association for Computational Linguistics</publisher>
+        <place>
+            <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">naacl-2022-naacl</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.0</url>
+    </location>
+</mods>
+<mods ID="kachuee-etal-2022-scalable">
+    <titleInfo>
+        <title>Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mohammad</namePart>
+        <namePart type="family">Kachuee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jinseok</namePart>
+        <namePart type="family">Nam</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sarthak</namePart>
+        <namePart type="family">Ahuja</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jin-Myung</namePart>
+        <namePart type="family">Won</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sungjin</namePart>
+        <namePart type="family">Lee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kachuee-etal-2022-scalable</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.1</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>1</start>
+            <end>8</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="wei-etal-2022-creater">
+    <titleInfo>
+        <title>CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Penghui</namePart>
+        <namePart type="family">Wei</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xuanhua</namePart>
+        <namePart type="family">Yang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">ShaoGuo</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Liang</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bo</namePart>
+        <namePart type="family">Zheng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wei-etal-2022-creater</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.2</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>9</start>
+            <end>17</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="uthus-etal-2022-augmenting">
+    <titleInfo>
+        <title>Augmenting Poetry Composition with Verse by Verse</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Uthus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="family">Voitovich</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">R.j.</namePart>
+        <namePart type="family">Mical</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">uthus-etal-2022-augmenting</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.3</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>18</start>
+            <end>26</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="petegrosso-etal-2022-ab">
+    <titleInfo>
+        <title>AB/BA analysis: A framework for estimating keyword spotting recall improvement while maintaining audio privacy</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Raphael</namePart>
+        <namePart type="family">Petegrosso</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">VasistaKrishna</namePart>
+        <namePart type="family">Baderdinnni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Thibaud</namePart>
+        <namePart type="family">Senechal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Benjamin</namePart>
+        <namePart type="family">Bullough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">petegrosso-etal-2022-ab</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.4</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>27</start>
+            <end>36</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="gaspers-etal-2022-temporal">
+    <titleInfo>
+        <title>Temporal Generalization for Spoken Language Understanding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Judith</namePart>
+        <namePart type="family">Gaspers</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anoop</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Greg</namePart>
+        <namePart type="family">Ver Steeg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aram</namePart>
+        <namePart type="family">Galstyan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gaspers-etal-2022-temporal</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.5</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>37</start>
+            <end>44</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="asi-etal-2022-end">
+    <titleInfo>
+        <title>An End-to-End Dialogue Summarization System for Sales Calls</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Abedelkadir</namePart>
+        <namePart type="family">Asi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Song</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roy</namePart>
+        <namePart type="family">Eisenstadt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dean</namePart>
+        <namePart type="family">Geckt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yarin</namePart>
+        <namePart type="family">Kuper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yi</namePart>
+        <namePart type="family">Mao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Royi</namePart>
+        <namePart type="family">Ronen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">asi-etal-2022-end</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.6</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>45</start>
+            <end>53</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kumar-etal-2022-controlled">
+    <titleInfo>
+        <title>Controlled Data Generation via Insertion Operations for NLU</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Manoj</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yuval</namePart>
+        <namePart type="family">Merhav</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Haidar</namePart>
+        <namePart type="family">Khan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rahul</namePart>
+        <namePart type="family">Gupta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anna</namePart>
+        <namePart type="family">Rumshisky</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wael</namePart>
+        <namePart type="family">Hamza</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kumar-etal-2022-controlled</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.7</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>54</start>
+            <end>61</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="li-etal-2022-easy">
+    <titleInfo>
+        <title>Easy and Efficient Transformer: Scalable Inference Solution For Large NLP Model</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gongzheng</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yadong</namePart>
+        <namePart type="family">Xi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jingzhen</namePart>
+        <namePart type="family">Ding</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Duan</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ziyang</namePart>
+        <namePart type="family">Luo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rongsheng</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bai</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Changjie</namePart>
+        <namePart type="family">Fan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaoxi</namePart>
+        <namePart type="family">Mao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zeng</namePart>
+        <namePart type="family">Zhao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">li-etal-2022-easy</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.8</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>62</start>
+            <end>68</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="murakami-etal-2022-aspect">
+    <titleInfo>
+        <title>Aspect-based Analysis of Advertising Appeals for Search Engine Advertising</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Soichiro</namePart>
+        <namePart type="family">Murakami</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Peinan</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sho</namePart>
+        <namePart type="family">Hoshino</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hidetaka</namePart>
+        <namePart type="family">Kamigaito</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hiroya</namePart>
+        <namePart type="family">Takamura</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Manabu</namePart>
+        <namePart type="family">Okumura</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">murakami-etal-2022-aspect</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.9</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>69</start>
+            <end>78</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="zhao-etal-2022-self">
+    <titleInfo>
+        <title>Self-supervised Product Title Rewrite for Product Listing Ads</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Xue</namePart>
+        <namePart type="family">Zhao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dayiheng</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Junwei</namePart>
+        <namePart type="family">Ding</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Liang</namePart>
+        <namePart type="family">Yao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mahone</namePart>
+        <namePart type="family">Yan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Huibo</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wenqing</namePart>
+        <namePart type="family">Yao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">zhao-etal-2022-self</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.10</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>79</start>
+            <end>85</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="leung-tan-2022-efficient">
+    <titleInfo>
+        <title>Efficient Semi-supervised Consistency Training for Natural Language Understanding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">George</namePart>
+        <namePart type="family">Leung</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Joshua</namePart>
+        <namePart type="family">Tan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">leung-tan-2022-efficient</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.11</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>86</start>
+            <end>93</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sircar-etal-2022-distantly">
+    <titleInfo>
+        <title>Distantly Supervised Aspect Clustering And Naming For E-Commerce Reviews</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Prateek</namePart>
+        <namePart type="family">Sircar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aniket</namePart>
+        <namePart type="family">Chakrabarti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Deepak</namePart>
+        <namePart type="family">Gupta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anirban</namePart>
+        <namePart type="family">Majumdar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sircar-etal-2022-distantly</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.12</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>94</start>
+            <end>102</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="grishina-sorokin-2022-local">
+    <titleInfo>
+        <title>Local-to-global learning for iterative training of production SLU models on new features</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yulia</namePart>
+        <namePart type="family">Grishina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daniil</namePart>
+        <namePart type="family">Sorokin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">grishina-sorokin-2022-local</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.13</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>103</start>
+            <end>111</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="li-etal-2022-culg">
+    <titleInfo>
+        <title>CULG: Commercial Universal Language Generation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Haonan</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yameng</namePart>
+        <namePart type="family">Huang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yeyun</namePart>
+        <namePart type="family">Gong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jian</namePart>
+        <namePart type="family">Jiao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ruofei</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Timothy</namePart>
+        <namePart type="family">Baldwin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nan</namePart>
+        <namePart type="family">Duan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">li-etal-2022-culg</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.14</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>112</start>
+            <end>120</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="gueudre-jose-2022-constraining">
+    <titleInfo>
+        <title>Constraining word alignments with posterior regularization for label transfer</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Thomas</namePart>
+        <namePart type="family">Gueudre</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kevin</namePart>
+        <namePart type="family">Jose</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gueudre-jose-2022-constraining</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.15</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>121</start>
+            <end>129</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sehanobish-etal-2022-explaining">
+    <titleInfo>
+        <title>Explaining the Effectiveness of Multi-Task Learning for Efficient Knowledge Extraction from Spine MRI Reports</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Arijit</namePart>
+        <namePart type="family">Sehanobish</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">McCullen</namePart>
+        <namePart type="family">Sandora</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nabila</namePart>
+        <namePart type="family">Abraham</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jayashri</namePart>
+        <namePart type="family">Pawar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Danielle</namePart>
+        <namePart type="family">Torres</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anasuya</namePart>
+        <namePart type="family">Das</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Murray</namePart>
+        <namePart type="family">Becker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Richard</namePart>
+        <namePart type="family">Herzog</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Benjamin</namePart>
+        <namePart type="family">Odry</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ron</namePart>
+        <namePart type="family">Vianu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sehanobish-etal-2022-explaining</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.16</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>130</start>
+            <end>140</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="khaziev-etal-2022-fpi">
+    <titleInfo>
+        <title>FPI: Failure Point Isolation in Large-scale Conversational Assistants</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Rinat</namePart>
+        <namePart type="family">Khaziev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Usman</namePart>
+        <namePart type="family">Shahid</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tobias</namePart>
+        <namePart type="family">Röding</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rakesh</namePart>
+        <namePart type="family">Chada</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Emir</namePart>
+        <namePart type="family">Kapanci</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pradeep</namePart>
+        <namePart type="family">Natarajan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">khaziev-etal-2022-fpi</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.17</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>141</start>
+            <end>148</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="lu-etal-2022-asynchronous">
+    <titleInfo>
+        <title>Asynchronous Convergence in Multi-Task Learning via Knowledge Distillation from Converged Tasks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Weiyi</namePart>
+        <namePart type="family">Lu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sunny</namePart>
+        <namePart type="family">Rajagopalan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Priyanka</namePart>
+        <namePart type="family">Nigam</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jaspreet</namePart>
+        <namePart type="family">Singh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaodi</namePart>
+        <namePart type="family">Sun</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yi</namePart>
+        <namePart type="family">Xu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Belinda</namePart>
+        <namePart type="family">Zeng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Trishul</namePart>
+        <namePart type="family">Chilimbi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lu-etal-2022-asynchronous</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.18</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>149</start>
+            <end>159</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="joshi-etal-2022-augmenting">
+    <titleInfo>
+        <title>Augmenting Training Data for Massive Semantic Matching Models in Low-Traffic E-commerce Stores</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ashutosh</namePart>
+        <namePart type="family">Joshi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shankar</namePart>
+        <namePart type="family">Vishwanath</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Choon</namePart>
+        <namePart type="family">Teo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vaclav</namePart>
+        <namePart type="family">Petricek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vishy</namePart>
+        <namePart type="family">Vishwanathan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rahul</namePart>
+        <namePart type="family">Bhagat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">May</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">joshi-etal-2022-augmenting</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.19</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>160</start>
+            <end>167</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="biswas-etal-2022-retrieval">
+    <titleInfo>
+        <title>Retrieval Based Response Letter Generation For a Customer Care Setting</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Biplob</namePart>
+        <namePart type="family">Biswas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Renhao</namePart>
+        <namePart type="family">Cui</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rajiv</namePart>
+        <namePart type="family">Ramnath</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">biswas-etal-2022-retrieval</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.20</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>168</start>
+            <end>175</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ziletti-etal-2022-medical">
+    <titleInfo>
+        <title>Medical Coding with Biomedical Transformer Ensembles and Zero/Few-shot Learning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Angelo</namePart>
+        <namePart type="family">Ziletti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alan</namePart>
+        <namePart type="family">Akbik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christoph</namePart>
+        <namePart type="family">Berns</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Thomas</namePart>
+        <namePart type="family">Herold</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marion</namePart>
+        <namePart type="family">Legler</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Martina</namePart>
+        <namePart type="family">Viell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ziletti-etal-2022-medical</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.21</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>176</start>
+            <end>187</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="arnold-etal-2022-knowledge">
+    <titleInfo>
+        <title>Knowledge extraction from aeronautical messages (NOTAMs) with self-supervised language models for aircraft pilots</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alexandre</namePart>
+        <namePart type="family">Arnold</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fares</namePart>
+        <namePart type="family">Ernez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Catherine</namePart>
+        <namePart type="family">Kobus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marion-Cécile</namePart>
+        <namePart type="family">Martin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">arnold-etal-2022-knowledge</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.22</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>188</start>
+            <end>196</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="chen-etal-2022-intent">
+    <titleInfo>
+        <title>Intent Discovery for Enterprise Virtual Assistants: Applications of Utterance Embedding and Clustering to Intent Mining</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Minhua</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Badrinath</namePart>
+        <namePart type="family">Jayakumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Johnston</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">S</namePart>
+        <namePart type="given">Eman</namePart>
+        <namePart type="family">Mahmoodi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Pressel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">chen-etal-2022-intent</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.23</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>197</start>
+            <end>208</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ayoola-etal-2022-refined">
+    <titleInfo>
+        <title>ReFinED: An Efficient Zero-shot-capable Approach to End-to-End Entity Linking</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tom</namePart>
+        <namePart type="family">Ayoola</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shubhi</namePart>
+        <namePart type="family">Tyagi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Joseph</namePart>
+        <namePart type="family">Fisher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christos</namePart>
+        <namePart type="family">Christodoulopoulos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrea</namePart>
+        <namePart type="family">Pierleoni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ayoola-etal-2022-refined</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.24</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>209</start>
+            <end>220</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="pressel-etal-2022-lightweight">
+    <titleInfo>
+        <title>Lightweight Transformers for Conversational AI</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Pressel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wenshuo</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Johnston</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Minhua</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pressel-etal-2022-lightweight</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.25</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>221</start>
+            <end>229</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="shrimal-etal-2022-ner">
+    <titleInfo>
+        <title>NER-MQMRC: Formulating Named Entity Recognition as Multi Question Machine Reading Comprehension</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anubhav</namePart>
+        <namePart type="family">Shrimal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Avi</namePart>
+        <namePart type="family">Jain</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kartik</namePart>
+        <namePart type="family">Mehta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Promod</namePart>
+        <namePart type="family">Yenigalla</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">shrimal-etal-2022-ner</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.26</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>230</start>
+            <end>238</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="bhattacharjee-etal-2022-users">
+    <titleInfo>
+        <title>What Do Users Care About? Detecting Actionable Insights from User Feedback</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kasturi</namePart>
+        <namePart type="family">Bhattacharjee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rashmi</namePart>
+        <namePart type="family">Gangadharaiah</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kathleen</namePart>
+        <namePart type="family">McKeown</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dan</namePart>
+        <namePart type="family">Roth</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bhattacharjee-etal-2022-users</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.27</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>239</start>
+            <end>246</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kulkarni-etal-2022-ctm">
+    <titleInfo>
+        <title>CTM - A Model for Large-Scale Multi-View Tweet Topic Classification</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vivek</namePart>
+        <namePart type="family">Kulkarni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kenny</namePart>
+        <namePart type="family">Leung</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aria</namePart>
+        <namePart type="family">Haghighi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kulkarni-etal-2022-ctm</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.28</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>247</start>
+            <end>258</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="khasanova-etal-2022-developing">
+    <titleInfo>
+        <title>Developing a Production System for Purpose of Call Detection in Business Phone Conversations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elena</namePart>
+        <namePart type="family">Khasanova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pooja</namePart>
+        <namePart type="family">Hiranandani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shayna</namePart>
+        <namePart type="family">Gardiner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cheng</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Corston-Oliver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xue-Yong</namePart>
+        <namePart type="family">Fu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">khasanova-etal-2022-developing</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.29</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>259</start>
+            <end>267</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="bitton-etal-2022-adversarial">
+    <titleInfo>
+        <title>Adversarial Text Normalization</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Joanna</namePart>
+        <namePart type="family">Bitton</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maya</namePart>
+        <namePart type="family">Pavlova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ivan</namePart>
+        <namePart type="family">Evtimov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bitton-etal-2022-adversarial</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.30</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>268</start>
+            <end>279</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="mitra-etal-2022-constraint">
+    <titleInfo>
+        <title>Constraint-based Multi-hop Question Answering with Knowledge Graph</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sayantan</namePart>
+        <namePart type="family">Mitra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roshni</namePart>
+        <namePart type="family">Ramnani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shubhashis</namePart>
+        <namePart type="family">Sengupta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">mitra-etal-2022-constraint</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.31</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>280</start>
+            <end>288</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kim-etal-2022-fast">
+    <titleInfo>
+        <title>Fast Bilingual Grapheme-To-Phoneme Conversion</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hwa-Yeon</namePart>
+        <namePart type="family">Kim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jong-Hwan</namePart>
+        <namePart type="family">Kim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jae-Min</namePart>
+        <namePart type="family">Kim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kim-etal-2022-fast</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.32</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>289</start>
+            <end>296</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="shimorina-etal-2022-knowledge">
+    <titleInfo>
+        <title>Knowledge Extraction From Texts Based on Wikidata</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anastasia</namePart>
+        <namePart type="family">Shimorina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Johannes</namePart>
+        <namePart type="family">Heinecke</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Frédéric</namePart>
+        <namePart type="family">Herledan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">shimorina-etal-2022-knowledge</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.33</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>297</start>
+            <end>304</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="katsis-etal-2022-ait">
+    <titleInfo>
+        <title>AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yannis</namePart>
+        <namePart type="family">Katsis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Saneem</namePart>
+        <namePart type="family">Chemmengath</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vishwajeet</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Samarth</namePart>
+        <namePart type="family">Bharadwaj</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mustafa</namePart>
+        <namePart type="family">Canim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Glass</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alfio</namePart>
+        <namePart type="family">Gliozzo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Feifei</namePart>
+        <namePart type="family">Pan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jaydeep</namePart>
+        <namePart type="family">Sen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Karthik</namePart>
+        <namePart type="family">Sankaranarayanan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Soumen</namePart>
+        <namePart type="family">Chakrabarti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">katsis-etal-2022-ait</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.34</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>305</start>
+            <end>314</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="zhu-etal-2022-parameter">
+    <titleInfo>
+        <title>Parameter-efficient Continual Learning Framework in Industrial Real-time Text Classification System</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tao</namePart>
+        <namePart type="family">Zhu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zhe</namePart>
+        <namePart type="family">Zhao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Weijie</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jiachi</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yiren</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Weiquan</namePart>
+        <namePart type="family">Mao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Haoyan</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kunbo</namePart>
+        <namePart type="family">Ding</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yudong</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xuefeng</namePart>
+        <namePart type="family">Yang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">zhu-etal-2022-parameter</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.35</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>315</start>
+            <end>323</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ponnusamy-etal-2022-self">
+    <titleInfo>
+        <title>Self-Aware Feedback-Based Self-Learning in Large-Scale Conversational AI</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pragaash</namePart>
+        <namePart type="family">Ponnusamy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Clint</namePart>
+        <namePart type="given">Solomon</namePart>
+        <namePart type="family">Mathialagan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gustavo</namePart>
+        <namePart type="family">Aguilar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chengyuan</namePart>
+        <namePart type="family">Ma</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chenlei</namePart>
+        <namePart type="family">Guo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ponnusamy-etal-2022-self</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.36</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>324</start>
+            <end>333</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="wan-etal-2022-fast">
+    <titleInfo>
+        <title>Fast and Light-Weight Answer Text Retrieval in Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hui</namePart>
+        <namePart type="family">Wan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Siva</namePart>
+        <namePart type="given">Sankalp</namePart>
+        <namePart type="family">Patel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">J</namePart>
+        <namePart type="given">William</namePart>
+        <namePart type="family">Murdock</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Saloni</namePart>
+        <namePart type="family">Potdar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sachindra</namePart>
+        <namePart type="family">Joshi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wan-etal-2022-fast</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.37</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>334</start>
+            <end>343</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="laskar-etal-2022-blink">
+    <titleInfo>
+        <title>BLINK with Elasticsearch for Efficient Entity Linking in Business Conversations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Md</namePart>
+        <namePart type="given">Tahmid</namePart>
+        <namePart type="given">Rahman</namePart>
+        <namePart type="family">Laskar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cheng</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aliaksandr</namePart>
+        <namePart type="family">Martsinovich</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Johnston</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xue-Yong</namePart>
+        <namePart type="family">Fu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shashi</namePart>
+        <namePart type="given">Bhushan</namePart>
+        <namePart type="family">Tn</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Corston-Oliver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">laskar-etal-2022-blink</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.38</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>344</start>
+            <end>352</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="lim-wynter-2022-q2r">
+    <titleInfo>
+        <title>Q2R: A Query-to-Resolution System for Natural-Language Queries</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Shiau</namePart>
+        <namePart type="given">Hong</namePart>
+        <namePart type="family">Lim</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Laura</namePart>
+        <namePart type="family">Wynter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lim-wynter-2022-q2r</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.39</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>353</start>
+            <end>361</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ahbali-etal-2022-identifying">
+    <titleInfo>
+        <title>Identifying Corporate Credit Risk Sentiments from Financial News</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Noujoud</namePart>
+        <namePart type="family">Ahbali</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xinyuan</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Albert</namePart>
+        <namePart type="family">Nanda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jamie</namePart>
+        <namePart type="family">Stark</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ashit</namePart>
+        <namePart type="family">Talukder</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rupinder</namePart>
+        <namePart type="given">Paul</namePart>
+        <namePart type="family">Khandpur</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Track</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ahbali-etal-2022-identifying</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-industry.40</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>362</start>
+            <end>370</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

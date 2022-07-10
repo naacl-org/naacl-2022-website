@@ -1,0 +1,1924 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="naacl-2022-2022-north">
+    <titleInfo>
+        <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daphne</namePart>
+        <namePart type="family">Ippolito</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Liunian</namePart>
+        <namePart type="given">Harold</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="given">Leonor</namePart>
+        <namePart type="family">Pacheco</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Danqi</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nianwen</namePart>
+        <namePart type="family">Xue</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+        <publisher>Association for Computational Linguistics</publisher>
+        <place>
+            <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">naacl-2022-2022-north</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.0</url>
+    </location>
+</mods>
+<mods ID="chakravarthy-etal-2022-systematicity">
+    <titleInfo>
+        <title>Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ayush</namePart>
+        <namePart type="given">K</namePart>
+        <namePart type="family">Chakravarthy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jacob</namePart>
+        <namePart type="given">Labe</namePart>
+        <namePart type="family">Russin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Randall</namePart>
+        <namePart type="family">O’Reilly</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">chakravarthy-etal-2022-systematicity</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.1</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>1</start>
+            <end>8</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="choudhary-kawahara-2022-grounding">
+    <titleInfo>
+        <title>Grounding in social media: An approach to building a chit-chat dialogue model</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ritvik</namePart>
+        <namePart type="family">Choudhary</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daisuke</namePart>
+        <namePart type="family">Kawahara</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">choudhary-kawahara-2022-grounding</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.2</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>9</start>
+            <end>15</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="loem-etal-2022-extraphrase">
+    <titleInfo>
+        <title>ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mengsay</namePart>
+        <namePart type="family">Loem</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sho</namePart>
+        <namePart type="family">Takase</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Masahiro</namePart>
+        <namePart type="family">Kaneko</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Naoaki</namePart>
+        <namePart type="family">Okazaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">loem-etal-2022-extraphrase</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.3</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>16</start>
+            <end>24</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ton-etal-2022-regularized">
+    <titleInfo>
+        <title>Regularized Training of Nearest Neighbor Language Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jean-Francois</namePart>
+        <namePart type="family">Ton</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Walter</namePart>
+        <namePart type="family">Talbott</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shuangfei</namePart>
+        <namePart type="family">Zhai</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Joshua</namePart>
+        <namePart type="given">M</namePart>
+        <namePart type="family">Susskind</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ton-etal-2022-regularized</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.4</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>25</start>
+            <end>30</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="yu-2022-dozens">
+    <titleInfo>
+        <title>“Again, Dozens of Refugees Drowned”: A Computational Study of Political Framing Evoked by Presuppositions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Qi</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yu-2022-dozens</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.5</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>31</start>
+            <end>43</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="stefanik-2022-methods">
+    <titleInfo>
+        <title>Methods for Estimating and Improving Robustness of Language Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Michal</namePart>
+        <namePart type="family">Stefanik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">stefanik-2022-methods</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.6</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>44</start>
+            <end>51</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="yu-2022-retrieval">
+    <titleInfo>
+        <title>Retrieval-augmented Generation across Heterogeneous Knowledge</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Wenhao</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yu-2022-retrieval</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.7</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>52</start>
+            <end>58</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="luo-2022-neural">
+    <titleInfo>
+        <title>Neural Retriever and Go Beyond: A Thesis Proposal</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Man</namePart>
+        <namePart type="family">Luo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">luo-2022-neural</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.8</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>59</start>
+            <end>67</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ding-etal-2022-improving">
+    <titleInfo>
+        <title>Improving Classification of Infrequent Cognitive Distortions: Domain-Specific Model vs. Data Augmentation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Xiruo</namePart>
+        <namePart type="family">Ding</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kevin</namePart>
+        <namePart type="family">Lybarger</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Justin</namePart>
+        <namePart type="family">Tauscher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Trevor</namePart>
+        <namePart type="family">Cohen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ding-etal-2022-improving</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.9</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>68</start>
+            <end>75</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sakaeda-kawahara-2022-generate">
+    <titleInfo>
+        <title>Generate, Evaluate, and Select: A Dialogue System with a Response Evaluator for Diversity-Aware Response Generation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ryoma</namePart>
+        <namePart type="family">Sakaeda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daisuke</namePart>
+        <namePart type="family">Kawahara</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sakaeda-kawahara-2022-generate</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.10</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>76</start>
+            <end>82</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="salhofer-etal-2022-impact">
+    <titleInfo>
+        <title>Impact of Training Instance Selection on Domain-Specific Entity Extraction using BERT</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eileen</namePart>
+        <namePart type="family">Salhofer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xing</namePart>
+        <namePart type="given">Lan</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roman</namePart>
+        <namePart type="family">Kern</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">salhofer-etal-2022-impact</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.11</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>83</start>
+            <end>88</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="hatami-etal-2022-analysing">
+    <titleInfo>
+        <title>Analysing the Correlation between Lexical Ambiguity and Translation Quality in a Multimodal Setting using WordNet</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ali</namePart>
+        <namePart type="family">Hatami</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Paul</namePart>
+        <namePart type="family">Buitelaar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mihael</namePart>
+        <namePart type="family">Arcan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hatami-etal-2022-analysing</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.12</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>89</start>
+            <end>95</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kasahara-etal-2022-building">
+    <titleInfo>
+        <title>Building a Personalized Dialogue System with Prompt-Tuning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tomohito</namePart>
+        <namePart type="family">Kasahara</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daisuke</namePart>
+        <namePart type="family">Kawahara</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nguyen</namePart>
+        <namePart type="family">Tung</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shengzhe</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kenta</namePart>
+        <namePart type="family">Shinzato</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Toshinori</namePart>
+        <namePart type="family">Sato</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kasahara-etal-2022-building</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.13</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>96</start>
+            <end>105</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="seo-etal-2022-mm">
+    <titleInfo>
+        <title>MM-GATBT: Enriching Multimodal Representation Using Graph Attention Network</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Seung</namePart>
+        <namePart type="given">Byum</namePart>
+        <namePart type="family">Seo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hyoungwook</namePart>
+        <namePart type="family">Nam</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Payam</namePart>
+        <namePart type="family">Delgosha</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">seo-etal-2022-mm</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.14</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>106</start>
+            <end>112</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="richard-2022-simulating">
+    <titleInfo>
+        <title>Simulating Feature Structures with Simple Types</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Valentin</namePart>
+        <namePart type="given">D</namePart>
+        <namePart type="family">Richard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">richard-2022-simulating</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.15</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>113</start>
+            <end>122</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="konovalova-etal-2022-dr">
+    <titleInfo>
+        <title>Dr. Livingstone, I presume? Polishing of foreign character identification in literary texts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Aleksandra</namePart>
+        <namePart type="family">Konovalova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Antonio</namePart>
+        <namePart type="family">Toral</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kristiina</namePart>
+        <namePart type="family">Taivalkoski-Shilov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">konovalova-etal-2022-dr</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.16</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>123</start>
+            <end>128</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="pan-etal-2022-zuo">
+    <titleInfo>
+        <title>Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Xiaomeng</namePart>
+        <namePart type="family">Pan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hongfei</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Teruaki</namePart>
+        <namePart type="family">Oka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mamoru</namePart>
+        <namePart type="family">Komachi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pan-etal-2022-zuo</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.17</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>129</start>
+            <end>135</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="phan-etal-2022-vit5">
+    <titleInfo>
+        <title>ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Long</namePart>
+        <namePart type="family">Phan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hieu</namePart>
+        <namePart type="family">Tran</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hieu</namePart>
+        <namePart type="family">Nguyen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Trieu</namePart>
+        <namePart type="given">H</namePart>
+        <namePart type="family">Trinh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">phan-etal-2022-vit5</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.18</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>136</start>
+            <end>142</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="spilsbury-ilin-2022-compositional">
+    <titleInfo>
+        <title>Compositional Generalization in Grounded Language Learning via Induced Model Sparsity</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sam</namePart>
+        <namePart type="family">Spilsbury</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexander</namePart>
+        <namePart type="family">Ilin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">spilsbury-ilin-2022-compositional</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.19</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>143</start>
+            <end>155</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="chen-etal-2022-people">
+    <titleInfo>
+        <title>How do people talk about images? A study on open-domain conversations with images.</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yi-Pei</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nobuyuki</namePart>
+        <namePart type="family">Shimizu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Takashi</namePart>
+        <namePart type="family">Miyazaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hideki</namePart>
+        <namePart type="family">Nakayama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">chen-etal-2022-people</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.20</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>156</start>
+            <end>162</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="tokpo-calders-2022-text">
+    <titleInfo>
+        <title>Text Style Transfer for Bias Mitigation using Masked Language Modeling</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ewoenam</namePart>
+        <namePart type="given">Kwaku</namePart>
+        <namePart type="family">Tokpo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Toon</namePart>
+        <namePart type="family">Calders</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">tokpo-calders-2022-text</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.21</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>163</start>
+            <end>171</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="xie-hong-2022-differentially">
+    <titleInfo>
+        <title>Differentially Private Instance Encoding against Privacy Attacks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Shangyu</namePart>
+        <namePart type="family">Xie</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yuan</namePart>
+        <namePart type="family">Hong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">xie-hong-2022-differentially</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.22</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>172</start>
+            <end>180</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="luo-etal-2022-simple">
+    <titleInfo>
+        <title>A Simple Approach to Jointly Rank Passages and Select Relevant Sentences in the OBQA Context</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Man</namePart>
+        <namePart type="family">Luo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shuguang</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chitta</namePart>
+        <namePart type="family">Baral</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">luo-etal-2022-simple</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.23</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>181</start>
+            <end>187</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="mince-etal-2022-multimodal">
+    <titleInfo>
+        <title>Multimodal Modeling of Task-Mediated Confusion</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Camille</namePart>
+        <namePart type="family">Mince</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Skye</namePart>
+        <namePart type="family">Rhomberg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cecilia</namePart>
+        <namePart type="family">Alm</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Reynold</namePart>
+        <namePart type="family">Bailey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Ororbia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">mince-etal-2022-multimodal</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.24</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>188</start>
+            <end>194</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="aoyama-schneider-2022-probe">
+    <titleInfo>
+        <title>Probe-Less Probing of BERT’s Layer-Wise Linguistic Knowledge with Masked Word Prediction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tatsuya</namePart>
+        <namePart type="family">Aoyama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nathan</namePart>
+        <namePart type="family">Schneider</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">aoyama-schneider-2022-probe</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.25</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>195</start>
+            <end>201</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="lewis-2022-multimodal">
+    <titleInfo>
+        <title>Multimodal large language models for inclusive collaboration learning tasks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Armanda</namePart>
+        <namePart type="family">Lewis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lewis-2022-multimodal</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.26</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>202</start>
+            <end>210</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="takeuchi-etal-2022-neural">
+    <titleInfo>
+        <title>Neural Networks in a Product of Hyperbolic Spaces</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jun</namePart>
+        <namePart type="family">Takeuchi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Noriki</namePart>
+        <namePart type="family">Nishida</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hideki</namePart>
+        <namePart type="family">Nakayama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">takeuchi-etal-2022-neural</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.27</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>211</start>
+            <end>221</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="yoshikoshi-etal-2022-explicit">
+    <titleInfo>
+        <title>Explicit Use of Topicality in Dialogue Response Generation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Takumi</namePart>
+        <namePart type="family">Yoshikoshi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hayato</namePart>
+        <namePart type="family">Atarashi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Takashi</namePart>
+        <namePart type="family">Kodama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sadao</namePart>
+        <namePart type="family">Kurohashi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yoshikoshi-etal-2022-explicit</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.28</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>222</start>
+            <end>228</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="a-2022-automating">
+    <titleInfo>
+        <title>Automating Human Evaluation of Dialogue Systems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sujan</namePart>
+        <namePart type="given">Reddy</namePart>
+        <namePart type="family">A</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">a-2022-automating</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.29</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>229</start>
+            <end>234</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="culjak-etal-2022-strong">
+    <titleInfo>
+        <title>Strong Heuristics for Named Entity Linking</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marko</namePart>
+        <namePart type="family">Čuljak</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andreas</namePart>
+        <namePart type="family">Spitz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">West</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Akhil</namePart>
+        <namePart type="family">Arora</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">culjak-etal-2022-strong</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.30</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>235</start>
+            <end>246</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="saxena-etal-2022-static">
+    <titleInfo>
+        <title>Static and Dynamic Speaker Modeling based on Graph Neural Network for Emotion Recognition in Conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Prakhar</namePart>
+        <namePart type="family">Saxena</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yin</namePart>
+        <namePart type="given">Jou</namePart>
+        <namePart type="family">Huang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sadao</namePart>
+        <namePart type="family">Kurohashi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">saxena-etal-2022-static</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.31</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>247</start>
+            <end>253</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="navarro-etal-2022-shot">
+    <titleInfo>
+        <title>Few-shot fine-tuning SOTA summarization models for medical dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="given">Fraile</namePart>
+        <namePart type="family">Navarro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Dras</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shlomo</namePart>
+        <namePart type="family">Berkovsky</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">navarro-etal-2022-shot</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.32</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>254</start>
+            <end>266</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="simoulin-crabbe-2022-unifying">
+    <titleInfo>
+        <title>Unifying Parsing and Tree-Structured Models for Generating Sentence Semantic Representations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Antoine</namePart>
+        <namePart type="family">Simoulin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Benoit</namePart>
+        <namePart type="family">Crabbé</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">simoulin-crabbe-2022-unifying</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.33</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>267</start>
+            <end>276</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sant-etal-2022-multiformer">
+    <titleInfo>
+        <title>Multiformer: A Head-Configurable Transformer-Based Model for Direct Speech Translation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gerard</namePart>
+        <namePart type="family">Sant</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gerard</namePart>
+        <namePart type="given">I</namePart>
+        <namePart type="family">Gállego</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Belen</namePart>
+        <namePart type="family">Alastruey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marta</namePart>
+        <namePart type="given">Ruiz</namePart>
+        <namePart type="family">Costa-jussà</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sant-etal-2022-multiformer</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.34</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>277</start>
+            <end>284</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="auersperger-pecina-2022-defending">
+    <titleInfo>
+        <title>Defending Compositionality in Emergent Languages</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Michal</namePart>
+        <namePart type="family">Auersperger</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pavel</namePart>
+        <namePart type="family">Pecina</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">auersperger-pecina-2022-defending</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.35</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>285</start>
+            <end>291</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="yadavalli-etal-2022-exploring">
+    <titleInfo>
+        <title>Exploring the Effect of Dialect Mismatched Language Models in Telugu Automatic Speech Recognition</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Aditya</namePart>
+        <namePart type="family">Yadavalli</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ganesh</namePart>
+        <namePart type="given">Sai</namePart>
+        <namePart type="family">Mirishkar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anil</namePart>
+        <namePart type="family">Vuppala</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>Association for Computational Linguistics</publisher>
+            <place>
+                <placeTerm type="text">Hybrid: Seattle, Washington + Online</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yadavalli-etal-2022-exploring</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.naacl-srw.36</url>
+    </location>
+    <part>
+        <date>2022-jul</date>
+        <extent unit="page">
+            <start>292</start>
+            <end>301</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

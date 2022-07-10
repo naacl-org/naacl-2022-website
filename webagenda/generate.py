@@ -243,8 +243,10 @@ class WebSessionGroup(SessionGroup):
             # order file, so we need to inherit those
             # here since sessions _are_ displayed with
             # start and end times on the website
-            session.start = self.start
-            session.end = self.end
+            if not session.start:
+                session.start = self.start
+            if not session.end:
+                session.end = self.end
 
             # call the respective `to_html()` for the session
             # and save the HTML

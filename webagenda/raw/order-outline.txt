@@ -165,7 +165,7 @@
 {"Session Name": "Industry Poster"}
 @ Demo Track Posters
 {"Session Name": "Demo Poster"}
-= Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
+= 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
 {"Session Name": "Virtual Poster Q&A Session 2", "_group_by": "Track"}
 
 ! 19:00--22:00 <a href="/program/#social-event">Social Event</a> ## %room Museum of Pop Culture (MoPOP)

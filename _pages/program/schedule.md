@@ -1026,7 +1026,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">6H: Virtual Poster Q&A Session 2 </a>
 </div>
-<span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
+<span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:15</span>
 <span class="session-location">702 - Clearwater</span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>

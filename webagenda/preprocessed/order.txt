@@ -618,7 +618,7 @@
 29-demo
 30-demo
 32-demo
-= Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
+= 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
 @ Computational Social Science and Cultural Analytics
 900 ## %type Findings
 @ Dialogue and Interactive Systems

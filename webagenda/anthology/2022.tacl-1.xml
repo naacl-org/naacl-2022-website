@@ -1,0 +1,3079 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="chang-bergen-2022-word">
+    <titleInfo>
+        <title>Word Acquisition in Neural Language Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tyler</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="family">Chang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Benjamin</namePart>
+        <namePart type="given">K</namePart>
+        <namePart type="family">Bergen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">chang-bergen-2022-word</identifier>
+    <identifier type="doi">10.1162/tacl_a_00444</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.1</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>1</start>
+            <end>16</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="gantt-etal-2022-decomposing">
+    <titleInfo>
+        <title>Decomposing and Recomposing Event Structure</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">William</namePart>
+        <namePart type="family">Gantt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lelia</namePart>
+        <namePart type="family">Glass</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aaron</namePart>
+        <namePart type="given">Steven</namePart>
+        <namePart type="family">White</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">gantt-etal-2022-decomposing</identifier>
+    <identifier type="doi">10.1162/tacl_a_00445</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.2</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>17</start>
+            <end>34</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="nan-etal-2022-fetaqa">
+    <titleInfo>
+        <title>FeTaQA: Free-form Table Question Answering</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Linyong</namePart>
+        <namePart type="family">Nan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chiachun</namePart>
+        <namePart type="family">Hsieh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ziming</namePart>
+        <namePart type="family">Mao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xi</namePart>
+        <namePart type="given">Victoria</namePart>
+        <namePart type="family">Lin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Neha</namePart>
+        <namePart type="family">Verma</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rui</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wojciech</namePart>
+        <namePart type="family">Kryściński</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hailey</namePart>
+        <namePart type="family">Schoelkopf</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Riley</namePart>
+        <namePart type="family">Kong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiangru</namePart>
+        <namePart type="family">Tang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mutethia</namePart>
+        <namePart type="family">Mutuma</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ben</namePart>
+        <namePart type="family">Rosand</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Isabel</namePart>
+        <namePart type="family">Trindade</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Renusree</namePart>
+        <namePart type="family">Bandaru</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jacob</namePart>
+        <namePart type="family">Cunningham</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Caiming</namePart>
+        <namePart type="family">Xiong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dragomir</namePart>
+        <namePart type="family">Radev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dragomir</namePart>
+        <namePart type="family">Radev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">nan-etal-2022-fetaqa</identifier>
+    <identifier type="doi">10.1162/tacl_a_00446</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.3</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>35</start>
+            <end>49</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="kreutzer-etal-2022-quality">
+    <titleInfo>
+        <title>Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Julia</namePart>
+        <namePart type="family">Kreutzer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Isaac</namePart>
+        <namePart type="family">Caswell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lisa</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ahsan</namePart>
+        <namePart type="family">Wahab</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daan</namePart>
+        <namePart type="family">van Esch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nasanbayar</namePart>
+        <namePart type="family">Ulzii-Orshikh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Allahsera</namePart>
+        <namePart type="family">Tapo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nishant</namePart>
+        <namePart type="family">Subramani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Artem</namePart>
+        <namePart type="family">Sokolov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Claytone</namePart>
+        <namePart type="family">Sikasote</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Monang</namePart>
+        <namePart type="family">Setyawan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Supheakmungkol</namePart>
+        <namePart type="family">Sarin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sokhar</namePart>
+        <namePart type="family">Samb</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Benoît</namePart>
+        <namePart type="family">Sagot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Clara</namePart>
+        <namePart type="family">Rivera</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Annette</namePart>
+        <namePart type="family">Rios</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Isabel</namePart>
+        <namePart type="family">Papadimitriou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Salomey</namePart>
+        <namePart type="family">Osei</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pedro</namePart>
+        <namePart type="given">Ortiz</namePart>
+        <namePart type="family">Suarez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Iroro</namePart>
+        <namePart type="family">Orife</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kelechi</namePart>
+        <namePart type="family">Ogueji</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andre</namePart>
+        <namePart type="given">Niyongabo</namePart>
+        <namePart type="family">Rubungo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Toan</namePart>
+        <namePart type="given">Q</namePart>
+        <namePart type="family">Nguyen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mathias</namePart>
+        <namePart type="family">Müller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">André</namePart>
+        <namePart type="family">Müller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shamsuddeen</namePart>
+        <namePart type="given">Hassan</namePart>
+        <namePart type="family">Muhammad</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nanda</namePart>
+        <namePart type="family">Muhammad</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ayanda</namePart>
+        <namePart type="family">Mnyakeni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jamshidbek</namePart>
+        <namePart type="family">Mirzakhalov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tapiwanashe</namePart>
+        <namePart type="family">Matangira</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Colin</namePart>
+        <namePart type="family">Leong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nze</namePart>
+        <namePart type="family">Lawson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sneha</namePart>
+        <namePart type="family">Kudugunta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yacine</namePart>
+        <namePart type="family">Jernite</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mathias</namePart>
+        <namePart type="family">Jenny</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Orhan</namePart>
+        <namePart type="family">Firat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bonaventure</namePart>
+        <namePart type="given">F</namePart>
+        <namePart type="given">P</namePart>
+        <namePart type="family">Dossou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sakhile</namePart>
+        <namePart type="family">Dlamini</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nisansa</namePart>
+        <namePart type="family">de Silva</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sakine</namePart>
+        <namePart type="family">Çabuk Ballı</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stella</namePart>
+        <namePart type="family">Biderman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alessia</namePart>
+        <namePart type="family">Battisti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ahmed</namePart>
+        <namePart type="family">Baruwa</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ankur</namePart>
+        <namePart type="family">Bapna</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pallavi</namePart>
+        <namePart type="family">Baljekar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Israel</namePart>
+        <namePart type="given">Abebe</namePart>
+        <namePart type="family">Azime</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ayodele</namePart>
+        <namePart type="family">Awokoya</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Duygu</namePart>
+        <namePart type="family">Ataman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Orevaoghene</namePart>
+        <namePart type="family">Ahia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oghenefego</namePart>
+        <namePart type="family">Ahia</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sweta</namePart>
+        <namePart type="family">Agrawal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mofetoluwa</namePart>
+        <namePart type="family">Adeyemi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">kreutzer-etal-2022-quality</identifier>
+    <identifier type="doi">10.1162/tacl_a_00447</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.4</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>50</start>
+            <end>72</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="clark-etal-2022-canine">
+    <titleInfo>
+        <title>Canine: Pre-training an Efficient Tokenization-Free Encoder for Language Representation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="given">H</namePart>
+        <namePart type="family">Clark</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dan</namePart>
+        <namePart type="family">Garrette</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Iulia</namePart>
+        <namePart type="family">Turc</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="family">Wieting</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">clark-etal-2022-canine</identifier>
+    <identifier type="doi">10.1162/tacl_a_00448</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.5</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>73</start>
+            <end>91</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="davani-etal-2022-dealing">
+    <titleInfo>
+        <title>Dealing with Disagreements: Looking Beyond the Majority Vote in Subjective Annotations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Aida</namePart>
+        <namePart type="given">Mostafazadeh</namePart>
+        <namePart type="family">Davani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mark</namePart>
+        <namePart type="family">Díaz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vinodkumar</namePart>
+        <namePart type="family">Prabhakaran</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">davani-etal-2022-dealing</identifier>
+    <identifier type="doi">10.1162/tacl_a_00449</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.6</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>92</start>
+            <end>110</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="geva-etal-2022-break">
+    <titleInfo>
+        <title>Break, Perturb, Build: Automatic Perturbation of Reasoning Paths Through Question Decomposition</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mor</namePart>
+        <namePart type="family">Geva</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tomer</namePart>
+        <namePart type="family">Wolfson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Berant</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">geva-etal-2022-break</identifier>
+    <identifier type="doi">10.1162/tacl_a_00450</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.7</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>111</start>
+            <end>126</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="nishida-matsumoto-2022-domain">
+    <titleInfo>
+        <title>Out-of-Domain Discourse Dependency Parsing via Bootstrapping: An Empirical Analysis on Its Effectiveness and Limitation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Noriki</namePart>
+        <namePart type="family">Nishida</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yuji</namePart>
+        <namePart type="family">Matsumoto</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">nishida-matsumoto-2022-domain</identifier>
+    <identifier type="doi">10.1162/tacl_a_00451</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.8</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>127</start>
+            <end>144</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ramesh-etal-2022-samanantar">
+    <titleInfo>
+        <title>Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gowtham</namePart>
+        <namePart type="family">Ramesh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sumanth</namePart>
+        <namePart type="family">Doddapaneni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aravinth</namePart>
+        <namePart type="family">Bheemaraj</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mayank</namePart>
+        <namePart type="family">Jobanputra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raghavan</namePart>
+        <namePart type="family">AK</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ajitesh</namePart>
+        <namePart type="family">Sharma</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sujit</namePart>
+        <namePart type="family">Sahoo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harshita</namePart>
+        <namePart type="family">Diddee</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mahalakshmi</namePart>
+        <namePart type="family">J</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Divyanshu</namePart>
+        <namePart type="family">Kakwani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Navneet</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aswin</namePart>
+        <namePart type="family">Pradeep</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Srihari</namePart>
+        <namePart type="family">Nagaraj</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kumar</namePart>
+        <namePart type="family">Deepak</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vivek</namePart>
+        <namePart type="family">Raghavan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anoop</namePart>
+        <namePart type="family">Kunchukuttan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pratyush</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mitesh</namePart>
+        <namePart type="given">Shantadevi</namePart>
+        <namePart type="family">Khapra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">ramesh-etal-2022-samanantar</identifier>
+    <identifier type="doi">10.1162/tacl_a_00452</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.9</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>145</start>
+            <end>162</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="laban-etal-2022-summac">
+    <titleInfo>
+        <title>SummaC: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Philippe</namePart>
+        <namePart type="family">Laban</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tobias</namePart>
+        <namePart type="family">Schnabel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Paul</namePart>
+        <namePart type="given">N</namePart>
+        <namePart type="family">Bennett</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marti</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="family">Hearst</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">laban-etal-2022-summac</identifier>
+    <identifier type="doi">10.1162/tacl_a_00453</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.10</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>163</start>
+            <end>177</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="guo-etal-2022-survey">
+    <titleInfo>
+        <title>A Survey on Automated Fact-Checking</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zhijiang</namePart>
+        <namePart type="family">Guo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Schlichtkrull</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andreas</namePart>
+        <namePart type="family">Vlachos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">guo-etal-2022-survey</identifier>
+    <identifier type="doi">10.1162/tacl_a_00454</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.11</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>178</start>
+            <end>206</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="singhania-etal-2022-predicting">
+    <titleInfo>
+        <title>Predicting Document Coverage for Relation Extraction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sneha</namePart>
+        <namePart type="family">Singhania</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Razniewski</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gerhard</namePart>
+        <namePart type="family">Weikum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">singhania-etal-2022-predicting</identifier>
+    <identifier type="doi">10.1162/tacl_a_00456</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.12</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>207</start>
+            <end>223</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="macavaney-etal-2022-abnirml">
+    <titleInfo>
+        <title>ABNIRML: Analyzing the Behavior of Neural IR Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sean</namePart>
+        <namePart type="family">MacAvaney</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sergey</namePart>
+        <namePart type="family">Feldman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nazli</namePart>
+        <namePart type="family">Goharian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Doug</namePart>
+        <namePart type="family">Downey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arman</namePart>
+        <namePart type="family">Cohan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">macavaney-etal-2022-abnirml</identifier>
+    <identifier type="doi">10.1162/tacl_a_00457</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.13</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>224</start>
+            <end>239</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="feng-etal-2022-neuro">
+    <titleInfo>
+        <title>Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yufei</namePart>
+        <namePart type="family">Feng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaoyu</namePart>
+        <namePart type="family">Yang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaodan</namePart>
+        <namePart type="family">Zhu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Greenspan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">feng-etal-2022-neuro</identifier>
+    <identifier type="doi">10.1162/tacl_a_00458</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.14</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>240</start>
+            <end>256</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="dhingra-etal-2022-time">
+    <titleInfo>
+        <title>Time-Aware Language Models as Temporal Knowledge Bases</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Bhuwan</namePart>
+        <namePart type="family">Dhingra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jeremy</namePart>
+        <namePart type="given">R</namePart>
+        <namePart type="family">Cole</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="given">Martin</namePart>
+        <namePart type="family">Eisenschlos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Gillick</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jacob</namePart>
+        <namePart type="family">Eisenstein</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">William</namePart>
+        <namePart type="given">W</namePart>
+        <namePart type="family">Cohen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">dhingra-etal-2022-time</identifier>
+    <identifier type="doi">10.1162/tacl_a_00459</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.15</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>257</start>
+            <end>273</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="de-cao-etal-2022-multilingual">
+    <titleInfo>
+        <title>Multilingual Autoregressive Entity Linking</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nicola</namePart>
+        <namePart type="family">De Cao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ledell</namePart>
+        <namePart type="family">Wu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kashyap</namePart>
+        <namePart type="family">Popat</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mikel</namePart>
+        <namePart type="family">Artetxe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Naman</namePart>
+        <namePart type="family">Goyal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mikhail</namePart>
+        <namePart type="family">Plekhanov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Luke</namePart>
+        <namePart type="family">Zettlemoyer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nicola</namePart>
+        <namePart type="family">Cancedda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sebastian</namePart>
+        <namePart type="family">Riedel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fabio</namePart>
+        <namePart type="family">Petroni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">de-cao-etal-2022-multilingual</identifier>
+    <identifier type="doi">10.1162/tacl_a_00460</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.16</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>274</start>
+            <end>290</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="xue-etal-2022-byt5">
+    <titleInfo>
+        <title>ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Linting</namePart>
+        <namePart type="family">Xue</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Aditya</namePart>
+        <namePart type="family">Barua</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Noah</namePart>
+        <namePart type="family">Constant</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rami</namePart>
+        <namePart type="family">Al-Rfou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sharan</namePart>
+        <namePart type="family">Narang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mihir</namePart>
+        <namePart type="family">Kale</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Adam</namePart>
+        <namePart type="family">Roberts</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Colin</namePart>
+        <namePart type="family">Raffel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">xue-etal-2022-byt5</identifier>
+    <identifier type="doi">10.1162/tacl_a_00461</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.17</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>291</start>
+            <end>306</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="raifer-etal-2022-designing">
+    <titleInfo>
+        <title>Designing an Automatic Agent for Repeated Language–based Persuasion Games</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maya</namePart>
+        <namePart type="family">Raifer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Guy</namePart>
+        <namePart type="family">Rotman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Reut</namePart>
+        <namePart type="family">Apel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Moshe</namePart>
+        <namePart type="family">Tennenholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roi</namePart>
+        <namePart type="family">Reichart</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">raifer-etal-2022-designing</identifier>
+    <identifier type="doi">10.1162/tacl_a_00462</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.18</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>307</start>
+            <end>324</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="saparov-mitchell-2022-towards">
+    <titleInfo>
+        <title>Towards General Natural Language Understanding with Probabilistic Worldbuilding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Abulhair</namePart>
+        <namePart type="family">Saparov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tom</namePart>
+        <namePart type="given">M</namePart>
+        <namePart type="family">Mitchell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">saparov-mitchell-2022-towards</identifier>
+    <identifier type="doi">10.1162/tacl_a_00463</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.19</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>325</start>
+            <end>342</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="somayajula-etal-2022-multi">
+    <titleInfo>
+        <title>A Multi-Level Optimization Framework for End-to-End Text Augmentation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sai</namePart>
+        <namePart type="given">Ashish</namePart>
+        <namePart type="family">Somayajula</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Linfeng</namePart>
+        <namePart type="family">Song</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pengtao</namePart>
+        <namePart type="family">Xie</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">somayajula-etal-2022-multi</identifier>
+    <identifier type="doi">10.1162/tacl_a_00464</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.20</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>343</start>
+            <end>358</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="pruthi-etal-2022-evaluating">
+    <titleInfo>
+        <title>Evaluating Explanations: How Much Do Explanations from the Teacher Aid Students?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Danish</namePart>
+        <namePart type="family">Pruthi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rachit</namePart>
+        <namePart type="family">Bansal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bhuwan</namePart>
+        <namePart type="family">Dhingra</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Livio</namePart>
+        <namePart type="given">Baldini</namePart>
+        <namePart type="family">Soares</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Collins</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zachary</namePart>
+        <namePart type="given">C</namePart>
+        <namePart type="family">Lipton</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Graham</namePart>
+        <namePart type="family">Neubig</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">William</namePart>
+        <namePart type="given">W</namePart>
+        <namePart type="family">Cohen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">pruthi-etal-2022-evaluating</identifier>
+    <identifier type="doi">10.1162/tacl_a_00465</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.21</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>359</start>
+            <end>375</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="shen-etal-2022-vila">
+    <titleInfo>
+        <title>VILA: Improving Structured Content Extraction from Scientific PDFs Using Visual Layout Groups</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zejiang</namePart>
+        <namePart type="family">Shen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kyle</namePart>
+        <namePart type="family">Lo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lucy</namePart>
+        <namePart type="given">Lu</namePart>
+        <namePart type="family">Wang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bailey</namePart>
+        <namePart type="family">Kuehl</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="given">S</namePart>
+        <namePart type="family">Weld</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Doug</namePart>
+        <namePart type="family">Downey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">shen-etal-2022-vila</identifier>
+    <identifier type="doi">10.1162/tacl_a_00466</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.22</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>376</start>
+            <end>392</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="liu-prudhommeaux-2022-data">
+    <titleInfo>
+        <title>Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zoey</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Emily</namePart>
+        <namePart type="family">Prud’hommeaux</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">liu-prudhommeaux-2022-data</identifier>
+    <identifier type="doi">10.1162/tacl_a_00467</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.23</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>393</start>
+            <end>413</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="ben-david-etal-2022-pada">
+    <titleInfo>
+        <title>PADA: Example-based Prompt Learning for on-the-fly Adaptation to Unseen Domains</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eyal</namePart>
+        <namePart type="family">Ben-David</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nadav</namePart>
+        <namePart type="family">Oved</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Roi</namePart>
+        <namePart type="family">Reichart</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">ben-david-etal-2022-pada</identifier>
+    <identifier type="doi">10.1162/tacl_a_00468</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.24</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>414</start>
+            <end>433</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="guan-etal-2022-lot">
+    <titleInfo>
+        <title>LOT: A Story-Centric Benchmark for Evaluating Chinese Long Text Understanding and Generation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jian</namePart>
+        <namePart type="family">Guan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zhuoer</namePart>
+        <namePart type="family">Feng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yamei</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ruilin</namePart>
+        <namePart type="family">He</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiaoxi</namePart>
+        <namePart type="family">Mao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Changjie</namePart>
+        <namePart type="family">Fan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Minlie</namePart>
+        <namePart type="family">Huang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">guan-etal-2022-lot</identifier>
+    <identifier type="doi">10.1162/tacl_a_00469</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.25</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>434</start>
+            <end>451</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="naplava-etal-2022-czech">
+    <titleInfo>
+        <title>Czech Grammar Error Correction with a Large and Diverse Corpus</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jakub</namePart>
+        <namePart type="family">Náplava</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Milan</namePart>
+        <namePart type="family">Straka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jana</namePart>
+        <namePart type="family">Straková</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexandr</namePart>
+        <namePart type="family">Rosen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">naplava-etal-2022-czech</identifier>
+    <identifier type="doi">10.1162/tacl_a_00470</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.26</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>452</start>
+            <end>467</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="adlakha-etal-2022-topiocqa">
+    <titleInfo>
+        <title>TopiOCQA: Open-domain Conversational Question Answering with Topic Switching</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vaibhav</namePart>
+        <namePart type="family">Adlakha</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shehzaad</namePart>
+        <namePart type="family">Dhuliawala</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kaheer</namePart>
+        <namePart type="family">Suleman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harm</namePart>
+        <namePart type="family">de Vries</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Siva</namePart>
+        <namePart type="family">Reddy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">adlakha-etal-2022-topiocqa</identifier>
+    <identifier type="doi">10.1162/tacl_a_00471</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.27</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>468</start>
+            <end>483</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sarwar-etal-2022-neighborhood">
+    <titleInfo>
+        <title>A Neighborhood Framework for Resource-Lean Content Flagging</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sheikh</namePart>
+        <namePart type="given">Muhammad</namePart>
+        <namePart type="family">Sarwar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dimitrina</namePart>
+        <namePart type="family">Zlatkova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Momchil</namePart>
+        <namePart type="family">Hardalov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yoan</namePart>
+        <namePart type="family">Dinkov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Isabelle</namePart>
+        <namePart type="family">Augenstein</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Preslav</namePart>
+        <namePart type="family">Nakov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">sarwar-etal-2022-neighborhood</identifier>
+    <identifier type="doi">10.1162/tacl_a_00472</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.28</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>484</start>
+            <end>502</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="geigle-etal-2022-retrieve">
+    <titleInfo>
+        <title>Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gregor</namePart>
+        <namePart type="family">Geigle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonas</namePart>
+        <namePart type="family">Pfeiffer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nils</namePart>
+        <namePart type="family">Reimers</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ivan</namePart>
+        <namePart type="family">Vulić</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Iryna</namePart>
+        <namePart type="family">Gurevych</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">geigle-etal-2022-retrieve</identifier>
+    <identifier type="doi">10.1162/tacl_a_00473</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.29</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>503</start>
+            <end>521</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="goyal-etal-2022-flores">
+    <titleInfo>
+        <title>The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Naman</namePart>
+        <namePart type="family">Goyal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cynthia</namePart>
+        <namePart type="family">Gao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vishrav</namePart>
+        <namePart type="family">Chaudhary</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Peng-Jen</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Guillaume</namePart>
+        <namePart type="family">Wenzek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Da</namePart>
+        <namePart type="family">Ju</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sanjana</namePart>
+        <namePart type="family">Krishnan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marc’Aurelio</namePart>
+        <namePart type="family">Ranzato</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Francisco</namePart>
+        <namePart type="family">Guzmán</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Angela</namePart>
+        <namePart type="family">Fan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">goyal-etal-2022-flores</identifier>
+    <identifier type="doi">10.1162/tacl_a_00474</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.30</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>522</start>
+            <end>538</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="trivedi-etal-2022-musique">
+    <titleInfo>
+        <title>♫ MuSiQue: Multihop Questions via Single-hop Question Composition</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Harsh</namePart>
+        <namePart type="family">Trivedi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Niranjan</namePart>
+        <namePart type="family">Balasubramanian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tushar</namePart>
+        <namePart type="family">Khot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ashish</namePart>
+        <namePart type="family">Sabharwal</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">trivedi-etal-2022-musique</identifier>
+    <identifier type="doi">10.1162/tacl_a_00475</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.31</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>539</start>
+            <end>554</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="liu-etal-2022-relational">
+    <titleInfo>
+        <title>Relational Memory-Augmented Language Models</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Qi</namePart>
+        <namePart type="family">Liu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Dani</namePart>
+        <namePart type="family">Yogatama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Phil</namePart>
+        <namePart type="family">Blunsom</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">liu-etal-2022-relational</identifier>
+    <identifier type="doi">10.1162/tacl_a_00476</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.32</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>555</start>
+            <end>572</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="sun-etal-2022-sentence">
+    <titleInfo>
+        <title>Sentence Similarity Based on Contexts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Xiaofei</namePart>
+        <namePart type="family">Sun</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yuxian</namePart>
+        <namePart type="family">Meng</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Xiang</namePart>
+        <namePart type="family">Ao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fei</namePart>
+        <namePart type="family">Wu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tianwei</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jiwei</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chun</namePart>
+        <namePart type="family">Fan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">sun-etal-2022-sentence</identifier>
+    <identifier type="doi">10.1162/tacl_a_00477</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.33</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>573</start>
+            <end>588</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="chakrabarty-etal-2022-rocket">
+    <titleInfo>
+        <title>It’s not Rocket Science: Interpreting Figurative Language in Narratives</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tuhin</namePart>
+        <namePart type="family">Chakrabarty</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yejin</namePart>
+        <namePart type="family">Choi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vered</namePart>
+        <namePart type="family">Shwartz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">chakrabarty-etal-2022-rocket</identifier>
+    <identifier type="doi">10.1162/tacl_a_00478</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.34</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>589</start>
+            <end>606</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="li-etal-2022-ultra">
+    <titleInfo>
+        <title>Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Bangzheng</namePart>
+        <namePart type="family">Li</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wenpeng</namePart>
+        <namePart type="family">Yin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Muhao</namePart>
+        <namePart type="family">Chen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">li-etal-2022-ultra</identifier>
+    <identifier type="doi">10.1162/tacl_a_00479</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.35</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>607</start>
+            <end>622</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="xu-lapata-2022-document">
+    <titleInfo>
+        <title>Document Summarization with Latent Queries</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yumo</namePart>
+        <namePart type="family">Xu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mirella</namePart>
+        <namePart type="family">Lapata</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">xu-lapata-2022-document</identifier>
+    <identifier type="doi">10.1162/tacl_a_00480</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.36</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>623</start>
+            <end>638</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="morio-etal-2022-end">
+    <titleInfo>
+        <title>End-to-end Argument Mining with Cross-corpora Multi-task Learning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Gaku</namePart>
+        <namePart type="family">Morio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hiroaki</namePart>
+        <namePart type="family">Ozaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Terufumi</namePart>
+        <namePart type="family">Morishita</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kohsuke</namePart>
+        <namePart type="family">Yanai</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2022</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Transactions of the Association for Computational Linguistics</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>MIT Press</publisher>
+            <place>
+                <placeTerm type="text">Cambridge, MA</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">morio-etal-2022-end</identifier>
+    <identifier type="doi">10.1162/tacl_a_00481</identifier>
+    <location>
+        <url>https://aclanthology.org/2022.tacl-1.37</url>
+    </location>
+    <part>
+        <date>2022</date>
+        <detail type="volume"><number>10</number></detail>
+        <extent unit="page">
+            <start>639</start>
+            <end>658</end>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

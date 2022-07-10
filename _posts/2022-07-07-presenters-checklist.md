@@ -74,13 +74,11 @@ You can adjust your registration mode and fee by contacting [naaclinfo@yesevents
 
 **If you are presenting another type of paper,** reach out to the relevant chairs as soon as possible:
 
-* For the student research workshop: naacl2022-srw@googlegroups.com
-* For the industry track: **[naacl2022-industry-track@googlegroups.com](https://2022.naacl.org/calls/industry/naacl2022-industry-track@googlegroups.com)**
-* For the system demonstrations track: [https://2022.naacl.org/committees/organization/#demonstration-chairs](https://2022.naacl.org/committees/organization/#demonstration-chairs).
+* For the student research workshop: <naacl2022-srw@googlegroups.com>
+* For the industry track: <naacl2022-industry-track@googlegroups.com>
+* For the system demonstrations track: <https://2022.naacl.org/committees/organization/#demonstration-chairs>
 
-\
 We look forward to your presentation and hope you enjoy the conference.
 
-Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz
-
+Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz<br>
 NAACL 2022 Program Chairs

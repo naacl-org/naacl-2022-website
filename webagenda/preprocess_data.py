@@ -69,6 +69,7 @@ _ANTHOLOGY_INDUSTRY = _THIS_DIR / 'anthology' / '2022.naacl-industry.xml'
 _ANTHOLOGY_DEMO = _THIS_DIR / 'anthology' / '2022.naacl-demo.xml'
 _ANTHOLOGY_SRW = _THIS_DIR / 'anthology' / '2022.naacl-srw.xml'
 _ANTHOLOGY_FINDINGS = _THIS_DIR / 'anthology' / '2022.findings-naacl.xml'
+_ANTHOLOGY_TACL = _THIS_DIR / 'anthology' / '2022.tacl-1.xml'
 # Output files
 _ORDER_PREPROCESSED = _THIS_DIR / 'preprocessed' / 'order.txt'
 _METADATA = _THIS_DIR / 'preprocessed' / 'metadata.tsv'
@@ -376,6 +377,7 @@ def main():
     raw_anthology.read_xml(_ANTHOLOGY_DEMO)
     raw_anthology.read_xml(_ANTHOLOGY_SRW)
     raw_anthology.read_xml(_ANTHOLOGY_FINDINGS)
+    raw_anthology.read_xml(_ANTHOLOGY_TACL)
 
     # Process the `order` file
     with open(_ORDER_OUTLINE_) as fin, open(_ORDER_PREPROCESSED, 'w') as fout:

@@ -442,18 +442,18 @@ paper_id	track	title	authors	pdf_url
 246	Syntax: Tagging, Chunking, and Parsing	Sort by Structure: Language Model Ranking as Dependency Probing	Max Müller-Eberstein, Rob van der Goot, Barbara Plank	https://aclanthology.org/2022.naacl-main.93
 220	Syntax: Tagging, Chunking, and Parsing	Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?	Xiang Zhou, Shiyue Zhang, Mohit Bansal	https://aclanthology.org/2022.naacl-main.81
 3537-tacl	None	Reducing conversational agents' overconfidence through linguistic calibration	Mielke, Arthur Szlam, Emily Dinan,Y-Lan Boureau	
-3561-tacl	None	Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference	Bangzheng Li, Wenpeng Yin, Muhao Chen 	
+3561-tacl	None	Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference	Bangzheng Li, Wenpeng Yin, Muhao Chen 	https://aclanthology.org/2022.tacl-1.35
 3721-tacl	None	Text-based NP Enrichment	Yanai Elazar, Victoria Basmov, Yoav Goldberg	
-3519-tacl	None	Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation	Zoey Liu, Emily Prud’hommeau	
+3519-tacl	None	Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation	Zoey Liu, Emily Prud’hommeau	https://aclanthology.org/2022.tacl-1.23
 3593-tacl	None	Heterogeneous Supervised Topic Models	Dhanya Sridhar, Hal Daumé III, David Meir Blei	
 3601-tacl	None	Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression	Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor	
 3765-tacl	None	Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity	Yiding Hao, Dana Angluin, Robert Evan Frank	
 3735-tacl	None	High Quality Rather than High Model Probability: Minimum Bayes Risk Decoding with Neural Metrics	Markus Freitag, David Grangier, Qijun Tan, Bowen Liang	
-3639-tacl	None	MuSiQue: Multi-hop Questions via Single-hop Question Composition	Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal	
+3639-tacl	None	MuSiQue: Multi-hop Questions via Single-hop Question Composition	Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal	https://aclanthology.org/2022.tacl-1.31
 3655-tacl	None	Fact Checking with Insufficient Evidence	Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein	
-3477-tacl	None	A Multi-Level Optimization Framework for End-to-End Text Augmentation	Sai Ashish Somayajula, Linfeng Song, Pengtao Xie	
+3477-tacl	None	A Multi-Level Optimization Framework for End-to-End Text Augmentation	Sai Ashish Somayajula, Linfeng Song, Pengtao Xie	https://aclanthology.org/2022.tacl-1.20
 0-cl	None	Tractable Parsing for CCGs of Bounded Degree	Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta	
-3319-tacl	None	Czech Grammar Error Correction with a Large and Diverse Corpus	Jakub Náplava, Milan Straka, Jana Straková, Alexandr Rosen	
+3319-tacl	None	Czech Grammar Error Correction with a Large and Diverse Corpus	Jakub Náplava, Milan Straka, Jana Straková, Alexandr Rosen	https://aclanthology.org/2022.tacl-1.26
 3207-tacl	None	Explanation-Based Human Debugging of NLP Models: A Survey	Piyawat Lertvittayakumjorn, Francesca Toni	
 2887-tacl	None	He Thinks He Knows Better than the Doctors: BERT for Event Factuality Fails on Pragmatics	Nanjiang Jiang, Marie-Catherine de Marneffe	
 2849-tacl	None	Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study	Xiangyang Mou, Chenghao Yang, Mo Yu, Bingsheng Yao, Xiaoxiao Guo, Saloni Potdar, Hui Su	

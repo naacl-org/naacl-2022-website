@@ -30,6 +30,7 @@ To request last-minute changes to the presentation mode, see this [instructions]
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| July 11, 2022 | Congratulations to the winners of the [Best Demo Award](/blog/best-demo-award/)!
 | July 8, 2022 | The [conference handbook](/downloads/handbook-final-v2.pdf) is now available.
 | July 7, 2022 | [Blogpost](/blog/welcome-to-bofs/): Welcome to Birds-of-a-Feather Meetups!
 | July 7, 2022 | [Blogpost](/blog/welcome-to-structured-socials/): Welcome to Structured Socials!
@@ -37,10 +38,9 @@ To request last-minute changes to the presentation mode, see this [instructions]
 | July 6, 2022 | [Blogpost](/blog/affinity-workshops-welcome/): Welcome to Affinity Group Workshops!
 | July 5, 2022 | [Blogpost](/blog/taste-of-naacl/): A Taste of NAACL 2022
 | Jun 30, 2022 | [Blogpost](/blog/careers-in-nlp/): What would you like to know about careers in NLP?
-| Jun 29, 2022 | [Blogpost](/blog/best-papers/): Announcing the NAACL 2022 Best Paper Awards!
+| Jun 29, 2022 | Announcing the NAACL 2022 [Best Paper Awards](/blog/best-papers/)!
 | Jun 29, 2022 | [Blogpost](/blog/review-process/): Main Conference Review Process
 | Jun 28, 2022 | [Blogpost](/blog/industry_track_welcome/): Welcome to NAACL 2022 Industry Track!
-| Jun 21, 2022 | [Blogpost](/blog/welcome-to-tutorials/): Welcome to the Tutorials Sessions of NAACL 2022!
 {: .news-table}
 
 <!-- Note: When this table is too full, move some to the archive page. -->

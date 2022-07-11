@@ -11,6 +11,7 @@ toc: false
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| Jun 21, 2022 | [Blogpost](/blog/welcome-to-tutorials/): Welcome to the Tutorials Sessions of NAACL 2022!
 | Jun 16, 2022 | The [main conference schedule](/program/schedule/) is now complete. The [Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/) blogpost is updated.
 | Jun 16, 2022 | The schedule for the [tutorials](/program/tutorials/) (July 10) and extra Q&A sessions for tutorials has been finalized.
 | Jun 9, 2022 | [Blogpost](/blog/information-for-attendees-and-presenters/): Program Information for Attendees and Presenters

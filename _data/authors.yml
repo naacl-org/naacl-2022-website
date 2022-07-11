@@ -34,3 +34,8 @@ industry-track-chairs:
   name        : "Industry Track Chairs"
   bio         : "Anastassia Loukina, Bonan Min, Rashmi Gangadharaiah"
   avatar      : "assets/images/logos/acl-logo-square.png"
+
+demo-chairs:
+  name        : "Demonstrations Chairs"
+  bio         : "Hannaneh Hajishirzi, Qiang Ning, Avi Sil"
+  avatar      : "assets/images/logos/acl-logo-square.png"

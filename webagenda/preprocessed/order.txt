@@ -615,7 +615,7 @@
 24-demo
 25-demo
 28-demo
-29-demo
+29-demo ## %award Award
 30-demo
 32-demo
 = 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater

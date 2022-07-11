@@ -627,7 +627,10 @@ class WebItem(Item):
             # display the poster topic if encounter one
             if self.topic:
                 generated_html.append('<tr><td><span class="poster-type">{}</span></td></tr>'.format(self.topic))
-            item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
+            item_html = '<tr id="poster" poster-id="{}"><td>'.format(self.id_)
+            if self.extended_metadata.get('award'):
+                item_html += '<i class="fa fa-award" title="Paper Award"></i>&nbsp;'
+            item_html += '<span class="poster-title">{}. </span><em>{}</em>'.format(self.title, self.authors)
 
             # display an optional icon
             if pdf_icons and self.pdf_url:

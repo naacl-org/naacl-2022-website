@@ -17,7 +17,7 @@ Other events: [**Structured Socials**](/blog/welcome-to-structured-socials/), [*
 
 ## Conference Handbook
 
-The conference handbook can be downloaded [here](/downloads/handbook-final.pdf).
+The conference handbook can be downloaded [here](/downloads/handbook-final-v2.pdf).
 
 ## Welcome Reception
 

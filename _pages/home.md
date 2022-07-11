@@ -9,6 +9,9 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
+Questions for the [Careers in NLP](/program/keynotes-panels/#panel-careers-in-nlp) panel can be posted **[here](https://bit.ly/NAACL_careers2022)**
+{: .text-center .notice--info}
+
 The **[Underline virtual conference website](https://underline.io/events/325/reception)** (main conference, tutorial, and all workshops) is now live.
 {: .text-center .notice--warning}
 
@@ -19,9 +22,6 @@ If you want to ask a question in advance please post it <a href="https://forms.o
 
 Consider registering for **livetweeting** NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
 {: .text-center .notice--info}
-
-**[Registration](/registration/) is now open.** On-site registration begins June 26, 2022.<br><span style="font-size:85%">It is suggested to complete and pay for registration before arriving at the registration desk. Bring a copy of your registration confirmation to pick up your badge.</span>
-{: .text-center .notice--warning}
 
 The **[conference schedule](/program/)** and the list of **[invited speakers and panels](/program/keynotes-panels/)** are now available.
 {: .text-center .notice--success}
@@ -59,7 +59,6 @@ To request last-minute changes to the presentation mode, see this [instructions]
 .dates-table del { color: #888; }
 </style>
 
-| Late [registration](/registration/) deadline | Sunday | June 26, 2022 (09:00 ET) |
 | Conference date | Sunday--Friday | July 10--15, 2022 |
 {: .dates-table}
 

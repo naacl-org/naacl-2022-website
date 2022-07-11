@@ -328,7 +328,7 @@ class WebSession(Session):
         if self.type == 'break':
             break_html = '<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.title, str(day), self.start, self.end)
 
-            # add the loation if we have any
+            # add the location if we have any
             if self.location:
                 break_html += '<span class="session-location">{}</span>'.format(self.location)
 

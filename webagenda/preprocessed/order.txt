@@ -4,11 +4,11 @@
 
 * Sunday, July 10, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer <i class="far fa-map icon-map"></i>
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer <i class="far fa-map icon-map"></i>
 
-! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D
+! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D <i class="far fa-map icon-map"></i>
 
 ! 9:00--11:00 <a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a> ## %room <a href='https://app.gather.town/app/GPUA8FVbHRuN0ePu/Joint%20Poster%20Session'>Gather Town</a>
 
@@ -18,58 +18,58 @@
 
 ! 8:00--18:00 <a href="http://www.winlp.org/winlp-satellite-workshop-naacl-2022/">Widening NLP workshop</a> ## %room <a href='https://www.eventbrite.com/e/widening-nlp-satellite-workshop-at-naacl-2022-tickets-345885913077'>Virtual registration link</a>
 
-! 18:00--20:00 <a href="/program/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer
+! 18:00--20:00 <a href="/program/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer <i class="far fa-map icon-map"></i>
 
 * Monday, July 11, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer <i class="far fa-map icon-map"></i>
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer <i class="far fa-map icon-map"></i>
 
-! 8:45--9:15 Welcome Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 8:45--9:15 Welcome Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 
-! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 
-! 10:15--10:45 Break ## %room Regency A & B
+! 10:15--10:45 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
 + 10:45--12:15 Session 1
 
-= Session 1A: Language Generation ## %room Columbia A %chair1 Saadia Gabriel
+= Session 1A: Language Generation ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Saadia Gabriel
 665
 131
 551
 363
 895
 744
-= Session 1B: Summarization ## %room Columbia C %chair1 Jackie Cheung
+= Session 1B: Summarization ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Jackie Cheung
 486
 494
 1050
 847
 608
 980
-= Session 1C: Information Extraction ## %room Columbia D %chair1 Alan Ritter
+= Session 1C: Information Extraction ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Alan Ritter
 893
 905
 681
 968
 534
 3561-tacl
-= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A %chair1 Roy Schwarz
+= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Roy Schwarz
 424
 117
 750
 469
 922
 817 ## %award Award
-= Session 1E: Dialogue ## %room Elwha B %chair1 Rashmi Gangadharaiah
+= Session 1E: Dialogue ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Rashmi Gangadharaiah
 627
 618
 593
 687
 3537-tacl
 364
-= Session 1F: In-person Poster Session 1 ## %room Regency A & B
+= Session 1F: In-person Poster Session 1 ## %room Regency A & B <i class="far fa-map icon-map"></i>
 @ Computational Social Science and Cultural Analytics
 42
 852
@@ -119,48 +119,48 @@
 
 ! 12:15--13:15 Lunch
 
-! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 
-! 14:15--14:30 Break ## %room Regency A & B
+! 14:15--14:30 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
 + 14:30--16:00 Session 2
 
-= Session 2A: Interpretability ## %room Columbia A %chair1 Sebastian Schuster
+= Session 2A: Interpretability ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Sebastian Schuster
 666
 951
 948
 944
 859
 396
-= Session 2B: Semantics ## %room Columbia C %chair1 Jacob Eisenstein
+= Session 2B: Semantics ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Jacob Eisenstein
 831
 827
 824
 822
 797
 766
-= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D %chair1 Waleed Ammar
+= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Waleed Ammar
 670
 954
 973
 573
 475
 239
-= Session 2D: Machine Translation 1 ## %room Elwha A %chair1 Jonathan May
+= Session 2D: Machine Translation 1 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Jonathan May
 945
 450
 370
 289
 348
 3735-tacl
-= Session 2E: NLP Applications 1 ## %room Elwha B %chair1 Preslav Nakov
+= Session 2E: NLP Applications 1 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Preslav Nakov
 193
 883
 777
 394
 647
 779
-= Session 2F: In-person Poster Session 2 ## %room Regency A & B
+= Session 2F: In-person Poster Session 2 ## %room Regency A & B <i class="far fa-map icon-map"></i>
 @ Dialogue and Interactive Systems
 235
 428
@@ -210,9 +210,9 @@
 246
 1-cl
 
-! 16:00--16:30 Break ## %room Regency A & B
+! 16:00--16:30 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
-= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 70-special ## %award Award
 90-special ## %award Award
 142 ## %award Award
@@ -221,43 +221,43 @@
 
 * Tuesday, July 12, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer <i class="far fa-map icon-map"></i>
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer <i class="far fa-map icon-map"></i>
 
 + 8:00--9:00 Session 3
 
-= Session 3A: Language Generation ## %room Columbia A %chair1 Nanyun Peng
+= Session 3A: Language Generation ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Nanyun Peng
 566
 416
 87
 1047
-= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C %chair1 Eduardo Blanco
+= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Eduardo Blanco
 3655-tacl
 892
 970
 294
-= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D %chair1 Yogarshi Vyas
+= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Yogarshi Vyas
 589
 901
 457
 162
-= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A %chair1 Emma Strubell
+= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Emma Strubell
 1006
 746
 614
 698
-= Session 3E: NLP Applications 2 ## %room Elwha B %chair1 Danqi Chen
+= Session 3E: NLP Applications 2 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Danqi Chen
 636
 565
 610
 931
-= Session 3F: Industry Oral Session 1 ## %room Quinault %chair1 Kasturi Bhattacharjee
+= Session 3F: Industry Oral Session 1 ## %room Quinault <i class="far fa-map icon-map"></i> %chair1 Kasturi Bhattacharjee
 9-industry
 11-industry
 50-industry
 71-industry
-= Session 3G: Virtual Poster Q&A Session 1 ## %room 702 - Clearwater
+= Session 3G: Virtual Poster Q&A Session 1 ## %room 702 - Clearwater <i class="far fa-map icon-map"></i>
 @ Dialogue and Interactive Systems
 84-srw
 86-srw
@@ -366,52 +366,52 @@
 @ Syntax: Tagging, Chunking, and Parsing
 246
 
-! 9:00--9:15 Break ## %room Regency A & B
+! 9:00--9:15 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
-! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 
-! 10:15--10:45 Break ## %room Regency A & B
+! 10:15--10:45 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
 ! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 4
 
-= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A %chair1 Siva Reddy
+= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Siva Reddy
 841
 840
 704
 505
 484
 464
-= Session 4B: Summarization ## %room Columbia C %chair1 Greg Durrett
+= Session 4B: Summarization ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Greg Durrett
 591
 776
 490
 191
 346
 3477-tacl
-= Session 4C: Information Retrieval ## %room Columbia D %chair1 Pedro Rodriguez
+= Session 4C: Information Retrieval ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Pedro Rodriguez
 40
 465
 580
 605
 690
 832
-= Session 4D: Language Grounding to Vision 1 ## %room Elwha A %chair1 Parisa Kordjamshidi
+= Session 4D: Language Grounding to Vision 1 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Parisa Kordjamshidi
 174
 527
 1043
 834
 318
 874
-= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B %chair1 Joao Sedoc
+= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Joao Sedoc
 456
 926
 522
 638
 639
 249
-= Session 4F: In-person Poster Session 3 ## %room Regency A & B
+= Session 4F: In-person Poster Session 3 ## %room Regency A & B <i class="far fa-map icon-map"></i>
 @ Language Resources and Evaluation
 887
 660
@@ -450,57 +450,57 @@
 @ Speech
 693
 
-! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault
+! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault <i class="far fa-map icon-map"></i>
 
 ! 12:15--14:15 Lunch
 
-! 13:00--14:15 Business Meeting ## %room Columbia A
+! 13:00--14:15 Business Meeting ## %room Columbia A <i class="far fa-map icon-map"></i>
 
 + 14:15--15:45 Session 5
 
-= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A %chair1 Kai-Wei Chang
+= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Kai-Wei Chang
 867
 245
 674
 1015
 568
 512
-= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C %chair1 Narges Tabari
+= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Narges Tabari
 28
 981
 785
 561
 488
 880
-= Session 5C: Information Extraction 1 ## %room Columbia D %chair1 Luca Soldaini
+= Session 5C: Information Extraction 1 ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Luca Soldaini
 379
 3721-tacl
 991
 823
 988
 894
-= Session 5D: Human-Centered NLP 1 ## %room Elwha A %chair1 Marti Hearst
+= Session 5D: Human-Centered NLP 1 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Marti Hearst
 86-special
 53-special
 111-special
 93-special
 87-special
 65-special
-= Session 5E: NLP Applications 3 ## %room Elwha B %chair1 Jill Burstein
+= Session 5E: NLP Applications 3 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Jill Burstein
 964
 277
 1044
 474
 274
 244
-= Session 5F: Industry Oral Session 2 ## %room Quinault %chair1 Sandesh Swamy
+= Session 5F: Industry Oral Session 2 ## %room Quinault <i class="far fa-map icon-map"></i> %chair1 Sandesh Swamy
 33-industry
 40-industry
 65-industry
 91-industry
 119-industry
 32-industry
-= Session 5G: SRW In-person Poster Session ## %room Regency A & B
+= Session 5G: SRW In-person Poster Session ## %room Regency A & B <i class="far fa-map icon-map"></i>
 13-srw
 15-srw
 17-srw
@@ -526,52 +526,52 @@
 97-srw
 98-srw
 
-! 15:45--16:15 Break ## %room Regency A & B
+! 15:45--16:15 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
 + 16:15--17:45 Session 6
 
-= Session 6A: Language Grounding to Vision 2 ## %room Columbia A %chair1 Jesse Thomason
+= Session 6A: Language Grounding to Vision 2 ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Jesse Thomason
 391
 825
 946
 960
 836
 164
-= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C %chair1 Miguel Ballesteros
+= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Miguel Ballesteros
 0-cl
 990
 516
 413
 220
 863
-= Session 6C: Multilinguality ## %room Columbia D %chair1 Antonis Anastasopoulos
+= Session 6C: Multilinguality ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Antonis Anastasopoulos
 878 ## %award Award
 676
 662
 481
 256
 383
-= Session 6D: Machine Learning for NLP 1 ## %room Elwha A %chair1 Wei Xu
+= Session 6D: Machine Learning for NLP 1 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Wei Xu
 966
 796
 851
 920
 956
 932
-= Session 6E: Question Answering 1 ## %room Elwha B %chair1 Ashish Sabharwal
+= Session 6E: Question Answering 1 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Ashish Sabharwal
 947
 91
 169
 418
 898
 613
-= Session 6F: SRW Thesis Proposals Session ## %room Quinault %chair1 Daphne Ippolito
+= Session 6F: SRW Thesis Proposals Session ## %room Quinault <i class="far fa-map icon-map"></i> %chair1 Daphne Ippolito
 23-srw
 24-srw
 25-srw
 30-srw
 78-srw
-= Session 6G: Industry/Demo Poster Session ## %room Regency A & B
+= Session 6G: Industry/Demo Poster Session ## %room Regency A & B <i class="far fa-map icon-map"></i>
 @ Industry Track Posters
 5-industry
 17-industry
@@ -618,7 +618,7 @@
 29-demo ## %award Award
 30-demo
 32-demo
-= 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
+= 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater <i class="far fa-map icon-map"></i>
 @ Computational Social Science and Cultural Analytics
 900 ## %type Findings
 @ Dialogue and Interactive Systems
@@ -731,43 +731,43 @@
 
 * Wednesday, July 13, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer <i class="far fa-map icon-map"></i>
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer <i class="far fa-map icon-map"></i>
 
 + 8:00--9:00 Session 7
 
-= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A %chair1 Gabriel Stanovsky
+= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Gabriel Stanovsky
 177
 577
 226
 46
-= Session 7B: Summarization ## %room Columbia C %chair1 Jessica Ouyang
+= Session 7B: Summarization ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Jessica Ouyang
 719
 873
 985
 1024
-= Session 7C: Information Extraction 2 ## %room Columbia D %chair1 Qiang Ning
+= Session 7C: Information Extraction 2 ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Qiang Ning
 771
 700
 751
 1041
-= Session 7D: Machine Translation 2 ## %room Elwha A %chair1 Kenneth Heafield
+= Session 7D: Machine Translation 2 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Kenneth Heafield
 999
 965
 907
 703
-= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B %chair1 Zhou Yu
+= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Zhou Yu
 1001
 80
 861
 519
-= Session 7F: Machine Learning for NLP 2 ## %room Quinault %chair1 Marjan Ghazvininejad
+= Session 7F: Machine Learning for NLP 2 ## %room Quinault <i class="far fa-map icon-map"></i> %chair1 Marjan Ghazvininejad
 993
 3765-tacl
 843
 757
-= Session 7G: Virtual Poster Q&A Session 3 ## %room 702 - Clearwater
+= Session 7G: Virtual Poster Q&A Session 3 ## %room 702 - Clearwater <i class="far fa-map icon-map"></i>
 @ Computational Social Science and Cultural Analytics
 22-srw
 42
@@ -853,41 +853,41 @@
 203 ## %type Findings
 313 ## %type Findings
 
-! 9:00--9:15 Break ## %room Regency A & B
+! 9:00--9:15 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
 + 9:15--10:15 Session 8
 
-= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A %chair1 Yonatan Belinkov
+= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Yonatan Belinkov
 994
 1035
 1000
 853
-= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C %chair1 Lu Wang
+= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Lu Wang
 882
 255
 1002
 1023
-= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D %chair1 Cissi Alm
+= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Cissi Alm
 3601-tacl
 3593-tacl
 34-special
 134-special
-= Session 8D: Machine Translation 3 ## %room Elwha A %chair1 Graham Neubig
+= Session 8D: Machine Translation 3 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Graham Neubig
 835
 870
 884
 811
-= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B %chair1 Jinho Choi
+= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Jinho Choi
 97
 1010
 233
 833
-= Session 8F: Machine Learning for NLP 3 ## %room Quinault %chair1 Sopan Khosla
+= Session 8F: Machine Learning for NLP 3 ## %room Quinault <i class="far fa-map icon-map"></i> %chair1 Sopan Khosla
 679
 517
 503
 962
-= Session 8G: Virtual Poster Q&A Session 4 ## %room 702 - Clearwater
+= Session 8G: Virtual Poster Q&A Session 4 ## %room 702 - Clearwater <i class="far fa-map icon-map"></i>
 @ Discourse and Pragmatics
 562
 @ Efficient Methods in NLP
@@ -960,46 +960,46 @@
 909 ## %type Findings
 813 ## %type Findings
 
-! 10:15--10:45 Break ## %room Regency A & B
+! 10:15--10:45 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
 ! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 9
 
-= Session 9A: Language Generation ## %room Columbia A %chair1 Vinay Bannihatti Kumar
+= Session 9A: Language Generation ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Vinay Bannihatti Kumar
 686 ## %award Award
 634
 126
 955
 673
-= Session 9B: Speech & Phonology, Morphology ## %room Columbia C %chair1 Brian Roark
+= Session 9B: Speech & Phonology, Morphology ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Brian Roark
 158
 772
 247
 129
 61
-= Session 9C: Information Extraction 3 ## %room Columbia D %chair1 Ben Van Durme
+= Session 9C: Information Extraction 3 ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Ben Van Durme
 535
 184
 472
 574
 462
 845
-= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A %chair1 Swabha Swayamdipta
+= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Swabha Swayamdipta
 699
 371
 26 ## %award Award
 1011
 818
 3519-tacl
-= Session 9E: NLP Applications 4 ## %room Elwha B %chair1 Mohit Iyyer
+= Session 9E: NLP Applications 4 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Mohit Iyyer
 594
 398
 958
 928
 510
 155
-= Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B
+= Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B <i class="far fa-map icon-map"></i>
 @ Computational Social Science and Cultural Analytics
 188 ## %type Findings
 633 ## %type Findings
@@ -1063,42 +1063,42 @@
 
 + 14:15--15:45 Session 10
 
-= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A %chair1 Diyi Yang
+= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A <i class="far fa-map icon-map"></i> %chair1 Diyi Yang
 524
 511
 172
 774
 495
 151
-= Session 10B: Semantics ## %room Columbia C %chair1 Nathan Schneider
+= Session 10B: Semantics ## %room Columbia C <i class="far fa-map icon-map"></i> %chair1 Nathan Schneider
 515
 950
 606
 936
 483
 729
-= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D %chair1 Jacob Andreas
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D <i class="far fa-map icon-map"></i> %chair1 Jacob Andreas
 875
 826
 684
 607
 471
 2
-= Session 10D: Machine Learning 4 ## %room Elwha A %chair1 Kenton Lee
+= Session 10D: Machine Learning 4 ## %room Elwha A <i class="far fa-map icon-map"></i> %chair1 Kenton Lee
 496
 846
 959
 266
 308
 152
-= Session 10E: Question Answering 2 ## %room Elwha B %chair1 Avi Sil
+= Session 10E: Question Answering 2 ## %room Elwha B <i class="far fa-map icon-map"></i> %chair1 Avi Sil
 506
 553
 240
 451
 454
 3639-tacl
-= Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
+= Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B <i class="far fa-map icon-map"></i>
 @ Human-Centered NLP
 82-special ## %type Findings
 121-special ## %type Findings
@@ -1159,17 +1159,17 @@
 508 ## %type Findings
 651 ## %type Findings
 
-! 15:45--16:15 Break ## %room Regency A & B
+! 15:45--16:15 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
-! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 
-! 17:15--17:45 Closing Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 17:15--17:45 Closing Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
 
 * Thursday, July 14, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer <i class="far fa-map icon-map"></i>
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer <i class="far fa-map icon-map"></i>
 
 ! 9:00--10:00 Structured Social: <a href="/blog/welcome-to-structured-socials/">Navigating grad school</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
@@ -1177,8 +1177,8 @@
 
 * Friday, July 15, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer <i class="far fa-map icon-map"></i>
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer <i class="far fa-map icon-map"></i>
 
 ! 9:00--17:30 <a href="/program/workshops/">Workshops</a>

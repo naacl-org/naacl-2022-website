@@ -9,7 +9,7 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
-Questions for the [Careers in NLP](/program/keynotes-panels/#panel-careers-in-nlp) panel can be posted **[here](https://bit.ly/NAACL_careers2022)**
+Questions for the [Careers in NLP](/program/keynotes-panels/#panel-careers-in-nlp) panel can be posted **[here](https://bit.ly/NAACL_careers2022)**.
 {: .text-center .notice--info}
 
 The **[Underline virtual conference website](https://underline.io/events/325/reception)** (main conference, tutorial, and all workshops) is now live.

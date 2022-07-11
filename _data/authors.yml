@@ -36,6 +36,6 @@ industry-track-chairs:
   avatar      : "assets/images/logos/acl-logo-square.png"
 
 demo-chairs:
-  name        : "Demonstrations Chairs"
+  name        : "Demonstration Chairs"
   bio         : "Hannaneh Hajishirzi, Qiang Ning, Avi Sil"
   avatar      : "assets/images/logos/acl-logo-square.png"

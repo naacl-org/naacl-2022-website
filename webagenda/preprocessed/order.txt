@@ -915,6 +915,7 @@
 675 ## %type Findings
 1007 ## %type Findings
 1014 ## %type Findings
+213 ## %type Findings
 @ Language Resources and Evaluation
 49-srw
 53
@@ -928,6 +929,7 @@
 82 ## %type Findings
 677 ## %type Findings
 738 ## %type Findings
+63 ## %type Findings
 @ NLP Applications
 29-srw
 478
@@ -1036,7 +1038,6 @@
 523 ## %type Findings
 @ Multilinguality
 138 ## %type Findings
-63 ## %type Findings
 691 ## %type Findings
 890 ## %type Findings
 @ Question Answering
@@ -1124,7 +1125,6 @@
 @ Language Grounding to Vision, Robotics and Beyond
 328 ## %type Findings
 444 ## %type Findings
-213 ## %type Findings
 @ Language Resources and Evaluation
 77 ## %type Findings
 234 ## %type Findings

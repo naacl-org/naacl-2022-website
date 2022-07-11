@@ -12,9 +12,6 @@ secondary_excerpt: "July 10--15, 2022"
 Questions for the [Careers in NLP](/program/keynotes-panels/#panel-careers-in-nlp) panel can be posted **[here](https://bit.ly/NAACL_careers2022)**.
 {: .text-center .notice--info}
 
-The **[Underline virtual conference website](https://underline.io/events/325/reception)** (main conference, tutorial, and all workshops) is now live.
-{: .text-center .notice--warning}
-
 On Tuesday 12 at 1pm (GMT-7) NAACL will hold its **2022 business meeting**, the first hybrid business meeting for NAACL.<br>
 <span style="font-size:85%">All attendees are welcome to participate (virtual: Underline main stage / in-person: Columbia A).
 If you want to ask a question in advance please post it <a href="https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_MvqggxivrMbrIg1IvnPW1bRkW09UNVdZOEZWTVBHS1BMQVhBOEtGUVo2UjhUOS4u">here</a>.</span>
@@ -23,12 +20,9 @@ If you want to ask a question in advance please post it <a href="https://forms.o
 Consider registering for **livetweeting** NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
 {: .text-center .notice--info}
 
-The **[conference schedule](/program/)** and the list of **[invited speakers and panels](/program/keynotes-panels/)** are now available.
-{: .text-center .notice--success}
-
 **[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)** and **[Presenters Checklist](/blog/presenters-checklist/)**<br>
 To request last-minute changes to the presentation mode, see this [instructions](/blog/presenters-checklist/#last-minute-changes-to-presentation-mode).
-{: .text-center .notice--info}
+{: .text-center .notice--success}
 
 ## News
 

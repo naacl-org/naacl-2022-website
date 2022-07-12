@@ -211,7 +211,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="session session-plenary"><span class="session-title">EMNLP 2022 Information Session <span style="font-size:80%">(*concurrent with Session 1)</span></span><span class="session-time" title="Monday, July 11, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A1: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span></span><span class="session-time" title="Monday, July 11, 2022">11:00 &ndash; 12:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span></span><span class="session-time" title="Monday, July 11, 2022">11:00 &ndash; 12:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
 <div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
@@ -361,8 +361,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A2: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span></span><span class="session-time" title="Monday, July 11, 2022">15:00 &ndash; 16:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A3: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span></span><span class="session-time" title="Monday, July 11, 2022">15:30 &ndash; 16:30</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span></span><span class="session-time" title="Monday, July 11, 2022">15:00 &ndash; 16:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span></span><span class="session-time" title="Monday, July 11, 2022">15:30 &ndash; 16:30</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary session-expandable session-papers-best">
 <div class="expander-wrapper">
@@ -731,13 +731,12 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span><span class="session-location">Quinault <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A4: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A5: Generation <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">11:00 &ndash; 12:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Generation <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">11:00 &ndash; 12:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Lunch</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
 <div class="session session-plenary"><span class="session-title">Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">13:00 &ndash; 14:15</span><span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A6: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A7: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A8: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">501 Chiwawa <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">501 Chiwawa <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-5">
 <div class="session-header" id="session-header-5">Session 5</div>
 <div class="session session-expandable session-papers" id="session-5a">
@@ -877,6 +876,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">15:00 &ndash; 16:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-6">
 <div class="session-header" id="session-header-6">Session 6</div>
@@ -1677,10 +1677,10 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A9: Theme: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span></span><span class="session-time" title="Wednesday, July 13, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span></span><span class="session-time" title="Wednesday, July 13, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-19"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A10: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">14:00 &ndash; 15:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A11: Information Extraction  <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">14:00 &ndash; 15:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">14:00 &ndash; 15:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Information Extraction <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">14:00 &ndash; 15:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-10">
 <div class="session-header" id="session-header-10">Session 10</div>
 <div class="session session-expandable session-papers" id="session-10a">
@@ -1838,7 +1838,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather A12: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">15:00 &ndash; 16:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">15:00 &ndash; 16:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-20"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>

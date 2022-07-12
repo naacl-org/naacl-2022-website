@@ -48,7 +48,7 @@
 {"Session Name": "Poster session 1", "_group_by": "Track"}
 
 ! 11:00--12:00 EMNLP 2022 Information Session <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 502 Cowlitz [MAP]
-! 11:00--12:00 Birds-of-a-Feather A1: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 506 Samish [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 506 Samish [MAP]
 
 ! 12:15--13:15 Lunch
 
@@ -71,8 +71,8 @@
 = Session 2F: In-person Poster Session 2 ## %room Regency A & B [MAP]
 {"Session Name": "Poster session 2", "_group_by": "Track"}
 
-! 15:00--16:00 Birds-of-a-Feather A2: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz [MAP]
-! 15:30--16:30 Birds-of-a-Feather A3: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz [MAP]
+! 15:00--16:00 Birds-of-a-Feather: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz [MAP]
+! 15:30--16:30 Birds-of-a-Feather: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz [MAP]
 
 ! 16:00--16:30 Break ## %room Regency A & B [MAP]
 
@@ -128,16 +128,15 @@
 {"Session Name": "Poster session 3", "_group_by": "Track"}
 
 ! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault [MAP]
-! 11:00--12:00 Birds-of-a-Feather A4: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 502 Cowlitz [MAP]
-! 11:00--12:00 Birds-of-a-Feather A5: Generation <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 506 Samish [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 502 Cowlitz [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Generation <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 506 Samish [MAP]
 
 ! 12:15--14:15 Lunch
 
 ! 13:00--14:15 Business Meeting ## %room Columbia A [MAP]
 
-! 14:00--15:00 Birds-of-a-Feather A6: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 502 Cowlitz [MAP]
-! 14:00--15:00 Birds-of-a-Feather A7: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 506 Samish [MAP]
-! 14:00--15:00 Birds-of-a-Feather A8: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 501 Chiwawa [MAP]
+! 14:00--15:00 Birds-of-a-Feather: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 506 Samish [MAP]
+! 14:00--15:00 Birds-of-a-Feather: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 501 Chiwawa [MAP]
 
 + 14:15--15:45 Session 5
 
@@ -155,6 +154,8 @@
 {"Session Name": "Industry Oral 2"}
 = Session 5G: SRW In-person Poster Session ## %room Regency A & B [MAP]
 {"Session Name": "SRW Poster Session"}
+
+! 15:00--16:00 Birds-of-a-Feather: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 502 Cowlitz [MAP]
 
 ! 15:45--16:15 Break ## %room Regency A & B [MAP]
 
@@ -243,12 +244,12 @@
 = Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B [MAP]
 {"Session Name": "Findings poster session 1", "_group_by": "Track"}
 
-! 11:00--12:00 Birds-of-a-Feather A9: Theme: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span> ## %room 502 Cowlitz [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span> ## %room 502 Cowlitz [MAP]
 
 ! 12:15--14:15 Lunch
 
-! 14:00--15:00 Birds-of-a-Feather A10: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 502 Cowlitz [MAP]
-! 14:00--15:00 Birds-of-a-Feather A11: Information Extraction  <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish [MAP]
+! 14:00--15:00 Birds-of-a-Feather: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 502 Cowlitz [MAP]
+! 14:00--15:00 Birds-of-a-Feather: Information Extraction <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish [MAP]
 
 + 14:15--15:45 Session 10
 
@@ -265,7 +266,7 @@
 = Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B [MAP]
 {"Session Name": "Findings poster session 2", "_group_by": "Track"}
 
-! 15:00--16:00 Birds-of-a-Feather A12: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish [MAP]
+! 15:00--16:00 Birds-of-a-Feather: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish [MAP]
 
 ! 15:45--16:15 Break ## %room Regency A & B [MAP]
 

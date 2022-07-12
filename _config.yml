@@ -187,6 +187,7 @@ exclude:
   - webagenda
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - "*-old.pdf"
 keep_files:
   - .git
   - .svn

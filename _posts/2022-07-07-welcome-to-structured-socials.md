@@ -19,6 +19,8 @@ All structured socials will be virtual-only. You may register for any structured
 
 July 12 (10:15--10:45 PT)
 
+**In-person location:** 507 Sauk
+
 The first structured social will be led by co-organizers of the ACL Year-Round Mentorship program. The social will be a chance to meet other first-time conference attendees and provide a warm welcome to first-time attendees. The organizers will provide advice on how first-time conference attendees can navigate the conference, in order to nurture newcomers to the community.
 
 ## Balancing professional and family commitments

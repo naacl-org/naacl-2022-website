@@ -117,6 +117,9 @@
 98
 108
 
+! 11:00--12:00 EMNLP 2022 Information Session <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
+! 11:00--12:00 Birds-of-a-Feather A1: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 506 Samish <i class="far fa-map icon-map"></i>
+
 ! 12:15--13:15 Lunch
 
 ! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i>
@@ -209,6 +212,9 @@
 @ Syntax: Tagging, Chunking, and Parsing
 246
 1-cl
+
+! 15:00--16:00 Birds-of-a-Feather A2: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
+! 15:30--16:30 Birds-of-a-Feather A3: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
 
 ! 16:00--16:30 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 
@@ -451,10 +457,16 @@
 693
 
 ! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault <i class="far fa-map icon-map"></i>
+! 11:00--12:00 Birds-of-a-Feather A4: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
+! 11:00--12:00 Birds-of-a-Feather A5: Generation <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 506 Samish <i class="far fa-map icon-map"></i>
 
 ! 12:15--14:15 Lunch
 
 ! 13:00--14:15 Business Meeting ## %room Columbia A <i class="far fa-map icon-map"></i>
+
+! 14:00--15:00 Birds-of-a-Feather A6: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
+! 14:00--15:00 Birds-of-a-Feather A7: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 506 Samish <i class="far fa-map icon-map"></i>
+! 14:00--15:00 Birds-of-a-Feather A8: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 501 Chiwawa <i class="far fa-map icon-map"></i>
 
 + 14:15--15:45 Session 5
 
@@ -1059,7 +1071,12 @@
 426 ## %type Findings
 404 ## %type Findings
 
+! 11:00--12:00 Birds-of-a-Feather A9: Theme: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
+
 ! 12:15--14:15 Lunch
+
+! 14:00--15:00 Birds-of-a-Feather A10: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 502 Cowlitz <i class="far fa-map icon-map"></i>
+! 14:00--15:00 Birds-of-a-Feather A11: Information Extraction  <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish <i class="far fa-map icon-map"></i>
 
 + 14:15--15:45 Session 10
 
@@ -1158,6 +1175,8 @@
 327 ## %type Findings
 508 ## %type Findings
 651 ## %type Findings
+
+! 15:00--16:00 Birds-of-a-Feather A12: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish <i class="far fa-map icon-map"></i>
 
 ! 15:45--16:15 Break ## %room Regency A & B <i class="far fa-map icon-map"></i>
 

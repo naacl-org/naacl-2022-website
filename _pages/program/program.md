@@ -10,10 +10,8 @@ toc_sticky: true
 ---
 
 | July 10 | [**Tutorials**](/program/tutorials/) and [**Affinity Group Workshops**](/program/affinity/)
-| July 11--13 | [**Main Conference**](/program/schedule/) (Main Conference Papers, Industry Track, System Demonstrations, Student Research Workshop) |
-| July 14--15 | [**Workshops**](/program/workshops/) |
-
-Other events: [**Structured Socials**](/blog/welcome-to-structured-socials/), [**Birds-of-a-Feather Meetups**](/blog/welcome-to-bofs/)
+| July 11--13 | [**Main Conference**](/program/schedule/) (Main Conference Papers, Industry Track, System Demonstrations, Student Research Workshop)<br>[**Birds-of-a-Feather Meetups**](/blog/welcome-to-bofs/) and [**Structured Socials**](/blog/welcome-to-structured-socials/) |
+| July 14--15 | [**Workshops**](/program/workshops/) and [**Structured Socials**](/blog/welcome-to-structured-socials/) |
 
 ## Conference Handbook
 

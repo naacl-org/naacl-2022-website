@@ -9,14 +9,6 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
-Today's Structured Social **"[How to make your first conference experience nice](/blog/welcome-to-structured-socials/)"** (10:15--10:45) will also be in-person in room **507 Sauk**.<br>In-person attendees can join the event there.
-{: .text-center .notice--warning}
-
-On Tuesday 12 at 1pm (GMT-7) NAACL will hold its **2022 business meeting**, the first hybrid business meeting for NAACL.<br>
-<span style="font-size:85%">All attendees are welcome to participate (virtual: Underline main stage / in-person: Columbia A).
-If you want to ask a question in advance please post it <a href="https://forms.office.com/pages/responsepage.aspx?id=u5ghSHuuJUuLem1_MvqggxivrMbrIg1IvnPW1bRkW09UNVdZOEZWTVBHS1BMQVhBOEtGUVo2UjhUOS4u">here</a>.</span>
-{: .text-center .notice--success}
-
 Consider registering for **livetweeting** NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
 {: .text-center .notice--info}
 

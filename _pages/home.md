@@ -9,7 +9,7 @@ excerpt: "**Hybrid**: Seattle, Washington + Online"
 secondary_excerpt: "July 10--15, 2022"
 ---
 
-Consider registering for **livetweeting** NAACL papers and events [here](https://docs.google.com/forms/d/e/1FAIpQLSetyJ6dhtC_7oEOqHdE7mwzzoG3g_lQfWKYQJ0csEbv3QPzfw/viewform).
+The NAACL 2022 conference has concluded. Thank you for attending.
 {: .text-center .notice--info}
 
 **[Program Information for Attendees and Presenters](/blog/information-for-attendees-and-presenters/)** and **[Presenters Checklist](/blog/presenters-checklist/)**<br>

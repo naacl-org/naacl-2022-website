@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-[Register Here](https://www.yesevents.com/naacl2022){: .btn .btn--info .btn--large}
+**Registration is now closed.**
 {: .text-center}
 
 Registration opens Tuesday, 17 May 2022.  We have made every effort to keep registration fees affordable.  Please note that, **for the virtual attendees**, by paying the registration fee, you will enjoy full access to all tutorials, main conference and workshops.  **For in-person attendees**, by paying the full registration fee, you will be able to attend all tutorials, main conference and workshops of your choosing as well as the Welcome Reception and Social Event.  We also offer a workshop-only fee for those in-person attendees who cannot come to the tutorials and main conference but do wish to attend particular workshop(s).

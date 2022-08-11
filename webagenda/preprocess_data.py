@@ -382,6 +382,7 @@ def main():
     # Process the `order` file
     with open(_ORDER_OUTLINE_) as fin, open(_ORDER_PREPROCESSED, 'w') as fout:
         for line in fin:
+            line = line.replace('[MAP]', '<i class="far fa-map icon-map"></i>')
             if line[0] == '{':
                 query = json.loads(line)
                 schedule_records = list(raw_schedule.search(query))

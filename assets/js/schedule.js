@@ -584,10 +584,11 @@ $(document).ready(function() {
     //     event.stopPropagation();
     // });
 
-    // /* show the floorplan when any location is clicked */
-    // $('span.session-location, span.inline-location').on('click', function(event) {
-    //     event.stopPropagation();
-    // });
+    /* show the floorplan when any location is clicked */
+    const MAP_URL = 'https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2020/12/15/1222/Hyatt-Regency-Seattle-Floor-Plan-English.pdf';
+    $('.icon-map').on('click', function(event) {
+         window.open(MAP_URL, '_blank');
+    });
     // $('span.session-location, span.inline-location').magnificPopup({
     //     items: {
     //         src: '/assets/images/minneapolis/3d-floormap.png'

@@ -27,12 +27,13 @@ At NAACL 2022, we are continuing the tradition of conducting birds-of-a-feather 
 
 |     | Topic                                | Day       | Time (PDT)   | Speaker                       | Room        |
 | --- | ------------------------------------ | --------- | ------------ | ----------------------------- | ----------- |
+| --  | EMNLP 2022 Information Session       | Monday    | 11 am-noon   | Nizar Habash                  | 502 Cowlitz |
 | A1  | QA                                   | Monday    | 11 am-noon   | Luca Soldaini                 | 506 Samish  |
 | A2  | Multilinguality                      | Monday    | 3-4 pm       | Hila Gonen                    | 502 Cowlitz |
 | A3  | ML for NLP                           | Monday    | 3:30-4:30 pm | Jason Eisner                  | 502 Cowlitz |
 | A4  | Ethics                               | Tuesday   | 11 am-noon   | Kai Wei Chang                 | 502 Cowlitz |
 | A5  | Generation                           | Tuesday   | 11 am-noon   | Jiacheng Xu                   | 506 Samish  |
-| A6  | Interpretability                     | Tuesday   | 2-3 pm       | Yanai Elazar, Sarah Wiegreffe | 502 Cowlitz |
+| A6  | Interpretability                     | Tuesday   | ~~2-3 pm~~ 3-4 pm | Yanai Elazar, Sarah Wiegreffe | 502 Cowlitz |
 | A7  | Multimodal (vision, audio, gestures) | Tuesday   | 2-3 pm       | Hung Le                       | 506 Samish  |
 | A8  | Semantics/NLU                        | Tuesday   | 2-3 pm       | Shane Steinert-Threlkeld      | 501 Chiwawa |
 | A9  | Theme: Human centered NLP            | Wednesday | 11 am-noon   | Joyce Chai                    | 502 Cowlitz |

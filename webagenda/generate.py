@@ -328,7 +328,7 @@ class WebSession(Session):
         if self.type == 'break':
             break_html = '<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.title, str(day), self.start, self.end)
 
-            # add the loation if we have any
+            # add the location if we have any
             if self.location:
                 break_html += '<span class="session-location">{}</span>'.format(self.location)
 
@@ -627,7 +627,10 @@ class WebItem(Item):
             # display the poster topic if encounter one
             if self.topic:
                 generated_html.append('<tr><td><span class="poster-type">{}</span></td></tr>'.format(self.topic))
-            item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
+            item_html = '<tr id="poster" poster-id="{}"><td>'.format(self.id_)
+            if self.extended_metadata.get('award'):
+                item_html += '<i class="fa fa-award" title="Paper Award"></i>&nbsp;'
+            item_html += '<span class="poster-title">{}. </span><em>{}</em>'.format(self.title, self.authors)
 
             # display an optional icon
             if pdf_icons and self.pdf_url:

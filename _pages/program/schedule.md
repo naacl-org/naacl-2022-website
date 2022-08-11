@@ -22,6 +22,12 @@ To foster discussion, virtual poster Q&A sessions will be organized into groups 
 
 All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 **Icons:** <i class="fa fa-user"></i> = Session Chair; <i class="far fa-file-pdf"></i> = Link to PDF on ACL Anthology; <i class="fa fa-award"></i> = Paper Award.
+
+**Jump to:**
+[Monday, July 11](#day-3){: .btn .btn--info}
+[Tuesday, July 12](#day-4){: .btn .btn--info}
+[Wednesday, July 13](#day-5){: .btn .btn--info}
+{: .text-center}
 </div>
 
 <div id="popupInstructionsDiv" markdown="1">
@@ -46,20 +52,20 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div class="day" id="day-1">Saturday, July 9, 2022</div>
 <div class="session session-plenary"><span class="session-title">Queer in AI pre-conference social</span><span class="session-time" title="Saturday, July 9, 2022">7:00 &ndash; 10:00</span><span class="session-location"><a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Zoom registration Link</a></span></div>
 <div class="day" id="day-2">Sunday, July 10, 2022</div>
-<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
-<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span><span class="session-location">Columbia A & C & D</span></div>
+<div class="session session-break session-plenary" id="session-break-1"><span class="session-title">Registration</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-2"><span class="session-title">Breakfast</span><span class="session-time" title="Sunday, July 10, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/blog/welcome-to-tutorials/">Tutorials</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 17:30</span><span class="session-location">Columbia A & C & D <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a></span><span class="session-time" title="Sunday, July 10, 2022">9:00 &ndash; 11:00</span><span class="session-location"><a href='https://app.gather.town/app/GPUA8FVbHRuN0ePu/Joint%20Poster%20Session'>Gather Town</a></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="https://www.queerinai.com/naacl">Queer in AI workshop</a></span><span class="session-time" title="Sunday, July 10, 2022">11:00 &ndash; 17:00</span><span class="session-location">506 Samish and <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>Virtual registration link</a></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="https://www.latinxinai.org/naacl-2022">LatinX in AI workshop</a></span><span class="session-time" title="Sunday, July 10, 2022">11:00 &ndash; 17:00</span><span class="session-location">507 Hauk and <a href='https://www.eventbrite.com/e/latinx-in-ai-lxai-workshop-naacl-2022-tickets-262620453847'>Virtual registration link</a></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="http://www.winlp.org/winlp-satellite-workshop-naacl-2022/">Widening NLP workshop</a></span><span class="session-time" title="Sunday, July 10, 2022">8:00 &ndash; 18:00</span><span class="session-location"><a href='https://www.eventbrite.com/e/widening-nlp-satellite-workshop-at-naacl-2022-tickets-345885913077'>Virtual registration link</a></span></div>
-<div class="session session-plenary"><span class="session-title"><a href="/program/#welcome-reception">Welcome Reception</a></span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/#welcome-reception">Welcome Reception</a></span><span class="session-time" title="Sunday, July 10, 2022">18:00 &ndash; 20:00</span><span class="session-location">Level 5 Foyer <i class="far fa-map icon-map"></i></span></div>
 <div class="day" id="day-3">Monday, July 11, 2022</div>
-<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Registration</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
-<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
-<div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-3"><span class="session-title">Registration</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-4"><span class="session-title">Breakfast</span><span class="session-time" title="Monday, July 11, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Welcome Session</span><span class="session-time" title="Monday, July 11, 2022">8:45 &ndash; 9:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a></span><span class="session-time" title="Monday, July 11, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-5"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-1">
 <div class="session-header" id="session-header-1">Session 1</div>
 <div class="session session-expandable session-papers" id="session-1a">
@@ -67,7 +73,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1A: Language Generation</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Saadia Gabriel</span></td></tr>
 <tr id="paper" paper-id="665"><td id="paper-time"></td><td><span class="paper-title">Learning to Transfer Prompts for Text Generation. </span><em>Junyi Li, Tianyi Tang, Jian-Yun Nie, Ji-Rong Wen, Xin Zhao</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.257" title="PDF"></i></td></tr>
@@ -84,7 +90,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1B: Summarization</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jackie Cheung</span></td></tr>
 <tr id="paper" paper-id="486"><td id="paper-time"></td><td><span class="paper-title">AnswerSumm: A Manually-Curated Dataset and Pipeline for Answer Summarization. </span><em>Alexander Fabbri, Xiaojian Wu, Srini Iyer, Haoran Li, Mona T. Diab</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.180" title="PDF"></i></td></tr>
@@ -101,7 +107,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1C: Information Extraction</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Alan Ritter</span></td></tr>
 <tr id="paper" paper-id="893"><td id="paper-time"></td><td><span class="paper-title">An Enhanced Span-based Decomposition Method for  Few-Shot Sequence Labeling. </span><em>Peiyi Wang, Runxin Xu, Tianyu Liu, Qingyu Zhou, Yunbo Cao, Baobao Chang, Zhifang Sui</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.369" title="PDF"></i></td></tr>
@@ -118,7 +124,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1D: Efficient Methods in NLP 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Roy Schwarz</span></td></tr>
 <tr id="paper" paper-id="424"><td id="paper-time"></td><td><span class="paper-title">KroneckerBERT: Significant Compression of Pre-trained Language Models Through Kronecker Decomposition and Knowledge Distillation. </span><em>Marzieh S. Tahaei, Ella Charlaix, Vahid Partovi Nia, Ali Ghodsi, Mehdi Rezagholizadeh</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.154" title="PDF"></i></td></tr>
@@ -135,7 +141,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1E: Dialogue</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-1e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-1e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Rashmi Gangadharaiah</span></td></tr>
 <tr id="paper" paper-id="627"><td id="paper-time"></td><td><span class="paper-title">LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking. </span><em>Yifan Wang, Jing Zhao, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.242" title="PDF"></i></td></tr>
@@ -152,7 +158,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">1F: In-person Poster Session 1 </a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="42"><td><span class="poster-title">Political Ideology and Polarization: A Multi-dimensional Approach. </span><em>Barea Sinno, Bernardo Oviedo, Katherine Atwell, Malihe Alikhani, Junyi Jessy Li</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.17" title="PDF"></i></td></tr>
@@ -204,9 +210,11 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
+<div class="session session-plenary"><span class="session-title">EMNLP 2022 Information Session <span style="font-size:80%">(*concurrent with Session 1)</span></span><span class="session-time" title="Monday, July 11, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span></span><span class="session-time" title="Monday, July 11, 2022">11:00 &ndash; 12:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-6"><span class="session-title">Lunch</span><span class="session-time" title="Monday, July 11, 2022">12:15 &ndash; 13:15</span></div>
-<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a></span><span class="session-time" title="Monday, July 11, 2022">13:15 &ndash; 14:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-7"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">14:15 &ndash; 14:30</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-2">
 <div class="session-header" id="session-header-2">Session 2</div>
 <div class="session session-expandable session-papers" id="session-2a">
@@ -214,7 +222,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2A: Interpretability</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sebastian Schuster</span></td></tr>
 <tr id="paper" paper-id="666"><td id="paper-time"></td><td><span class="paper-title">ElitePLM: An Empirical Study on General Language Ability Evaluation of Pretrained Language Models. </span><em>Junyi Li, Tianyi Tang, Zheng Gong, Lixin Yang, Zhuohao Yu, Zhipeng Chen, Jingyuan Wang, Xin Zhao, Ji-Rong Wen</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.258" title="PDF"></i></td></tr>
@@ -231,7 +239,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2B: Semantics</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jacob Eisenstein</span></td></tr>
 <tr id="paper" paper-id="831"><td id="paper-time"></td><td><span class="paper-title">Testing the Ability of Language Models to Interpret Figurative Language. </span><em>Emmy Liu, Chenxuan Cui, Kenneth Zheng, Graham Neubig</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.330" title="PDF"></i></td></tr>
@@ -248,7 +256,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2C: Language Resources & Evaluation 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Waleed Ammar</span></td></tr>
 <tr id="paper" paper-id="670"><td id="paper-time"></td><td><span class="paper-title">Bidimensional Leaderboards: Generate and Evaluate Language Hand in Hand. </span><em>Jungo Kasai, Keisuke Sakaguchi, Ronan Le Bras, Lavinia Dunagan, Jacob Daniel Morrison, Alexander Fabbri, Yejin Choi, Noah Smith</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.259" title="PDF"></i></td></tr>
@@ -265,7 +273,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2D: Machine Translation 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jonathan May</span></td></tr>
 <tr id="paper" paper-id="945"><td id="paper-time"></td><td><span class="paper-title">Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance. </span><em>Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan, Bernhard Schölkopf</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.389" title="PDF"></i></td></tr>
@@ -282,7 +290,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2E: NLP Applications 1</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-2e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-2e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Preslav Nakov</span></td></tr>
 <tr id="paper" paper-id="193"><td id="paper-time"></td><td><span class="paper-title">ScAN: Suicide Attempt and Ideation Events Dataset. </span><em>Bhanu Pratap Singh Rawat, Samuel Kovaly, Hong Yu, Wilfred Pigeon</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.75" title="PDF"></i></td></tr>
@@ -299,7 +307,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">2F: In-person Poster Session 2 </a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">14:30 &ndash; 16:00</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Dialogue and Interactive Systems</span></td></tr>
 <tr id="poster" poster-id="235"><td><span class="poster-title">Towards a Progression-Aware Autonomous Dialogue Agent. </span><em>Abraham Sanders, Tomek Strzalkowski, Mei Si, Albert Chang, Deepanshu Dey, Jonas Braasch, Dakuo Wang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.87" title="PDF"></i></td></tr>
@@ -353,13 +361,15 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span></span><span class="session-time" title="Monday, July 11, 2022">15:00 &ndash; 16:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span></span><span class="session-time" title="Monday, July 11, 2022">15:30 &ndash; 16:30</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-8"><span class="session-title">Break</span><span class="session-time" title="Monday, July 11, 2022">16:00 &ndash; 16:30</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary session-expandable session-papers-best">
 <div class="expander-wrapper">
 <div id="expander"></div><a href="#" class="session-title">Plenary Best Paper Session + Land Acknowledgment</a>
 </div>
 <span class="session-time" title="Monday, July 11, 2022">16:30 &ndash; 17:30</span>
-<span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span>
+<span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><table class="paper-table">
 <tr id="paper" paper-id="70-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">User-Driven Research of Medical Note Generation Software. </span><em>Tom Knoll, Francesco Moramarco, Alex Papadopoulos Korfiatis, Rachel Young, Claudia Ruffini, Mark Perera, Christian Perstl, Ehud Reiter, Anya Belz, Aleksandar Savkov</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.29" title="PDF"></i></td></tr>
 <tr id="paper" paper-id="90-special"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">Automatic Correction of Human Translations. </span><em>Jessy Lin, Geza Kovacs, Aditya Shastry, Joern Wuebker, John DeNero</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.36" title="PDF"></i></td></tr>
@@ -369,8 +379,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-plenary"><span class="session-title">Queer in AI in-person social</span><span class="session-time" title="Monday, July 11, 2022">18:00 &ndash; 20:00</span><span class="session-location"><a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>The Pine Box (registration required to attend the social)</a></span></div>
 <div class="day" id="day-4">Tuesday, July 12, 2022</div>
-<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Registration</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
-<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Breakfast</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-9"><span class="session-title">Registration</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-10"><span class="session-title">Breakfast</span><span class="session-time" title="Tuesday, July 12, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-3">
 <div class="session-header" id="session-header-3">Session 3</div>
 <div class="session session-expandable session-papers" id="session-3a">
@@ -378,7 +388,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3A: Language Generation</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Nanyun Peng</span></td></tr>
 <tr id="paper" paper-id="566"><td id="paper-time"></td><td><span class="paper-title">Low Resource Style Transfer via Domain Adaptive Meta Learning. </span><em>Xiangyang Li, Xiang Long, Yu Xia, Sujian Li</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.220" title="PDF"></i></td></tr>
@@ -393,7 +403,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3B: Semantics & Sentiment Analysis</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Eduardo Blanco</span></td></tr>
 <tr id="paper" paper-id="3655-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Fact Checking with Insufficient Evidence. </span><em>Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein</em></td></tr>
@@ -408,7 +418,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3C: Language Resources & Evaluation 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Yogarshi Vyas</span></td></tr>
 <tr id="paper" paper-id="589"><td id="paper-time"></td><td><span class="paper-title">MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction. </span><em>Yue Zhang, Zhenghua Li, Zuyi Bao, Jiacheng Li, Bo Zhang, Chen Li, Fei Huang, Min Zhang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.227" title="PDF"></i></td></tr>
@@ -423,7 +433,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3D: Efficient Methods in NLP 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Emma Strubell</span></td></tr>
 <tr id="paper" paper-id="1006"><td id="paper-time"></td><td><span class="paper-title">Learning to Win Lottery Tickets in BERT Transfer via Task-agnostic Mask Training. </span><em>Yuanxin Liu, Fandong Meng, Zheng Lin, Peng Fu, Yanan Cao, Weiping Wang, Jie Zhou</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.428" title="PDF"></i></td></tr>
@@ -438,7 +448,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3E: NLP Applications 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Danqi Chen</span></td></tr>
 <tr id="paper" paper-id="636"><td id="paper-time"></td><td><span class="paper-title">CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking. </span><em>Xuming Hu, Zhijiang Guo, GuanYu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.246" title="PDF"></i></td></tr>
@@ -453,7 +463,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3F: Industry Oral Session 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Quinault</span>
+<span class="session-location">Quinault <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-3f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-3f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kasturi Bhattacharjee</span></td></tr>
 <tr id="paper" paper-id="9-industry"><td id="paper-time"></td><td><span class="paper-title">CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning. </span><em>Penghui Wei, Xuanhua Yang, ShaoGuo Liu, Liang Wang, Bo Zheng</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-industry.2" title="PDF"></i></td></tr>
@@ -468,7 +478,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">3G: Virtual Poster Q&A Session 1 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">702 - Clearwater</span>
+<span class="session-location">702 - Clearwater <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Dialogue and Interactive Systems</span></td></tr>
 <tr id="poster" poster-id="84-srw"><td><span class="poster-title">[SRW] Explicit Use of Topicality in Dialogue Response Generation. </span><em>Takumi Yoshikoshi, Hayato Atarashi, Takashi Kodama, Sadao Kurohashi</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-srw.28" title="PDF"></i></td></tr>
@@ -581,10 +591,10 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location"><a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
+<div class="session session-break session-plenary" id="session-break-11"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a></span><span class="session-time" title="Tuesday, July 12, 2022">9:15 &ndash; 10:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-12"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:15 &ndash; 10:45</span><span class="session-location">507 Sauk <i class="far fa-map icon-map"></i> / <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
 <div class="session-box" id="session-box-4">
 <div class="session-header" id="session-header-4">Session 4</div>
 <div class="session session-expandable session-papers" id="session-4a">
@@ -592,7 +602,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4A: Interpretability and Analysis of Models for NLP 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Siva Reddy</span></td></tr>
 <tr id="paper" paper-id="841"><td id="paper-time"></td><td><span class="paper-title">Measure and Improve Robustness in NLP Models: A Survey. </span><em>Xuezhi Wang, Haohan Wang, Diyi Yang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.339" title="PDF"></i></td></tr>
@@ -609,7 +619,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4B: Summarization</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Greg Durrett</span></td></tr>
 <tr id="paper" paper-id="591"><td id="paper-time"></td><td><span class="paper-title">NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias. </span><em>Nayeon Lee, Yejin Bang, Tiezheng YU, Andrea Madotto, Pascale Fung</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.228" title="PDF"></i></td></tr>
@@ -626,7 +636,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4C: Information Retrieval</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Pedro Rodriguez</span></td></tr>
 <tr id="paper" paper-id="40"><td id="paper-time"></td><td><span class="paper-title">CERES: Pretraining of Graph-Conditioned Transformer for Semi-Structured Session Data. </span><em>Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.16" title="PDF"></i></td></tr>
@@ -643,7 +653,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4D: Language Grounding to Vision 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Parisa Kordjamshidi</span></td></tr>
 <tr id="paper" paper-id="174"><td id="paper-time"></td><td><span class="paper-title">KAT: A Knowledge Augmented Transformer for Vision-and-Language. </span><em>Liangke Gui, Borui Wang, Qiuyuan Huang, Alexander G Hauptmann, Yonatan Bisk, Jianfeng Gao</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.70" title="PDF"></i></td></tr>
@@ -660,7 +670,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4E: Dialogue and Interactive Systems 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-4e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-4e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Joao Sedoc</span></td></tr>
 <tr id="paper" paper-id="456"><td id="paper-time"></td><td><span class="paper-title">Learning to Express in Knowledge-Grounded Conversation. </span><em>Xueliang Zhao, Tingchen Fu, Chongyang Tao, Wei Wu, Dongyan Zhao, Rui Yan</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.164" title="PDF"></i></td></tr>
@@ -677,7 +687,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">4F: In-person Poster Session 3 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="887"><td><span class="poster-title">SkillSpan: Hard and Soft Skill Extraction from English Job Postings. </span><em>Mike Zhang, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.366" title="PDF"></i></td></tr>
@@ -720,9 +730,13 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-plenary"><span class="session-title"><a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span><span class="session-location">Quinault</span></div>
+<div class="session session-plenary"><span class="session-title"><a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">10:45 &ndash; 12:15</span><span class="session-location">Quinault <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Generation <span style="font-size:80%">(*concurrent with Session 4)</span></span><span class="session-time" title="Tuesday, July 12, 2022">11:00 &ndash; 12:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-13"><span class="session-title">Lunch</span><span class="session-time" title="Tuesday, July 12, 2022">12:15 &ndash; 14:15</span></div>
-<div class="session session-plenary"><span class="session-title">Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">13:00 &ndash; 14:15</span><span class="session-location">Columbia A</span></div>
+<div class="session session-plenary"><span class="session-title">Business Meeting</span><span class="session-time" title="Tuesday, July 12, 2022">13:00 &ndash; 14:15</span><span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">14:00 &ndash; 15:00</span><span class="session-location">501 Chiwawa <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-5">
 <div class="session-header" id="session-header-5">Session 5</div>
 <div class="session session-expandable session-papers" id="session-5a">
@@ -730,7 +744,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5A: Ethics, Bias, Fairness 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kai-Wei Chang</span></td></tr>
 <tr id="paper" paper-id="867"><td id="paper-time"></td><td><span class="paper-title">What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review. </span><em>Terne Sasha Thorn Jakobsen, Anna Rogers</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.354" title="PDF"></i></td></tr>
@@ -747,7 +761,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5B: Sentiment Analysis & Stylistic Analysis</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Narges Tabari</span></td></tr>
 <tr id="paper" paper-id="28"><td id="paper-time"></td><td><span class="paper-title">Putting the Con in Context: Identifying Deceptive Actors in the Game of Mafia. </span><em>Samee Omotayo Ibraheem, Gaoyue Zhou, John DeNero</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.11" title="PDF"></i></td></tr>
@@ -764,7 +778,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5C: Information Extraction 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Luca Soldaini</span></td></tr>
 <tr id="paper" paper-id="379"><td id="paper-time"></td><td><span class="paper-title">DEGREE: A Data-Efficient Generation-Based Event Extraction Model. </span><em>I-Hung Hsu, Kuan-Hao Huang, Elizabeth Boschee, Scott Miller, Prem Natarajan, Kai-Wei Chang, Nanyun Peng</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.138" title="PDF"></i></td></tr>
@@ -781,7 +795,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5D: Human-Centered NLP 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Marti Hearst</span></td></tr>
 <tr id="paper" paper-id="86-special"><td id="paper-time"></td><td><span class="paper-title">Mapping the Design Space of Human-AI Interaction in Text Summarization. </span><em>Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel R. Tetreault, Alejandro Jaimes</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.33" title="PDF"></i></td></tr>
@@ -798,7 +812,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5E: NLP Applications 3</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jill Burstein</span></td></tr>
 <tr id="paper" paper-id="964"><td id="paper-time"></td><td><span class="paper-title">Cryptocurrency Bubble Detection: A New Stock Market Dataset, Financial Task & Hyperbolic Models. </span><em>Ramit Sawhney, Shivam Agarwal, Vivek Mittal, Paolo Rosso, Vikram Nanda, Sudheer Chava</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.405" title="PDF"></i></td></tr>
@@ -815,7 +829,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5F: Industry Oral Session 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Quinault</span>
+<span class="session-location">Quinault <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-5f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-5f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sandesh Swamy</span></td></tr>
 <tr id="paper" paper-id="33-industry"><td id="paper-time"></td><td><span class="paper-title">Self-supervised Product Title Rewrite for Product Listing Ads. </span><em>Xue Zhao, Dayiheng Liu, Junwei Ding, Liang Yao, Mahone Yan, Huibo wang, Wenqing Yao</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-industry.10" title="PDF"></i></td></tr>
@@ -832,7 +846,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">5G: SRW In-person Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr id="poster" poster-id="13-srw"><td><span class="poster-title">[SRW] Systematicity Emerges in Transformers when Abstract Grammatical Roles Guide Attention. </span><em>Ayush K Chakravarthy, Jacob Labe Russin, Randall O'Reilly</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-srw.1" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="15-srw"><td><span class="poster-title">[SRW] Grounding in social media: An approach to building a chit-chat dialogue model. </span><em>Ritvik Choudhary, Daisuke Kawahara</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-srw.2" title="PDF"></i></td></tr>
@@ -862,7 +876,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span></span><span class="session-time" title="Tuesday, July 12, 2022">15:00 &ndash; 16:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-14"><span class="session-title">Break</span><span class="session-time" title="Tuesday, July 12, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-6">
 <div class="session-header" id="session-header-6">Session 6</div>
 <div class="session session-expandable session-papers" id="session-6a">
@@ -870,7 +885,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6A: Language Grounding to Vision 2</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jesse Thomason</span></td></tr>
 <tr id="paper" paper-id="391"><td id="paper-time"></td><td><span class="paper-title">All You May Need for VQA are Image Captions. </span><em>Soravit Changpinyo, Doron Kukliansy, Idan Szpektor, Xi Chen, Nan Ding, Radu Soricut</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.142" title="PDF"></i></td></tr>
@@ -887,7 +902,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6B: Syntax: Tagging, Chunking and Parsing</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Miguel Ballesteros</span></td></tr>
 <tr id="paper" paper-id="0-cl"><td id="paper-time"></td><td><span class="paper-title">[CL] Tractable Parsing for CCGs of Bounded Degree. </span><em>Lena Katharina Schiffer, Marco Kuhlmann, Giorgio Satta</em></td></tr>
@@ -904,7 +919,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6C: Multilinguality</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Antonis Anastasopoulos</span></td></tr>
 <tr id="paper" paper-id="878"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">A Balanced Data Approach for Evaluating Cross-Lingual Transfer: Mapping the Linguistic Blood Bank. </span><em>Dan Malkin, Tomasz Limisiewicz, Gabriel Stanovsky</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.361" title="PDF"></i></td></tr>
@@ -921,7 +936,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6D: Machine Learning for NLP 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Wei Xu</span></td></tr>
 <tr id="paper" paper-id="966"><td id="paper-time"></td><td><span class="paper-title">DEMix Layers: Disentangling Domains for Modular Language Modeling. </span><em>Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah Smith, Luke Zettlemoyer</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.407" title="PDF"></i></td></tr>
@@ -938,7 +953,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6E: Question Answering 1</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Ashish Sabharwal</span></td></tr>
 <tr id="paper" paper-id="947"><td id="paper-time"></td><td><span class="paper-title">QuALITY: Question Answering with Long Input Texts, Yes!. </span><em>Richard Yuanzhe Pang, Alicia Parrish, Nitish Joshi, Nikita Nangia, Jason Phang, Angelica Chen, Vishakh Padmakumar, Johnny L Ma, Jana Thompson, He He, Samuel R. Bowman</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.391" title="PDF"></i></td></tr>
@@ -955,7 +970,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6F: SRW Thesis Proposals Session</a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Quinault</span>
+<span class="session-location">Quinault <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-6f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-6f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Daphne Ippolito</span></td></tr>
 <tr id="paper" paper-id="23-srw"><td id="paper-time"></td><td><span class="paper-title">[SRW] Methods for Estimating and Improving Robustness of Language Models. </span><em>Michal Stefanik</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-srw.6" title="PDF"></i></td></tr>
@@ -971,7 +986,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6G: Industry/Demo Poster Session </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:45</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Industry Track Posters</span></td></tr>
 <tr id="poster" poster-id="5-industry"><td><span class="poster-title">Scalable and Robust Self-Learning for Skill Routing in Large-Scale Conversational AI Systems. </span><em>Mohammad Kachuee, Jinseok Nam, Sarthak Ahuja, Jin-Myung Won, SUNGJIN LEE</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-industry.1" title="PDF"></i></td></tr>
@@ -1016,7 +1031,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="24-demo"><td><span class="poster-title">SETSum: Summarization and Visualization of Student Evaluations of Teaching. </span><em>Yinuo Hu, Shiyue Zhang, Viji Sathy, Abigail Panter, Mohit Bansal</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.9" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="25-demo"><td><span class="poster-title">Towards Open-Domain Topic Classification. </span><em>Hantian Ding, Jinrui Yang, Yuqian Deng, Hongming Zhang, Dan Roth</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.10" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="28-demo"><td><span class="poster-title">SentSpace: Large-Scale Benchmarking and Evaluation of Text using Cognitively Motivated Lexical, Syntactic, and Semantic Features. </span><em>Greta Tuckute, Aalok Sathe, Mingye Wang, Harley Yoder, Cory Shain, Evelina Fedorenko</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.11" title="PDF"></i></td></tr>
-<tr id="poster" poster-id="29-demo"><td><span class="poster-title">PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit. </span><em>Hui Zhang, Tian Yuan, Junkun Chen, Xintong Li, Renjie Zheng, Yuxin Huang, Xiaojie Chen, Enlei Gong, Zeyu Chen, Xiaoguang Hu, Dianhai Yu, Yanjun Ma, Liang Huang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.12" title="PDF"></i></td></tr>
+<tr id="poster" poster-id="29-demo"><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="poster-title">PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit. </span><em>Hui Zhang, Tian Yuan, Junkun Chen, Xintong Li, Renjie Zheng, Yuxin Huang, Xiaojie Chen, Enlei Gong, Zeyu Chen, Xiaoguang Hu, Dianhai Yu, Yanjun Ma, Liang Huang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.12" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="30-demo"><td><span class="poster-title">DadmaTools: Natural Language Processing Toolkit for Persian Language. </span><em>Romina Etezadi, Mohammad Karrabi, Najmeh Zare, Mohamad Bagher Sajadi, Mohammad Taher Pilehvar</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.13" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="32-demo"><td><span class="poster-title">FAMIE: A Fast Active Learning Framework for Multilingual Information Extraction. </span><em>Minh Van Nguyen, Nghia Trung Ngo, Bonan Min, Thien Huu Nguyen</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-demo.14" title="PDF"></i></td></tr>
 </table>
@@ -1027,7 +1042,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">6H: Virtual Poster Q&A Session 2 </a>
 </div>
 <span class="session-time" title="Tuesday, July 12, 2022">16:15 &ndash; 17:15</span>
-<span class="session-location">702 - Clearwater</span>
+<span class="session-location">702 - Clearwater <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="900"><td><span class="poster-title">[Findings] Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning. </span><em>Hongzhan Lin, Jing Ma, Liangliang Chen, Zhiwei Yang, Mingfei Cheng, Guang Chen</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.194" title="PDF"></i></td></tr>
@@ -1142,8 +1157,8 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/#social-event">Social Event</a></span><span class="session-time" title="Tuesday, July 12, 2022">19:00 &ndash; 22:00</span><span class="session-location">Museum of Pop Culture (MoPOP)</span></div>
 <div class="day" id="day-5">Wednesday, July 13, 2022</div>
-<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Registration</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
-<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-15"><span class="session-title">Registration</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-16"><span class="session-title">Breakfast</span><span class="session-time" title="Wednesday, July 13, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-7">
 <div class="session-header" id="session-header-7">Session 7</div>
 <div class="session session-expandable session-papers" id="session-7a">
@@ -1151,7 +1166,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7A: Interpretability and Analysis of Models for NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Gabriel Stanovsky</span></td></tr>
 <tr id="paper" paper-id="177"><td id="paper-time"></td><td><span class="paper-title">When a sentence does not introduce a discourse entity, Transformer-based models still sometimes refer to it. </span><em>Sebastian Schuster, Tal Linzen</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.71" title="PDF"></i></td></tr>
@@ -1166,7 +1181,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7B: Summarization</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jessica Ouyang</span></td></tr>
 <tr id="paper" paper-id="719"><td id="paper-time"></td><td><span class="paper-title">From spoken dialogue to formal summary: An utterance rewriting for dialogue summarization. </span><em>Yue Fang, Hainan Zhang, Hongshen Chen, Zhuoye Ding, Bo Long, Yanyan Lan, Yanquan Zhou</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.283" title="PDF"></i></td></tr>
@@ -1181,7 +1196,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7C: Information Extraction 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Qiang Ning</span></td></tr>
 <tr id="paper" paper-id="771"><td id="paper-time"></td><td><span class="paper-title">Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting. </span><em>Linzhi Wu, Pengjun Xie, Jie Zhou, Meishan Zhang, Ma Chunping, Guangwei Xu, Min Zhang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.297" title="PDF"></i></td></tr>
@@ -1196,7 +1211,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7D: Machine Translation 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kenneth Heafield</span></td></tr>
 <tr id="paper" paper-id="999"><td id="paper-time"></td><td><span class="paper-title">Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints. </span><em>Chun Zeng, Jiangjie Chen, Tianyi Zhuang, Rui Xu, Hao Yang, Qin Ying, shimin tao, Yanghua Xiao</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.424" title="PDF"></i></td></tr>
@@ -1211,7 +1226,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7E: Dialogue and Interactive Systems 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Zhou Yu</span></td></tr>
 <tr id="paper" paper-id="1001"><td id="paper-time"></td><td><span class="paper-title">Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation. </span><em>Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.426" title="PDF"></i></td></tr>
@@ -1226,7 +1241,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7F: Machine Learning for NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">Quinault</span>
+<span class="session-location">Quinault <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-7f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-7f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Marjan Ghazvininejad</span></td></tr>
 <tr id="paper" paper-id="993"><td id="paper-time"></td><td><span class="paper-title">LaMemo: Language Modeling with Look-Ahead Memory. </span><em>Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.422" title="PDF"></i></td></tr>
@@ -1241,7 +1256,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">7G: Virtual Poster Q&A Session 3 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">8:00 &ndash; 9:00</span>
-<span class="session-location">702 - Clearwater</span>
+<span class="session-location">702 - Clearwater <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="22-srw"><td><span class="poster-title">[SRW] Again, Dozens of Refugees Drowned: A Computational Study of Political Framing Evoked by Presuppositions. </span><em>Qi Yu</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-srw.5" title="PDF"></i></td></tr>
@@ -1331,7 +1346,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-17"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">9:00 &ndash; 9:15</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-8">
 <div class="session-header" id="session-header-8">Session 8</div>
 <div class="session session-expandable session-papers" id="session-8a">
@@ -1339,7 +1354,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8A: Interpretability and Analysis of Models for NLP 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Yonatan Belinkov</span></td></tr>
 <tr id="paper" paper-id="994"><td id="paper-time"></td><td><span class="paper-title">Exploiting Inductive Bias in Transformers for Unsupervised Disentanglement of Syntax and Semantics with VAEs. </span><em>Ghazi Felhi, Joseph Le Roux, Djamé Seddah</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.423" title="PDF"></i></td></tr>
@@ -1354,7 +1369,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8B: Computational Social Science and Cultural Analytics</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Lu Wang</span></td></tr>
 <tr id="paper" paper-id="882"><td id="paper-time"></td><td><span class="paper-title">Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy. </span><em>Allison Lahnala, Charles Welch, Béla Neuendorf, Lucie Flek</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.363" title="PDF"></i></td></tr>
@@ -1369,7 +1384,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8C: Machine Learning & Human-Centered NLP 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Cissi Alm</span></td></tr>
 <tr id="paper" paper-id="3601-tacl"><td id="paper-time"></td><td><span class="paper-title">[TACL] Uncertainty Estimation and Reduction of Pre-trained Models for Text Regression. </span><em>Yuxia Wang, Daniel Beck, Timothy Baldwin, Karin Verspoor</em></td></tr>
@@ -1384,7 +1399,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8D: Machine Translation 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Graham Neubig</span></td></tr>
 <tr id="paper" paper-id="835"><td id="paper-time"></td><td><span class="paper-title">SURF: Semantic-level Unsupervised Reward Function for Machine Translation. </span><em>Atijit Anuchitanukul, Julia Ive</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.334" title="PDF"></i></td></tr>
@@ -1399,7 +1414,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8E: Dialogue and Interactive Systems 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jinho Choi</span></td></tr>
 <tr id="paper" paper-id="97"><td id="paper-time"></td><td><span class="paper-title">Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization. </span><em>Haode Zhang, Haowen Liang, Yuwei Zhang, Li-Ming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Y.S. Lam</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.39" title="PDF"></i></td></tr>
@@ -1414,7 +1429,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8F: Machine Learning for NLP 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">Quinault</span>
+<span class="session-location">Quinault <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-8f-selector"> Choose All</a><a href="#" class="session-deselector" id="session-8f-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Sopan Khosla</span></td></tr>
 <tr id="paper" paper-id="679"><td id="paper-time"></td><td><span class="paper-title">Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts. </span><em>Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Sameer Singh, Yejin Choi</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.266" title="PDF"></i></td></tr>
@@ -1429,7 +1444,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">8G: Virtual Poster Q&A Session 4 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">9:15 &ndash; 10:15</span>
-<span class="session-location">702 - Clearwater</span>
+<span class="session-location">702 - Clearwater <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Discourse and Pragmatics</span></td></tr>
 <tr id="poster" poster-id="562"><td><span class="poster-title">Incorporating Centering Theory into Neural Coreference Resolution. </span><em>Haixia Chai, Michael Strube</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.218" title="PDF"></i></td></tr>
@@ -1458,6 +1473,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="675"><td><span class="poster-title">[Findings] What kinds of errors do reference resolution models make and what can we learn from them?. </span><em>Jorge Sánchez, Mauricio Mazuecos, Hernán Maina, Luciana Benotti</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.152" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="1007"><td><span class="poster-title">[Findings] Negative Sample is Negative in Its Own Way: Tailoring Negative Sentences for Image-Text Retrieval. </span><em>Zhihao Fan, zhongyu wei, Zejun Li, Siyuan Wang, Xuanjing Huang, Jianqing Fan</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.204" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="1014"><td><span class="poster-title">[Findings] RoViST: Learning Robust Metrics for Visual Storytelling. </span><em>Eileen Wang, Caren Han, Josiah Poon</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.206" title="PDF"></i></td></tr>
+<tr id="poster" poster-id="213"><td><span class="poster-title">[Findings] CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations. </span><em>Jialu Li, Hao Tan, Mohit Bansal</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.48" title="PDF"></i></td></tr>
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="49-srw"><td><span class="poster-title">[SRW] Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation. </span><em>Xiaomeng Pan, Hongfei Wang, Teruaki Oka, Mamoru Komachi</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-srw.17" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="53"><td><span class="poster-title">SwahBERT: Language Model of Swahili. </span><em>Gati L Martin, Medard Medard Mswahili, Young-Seob Jeong, Jiyoung Woo</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.23" title="PDF"></i></td></tr>
@@ -1471,6 +1487,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="82"><td><span class="poster-title">[Findings] FreeTransfer-X: Safe and Label-Free Cross-Lingual Transfer from Off-the-Shelf Models. </span><em>Yinpeng Guo, Liangyou Li, Xin Jiang, Qun Liu</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.16" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="677"><td><span class="poster-title">[Findings] Uncertainty-Aware Cross-Lingual Transfer with Pseudo Partial Labels. </span><em>Shuo Lei, Xuchao Zhang, Jianfeng He, Fanglan Chen, Chang-Tien Lu</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.153" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="738"><td><span class="poster-title">[Findings] Multi-stage Distillation Framework for Cross-Lingual Semantic Similarity Matching. </span><em>Kunbo Ding, Weijie Liu, Yuejian Fang, Zhe Zhao, Qi Ju, Xuefeng Yang, Rong Tian, Zhu Tao, Haoyan Liu, Han Guo, Xingyu Bai, Weiquan Mao, Yudong Li, Weigang Guo, Taiqiang Wu, Ningyuan Sun</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.167" title="PDF"></i></td></tr>
+<tr id="poster" poster-id="63"><td><span class="poster-title">[Findings] How to Translate Your Samples and Choose Your Shots? Analyzing Translate-train & Few-shot Cross-lingual Transfer. </span><em>Iman Jundi, Gabriella Lapesa</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.11" title="PDF"></i></td></tr>
 <tr><td><span class="poster-type">NLP Applications</span></td></tr>
 <tr id="poster" poster-id="29-srw"><td><span class="poster-title">[SRW] Understanding Long Document with Different Position-Aware Attentions. </span><em>Hai Pham, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang</em></td></tr>
 <tr id="poster" poster-id="478"><td><span class="poster-title">A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony. </span><em>Tulika Saha, Saichethan Miriyala Reddy, Anindya Sundar Das, Sriparna Saha, Pushpak Bhattacharyya</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.174" title="PDF"></i></td></tr>
@@ -1504,7 +1521,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B</span></div>
+<div class="session session-break session-plenary" id="session-break-18"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span></span><span class="session-time" title="Wednesday, July 13, 2022">10:15 &ndash; 10:45</span><span class="session-location"><a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
 <div class="session-box" id="session-box-9">
 <div class="session-header" id="session-header-9">Session 9</div>
@@ -1513,7 +1530,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9A: Language Generation</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Vinay Bannihatti Kumar</span></td></tr>
 <tr id="paper" paper-id="686"><td id="paper-time"></td><td><i class="fa fa-award" title="Paper Award"></i>&nbsp;<span class="paper-title">FRUIT: Faithfully Reflecting Updated Information in Text. </span><em>Robert L. Logan IV, Alexandre Tachard Passos, Sameer Singh, Ming-Wei Chang</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.269" title="PDF"></i></td></tr>
@@ -1529,7 +1546,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9B: Speech & Phonology, Morphology</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Brian Roark</span></td></tr>
 <tr id="paper" paper-id="158"><td id="paper-time"></td><td><span class="paper-title">Textless Speech-to-Speech Translation on Real Data. </span><em>Ann Lee, Hongyu Gong, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Yossi Adi, Juan Pino, Jiatao Gu, Wei-Ning Hsu</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.63" title="PDF"></i></td></tr>
@@ -1545,7 +1562,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9C: Information Extraction 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Ben Van Durme</span></td></tr>
 <tr id="paper" paper-id="535"><td id="paper-time"></td><td><span class="paper-title">Improving Entity Disambiguation by Reasoning over a Knowledge Base. </span><em>Tom Ayoola, Joseph Fisher, Andrea Pierleoni</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.210" title="PDF"></i></td></tr>
@@ -1562,7 +1579,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9D: Language Resources & Evaluation 3</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Swabha Swayamdipta</span></td></tr>
 <tr id="paper" paper-id="699"><td id="paper-time"></td><td><span class="paper-title">Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants. </span><em>Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, Douwe Kiela</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.275" title="PDF"></i></td></tr>
@@ -1579,7 +1596,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9E: NLP Applications 4</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-9e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-9e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Mohit Iyyer</span></td></tr>
 <tr id="paper" paper-id="594"><td id="paper-time"></td><td><span class="paper-title">Efficient Constituency Tree based Encoding for Natural Language to Bash Translation. </span><em>Shikhar Bharadwaj, Shirish Shevade</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.230" title="PDF"></i></td></tr>
@@ -1596,7 +1613,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">9F: Findings In-person Poster Session 1 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">10:45 &ndash; 12:15</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Computational Social Science and Cultural Analytics</span></td></tr>
 <tr id="poster" poster-id="188"><td><span class="poster-title">[Findings] Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity. </span><em>Valentin Hofmann, Xiaowen Dong, Janet B. Pierrehumbert, Hinrich Schuetze</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.41" title="PDF"></i></td></tr>
@@ -1636,7 +1653,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr id="poster" poster-id="523"><td><span class="poster-title">[Findings] Hierarchical Transformers Are More Efficient Language Models. </span><em>Piotr Nawrot, Szymon Tworkowski, Michał Tyrolski, Lukasz Kaiser, Yuhuai Wu, Christian Szegedy, Henryk Michalewski</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.117" title="PDF"></i></td></tr>
 <tr><td><span class="poster-type">Multilinguality</span></td></tr>
 <tr id="poster" poster-id="138"><td><span class="poster-title">[Findings] DOCmT5: Document-Level Pretraining of Multilingual Language Models. </span><em>Chia-Hsuan Lee, Aditya Siddhant, Viresh Ratnakar, Melvin Johnson</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.32" title="PDF"></i></td></tr>
-<tr id="poster" poster-id="63"><td><span class="poster-title">[Findings] How to Translate Your Samples and Choose Your Shots? Analyzing Translate-train & Few-shot Cross-lingual Transfer. </span><em>Iman Jundi, Gabriella Lapesa</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.11" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="691"><td><span class="poster-title">[Findings] Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer. </span><em>Haoran Xu, Kenton Murray</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.157" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="890"><td><span class="poster-title">[Findings] MTG: A Benchmark Suite for Multilingual Text Generation. </span><em>Yiran Chen, Zhenqiao Song, Xianze Wu, Danqing Wang, Jingjing Xu, Jiaze Chen, Hao Zhou, Lei Li</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.192" title="PDF"></i></td></tr>
 <tr><td><span class="poster-type">Question Answering</span></td></tr>
@@ -1661,7 +1677,10 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span></span><span class="session-time" title="Wednesday, July 13, 2022">11:00 &ndash; 12:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-break session-plenary" id="session-break-19"><span class="session-title">Lunch</span><span class="session-time" title="Wednesday, July 13, 2022">12:15 &ndash; 14:15</span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">14:00 &ndash; 15:00</span><span class="session-location">502 Cowlitz <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: Information Extraction <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">14:00 &ndash; 15:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
 <div class="session-box" id="session-box-10">
 <div class="session-header" id="session-header-10">Session 10</div>
 <div class="session session-expandable session-papers" id="session-10a">
@@ -1669,7 +1688,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10A: Ethics, Bias, Fairness 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Columbia A</span>
+<span class="session-location">Columbia A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10a-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10a-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Diyi Yang</span></td></tr>
 <tr id="paper" paper-id="524"><td id="paper-time"></td><td><span class="paper-title">Selective Differential Privacy for Language Modeling. </span><em>Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.205" title="PDF"></i></td></tr>
@@ -1686,7 +1705,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10B: Semantics</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Columbia C</span>
+<span class="session-location">Columbia C <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10b-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10b-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Nathan Schneider</span></td></tr>
 <tr id="paper" paper-id="515"><td id="paper-time"></td><td><span class="paper-title">Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization. </span><em>Prasetya Ajie Utama, Joshua Bambrick, Nafise Sadat Moosavi, Iryna Gurevych</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.199" title="PDF"></i></td></tr>
@@ -1703,7 +1722,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10C: Linguistic Theories, Cognitive Modeling, Discourse</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Columbia D</span>
+<span class="session-location">Columbia D <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10c-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10c-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Jacob Andreas</span></td></tr>
 <tr id="paper" paper-id="875"><td id="paper-time"></td><td><span class="paper-title">Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks. </span><em>Ruixiang Cui, Daniel Hershcovich, Anders Søgaard</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.359" title="PDF"></i></td></tr>
@@ -1720,7 +1739,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10D: Machine Learning 4</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Elwha A</span>
+<span class="session-location">Elwha A <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10d-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10d-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Kenton Lee</span></td></tr>
 <tr id="paper" paper-id="496"><td id="paper-time"></td><td><span class="paper-title">A Structured Span Selector. </span><em>Tianyu Liu, Yuchen Eleanor Jiang, Ryan Cotterell, Mrinmaya Sachan</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.189" title="PDF"></i></td></tr>
@@ -1737,7 +1756,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10E: Question Answering 2</a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Elwha B</span>
+<span class="session-location">Elwha B <i class="far fa-map icon-map"></i></span>
 <div class="paper-session-details"><a href="#" class="session-selector" id="session-10e-selector"> Choose All</a><a href="#" class="session-deselector" id="session-10e-deselector">Remove All</a><table class="paper-table">
 <tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">Avi Sil</span></td></tr>
 <tr id="paper" paper-id="506"><td id="paper-time"></td><td><span class="paper-title">Learning to Retrieve Passages without Supervision. </span><em>Ori Ram, Gal Shachaf, Omer Levy, Jonathan Berant, Amir Globerson</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.naacl-main.193" title="PDF"></i></td></tr>
@@ -1754,7 +1773,7 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <div id="expander"></div><a href="#" class="session-title">10F: Findings In-person Poster Session 2 </a>
 </div>
 <span class="session-time" title="Wednesday, July 13, 2022">14:15 &ndash; 15:45</span>
-<span class="session-location">Regency A & B</span>
+<span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span>
 <div class="poster-session-details"><table class="poster-table">
 <tr><td><span class="poster-type">Human-Centered NLP</span></td></tr>
 <tr id="poster" poster-id="82-special"><td><span class="poster-title">[Findings] Opportunities for Human-centered Evaluation of Machine Translation Systems. </span><em>Daniel J. Liebling, Katherine A Heller, Samantha Robertson, Wesley Deng</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.17" title="PDF"></i></td></tr>
@@ -1782,7 +1801,6 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 <tr><td><span class="poster-type">Language Grounding to Vision, Robotics and Beyond</span></td></tr>
 <tr id="poster" poster-id="328"><td><span class="poster-title">[Findings] Probing the Role of Positional Information in Vision-Language Models. </span><em>Philipp J. Rösch, Jindřich Libovický</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.77" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="444"><td><span class="poster-title">[Findings] Improving Few-Shot Image Classification Using Machine- and User-Generated Natural Language Descriptions. </span><em>Kosuke Nishida, Kyosuke Nishida, Shuichi Nishioka</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.106" title="PDF"></i></td></tr>
-<tr id="poster" poster-id="213"><td><span class="poster-title">[Findings] CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations. </span><em>Jialu Li, Hao Tan, Mohit Bansal</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.48" title="PDF"></i></td></tr>
 <tr><td><span class="poster-type">Language Resources and Evaluation</span></td></tr>
 <tr id="poster" poster-id="77"><td><span class="poster-title">[Findings] FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks. </span><em>Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, Rahul Gupta, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.13" title="PDF"></i></td></tr>
 <tr id="poster" poster-id="234"><td><span class="poster-title">[Findings] Challenging America: Modeling language in longer time scales. </span><em>Jakub Pokrywka, Filip Graliński, Krzysztof Jassem, Karol Kaczmarek, Krzysztof Jan Jurkiewicz, Piotr Wierzchon</em>&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="https://aclanthology.org/2022.findings-naacl.56" title="PDF"></i></td></tr>
@@ -1820,17 +1838,18 @@ All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 </div>
 </div>
 </div>
-<div class="session session-break session-plenary" id="session-break-20"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B</span></div>
-<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
-<div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler)</span></div>
+<div class="session session-plenary"><span class="session-title">Birds-of-a-Feather: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span></span><span class="session-time" title="Wednesday, July 13, 2022">15:00 &ndash; 16:00</span><span class="session-location">506 Samish <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-20"><span class="session-title">Break</span><span class="session-time" title="Wednesday, July 13, 2022">15:45 &ndash; 16:15</span><span class="session-location">Regency A & B <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a></span><span class="session-time" title="Wednesday, July 13, 2022">16:15 &ndash; 17:15</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-plenary"><span class="session-title">Closing Session</span><span class="session-time" title="Wednesday, July 13, 2022">17:15 &ndash; 17:45</span><span class="session-location">Columbia C & D (Overflow: Columbia A & 302 Beckler) <i class="far fa-map icon-map"></i></span></div>
 <div class="day" id="day-6">Thursday, July 14, 2022</div>
-<div class="session session-break session-plenary" id="session-break-21"><span class="session-title">Registration</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
-<div class="session session-break session-plenary" id="session-break-22"><span class="session-title">Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-21"><span class="session-title">Registration</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-22"><span class="session-title">Breakfast</span><span class="session-time" title="Thursday, July 14, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary"><span class="session-title">Structured Social: <a href="/blog/welcome-to-structured-socials/">Navigating grad school</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 10:00</span><span class="session-location"><a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Thursday, July 14, 2022">9:00 &ndash; 17:30</span></div>
 <div class="day" id="day-7">Friday, July 15, 2022</div>
-<div class="session session-break session-plenary" id="session-break-23"><span class="session-title">Registration</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer</span></div>
-<div class="session session-break session-plenary" id="session-break-24"><span class="session-title">Breakfast</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer</span></div>
+<div class="session session-break session-plenary" id="session-break-23"><span class="session-title">Registration</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 18:00</span><span class="session-location">Level 3 Foyer <i class="far fa-map icon-map"></i></span></div>
+<div class="session session-break session-plenary" id="session-break-24"><span class="session-title">Breakfast</span><span class="session-time" title="Friday, July 15, 2022">7:30 &ndash; 9:00</span><span class="session-location">Level 3 & 5 Foyer <i class="far fa-map icon-map"></i></span></div>
 <div class="session session-plenary"><span class="session-title"><a href="/program/workshops/">Workshops</a></span><span class="session-time" title="Friday, July 15, 2022">9:00 &ndash; 17:30</span></div>
 <div id="generatePDFForm">
 <div id="formContainer">

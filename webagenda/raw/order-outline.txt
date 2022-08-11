@@ -4,11 +4,11 @@
 
 * Sunday, July 10, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer [MAP]
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer [MAP]
 
-! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D
+! 9:00--17:30 <a href="/blog/welcome-to-tutorials/">Tutorials</a> ## %room Columbia A & C & D [MAP]
 
 ! 9:00--11:00 <a href="/program/affinity/">Joint Affinity Group Workshop Poster Session</a> ## %room <a href='https://app.gather.town/app/GPUA8FVbHRuN0ePu/Joint%20Poster%20Session'>Gather Town</a>
 
@@ -18,247 +18,267 @@
 
 ! 8:00--18:00 <a href="http://www.winlp.org/winlp-satellite-workshop-naacl-2022/">Widening NLP workshop</a> ## %room <a href='https://www.eventbrite.com/e/widening-nlp-satellite-workshop-at-naacl-2022-tickets-345885913077'>Virtual registration link</a>
 
-! 18:00--20:00 <a href="/program/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer
+! 18:00--20:00 <a href="/program/#welcome-reception">Welcome Reception</a> ## %room Level 5 Foyer [MAP]
 
 * Monday, July 11, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer [MAP]
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer [MAP]
 
-! 8:45--9:15 Welcome Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 8:45--9:15 Welcome Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
 
-! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 9:15--10:15 Plenary Invited Talk 1: <a href="/program/keynotes-panels/#batya-friedman">Batya Friedman: "Shaping Technology with Moral Imagination: Leveraging the Machinery of Value Sensitive Design"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
 
-! 10:15--10:45 Break ## %room Regency A & B
+! 10:15--10:45 Break ## %room Regency A & B [MAP]
 
 + 10:45--12:15 Session 1
 
-= Session 1A: Language Generation ## %room Columbia A %chair1 Saadia Gabriel
+= Session 1A: Language Generation ## %room Columbia A [MAP] %chair1 Saadia Gabriel
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Language Generation"}
-= Session 1B: Summarization ## %room Columbia C %chair1 Jackie Cheung
+= Session 1B: Summarization ## %room Columbia C [MAP] %chair1 Jackie Cheung
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Summarization"}
-= Session 1C: Information Extraction ## %room Columbia D %chair1 Alan Ritter
+= Session 1C: Information Extraction ## %room Columbia D [MAP] %chair1 Alan Ritter
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Information Extraction"}
-= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A %chair1 Roy Schwarz
+= Session 1D: Efficient Methods in NLP 1 ## %room Elwha A [MAP] %chair1 Roy Schwarz
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Efficient Methods in NLP 1"}
-= Session 1E: Dialogue ## %room Elwha B %chair1 Rashmi Gangadharaiah
+= Session 1E: Dialogue ## %room Elwha B [MAP] %chair1 Rashmi Gangadharaiah
 {"Day": "Day 1", "Session start time": "10:45", "Session Name": "Dialogue"}
-= Session 1F: In-person Poster Session 1 ## %room Regency A & B
+= Session 1F: In-person Poster Session 1 ## %room Regency A & B [MAP]
 {"Session Name": "Poster session 1", "_group_by": "Track"}
+
+! 11:00--12:00 EMNLP 2022 Information Session <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 502 Cowlitz [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Question Answering <span style="font-size:80%">(*concurrent with Session 1)</span> ## %room 506 Samish [MAP]
 
 ! 12:15--13:15 Lunch
 
-! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 13:15--14:15 Industry Panel: <a href="/program/keynotes-panels/#panel-careers-in-nlp">Careers in NLP</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
 
-! 14:15--14:30 Break ## %room Regency A & B
+! 14:15--14:30 Break ## %room Regency A & B [MAP]
 
 + 14:30--16:00 Session 2
 
-= Session 2A: Interpretability ## %room Columbia A %chair1 Sebastian Schuster
+= Session 2A: Interpretability ## %room Columbia A [MAP] %chair1 Sebastian Schuster
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Interpretability"}
-= Session 2B: Semantics ## %room Columbia C %chair1 Jacob Eisenstein
+= Session 2B: Semantics ## %room Columbia C [MAP] %chair1 Jacob Eisenstein
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Semantics"}
-= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D %chair1 Waleed Ammar
+= Session 2C: Language Resources & Evaluation 1 ## %room Columbia D [MAP] %chair1 Waleed Ammar
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Language Resources & Evaluation 1"}
-= Session 2D: Machine Translation 1 ## %room Elwha A %chair1 Jonathan May
+= Session 2D: Machine Translation 1 ## %room Elwha A [MAP] %chair1 Jonathan May
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "Machine Translation 1"}
-= Session 2E: NLP Applications 1 ## %room Elwha B %chair1 Preslav Nakov
+= Session 2E: NLP Applications 1 ## %room Elwha B [MAP] %chair1 Preslav Nakov
 {"Day": "Day 1", "Session start time": "14:30", "Session Name": "NLP Applications 1"}
-= Session 2F: In-person Poster Session 2 ## %room Regency A & B
+= Session 2F: In-person Poster Session 2 ## %room Regency A & B [MAP]
 {"Session Name": "Poster session 2", "_group_by": "Track"}
 
-! 16:00--16:30 Break ## %room Regency A & B
+! 15:00--16:00 Birds-of-a-Feather: Multilinguality <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz [MAP]
+! 15:30--16:30 Birds-of-a-Feather: Machine Learning for NLP <span style="font-size:80%">(*concurrent with Session 2)</span> ## %room 502 Cowlitz [MAP]
 
-= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 16:00--16:30 Break ## %room Regency A & B [MAP]
+
+= 16:30--17:30 Plenary Best Paper Session + Land Acknowledgment ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
 {"Day": "Day 1", "Session Name": "Best paper"}
 
 ! 18:00--20:00 Queer in AI in-person social ## %room <a href='https://docs.google.com/forms/d/e/1FAIpQLSfZlKVb9VbCS2Gppn1wEZWvfY0Si4e2BFJMPB7z8VmRFJse9w/viewform'>The Pine Box (registration required to attend the social)</a>
 
 * Tuesday, July 12, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer [MAP]
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer [MAP]
 
 + 8:00--9:00 Session 3
 
-= Session 3A: Language Generation ## %room Columbia A %chair1 Nanyun Peng
+= Session 3A: Language Generation ## %room Columbia A [MAP] %chair1 Nanyun Peng
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Generation"}
-= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C %chair1 Eduardo Blanco
+= Session 3B: Semantics & Sentiment Analysis ## %room Columbia C [MAP] %chair1 Eduardo Blanco
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Semantics & Sentiment Analysis"}
-= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D %chair1 Yogarshi Vyas
+= Session 3C: Language Resources & Evaluation 2 ## %room Columbia D [MAP] %chair1 Yogarshi Vyas
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Language Resources & Evaluation 2"}
-= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A %chair1 Emma Strubell
+= Session 3D: Efficient Methods in NLP 2 ## %room Elwha A [MAP] %chair1 Emma Strubell
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "Efficient Methods in NLP 2"}
-= Session 3E: NLP Applications 2 ## %room Elwha B %chair1 Danqi Chen
+= Session 3E: NLP Applications 2 ## %room Elwha B [MAP] %chair1 Danqi Chen
 {"Day": "Day 2", "Session start time": "8:00", "Session Name": "NLP Applications 2"}
-= Session 3F: Industry Oral Session 1 ## %room Quinault %chair1 Kasturi Bhattacharjee
+= Session 3F: Industry Oral Session 1 ## %room Quinault [MAP] %chair1 Kasturi Bhattacharjee
 {"Session Name": "Industry Oral 1"}
-= Session 3G: Virtual Poster Q&A Session 1 ## %room 702 - Clearwater
+= Session 3G: Virtual Poster Q&A Session 1 ## %room 702 - Clearwater [MAP]
 {"Session Name": "Virtual Poster Q&A Session 1", "_group_by": "Track"}
 
-! 9:00--9:15 Break ## %room Regency A & B
+! 9:00--9:15 Break ## %room Regency A & B [MAP]
 
-! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 9:15--10:15 Plenary Panel: <a href="/program/keynotes-panels/#panel-linguistics-symbolic-structures">The Place of Linguistics and Symbolic Structures</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
 
-! 10:15--10:45 Break ## %room Regency A & B
+! 10:15--10:45 Break ## %room Regency A & B [MAP]
 
-! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
+! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">How to make your first conference experience nice</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room 507 Sauk [MAP] / <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 4
 
-= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A %chair1 Siva Reddy
+= Session 4A: Interpretability and Analysis of Models for NLP 1 ## %room Columbia A [MAP] %chair1 Siva Reddy
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Interpretability and Analysis of Models for NLP 1"}
-= Session 4B: Summarization ## %room Columbia C %chair1 Greg Durrett
+= Session 4B: Summarization ## %room Columbia C [MAP] %chair1 Greg Durrett
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Summarization"}
-= Session 4C: Information Retrieval ## %room Columbia D %chair1 Pedro Rodriguez
+= Session 4C: Information Retrieval ## %room Columbia D [MAP] %chair1 Pedro Rodriguez
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Information Retrieval"}
-= Session 4D: Language Grounding to Vision 1 ## %room Elwha A %chair1 Parisa Kordjamshidi
+= Session 4D: Language Grounding to Vision 1 ## %room Elwha A [MAP] %chair1 Parisa Kordjamshidi
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Language Grounding to Vision 1"}
-= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B %chair1 Joao Sedoc
+= Session 4E: Dialogue and Interactive Systems 1 ## %room Elwha B [MAP] %chair1 Joao Sedoc
 {"Day": "Day 2", "Session start time": "10:45", "Session Name": "Dialogue and Interactive Systems 1"}
-= Session 4F: In-person Poster Session 3 ## %room Regency A & B
+= Session 4F: In-person Poster Session 3 ## %room Regency A & B [MAP]
 {"Session Name": "Poster session 3", "_group_by": "Track"}
 
-! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault
+! 10:45--12:15 <a href="/program/keynotes-panels/#panel-starting-researchers">SRW Panel Discussion for Starting Researchers</a> <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room Quinault [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Ethics <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 502 Cowlitz [MAP]
+! 11:00--12:00 Birds-of-a-Feather: Generation <span style="font-size:80%">(*concurrent with Session 4)</span> ## %room 506 Samish [MAP]
 
 ! 12:15--14:15 Lunch
 
-! 13:00--14:15 Business Meeting ## %room Columbia A
+! 13:00--14:15 Business Meeting ## %room Columbia A [MAP]
+
+! 14:00--15:00 Birds-of-a-Feather: Multimodality (vision, audio, gestures) <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 506 Samish [MAP]
+! 14:00--15:00 Birds-of-a-Feather: Semantics/NLU <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 501 Chiwawa [MAP]
 
 + 14:15--15:45 Session 5
 
-= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A %chair1 Kai-Wei Chang
+= Session 5A: Ethics, Bias, Fairness 1 ## %room Columbia A [MAP] %chair1 Kai-Wei Chang
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 1"}
-= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C %chair1 Narges Tabari
+= Session 5B: Sentiment Analysis & Stylistic Analysis ## %room Columbia C [MAP] %chair1 Narges Tabari
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Sentiment Analysis & Stylistic Analysis"}
-= Session 5C: Information Extraction 1 ## %room Columbia D %chair1 Luca Soldaini
+= Session 5C: Information Extraction 1 ## %room Columbia D [MAP] %chair1 Luca Soldaini
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Information Extraction 1"}
-= Session 5D: Human-Centered NLP 1 ## %room Elwha A %chair1 Marti Hearst
+= Session 5D: Human-Centered NLP 1 ## %room Elwha A [MAP] %chair1 Marti Hearst
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "Human-Centered NLP 1"}
-= Session 5E: NLP Applications 3 ## %room Elwha B %chair1 Jill Burstein
+= Session 5E: NLP Applications 3 ## %room Elwha B [MAP] %chair1 Jill Burstein
 {"Day": "Day 2", "Session start time": "14:15", "Session Name": "NLP Applications 3"}
-= Session 5F: Industry Oral Session 2 ## %room Quinault %chair1 Sandesh Swamy
+= Session 5F: Industry Oral Session 2 ## %room Quinault [MAP] %chair1 Sandesh Swamy
 {"Session Name": "Industry Oral 2"}
-= Session 5G: SRW In-person Poster Session ## %room Regency A & B
+= Session 5G: SRW In-person Poster Session ## %room Regency A & B [MAP]
 {"Session Name": "SRW Poster Session"}
 
-! 15:45--16:15 Break ## %room Regency A & B
+! 15:00--16:00 Birds-of-a-Feather: Interpretability <span style="font-size:80%">(*concurrent with Session 5)</span> ## %room 502 Cowlitz [MAP]
+
+! 15:45--16:15 Break ## %room Regency A & B [MAP]
 
 + 16:15--17:45 Session 6
 
-= Session 6A: Language Grounding to Vision 2 ## %room Columbia A %chair1 Jesse Thomason
+= Session 6A: Language Grounding to Vision 2 ## %room Columbia A [MAP] %chair1 Jesse Thomason
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Language Grounding to Vision 2"}
-= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C %chair1 Miguel Ballesteros
+= Session 6B: Syntax: Tagging, Chunking and Parsing ## %room Columbia C [MAP] %chair1 Miguel Ballesteros
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Syntax: Tagging, Chunking and Parsing"}
-= Session 6C: Multilinguality ## %room Columbia D %chair1 Antonis Anastasopoulos
+= Session 6C: Multilinguality ## %room Columbia D [MAP] %chair1 Antonis Anastasopoulos
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Multilinguality"}
-= Session 6D: Machine Learning for NLP 1 ## %room Elwha A %chair1 Wei Xu
+= Session 6D: Machine Learning for NLP 1 ## %room Elwha A [MAP] %chair1 Wei Xu
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Machine Learning for NLP 1"}
-= Session 6E: Question Answering 1 ## %room Elwha B %chair1 Ashish Sabharwal
+= Session 6E: Question Answering 1 ## %room Elwha B [MAP] %chair1 Ashish Sabharwal
 {"Day": "Day 2", "Session start time": "16:15", "Session Name": "Question Answering 1"}
-= Session 6F: SRW Thesis Proposals Session ## %room Quinault %chair1 Daphne Ippolito
+= Session 6F: SRW Thesis Proposals Session ## %room Quinault [MAP] %chair1 Daphne Ippolito
 {"Day": "Day 2", "Session Name": "SRW Thesis Proposals"}
-= Session 6G: Industry/Demo Poster Session ## %room Regency A & B
+= Session 6G: Industry/Demo Poster Session ## %room Regency A & B [MAP]
 @ Industry Track Posters
 {"Session Name": "Industry Poster"}
 @ Demo Track Posters
 {"Session Name": "Demo Poster"}
-= 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater
+= 16:15--17:15 Session 6H: Virtual Poster Q&A Session 2 ## %room 702 - Clearwater [MAP]
 {"Session Name": "Virtual Poster Q&A Session 2", "_group_by": "Track"}
 
 ! 19:00--22:00 <a href="/program/#social-event">Social Event</a> ## %room Museum of Pop Culture (MoPOP)
 
 * Wednesday, July 13, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer [MAP]
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer [MAP]
 
 + 8:00--9:00 Session 7
 
-= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A %chair1 Gabriel Stanovsky
+= Session 7A: Interpretability and Analysis of Models for NLP 2 ## %room Columbia A [MAP] %chair1 Gabriel Stanovsky
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Interpretability and Analysis of Models for NLP 2"}
-= Session 7B: Summarization ## %room Columbia C %chair1 Jessica Ouyang
+= Session 7B: Summarization ## %room Columbia C [MAP] %chair1 Jessica Ouyang
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Summarization"}
-= Session 7C: Information Extraction 2 ## %room Columbia D %chair1 Qiang Ning
+= Session 7C: Information Extraction 2 ## %room Columbia D [MAP] %chair1 Qiang Ning
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Information Extraction 2"}
-= Session 7D: Machine Translation 2 ## %room Elwha A %chair1 Kenneth Heafield
+= Session 7D: Machine Translation 2 ## %room Elwha A [MAP] %chair1 Kenneth Heafield
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Translation 2"}
-= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B %chair1 Zhou Yu
+= Session 7E: Dialogue and Interactive Systems 2 ## %room Elwha B [MAP] %chair1 Zhou Yu
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Dialogue and Interactive Systems 2"}
-= Session 7F: Machine Learning for NLP 2 ## %room Quinault %chair1 Marjan Ghazvininejad
+= Session 7F: Machine Learning for NLP 2 ## %room Quinault [MAP] %chair1 Marjan Ghazvininejad
 {"Day": "Day 3", "Session start time": "8:00", "Session Name": "Machine Learning for NLP 2"}
-= Session 7G: Virtual Poster Q&A Session 3 ## %room 702 - Clearwater
+= Session 7G: Virtual Poster Q&A Session 3 ## %room 702 - Clearwater [MAP]
 {"Session Name": "Virtual Poster Q&A Session 3", "_group_by": "Track"}
 
-! 9:00--9:15 Break ## %room Regency A & B
+! 9:00--9:15 Break ## %room Regency A & B [MAP]
 
 + 9:15--10:15 Session 8
 
-= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A %chair1 Yonatan Belinkov
+= Session 8A: Interpretability and Analysis of Models for NLP 3 ## %room Columbia A [MAP] %chair1 Yonatan Belinkov
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Interpretability and Analysis of Models for NLP 3"}
-= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C %chair1 Lu Wang
+= Session 8B: Computational Social Science and Cultural Analytics ## %room Columbia C [MAP] %chair1 Lu Wang
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Computational Social Science and Cultural Analytics"}
-= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D %chair1 Cissi Alm
+= Session 8C: Machine Learning & Human-Centered NLP 2 ## %room Columbia D [MAP] %chair1 Cissi Alm
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning & Human-Centered NLP 2"}
-= Session 8D: Machine Translation 3 ## %room Elwha A %chair1 Graham Neubig
+= Session 8D: Machine Translation 3 ## %room Elwha A [MAP] %chair1 Graham Neubig
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Translation 3"}
-= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B %chair1 Jinho Choi
+= Session 8E: Dialogue and Interactive Systems 3 ## %room Elwha B [MAP] %chair1 Jinho Choi
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Dialogue and Interactive Systems 3"}
-= Session 8F: Machine Learning for NLP 3 ## %room Quinault %chair1 Sopan Khosla
+= Session 8F: Machine Learning for NLP 3 ## %room Quinault [MAP] %chair1 Sopan Khosla
 {"Day": "Day 3", "Session start time": "9:15", "Session Name": "Machine Learning for NLP 3"}
-= Session 8G: Virtual Poster Q&A Session 4 ## %room 702 - Clearwater
+= Session 8G: Virtual Poster Q&A Session 4 ## %room 702 - Clearwater [MAP]
 {"Session Name": "Virtual Poster Q&A Session 4", "_group_by": "Track"}
 
-! 10:15--10:45 Break ## %room Regency A & B
+! 10:15--10:45 Break ## %room Regency A & B [MAP]
 
 ! 10:15--10:45 Structured Social: <a href="/blog/welcome-to-structured-socials/">Balancing professional and family commitments</a> <span style="font-size:80%">(*concurrent with Br<span>e</span>ak)</span> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
 + 10:45--12:15 Session 9
 
-= Session 9A: Language Generation ## %room Columbia A %chair1 Vinay Bannihatti Kumar
+= Session 9A: Language Generation ## %room Columbia A [MAP] %chair1 Vinay Bannihatti Kumar
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Generation"}
-= Session 9B: Speech & Phonology, Morphology ## %room Columbia C %chair1 Brian Roark
+= Session 9B: Speech & Phonology, Morphology ## %room Columbia C [MAP] %chair1 Brian Roark
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Speech & Phonology, Morphology"}
-= Session 9C: Information Extraction 3 ## %room Columbia D %chair1 Ben Van Durme
+= Session 9C: Information Extraction 3 ## %room Columbia D [MAP] %chair1 Ben Van Durme
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Information Extraction 3"}
-= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A %chair1 Swabha Swayamdipta
+= Session 9D: Language Resources & Evaluation 3 ## %room Elwha A [MAP] %chair1 Swabha Swayamdipta
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "Language Resources & Evaluation 3"}
-= Session 9E: NLP Applications 4 ## %room Elwha B %chair1 Mohit Iyyer
+= Session 9E: NLP Applications 4 ## %room Elwha B [MAP] %chair1 Mohit Iyyer
 {"Day": "Day 3", "Session start time": "10:45", "Session Name": "NLP Applications 4"}
-= Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B
+= Session 9F: Findings In-person Poster Session 1 ## %room Regency A & B [MAP]
 {"Session Name": "Findings poster session 1", "_group_by": "Track"}
+
+! 11:00--12:00 Birds-of-a-Feather: Human centered NLP <span style="font-size:80%">(*concurrent with Session 9)</span> ## %room 502 Cowlitz [MAP]
 
 ! 12:15--14:15 Lunch
 
+! 14:00--15:00 Birds-of-a-Feather: Dialog/Discourse <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 502 Cowlitz [MAP]
+! 14:00--15:00 Birds-of-a-Feather: Information Extraction <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish [MAP]
+
 + 14:15--15:45 Session 10
 
-= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A %chair1 Diyi Yang
+= Session 10A: Ethics, Bias, Fairness 2 ## %room Columbia A [MAP] %chair1 Diyi Yang
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Ethics, Bias, Fairness 2"}
-= Session 10B: Semantics ## %room Columbia C %chair1 Nathan Schneider
+= Session 10B: Semantics ## %room Columbia C [MAP] %chair1 Nathan Schneider
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Semantics"}
-= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D %chair1 Jacob Andreas
+= Session 10C: Linguistic Theories, Cognitive Modeling, Discourse ## %room Columbia D [MAP] %chair1 Jacob Andreas
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Linguistic Theories, Cognitive Modeling, Discourse"}
-= Session 10D: Machine Learning 4 ## %room Elwha A %chair1 Kenton Lee
+= Session 10D: Machine Learning 4 ## %room Elwha A [MAP] %chair1 Kenton Lee
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Machine Learning 4"}
-= Session 10E: Question Answering 2 ## %room Elwha B %chair1 Avi Sil
+= Session 10E: Question Answering 2 ## %room Elwha B [MAP] %chair1 Avi Sil
 {"Day": "Day 3", "Session start time": "14:15", "Session Name": "Question Answering 2"}
-= Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B
+= Session 10F: Findings In-person Poster Session 2 ## %room Regency A & B [MAP]
 {"Session Name": "Findings poster session 2", "_group_by": "Track"}
 
-! 15:45--16:15 Break ## %room Regency A & B
+! 15:00--16:00 Birds-of-a-Feather: ACL 60-60 Initiative <span style="font-size:80%">(*concurrent with Session 10)</span> ## %room 506 Samish [MAP]
 
-! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 15:45--16:15 Break ## %room Regency A & B [MAP]
 
-! 17:15--17:45 Closing Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler)
+! 16:15--17:15 Plenary Invited Talk 2: <a href="/program/keynotes-panels/#manuel-montes-y-gomez">Manuel Montes-y-Gómez: "NLP in Mexican Spanish: One of many stories"</a> ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
+
+! 17:15--17:45 Closing Session ## %room Columbia C & D (Overflow: Columbia A & 302 Beckler) [MAP]
 
 * Thursday, July 14, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer [MAP]
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer [MAP]
 
 ! 9:00--10:00 Structured Social: <a href="/blog/welcome-to-structured-socials/">Navigating grad school</a> ## %room <a href="https://forms.office.com/r/JYn1KmWLpa">Virtual registration link</a>
 
@@ -266,8 +286,8 @@
 
 * Friday, July 15, 2022
 
-! 7:30--18:00 Registration ## %room Level 3 Foyer
+! 7:30--18:00 Registration ## %room Level 3 Foyer [MAP]
 
-! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer
+! 7:30--9:00 Breakfast ## %room Level 3 & 5 Foyer [MAP]
 
 ! 9:00--17:30 <a href="/program/workshops/">Workshops</a>

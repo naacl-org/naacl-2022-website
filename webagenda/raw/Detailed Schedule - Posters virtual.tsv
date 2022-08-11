@@ -263,6 +263,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	15	675	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings		15		
 3	Virtual Poster Q&A Session 4	15	1007	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings		15		
 3	Virtual Poster Q&A Session 4	15	1014	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings		15		
+3	Virtual Poster Q&A Session 4	15	213	Language Grounding to Vision, Robotics and Beyond	9:15	Wed 9:15	findings		15		
 3	Virtual Poster Q&A Session 4	16	611	Language Resources and Evaluation	9:15	Wed 9:15	findings		15	Jesse Vig j	vig@salesforce.com
 3	Virtual Poster Q&A Session 4	16	263	Multilinguality	9:15	Wed 9:15	main		15		
 3	Virtual Poster Q&A Session 4	16	350	Multilinguality	9:15	Wed 9:15	main		15		
@@ -270,6 +271,7 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 3	Virtual Poster Q&A Session 4	16	82	Multilinguality	9:15	Wed 9:15	findings		15		
 3	Virtual Poster Q&A Session 4	16	677	Multilinguality	9:15	Wed 9:15	findings		15		
 3	Virtual Poster Q&A Session 4	16	738	Multilinguality	9:15	Wed 9:15	findings		15		
+3	Virtual Poster Q&A Session 4	16	63	Multilinguality	9:15	Wed 9:15	findings				
 3	Virtual Poster Q&A Session 4	16	90-srw	Summarization	9:15	Wed 9:15	srw		13		
 3	Virtual Poster Q&A Session 4	16	422	Summarization	9:15	Wed 9:15	main		13		
 3	Virtual Poster Q&A Session 4	16	223	Summarization	9:15	Wed 9:15	findings		13		
@@ -310,6 +312,6 @@ Day	Session Name	Poster group number	Paper ID	Track	Session start time	Day and t
 											
 											
 											
-				findings	105						
+				findings	107						
 				main	181						
 				srw	21						

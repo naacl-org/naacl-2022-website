@@ -30,7 +30,7 @@ toc_sticky: true
    name="Marie-Catherine de Marneffe"
    picture="/assets/images/committee/marie_demarneffe.jpg"
    site="https://www.asc.ohio-state.edu/demarneffe.1/"
-   institution="Ohio State University"
+   institution="Ohio State University / UCLouvain (FNRS)"
 %}
 {% include bio-box
    name="Ivan Vladimir Meza Ruiz"

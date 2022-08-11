@@ -22,6 +22,12 @@ To foster discussion, virtual poster Q&A sessions will be organized into groups 
 
 All times are Pacific Daylight Time (<strong>GMT-7</strong>).
 **Icons:** <i class="fa fa-user"></i> = Session Chair; <i class="far fa-file-pdf"></i> = Link to PDF on ACL Anthology; <i class="fa fa-award"></i> = Paper Award.
+
+**Jump to:**
+[Monday, July 11](#day-3){: .btn .btn--info}
+[Tuesday, July 12](#day-4){: .btn .btn--info}
+[Wednesday, July 13](#day-5){: .btn .btn--info}
+{: .text-center}
 </div>
 
 <div id="popupInstructionsDiv" markdown="1">
